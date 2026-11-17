@@ -57,7 +57,7 @@ Anatomia Aperta 3D builds upon two major open anatomical projects.
 
 ### BodyParts3D / Anatomography
 
-Created by the Database Center for Life Science (DBCLS), Japan.
+Created by the Database Center for Life Science (DBCLS), Japan. (Kousaku OKUBO (Original model ‘BodyParts3D’)
 
 Official website:
 https://lifesciencedb.jp/bp3d/
@@ -75,7 +75,7 @@ The applicable license depends on the source version used.
 
 ### Z-Anatomy
 
-Z-Anatomy — The Libre 3D Atlas of Anatomy.
+Z-Anatomy — The Libre 3D Atlas of Anatomy (created by Gauthier KERVYN (Design, 3D, anatomy)
 
 Official website:
 https://www.z-anatomy.com/
