@@ -1,6 +1,5 @@
 import React, { useState, useEffect, useCallback, useRef, useMemo } from 'react';
 import { brachialCameraTargets } from './data/brachialCameraFocus';
-import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
 import { Toaster } from '@/components/ui/toaster';
 import { TooltipProvider } from '@/components/ui/tooltip';
 import NotFound from '@/pages/not-found';
@@ -96,8 +95,6 @@ import { autonomicContextIds, autonomicForegroundIds } from './data/autonomicTax
 import { isPlexusHeartNode, PLEXUS_HEART_CONTEXT_NAME } from './data/autonomicPlexusContext';
 import { cochlearBasalGangliaName } from './data/cochlearTaxonomy';
 import { isOpticOccipitalContext, OPTIC_OCCIPITAL_CONTEXT_NAME } from './data/opticVisualContext';
-
-const queryClient = new QueryClient();
 
 const regionPathForNode = (node: SceneNode): readonly string[] | null => {
   if (node.systemId === 'nervous') return classifyNervousObject(node.rawName);
@@ -1234,14 +1231,12 @@ function Router() {
 
 function App() {
   return (
-    <QueryClientProvider client={queryClient}>
-      <TooltipProvider>
-        <WouterRouter base={import.meta.env.BASE_URL?.replace(/\/$/, '') || ''}>
-          <Router />
-        </WouterRouter>
-        <Toaster />
-      </TooltipProvider>
-    </QueryClientProvider>
+    <TooltipProvider>
+      <WouterRouter base={import.meta.env.BASE_URL?.replace(/\/$/, '') || ''}>
+        <Router />
+      </WouterRouter>
+      <Toaster />
+    </TooltipProvider>
   );
 }
 
