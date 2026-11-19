@@ -1,0 +1,166 @@
+row_type,collection_name,parent_collection,depth,object_name,object_type,collection_hide_viewport,collection_exclude_view_layer,object_hide_viewport,object_hidden_get,object_hide_render
+COLLECTION,Collection,Scene Collection,0,,,False,False,,,
+OBJECT,Collection,Scene Collection,0,Pretracheal nodes.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Intercostal nodes.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Infraclavicular nodes.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Spleen,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Median sacral nodes,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Precaecal nodes,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Inferior epigastric nodes.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Parasternal nodes.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Juxta-oesophageal nodes,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Interpectoral nodes.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Infra-auricular nodes.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Submental nodes.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Superior tracheobronchial nodes,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Left lobe of thymus,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,(Lateral lacunar node).l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Retro-aortic nodes,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Inferior superficial inguinal nodes.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Obturator nodes.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Superficial anterior cervical nodes,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Intraglandular parotid nodes.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Mandibular node.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,(Suprapyloric node),MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Central superior mesenteric nodes,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,(Intermediate lacunar node).r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Pre-aortic nodes,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,(Anterior tibial node).r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Palatine tonsil.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Lateral common iliac nodes,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Pre-auricular nodes.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Bucinator node.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Inferior deep lateral cervical nodes.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Supratrochlear nodes.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Lateral vesical nodes.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Submandibular nodes.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Retropharyngeal nodes.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,(Intermediate lacunar node).l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Nasolabial node.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Sigmoid nodes,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Superficial parotid nodes.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Lateral superior jugular node.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Retrocaval nodes,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,(Anterior tibial node).l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Superomedial superficial inguinal nodes.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Deep popliteal nodes.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,(Intermediate deep inguinal node).l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Brachial nodes.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Supraclavicular nodes.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Postvesical nodes,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Occipital nodes.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Right colic nodes,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Lateral axillary nodes.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Jugulodigastric node.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,(Proximal deep inguinal node).l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Node of ligamentum arteriosum,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Lateral sacral nodes.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,(Fibular node).r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Anterior inferior jugular nodes.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Juxta-intestinal mesenteric nodes,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Central axillary nodes.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Superficial lateral cervical nodes.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Pararectal nodes,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Anterior axillary nodes.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Retrocaecal nodes,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Thyroid nodes.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Superolateral superficial inguinal nodes.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Brachiocephalic nodes,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Retropharyngeal nodes.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,(Subpyloric nodes),MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Superomedial superficial inguinal nodes.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Superior gluteal nodes.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Pretracheal nodes.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Subaortic nodes,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Superficial popliteal nodes.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Intercostal nodes.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Cubital nodes.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Posterior axillary nodes.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Prevertebral nodes,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Inferior pancreatic nodes,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Inferior gluteal nodes.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Submandibular nodes.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Intrapulmonary nodes,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Infraclavicular nodes.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Superior diaphragmatic nodes,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Apical axillary nodes.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Mastoid nodes.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Superior gluteal nodes.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Right lobe of thymus,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Intermediate common iliac nodes,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Inferior epigastric nodes.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Lateral pericardial nodes,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Interpectoral nodes.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Infra-auricular nodes.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Submental nodes.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,(Posterior tibial node).r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,(Lateral lacunar node).r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Lateral aortic nodes,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Inferior superficial inguinal nodes.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Inferior tracheobronchial nodes,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Node of arch of azygos vein,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Palatine tonsil.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,(Posterior tibial node).l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Intraglandular parotid nodes.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Mandibular node.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Medial external iliac nodes.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Posterior axillary nodes.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,(Medial lacunar node).r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Intermediate lumbar nodes,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Intermediate external iliac nodes.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Parasternal nodes.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Lateral vesical nodes.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Cystic node,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Mastoid nodes.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Pre-auricular nodes.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Bucinator node.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Inferior deep lateral cervical nodes.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,(Intermediate deep inguinal node).r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Coeliac nodes,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Supratrochlear nodes.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Deep popliteal nodes.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Appendicular nodes,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Splenic nodes,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Paratracheal cervical nodes,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,(Medial lacunar node).l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Nasolabial node.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Left colic nodes,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Superficial parotid nodes.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Lateral superior jugular node.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,(Retropyloric nodes),MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Lateral caval nodes,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Occipital nodes.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Superficial popliteal nodes.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Superior pancreatic nodes,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Supraclavicular nodes.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Medial common iliac nodes,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Apical axillary nodes.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Middle colic nodes,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Inferior gluteal nodes.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Lateral axillary nodes.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Jugulodigastric node.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Lateral sacral nodes.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Anterior inferior jugular nodes.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Prepericardial nodes,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Ileocolic nodes,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Lymph node,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Central axillary nodes.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Superior pancreaticoduodenal nodes,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Superficial lateral cervical nodes.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Inferior diaphragmatic nodes,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Paratracheal thoracic nodes,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Medial external iliac nodes.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,(Proximal deep inguinal node).r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Right gastro-omental nodes,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Precaval nodes,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Brachial nodes.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Thyroid nodes.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Anterior axillary nodes.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Paracolic superior mesenteric nodes,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Prevesical nodes,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Obturator nodes.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Cubital nodes.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Superolateral superficial inguinal nodes.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Intermediate external iliac nodes.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,(Fibular node).l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Right gastric nodes,MESH,False,False,False,False,False

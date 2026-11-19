@@ -1,0 +1,15 @@
+.brand-logo{ display:inline-flex; align-items:center; gap:14px; max-width:100%; }
+.brand-logo img{ display:block; width:120px; height:90px; flex-shrink:0; object-fit:contain; border-radius:0; }
+.brand-logo-text{ display:flex; flex-direction:column; color:#ece9e3; font:400 29px/1.05 'Cormorant Garamond',Georgia,serif; letter-spacing:.015em; }
+.brand-logo-text>span:last-child{ color:#27bedb; }
+.brand-logo-text b{ font-weight:400; font-size:.72em; }
+@media(max-width:420px){
+  .brand-logo{ gap:10px; }
+  .brand-logo img{ width:100px; height:75px; }
+  .brand-logo-text{ font-size:25px; }
+}
+@media(max-width:767px){
+  .brand-logo--compact{ gap:8px; }
+  .brand-logo--compact img{ width:70px; height:55px; }
+  .brand-logo--compact .brand-logo-text{ font-size:20px; }
+}

@@ -1,0 +1,697 @@
+row_type,collection_name,parent_collection,depth,object_name,object_type,collection_hide_viewport,collection_exclude_view_layer,object_hide_viewport,object_hidden_get,object_hide_render
+COLLECTION,Collection,Scene Collection,0,,,False,False,,,
+COLLECTION,MUSCULAR SYSTEM,Scene Collection,0,,,False,False,,,
+COLLECTION,01 Muscles,MUSCULAR SYSTEM,1,,,False,False,,,
+COLLECTION,Neck,01 Muscles,2,,,False,False,,,
+OBJECT,Neck,01 Muscles,2,Thyrohyoid muscle.r,MESH,False,False,False,False,False
+OBJECT,Neck,01 Muscles,2,Thyrohyoid muscle.l,MESH,False,False,False,False,False
+OBJECT,Neck,01 Muscles,2,Stylohyoid muscle.r,MESH,False,False,False,False,False
+OBJECT,Neck,01 Muscles,2,Stylohyoid muscle.l,MESH,False,False,False,False,False
+OBJECT,Neck,01 Muscles,2,Sternothyroid muscle.r,MESH,False,False,False,False,False
+OBJECT,Neck,01 Muscles,2,Sternothyroid muscle.l,MESH,False,False,False,False,False
+OBJECT,Neck,01 Muscles,2,Sternohyoid muscle.r,MESH,False,False,False,False,False
+OBJECT,Neck,01 Muscles,2,Sternohyoid muscle.l,MESH,False,False,False,False,False
+OBJECT,Neck,01 Muscles,2,Sternocleidomastoid muscle.r,MESH,False,False,False,False,False
+OBJECT,Neck,01 Muscles,2,Sternocleidomastoid muscle.l,MESH,False,False,False,False,False
+OBJECT,Neck,01 Muscles,2,Scalenus posterior muscle.r,MESH,False,False,False,False,False
+OBJECT,Neck,01 Muscles,2,Scalenus posterior muscle.l,MESH,False,False,False,False,False
+OBJECT,Neck,01 Muscles,2,Scalenus medius muscle.r,MESH,False,False,False,False,False
+OBJECT,Neck,01 Muscles,2,Scalenus medius muscle.l,MESH,False,False,False,False,False
+OBJECT,Neck,01 Muscles,2,Scalenus anterior muscle.r,MESH,False,False,False,False,False
+OBJECT,Neck,01 Muscles,2,Scalenus anterior muscle.l,MESH,False,False,False,False,False
+OBJECT,Neck,01 Muscles,2,Posterior belly of digastric muscle.r,MESH,False,False,False,False,False
+OBJECT,Neck,01 Muscles,2,Posterior belly of digastric muscle.l,MESH,False,False,False,False,False
+OBJECT,Neck,01 Muscles,2,Platysma.r,MESH,False,False,False,False,False
+OBJECT,Neck,01 Muscles,2,Platysma.l,MESH,False,False,False,False,False
+OBJECT,Neck,01 Muscles,2,Omohyoid muscle.r,MESH,False,False,False,False,False
+OBJECT,Neck,01 Muscles,2,Omohyoid muscle.l,MESH,False,False,False,False,False
+OBJECT,Neck,01 Muscles,2,Mylohyoid muscle.r,MESH,False,False,False,False,False
+OBJECT,Neck,01 Muscles,2,Mylohyoid muscle.l,MESH,False,False,False,False,False
+OBJECT,Neck,01 Muscles,2,Longus colli muscle.r,MESH,False,False,False,False,False
+OBJECT,Neck,01 Muscles,2,Longus colli muscle.l,MESH,False,False,False,False,False
+OBJECT,Neck,01 Muscles,2,Longus capitis muscle.r,MESH,False,False,False,False,False
+OBJECT,Neck,01 Muscles,2,Longus capitis muscle.l,MESH,False,False,False,False,False
+OBJECT,Neck,01 Muscles,2,Geniohyoid muscle.r,MESH,False,False,False,False,False
+OBJECT,Neck,01 Muscles,2,Geniohyoid muscle.l,MESH,False,False,False,False,False
+OBJECT,Neck,01 Muscles,2,Anterior belly of digastric muscle.r,MESH,False,False,False,False,False
+OBJECT,Neck,01 Muscles,2,Anterior belly of digastric muscle.l,MESH,False,False,False,False,False
+OBJECT,Neck,01 Muscles,2,Intermediate tendon of digastric muscle.l,MESH,False,False,False,False,False
+OBJECT,Neck,01 Muscles,2,Intermediate tendon of digastric muscle.r,MESH,False,False,False,False,False
+OBJECT,Neck,01 Muscles,2,Ary-epiglottic part of oblique arytenoid muscle.l,MESH,False,False,False,False,False
+OBJECT,Neck,01 Muscles,2,Ary-epiglottic part of oblique arytenoid muscle.r,MESH,False,False,False,False,False
+OBJECT,Neck,01 Muscles,2,Bucinator.l,MESH,False,False,False,False,False
+OBJECT,Neck,01 Muscles,2,Bucinator.r,MESH,False,False,False,False,False
+OBJECT,Neck,01 Muscles,2,External part of thyro-arytenoid muscle.l,MESH,False,False,False,False,False
+OBJECT,Neck,01 Muscles,2,External part of thyro-arytenoid muscle.r,MESH,False,False,False,False,False
+OBJECT,Neck,01 Muscles,2,Inferior pharyngeal constrictor.l,MESH,False,False,False,False,False
+OBJECT,Neck,01 Muscles,2,Inferior pharyngeal constrictor.r,MESH,False,False,False,False,False
+OBJECT,Neck,01 Muscles,2,Lateral crico-arytenoid muscle.l,MESH,False,False,False,False,False
+OBJECT,Neck,01 Muscles,2,Lateral crico-arytenoid muscle.r,MESH,False,False,False,False,False
+OBJECT,Neck,01 Muscles,2,Middle pharyngeal constrictor.l,MESH,False,False,False,False,False
+OBJECT,Neck,01 Muscles,2,Middle pharyngeal constrictor.r,MESH,False,False,False,False,False
+OBJECT,Neck,01 Muscles,2,Oblique part of cricothyroid muscle.l,MESH,False,False,False,False,False
+OBJECT,Neck,01 Muscles,2,Oblique part of cricothyroid muscle.r,MESH,False,False,False,False,False
+OBJECT,Neck,01 Muscles,2,Palatopharyngeus muscle.l,MESH,False,False,False,False,False
+OBJECT,Neck,01 Muscles,2,Palatopharyngeus muscle.r,MESH,False,False,False,False,False
+OBJECT,Neck,01 Muscles,2,Posterior crico-arytenoid muscle.l,MESH,False,False,False,False,False
+OBJECT,Neck,01 Muscles,2,Posterior crico-arytenoid muscle.r,MESH,False,False,False,False,False
+OBJECT,Neck,01 Muscles,2,Rectus anterior capitis muscle.l,MESH,False,False,False,False,False
+OBJECT,Neck,01 Muscles,2,Rectus anterior capitis muscle.r,MESH,False,False,False,False,False
+OBJECT,Neck,01 Muscles,2,Straight part of cricothyroid muscle.l,MESH,False,False,False,False,False
+OBJECT,Neck,01 Muscles,2,Straight part of cricothyroid muscle.r,MESH,False,False,False,False,False
+OBJECT,Neck,01 Muscles,2,Stylopharyngeus muscle.l,MESH,False,False,False,False,False
+OBJECT,Neck,01 Muscles,2,Stylopharyngeus muscle.r,MESH,False,False,False,False,False
+OBJECT,Neck,01 Muscles,2,Superior pharyngeal constrictor.l,MESH,False,False,False,False,False
+OBJECT,Neck,01 Muscles,2,Superior pharyngeal constrictor.r,MESH,False,False,False,False,False
+OBJECT,Neck,01 Muscles,2,Thyro-epiglottic part of thyro-arytenoid muscle.l,MESH,False,False,False,False,False
+OBJECT,Neck,01 Muscles,2,Thyro-epiglottic part of thyro-arytenoid muscle.r,MESH,False,False,False,False,False
+OBJECT,Neck,01 Muscles,2,Transverse arytenoid muscle,MESH,False,False,False,False,False
+COLLECTION,Upper Limb,01 Muscles,2,,,False,False,,,
+OBJECT,Upper Limb,01 Muscles,2,Palmaris longus muscle.r,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Palmaris longus muscle.l,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Humero-ulnar head of flexor digitorum superficialis.r,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Humero-ulnar head of flexor digitorum superficialis.l,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Flexor digitorum profundus.r,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Flexor digitorum profundus.l,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Ulnar head of flexor carpi ulnaris.r,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Ulnar head of flexor carpi ulnaris.l,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Ulnar head of extensor carpi ulnaris.r,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Ulnar head of extensor carpi ulnaris.l,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Teres minor muscle.r,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Teres minor muscle.l,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Teres major muscle.r,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Teres major muscle.l,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Supraspinatus muscle.r,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Supraspinatus muscle.l,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Supinator.r,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Supinator.l,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Superficial head of pronator teres.r,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Superficial head of pronator teres.l,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Superficial head of flexor pollicis brevis.r,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Superficial head of flexor pollicis brevis.l,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Subscapularis muscle.r,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Subscapularis muscle.l,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Short head of biceps brachii.r,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Short head of biceps brachii.l,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Scapular spinal part of deltoid muscle.r,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Scapular spinal part of deltoid muscle.l,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Radial head of flexor digitorum superficialis.r,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Radial head of flexor digitorum superficialis.l,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Pronator quadratus.r,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Pronator quadratus.l,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Opponens pollicis muscle.r,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Opponens pollicis muscle.l,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Opponens digiti minimi muscle of hand.r,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Opponens digiti minimi muscle of hand.l,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Medial head of triceps brachii.r,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Medial head of triceps brachii.l,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Long head of triceps brachii.r,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Long head of triceps brachii.l,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Long head of biceps brachii.r,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Long head of biceps brachii.l,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Lateral head of triceps brachii.r,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Lateral head of triceps brachii.l,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Infraspinatus muscle.r,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Infraspinatus muscle.l,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Humeral head of flexor carpi ulnaris.r,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Humeral head of flexor carpi ulnaris.l,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Humeral head of extensor carpi ulnaris.r,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Humeral head of extensor carpi ulnaris.l,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Flexor pollicis longus.r,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Flexor pollicis longus.l,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Flexor carpi radialis.r,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Flexor carpi radialis.l,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Extensor pollicis longus.r,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Extensor pollicis longus.l,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Extensor pollicis brevis.r,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Extensor pollicis brevis.l,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Extensor indicis.r,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Extensor indicis.l,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Extensor digitorum.r,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Extensor digitorum.l,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Extensor digiti minimi.r,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Extensor digiti minimi.l,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Extensor carpi radialis longus.r,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Extensor carpi radialis longus.l,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Extensor carpi radialis brevis.r,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Extensor carpi radialis brevis.l,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Deep head of pronator teres.r,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Deep head of pronator teres.l,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Deep head of flexor pollicis brevis.r,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Deep head of flexor pollicis brevis.l,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Coracobrachialis muscle.r,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Coracobrachialis muscle.l,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Clavicular part of deltoid muscle.r,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Clavicular part of deltoid muscle.l,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Brachialis muscle.r,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Brachialis muscle.l,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Anconeus muscle.r,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Anconeus muscle.l,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Acromial part of deltoid muscle.r,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Acromial part of deltoid muscle.l,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Abductor pollicis longus.r,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Abductor pollicis longus.l,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Abductor pollicis brevis.r,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Abductor pollicis brevis.l,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Tendon sheath of extensor carpi ulnaris.l,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Tendon sheath of extensor carpi ulnaris.r,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Tendon sheath of extensor digiti minimi manus.l,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Tendon sheath of extensor digiti minimi manus.r,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Tendon sheath of extensor digitorum and extensor indicis.l,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Tendon sheath of extensor digitorum and extensor indicis.r,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Tendon sheath of extensor pollicis longus.l,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Tendon sheath of extensor pollicis longus.r,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Tendon sheath of flexor carpi radialis.l,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Tendon sheath of flexor carpi radialis.r,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Tendon sheath of flexor pollicis longus.l,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Tendon sheath of flexor pollicis longus.r,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Transverse head of adductor pollicis.r,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Transverse head of adductor pollicis.l,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Oblique head of adductor pollicis.r,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Oblique head of adductor pollicis.l,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Abductor digiti minimi of hand.l,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Abductor digiti minimi of hand.r,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Brachioradialis muscle.l,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Brachioradialis muscle.r,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Dorsal interossei muscles of hand.l,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Dorsal interossei muscles of hand.r,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Flexor digiti minimi of hand.l,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Flexor digiti minimi of hand.r,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Lumbrical muscles of hand.l,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Lumbrical muscles of hand.r,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Palmar interossei muscles.l,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Palmar interossei muscles.r,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Lateral intermuscular septum of arm.l,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Lateral intermuscular septum of arm.r,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Medial intermuscular septum of arm.l,MESH,False,False,False,False,False
+OBJECT,Upper Limb,01 Muscles,2,Medial intermuscular septum of arm.r,MESH,False,False,False,False,False
+COLLECTION,Thorax,01 Muscles,2,,,False,False,,,
+OBJECT,Thorax,01 Muscles,2,Transversus thoracis muscle.r,MESH,False,False,False,False,False
+OBJECT,Thorax,01 Muscles,2,Transversus thoracis muscle.l,MESH,False,False,False,False,False
+OBJECT,Thorax,01 Muscles,2,Sternocostal head of pectoralis major muscle.r,MESH,False,False,False,False,False
+OBJECT,Thorax,01 Muscles,2,Sternocostal head of pectoralis major muscle.l,MESH,False,False,False,False,False
+OBJECT,Thorax,01 Muscles,2,Serratus anterior muscle.r,MESH,False,False,False,False,False
+OBJECT,Thorax,01 Muscles,2,Serratus anterior muscle.l,MESH,False,False,False,False,False
+OBJECT,Thorax,01 Muscles,2,Pectoralis minor muscle.r,MESH,False,False,False,False,False
+OBJECT,Thorax,01 Muscles,2,Pectoralis minor muscle.l,MESH,False,False,False,False,False
+OBJECT,Thorax,01 Muscles,2,Internal intercostal muscles.r,MESH,False,False,False,False,False
+OBJECT,Thorax,01 Muscles,2,Internal intercostal muscles.l,MESH,False,False,False,False,False
+OBJECT,Thorax,01 Muscles,2,Innermost intercostal muscles.r,MESH,False,False,False,False,False
+OBJECT,Thorax,01 Muscles,2,Innermost intercostal muscles.l,MESH,False,False,False,False,False
+OBJECT,Thorax,01 Muscles,2,External intercostal muscles.r,MESH,False,False,False,False,False
+OBJECT,Thorax,01 Muscles,2,External intercostal muscles.l,MESH,False,False,False,False,False
+OBJECT,Thorax,01 Muscles,2,Diaphragm,MESH,False,False,False,False,False
+OBJECT,Thorax,01 Muscles,2,Clavicular head of pectoralis major muscle.r,MESH,False,False,False,False,False
+OBJECT,Thorax,01 Muscles,2,Clavicular head of pectoralis major muscle.l,MESH,False,False,False,False,False
+OBJECT,Thorax,01 Muscles,2,(Abdominal part of pectoralis major muscle).r,MESH,False,False,False,False,False
+OBJECT,Thorax,01 Muscles,2,(Abdominal part of pectoralis major muscle).l,MESH,False,False,False,False,False
+OBJECT,Thorax,01 Muscles,2,Subclavius muscle.l,MESH,False,False,False,False,False
+OBJECT,Thorax,01 Muscles,2,Subclavius muscle.r,MESH,False,False,False,False,False
+COLLECTION,Abdomen,01 Muscles,2,,,False,False,,,
+OBJECT,Abdomen,01 Muscles,2,Transversus abdominis muscle.r,MESH,False,False,False,False,False
+OBJECT,Abdomen,01 Muscles,2,Transversus abdominis muscle.l,MESH,False,False,False,False,False
+OBJECT,Abdomen,01 Muscles,2,Rectus abdominis muscle.r,MESH,False,False,False,False,False
+OBJECT,Abdomen,01 Muscles,2,Rectus abdominis muscle.l,MESH,False,False,False,False,False
+OBJECT,Abdomen,01 Muscles,2,Quadratus lumborum muscle.r,MESH,False,False,False,False,False
+OBJECT,Abdomen,01 Muscles,2,Quadratus lumborum muscle.l,MESH,False,False,False,False,False
+OBJECT,Abdomen,01 Muscles,2,Pyramidalis muscle.r,MESH,False,False,False,False,False
+OBJECT,Abdomen,01 Muscles,2,Pyramidalis muscle.l,MESH,False,False,False,False,False
+OBJECT,Abdomen,01 Muscles,2,External abdominal oblique muscle.l,MESH,False,False,False,False,False
+OBJECT,Abdomen,01 Muscles,2,Internal abdominal oblique muscle.l,MESH,False,False,False,False,False
+OBJECT,Abdomen,01 Muscles,2,External abdominal oblique muscle.r,MESH,False,False,False,False,False
+OBJECT,Abdomen,01 Muscles,2,Linea alba,MESH,False,False,False,False,False
+OBJECT,Abdomen,01 Muscles,2,Internal abdominal oblique muscle.r,MESH,False,False,False,False,False
+COLLECTION,Pelvis,01 Muscles,2,,,False,False,,,
+OBJECT,Pelvis,01 Muscles,2,Quadratus femoris muscle.r,MESH,False,False,False,False,False
+OBJECT,Pelvis,01 Muscles,2,Quadratus femoris muscle.l,MESH,False,False,False,False,False
+OBJECT,Pelvis,01 Muscles,2,Pubococcygeus muscle.r,MESH,False,False,False,False,False
+OBJECT,Pelvis,01 Muscles,2,Pubococcygeus muscle.l,MESH,False,False,False,False,False
+OBJECT,Pelvis,01 Muscles,2,Psoas major.r,MESH,False,False,False,False,False
+OBJECT,Pelvis,01 Muscles,2,Psoas major.l,MESH,False,False,False,False,False
+OBJECT,Pelvis,01 Muscles,2,Piriformis muscle.r,MESH,False,False,False,False,False
+OBJECT,Pelvis,01 Muscles,2,Piriformis muscle.l,MESH,False,False,False,False,False
+OBJECT,Pelvis,01 Muscles,2,Obturator internus.r,MESH,False,False,False,False,False
+OBJECT,Pelvis,01 Muscles,2,Obturator internus.l,MESH,False,False,False,False,False
+OBJECT,Pelvis,01 Muscles,2,Obturator externus.r,MESH,False,False,False,False,False
+OBJECT,Pelvis,01 Muscles,2,Obturator externus.l,MESH,False,False,False,False,False
+OBJECT,Pelvis,01 Muscles,2,Iliococcygeus muscle.r,MESH,False,False,False,False,False
+OBJECT,Pelvis,01 Muscles,2,Iliococcygeus muscle.l,MESH,False,False,False,False,False
+OBJECT,Pelvis,01 Muscles,2,Iliacus muscle.r,MESH,False,False,False,False,False
+OBJECT,Pelvis,01 Muscles,2,Iliacus muscle.l,MESH,False,False,False,False,False
+OBJECT,Pelvis,01 Muscles,2,External anal sphincter.r,MESH,False,False,False,False,False
+OBJECT,Pelvis,01 Muscles,2,External anal sphincter.l,MESH,False,False,False,False,False
+OBJECT,Pelvis,01 Muscles,2,Coccygeus muscle.r,MESH,False,False,False,False,False
+OBJECT,Pelvis,01 Muscles,2,Coccygeus muscle.l,MESH,False,False,False,False,False
+OBJECT,Pelvis,01 Muscles,2,Tendinous arch of levator ani.l,MESH,False,False,False,False,False
+OBJECT,Pelvis,01 Muscles,2,Tendinous arch of levator ani.r,MESH,False,False,False,False,False
+OBJECT,Pelvis,01 Muscles,2,Iliopectineal arch.l,MESH,False,False,False,False,False
+OBJECT,Pelvis,01 Muscles,2,Iliopectineal arch.r,MESH,False,False,False,False,False
+OBJECT,Pelvis,01 Muscles,2,Inferior gemellus muscle.l,MESH,False,False,False,False,False
+OBJECT,Pelvis,01 Muscles,2,Inferior gemellus muscle.r,MESH,False,False,False,False,False
+OBJECT,Pelvis,01 Muscles,2,Pubo-analis muscle.l,MESH,False,False,False,False,False
+OBJECT,Pelvis,01 Muscles,2,Pubo-analis muscle.r,MESH,False,False,False,False,False
+OBJECT,Pelvis,01 Muscles,2,Superior gemellus muscle.l,MESH,False,False,False,False,False
+OBJECT,Pelvis,01 Muscles,2,Superior gemellus muscle.r,MESH,False,False,False,False,False
+COLLECTION,Lower Limb,01 Muscles,2,,,False,False,,,
+OBJECT,Lower Limb,01 Muscles,2,Vastus medialis muscle.r,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Vastus medialis muscle.l,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Vastus lateralis muscle.r,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Vastus lateralis muscle.l,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Vastus intermedius muscle.r,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Vastus intermedius muscle.l,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Transverse head of adductor hallucis.r,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Transverse head of adductor hallucis.l,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Tibialis posterior muscle.r,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Tibialis posterior muscle.l,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Tibialis anterior muscle.r,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Tibialis anterior muscle.l,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Soleus muscle.r,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Soleus muscle.l,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Short head of biceps femoris.r,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Short head of biceps femoris.l,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Semitendinosus muscle.r,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Semitendinosus muscle.l,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Semimembranosus muscle.r,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Semimembranosus muscle.l,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Sartorius muscle.r,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Sartorius muscle.l,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Rectus femoris muscle.r,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Rectus femoris muscle.l,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Quadratus plantae muscle.r,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Quadratus plantae muscle.l,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Popliteus muscle.r,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Popliteus muscle.l,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Plantaris muscle.r,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Plantaris muscle.l,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Pectineus muscle.r,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Pectineus muscle.l,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Oblique head of adductor hallucis.r,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Oblique head of adductor hallucis.l,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Medial head of gastrocnemius.r,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Medial head of gastrocnemius.l,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Medial head of flexor hallucis brevis.r,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Medial head of flexor hallucis brevis.l,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Long head of biceps femoris.r,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Long head of biceps femoris.l,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Lateral head of gastrocnemius.r,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Lateral head of gastrocnemius.l,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Lateral head of flexor hallucis brevis.r,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Lateral head of flexor hallucis brevis.l,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Gracilis muscle.r,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Gracilis muscle.l,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Gluteus minimus muscle.r,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Gluteus minimus muscle.l,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Gluteus medius muscle.r,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Gluteus medius muscle.l,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Gluteus maximus muscle.r,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Gluteus maximus muscle.l,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Flexor hallucis longus.r,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Flexor hallucis longus.l,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Fibularis tertius muscle.r,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Fibularis tertius muscle.l,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Fibularis longus muscle.r,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Fibularis longus muscle.l,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Fibularis brevis muscle.r,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Fibularis brevis muscle.l,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Extensor hallucis longus.r,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Extensor hallucis longus.l,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Extensor hallucis brevis.r,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Extensor hallucis brevis.l,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Adductor magnus.r,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Adductor magnus.l,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Adductor longus.r,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Adductor longus.l,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Adductor brevis.r,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Adductor brevis.l,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Abductor hallucis.r,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Abductor hallucis.l,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Plantar tendon sheath of fibularis longus muscle.l,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Plantar tendon sheath of fibularis longus muscle.r,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Tendon sheath of extensor hallucis longus.l,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Tendon sheath of extensor hallucis longus.r,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Tendon sheath of flexor hallucis longus.l,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Tendon sheath of flexor hallucis longus.r,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Tendon sheath of tibialis anterior.l,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Tendon sheath of tibialis anterior.r,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Tendon sheath of tibialis posterior muscle.l,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Tendon sheath of tibialis posterior muscle.r,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Plantar interossei muscles.r,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Plantar interossei muscles.l,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Flexor digitorum longus.r,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Flexor digitorum longus.l,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Flexor digitorum brevis.r,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Flexor digitorum brevis.l,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Tendon sheath of flexor digitorum longus.l,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Tendon sheath of flexor digitorum longus.r,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Abductor digiti minimi of foot.r,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Abductor digiti minimi of foot.l,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Lateral femoral intermuscular septum.l,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Lateral femoral intermuscular septum.r,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Medial femoral intermuscular septum.l,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Medial femoral intermuscular septum.r,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Superficial transverse metatarsal ligament.l,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Superficial transverse metatarsal ligament.r,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Anterior intermuscular septum of leg.l,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Anterior intermuscular septum of leg.r,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Dorsal interossei muscles of foot.l,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Dorsal interossei muscles of foot.r,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Flexor digiti minimi of foot.l,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Flexor digiti minimi of foot.r,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Lumbrical muscles of foot.l,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Lumbrical muscles of foot.r,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Posterior intermuscular septum of leg.l,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Posterior intermuscular septum of leg.r,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Transverse intermuscular septum of leg.l,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Transverse intermuscular septum of leg.r,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,(Adductor minimus).l,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,(Adductor minimus).r,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,(Opponens digiti minimi muscle of foot).l,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,(Opponens digiti minimi muscle of foot).r,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Extensor digitorum brevis.l,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Extensor digitorum brevis.r,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Extensor digitorum longus.l,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Extensor digitorum longus.l.001,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Tendon of extensor digitorum longus.l.001,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Extensor digitorum longus.l.002,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Tendon of extensor digitorum longus.l.002,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Extensor digitorum longus.r,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Extensor digitorum longus.r.001,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Tendon of extensor digitorum longus.r.001,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Tendon sheath of extensor digitorum longus.l,MESH,False,False,False,False,False
+OBJECT,Lower Limb,01 Muscles,2,Tendon sheath of extensor digitorum longus.r,MESH,False,False,False,False,False
+COLLECTION,Head & Face,01 Muscles,2,,,False,False,,,
+OBJECT,Head & Face,01 Muscles,2,Temporalis muscle.r,MESH,False,False,False,False,False
+OBJECT,Head & Face,01 Muscles,2,Temporalis muscle.l,MESH,False,False,False,False,False
+OBJECT,Head & Face,01 Muscles,2,Superior head of lateral pterygoid muscle.r,MESH,False,False,False,False,False
+OBJECT,Head & Face,01 Muscles,2,Superior head of lateral pterygoid muscle.l,MESH,False,False,False,False,False
+OBJECT,Head & Face,01 Muscles,2,Superficial part of masseter.r,MESH,False,False,False,False,False
+OBJECT,Head & Face,01 Muscles,2,Superficial part of masseter.l,MESH,False,False,False,False,False
+OBJECT,Head & Face,01 Muscles,2,Occipitalis muscle.r,MESH,False,False,False,False,False
+OBJECT,Head & Face,01 Muscles,2,Occipitalis muscle.l,MESH,False,False,False,False,False
+OBJECT,Head & Face,01 Muscles,2,Mentalis muscle.r,MESH,False,False,False,False,False
+OBJECT,Head & Face,01 Muscles,2,Mentalis muscle.l,MESH,False,False,False,False,False
+OBJECT,Head & Face,01 Muscles,2,Medial pterygoid muscle.r,MESH,False,False,False,False,False
+OBJECT,Head & Face,01 Muscles,2,Medial pterygoid muscle.l,MESH,False,False,False,False,False
+OBJECT,Head & Face,01 Muscles,2,Inferior head of lateral pterygoid muscle.r,MESH,False,False,False,False,False
+OBJECT,Head & Face,01 Muscles,2,Inferior head of lateral pterygoid muscle.l,MESH,False,False,False,False,False
+OBJECT,Head & Face,01 Muscles,2,Frontalis muscle.r,MESH,False,False,False,False,False
+OBJECT,Head & Face,01 Muscles,2,Frontalis muscle.l,MESH,False,False,False,False,False
+OBJECT,Head & Face,01 Muscles,2,Deep part of masseter.r,MESH,False,False,False,False,False
+OBJECT,Head & Face,01 Muscles,2,Deep part of masseter.l,MESH,False,False,False,False,False
+OBJECT,Head & Face,01 Muscles,2,Corrugator supercilii.r,MESH,False,False,False,False,False
+OBJECT,Head & Face,01 Muscles,2,Corrugator supercilii.l,MESH,False,False,False,False,False
+OBJECT,Head & Face,01 Muscles,2,Procerus muscle.r,MESH,False,False,False,False,False
+OBJECT,Head & Face,01 Muscles,2,Procerus muscle.l,MESH,False,False,False,False,False
+OBJECT,Head & Face,01 Muscles,2,Depressor anguli oris.l,MESH,False,False,False,False,False
+OBJECT,Head & Face,01 Muscles,2,Depressor anguli oris.r,MESH,False,False,False,False,False
+OBJECT,Head & Face,01 Muscles,2,Depressor labii inferioris.l,MESH,False,False,False,False,False
+OBJECT,Head & Face,01 Muscles,2,Depressor labii inferioris.r,MESH,False,False,False,False,False
+OBJECT,Head & Face,01 Muscles,2,Depressor septi nasi.l,MESH,False,False,False,False,False
+OBJECT,Head & Face,01 Muscles,2,Depressor septi nasi.r,MESH,False,False,False,False,False
+OBJECT,Head & Face,01 Muscles,2,Levator anguli oris.l,MESH,False,False,False,False,False
+OBJECT,Head & Face,01 Muscles,2,Levator anguli oris.r,MESH,False,False,False,False,False
+OBJECT,Head & Face,01 Muscles,2,Levator labii superioris.l,MESH,False,False,False,False,False
+OBJECT,Head & Face,01 Muscles,2,Levator labii superioris.r,MESH,False,False,False,False,False
+OBJECT,Head & Face,01 Muscles,2,Nasalis muscle.l,MESH,False,False,False,False,False
+OBJECT,Head & Face,01 Muscles,2,Nasalis muscle.r,MESH,False,False,False,False,False
+OBJECT,Head & Face,01 Muscles,2,Orbicularis oris muscle.l,MESH,False,False,False,False,False
+OBJECT,Head & Face,01 Muscles,2,Orbicularis oris muscle.r,MESH,False,False,False,False,False
+OBJECT,Head & Face,01 Muscles,2,Orbital part of orbicularis oculi.l,MESH,False,False,False,False,False
+OBJECT,Head & Face,01 Muscles,2,Orbital part of orbicularis oculi.r,MESH,False,False,False,False,False
+OBJECT,Head & Face,01 Muscles,2,Palpebral part of orbicularis oculi.l,MESH,False,False,False,False,False
+OBJECT,Head & Face,01 Muscles,2,Palpebral part of orbicularis oculi.r,MESH,False,False,False,False,False
+OBJECT,Head & Face,01 Muscles,2,Risorius muscle.l,MESH,False,False,False,False,False
+OBJECT,Head & Face,01 Muscles,2,Risorius muscle.r,MESH,False,False,False,False,False
+OBJECT,Head & Face,01 Muscles,2,Zygomaticus major muscle.l,MESH,False,False,False,False,False
+OBJECT,Head & Face,01 Muscles,2,Zygomaticus major muscle.r,MESH,False,False,False,False,False
+OBJECT,Head & Face,01 Muscles,2,Zygomaticus minor muscle.l,MESH,False,False,False,False,False
+OBJECT,Head & Face,01 Muscles,2,Zygomaticus minor muscle.r,MESH,False,False,False,False,False
+OBJECT,Head & Face,01 Muscles,2,Trochlea of superior oblique muscle.r,MESH,False,False,False,False,False
+OBJECT,Head & Face,01 Muscles,2,Trochlea of superior oblique muscle.l,MESH,False,False,False,False,False
+OBJECT,Head & Face,01 Muscles,2,Superior rectus muscle.r,MESH,False,False,False,False,False
+OBJECT,Head & Face,01 Muscles,2,Superior rectus muscle.l,MESH,False,False,False,False,False
+OBJECT,Head & Face,01 Muscles,2,Superior oblique muscle.r,MESH,False,False,False,False,False
+OBJECT,Head & Face,01 Muscles,2,Superior oblique muscle.l,MESH,False,False,False,False,False
+OBJECT,Head & Face,01 Muscles,2,Rectus lateralis capitis muscle.r,MESH,False,False,False,False,False
+OBJECT,Head & Face,01 Muscles,2,Rectus lateralis capitis muscle.l,MESH,False,False,False,False,False
+OBJECT,Head & Face,01 Muscles,2,Obliquus superior capitis muscle.r,MESH,False,False,False,False,False
+OBJECT,Head & Face,01 Muscles,2,Obliquus superior capitis muscle.l,MESH,False,False,False,False,False
+OBJECT,Head & Face,01 Muscles,2,Obliquus inferior capitis muscle.r,MESH,False,False,False,False,False
+OBJECT,Head & Face,01 Muscles,2,Obliquus inferior capitis muscle.l,MESH,False,False,False,False,False
+OBJECT,Head & Face,01 Muscles,2,Medial rectus muscle.r,MESH,False,False,False,False,False
+OBJECT,Head & Face,01 Muscles,2,Medial rectus muscle.l,MESH,False,False,False,False,False
+OBJECT,Head & Face,01 Muscles,2,Levator palpebrae superioris.r,MESH,False,False,False,False,False
+OBJECT,Head & Face,01 Muscles,2,Levator palpebrae superioris.l,MESH,False,False,False,False,False
+OBJECT,Head & Face,01 Muscles,2,Lateral rectus muscle.r,MESH,False,False,False,False,False
+OBJECT,Head & Face,01 Muscles,2,Lateral rectus muscle.l,MESH,False,False,False,False,False
+OBJECT,Head & Face,01 Muscles,2,Inferior rectus muscle.r,MESH,False,False,False,False,False
+OBJECT,Head & Face,01 Muscles,2,Inferior rectus muscle.l,MESH,False,False,False,False,False
+OBJECT,Head & Face,01 Muscles,2,Inferior oblique muscle.r,MESH,False,False,False,False,False
+OBJECT,Head & Face,01 Muscles,2,Inferior oblique muscle.l,MESH,False,False,False,False,False
+OBJECT,Head & Face,01 Muscles,2,Hyoglossus muscle.r,MESH,False,False,False,False,False
+OBJECT,Head & Face,01 Muscles,2,Hyoglossus muscle.l,MESH,False,False,False,False,False
+OBJECT,Head & Face,01 Muscles,2,Genioglossus muscle.r,MESH,False,False,False,False,False
+OBJECT,Head & Face,01 Muscles,2,Genioglossus muscle.l,MESH,False,False,False,False,False
+OBJECT,Head & Face,01 Muscles,2,Common tendinous ring.l,MESH,False,False,False,False,False
+OBJECT,Head & Face,01 Muscles,2,Common tendinous ring.r,MESH,False,False,False,False,False
+OBJECT,Head & Face,01 Muscles,2,Inferior tarsus.l,MESH,False,False,False,False,False
+OBJECT,Head & Face,01 Muscles,2,Inferior tarsus.r,MESH,False,False,False,False,False
+OBJECT,Head & Face,01 Muscles,2,Levator nasolabialis.l,MESH,False,False,False,False,False
+OBJECT,Head & Face,01 Muscles,2,Levator nasolabialis.r,MESH,False,False,False,False,False
+OBJECT,Head & Face,01 Muscles,2,Superior tarsus.l,MESH,False,False,False,False,False
+OBJECT,Head & Face,01 Muscles,2,Superior tarsus.r,MESH,False,False,False,False,False
+COLLECTION,Back,01 Muscles,2,,,False,False,,,
+OBJECT,Back,01 Muscles,2,Splenius capitis muscle.r,MESH,False,False,False,False,False
+OBJECT,Back,01 Muscles,2,Splenius capitis muscle.l,MESH,False,False,False,False,False
+OBJECT,Back,01 Muscles,2,Spinalis capitis muscle.r,MESH,False,False,False,False,False
+OBJECT,Back,01 Muscles,2,Spinalis capitis muscle.l,MESH,False,False,False,False,False
+OBJECT,Back,01 Muscles,2,Longissimus capitis muscle.r,MESH,False,False,False,False,False
+OBJECT,Back,01 Muscles,2,Longissimus capitis muscle.l,MESH,False,False,False,False,False
+OBJECT,Back,01 Muscles,2,Transverse part of trapezius muscle.r,MESH,False,False,False,False,False
+OBJECT,Back,01 Muscles,2,Transverse part of trapezius muscle.l,MESH,False,False,False,False,False
+OBJECT,Back,01 Muscles,2,Spinalis thoracis muscle.r,MESH,False,False,False,False,False
+OBJECT,Back,01 Muscles,2,Spinalis thoracis muscle.l,MESH,False,False,False,False,False
+OBJECT,Back,01 Muscles,2,Serratus posterior superior muscle.r,MESH,False,False,False,False,False
+OBJECT,Back,01 Muscles,2,Serratus posterior superior muscle.l,MESH,False,False,False,False,False
+OBJECT,Back,01 Muscles,2,Serratus posterior inferior muscle.r,MESH,False,False,False,False,False
+OBJECT,Back,01 Muscles,2,Serratus posterior inferior muscle.l,MESH,False,False,False,False,False
+OBJECT,Back,01 Muscles,2,Semispinalis thoracis muscle.r,MESH,False,False,False,False,False
+OBJECT,Back,01 Muscles,2,Semispinalis thoracis muscle.l,MESH,False,False,False,False,False
+OBJECT,Back,01 Muscles,2,Rhomboid minor muscle.r,MESH,False,False,False,False,False
+OBJECT,Back,01 Muscles,2,Rhomboid minor muscle.l,MESH,False,False,False,False,False
+OBJECT,Back,01 Muscles,2,Rhomboid major muscle.r,MESH,False,False,False,False,False
+OBJECT,Back,01 Muscles,2,Rhomboid major muscle.l,MESH,False,False,False,False,False
+OBJECT,Back,01 Muscles,2,Multifidus thoracis muscle.r,MESH,False,False,False,False,False
+OBJECT,Back,01 Muscles,2,Multifidus thoracis muscle.l,MESH,False,False,False,False,False
+OBJECT,Back,01 Muscles,2,Longissimus thoracis muscle.r,MESH,False,False,False,False,False
+OBJECT,Back,01 Muscles,2,Longissimus thoracis muscle.l,MESH,False,False,False,False,False
+OBJECT,Back,01 Muscles,2,Latissimus dorsi muscle.r,MESH,False,False,False,False,False
+OBJECT,Back,01 Muscles,2,Latissimus dorsi muscle.l,MESH,False,False,False,False,False
+OBJECT,Back,01 Muscles,2,Interspinales thoracis muscles.r,MESH,False,False,False,False,False
+OBJECT,Back,01 Muscles,2,Interspinales thoracis muscles.l,MESH,False,False,False,False,False
+OBJECT,Back,01 Muscles,2,Iliocostalis thoracis muscle.r,MESH,False,False,False,False,False
+OBJECT,Back,01 Muscles,2,Iliocostalis thoracis muscle.l,MESH,False,False,False,False,False
+OBJECT,Back,01 Muscles,2,Descending part of trapezius muscle.r,MESH,False,False,False,False,False
+OBJECT,Back,01 Muscles,2,Descending part of trapezius muscle.l,MESH,False,False,False,False,False
+OBJECT,Back,01 Muscles,2,Ascending part of trapezius muscle.r,MESH,False,False,False,False,False
+OBJECT,Back,01 Muscles,2,Ascending part of trapezius muscle.l,MESH,False,False,False,False,False
+OBJECT,Back,01 Muscles,2,Ventral parts of lateral intertransversarii lumborum muscles.r,MESH,False,False,False,False,False
+OBJECT,Back,01 Muscles,2,Ventral parts of lateral intertransversarii lumborum muscles.l,MESH,False,False,False,False,False
+OBJECT,Back,01 Muscles,2,Spinalis colli muscle.r,MESH,False,False,False,False,False
+OBJECT,Back,01 Muscles,2,Spinalis colli muscle.l,MESH,False,False,False,False,False
+OBJECT,Back,01 Muscles,2,Semispinalis colli muscle.r,MESH,False,False,False,False,False
+OBJECT,Back,01 Muscles,2,Semispinalis colli muscle.l,MESH,False,False,False,False,False
+OBJECT,Back,01 Muscles,2,Rotatores.r,MESH,False,False,False,False,False
+OBJECT,Back,01 Muscles,2,Rotatores.l,MESH,False,False,False,False,False
+OBJECT,Back,01 Muscles,2,Multifidus lumborum muscle.r,MESH,False,False,False,False,False
+OBJECT,Back,01 Muscles,2,Multifidus lumborum muscle.l,MESH,False,False,False,False,False
+OBJECT,Back,01 Muscles,2,Multifidus colli muscle.r,MESH,False,False,False,False,False
+OBJECT,Back,01 Muscles,2,Multifidus colli muscle.l,MESH,False,False,False,False,False
+OBJECT,Back,01 Muscles,2,Longissimus colli muscle.r,MESH,False,False,False,False,False
+OBJECT,Back,01 Muscles,2,Longissimus colli muscle.l,MESH,False,False,False,False,False
+OBJECT,Back,01 Muscles,2,Interspinales lumborum muscles.r,MESH,False,False,False,False,False
+OBJECT,Back,01 Muscles,2,Interspinales lumborum muscles.l,MESH,False,False,False,False,False
+OBJECT,Back,01 Muscles,2,Interspinales colli muscles.r,MESH,False,False,False,False,False
+OBJECT,Back,01 Muscles,2,Interspinales colli muscles.l,MESH,False,False,False,False,False
+OBJECT,Back,01 Muscles,2,Iliocostalis lumborum muscle.r,MESH,False,False,False,False,False
+OBJECT,Back,01 Muscles,2,Iliocostalis lumborum muscle.l,MESH,False,False,False,False,False
+OBJECT,Back,01 Muscles,2,Iliocostalis colli muscle.r,MESH,False,False,False,False,False
+OBJECT,Back,01 Muscles,2,Iliocostalis colli muscle,MESH,False,False,False,False,False
+OBJECT,Back,01 Muscles,2,Dorsal parts of lateral intertransversarii lumborum muscles.r,MESH,False,False,False,False,False
+OBJECT,Back,01 Muscles,2,Dorsal parts of lateral intertransversarii lumborum muscles.l,MESH,False,False,False,False,False
+OBJECT,Back,01 Muscles,2,Levator scapulae.r,MESH,False,False,False,False,False
+OBJECT,Back,01 Muscles,2,Levator scapulae.l,MESH,False,False,False,False,False
+OBJECT,Back,01 Muscles,2,Levatores longi costarum.l,MESH,False,False,False,False,False
+OBJECT,Back,01 Muscles,2,Levatores longi costarum.r,MESH,False,False,False,False,False
+OBJECT,Back,01 Muscles,2,Rectus posterior major capitis muscle.l,MESH,False,False,False,False,False
+OBJECT,Back,01 Muscles,2,Rectus posterior major capitis muscle.r,MESH,False,False,False,False,False
+OBJECT,Back,01 Muscles,2,Rectus posterior minor capitis muscle.l,MESH,False,False,False,False,False
+OBJECT,Back,01 Muscles,2,Rectus posterior minor capitis muscle.r,MESH,False,False,False,False,False
+OBJECT,Back,01 Muscles,2,Splenius colli muscle.l,MESH,False,False,False,False,False
+OBJECT,Back,01 Muscles,2,Levatores breves costarum.l,MESH,False,False,False,False,False
+OBJECT,Back,01 Muscles,2,Levatores breves costarum.r,MESH,False,False,False,False,False
+OBJECT,Back,01 Muscles,2,Splenius colli muscle.r,MESH,False,False,False,False,False
+COLLECTION,02 Fasciae,MUSCULAR SYSTEM,1,,,False,False,,,
+OBJECT,02 Fasciae,MUSCULAR SYSTEM,1,Epicranial aponeurosis.l,MESH,False,False,False,False,False
+OBJECT,02 Fasciae,MUSCULAR SYSTEM,1,Epicranial aponeurosis.r,MESH,False,False,False,False,False
+OBJECT,02 Fasciae,MUSCULAR SYSTEM,1,Iliotibial tract.l,MESH,False,False,False,False,False
+OBJECT,02 Fasciae,MUSCULAR SYSTEM,1,Iliotibial tract.r,MESH,False,False,False,False,False
+OBJECT,02 Fasciae,MUSCULAR SYSTEM,1,Palmar aponeurosis.l,MESH,False,False,False,False,False
+OBJECT,02 Fasciae,MUSCULAR SYSTEM,1,Palmar aponeurosis.r,MESH,False,False,False,False,False
+OBJECT,02 Fasciae,MUSCULAR SYSTEM,1,Plantar aponeurosis.l,MESH,False,False,False,False,False
+OBJECT,02 Fasciae,MUSCULAR SYSTEM,1,Plantar aponeurosis.r,MESH,False,False,False,False,False
+OBJECT,02 Fasciae,MUSCULAR SYSTEM,1,Antebrachial fascia.l,MESH,False,False,False,False,False
+OBJECT,02 Fasciae,MUSCULAR SYSTEM,1,Antebrachial fascia.r,MESH,False,False,False,False,False
+OBJECT,02 Fasciae,MUSCULAR SYSTEM,1,Anterior layer of thoracolumbar fascia.l,MESH,False,False,False,False,False
+OBJECT,02 Fasciae,MUSCULAR SYSTEM,1,Anterior layer of thoracolumbar fascia.r,MESH,False,False,False,False,False
+OBJECT,02 Fasciae,MUSCULAR SYSTEM,1,Brachial fascia.l,MESH,False,False,False,False,False
+OBJECT,02 Fasciae,MUSCULAR SYSTEM,1,Brachial fascia.r,MESH,False,False,False,False,False
+OBJECT,02 Fasciae,MUSCULAR SYSTEM,1,Clavipectoral fascia.l,MESH,False,False,False,False,False
+OBJECT,02 Fasciae,MUSCULAR SYSTEM,1,Clavipectoral fascia.r,MESH,False,False,False,False,False
+OBJECT,02 Fasciae,MUSCULAR SYSTEM,1,Crural fascia.l,MESH,False,False,False,False,False
+OBJECT,02 Fasciae,MUSCULAR SYSTEM,1,Crural fascia.r,MESH,False,False,False,False,False
+OBJECT,02 Fasciae,MUSCULAR SYSTEM,1,Deltoid fascia.l,MESH,False,False,False,False,False
+OBJECT,02 Fasciae,MUSCULAR SYSTEM,1,Deltoid fascia.r,MESH,False,False,False,False,False
+OBJECT,02 Fasciae,MUSCULAR SYSTEM,1,Diaphragmatic fascia,MESH,False,False,False,False,False
+OBJECT,02 Fasciae,MUSCULAR SYSTEM,1,Dorsal fascia of hand.l,MESH,False,False,False,False,False
+OBJECT,02 Fasciae,MUSCULAR SYSTEM,1,Dorsal fascia of hand.r,MESH,False,False,False,False,False
+OBJECT,02 Fasciae,MUSCULAR SYSTEM,1,Fascia lata.l,MESH,False,False,False,False,False
+OBJECT,02 Fasciae,MUSCULAR SYSTEM,1,Fascia lata.r,MESH,False,False,False,False,False
+OBJECT,02 Fasciae,MUSCULAR SYSTEM,1,Iliopsoas fascia.l,MESH,False,False,False,False,False
+OBJECT,02 Fasciae,MUSCULAR SYSTEM,1,Iliopsoas fascia.r,MESH,False,False,False,False,False
+OBJECT,02 Fasciae,MUSCULAR SYSTEM,1,Investing abdominal fascia.l,MESH,False,False,False,False,False
+OBJECT,02 Fasciae,MUSCULAR SYSTEM,1,Investing abdominal fascia.r,MESH,False,False,False,False,False
+OBJECT,02 Fasciae,MUSCULAR SYSTEM,1,Masseteric fascia.l,MESH,False,False,False,False,False
+OBJECT,02 Fasciae,MUSCULAR SYSTEM,1,Masseteric fascia.r,MESH,False,False,False,False,False
+OBJECT,02 Fasciae,MUSCULAR SYSTEM,1,Middle layer of thoracolumbar fascia.l,MESH,False,False,False,False,False
+OBJECT,02 Fasciae,MUSCULAR SYSTEM,1,Middle layer of thoracolumbar fascia.r,MESH,False,False,False,False,False
+OBJECT,02 Fasciae,MUSCULAR SYSTEM,1,Pectoral fascia.l,MESH,False,False,False,False,False
+OBJECT,02 Fasciae,MUSCULAR SYSTEM,1,Pectoral fascia.r,MESH,False,False,False,False,False
+OBJECT,02 Fasciae,MUSCULAR SYSTEM,1,Piriformis fascia.l,MESH,False,False,False,False,False
+OBJECT,02 Fasciae,MUSCULAR SYSTEM,1,Piriformis fascia.r,MESH,False,False,False,False,False
+OBJECT,02 Fasciae,MUSCULAR SYSTEM,1,Popliteal fascia.l,MESH,False,False,False,False,False
+OBJECT,02 Fasciae,MUSCULAR SYSTEM,1,Popliteal fascia.r,MESH,False,False,False,False,False
+OBJECT,02 Fasciae,MUSCULAR SYSTEM,1,Posterior layer of thoracolumbar fascia.l,MESH,False,False,False,False,False
+OBJECT,02 Fasciae,MUSCULAR SYSTEM,1,Posterior layer of thoracolumbar fascia.r,MESH,False,False,False,False,False
+OBJECT,02 Fasciae,MUSCULAR SYSTEM,1,Superficial investing cervical fascia.l,MESH,False,False,False,False,False
+OBJECT,02 Fasciae,MUSCULAR SYSTEM,1,Superficial investing cervical fascia.r,MESH,False,False,False,False,False
+OBJECT,02 Fasciae,MUSCULAR SYSTEM,1,Superficial layer of temporal fascia.l,MESH,False,False,False,False,False
+OBJECT,02 Fasciae,MUSCULAR SYSTEM,1,Superficial layer of temporal fascia.r,MESH,False,False,False,False,False
+OBJECT,02 Fasciae,MUSCULAR SYSTEM,1,Tensor fasciae latae.l,MESH,False,False,False,False,False
+OBJECT,02 Fasciae,MUSCULAR SYSTEM,1,Tensor fasciae latae.r,MESH,False,False,False,False,False
+OBJECT,02 Fasciae,MUSCULAR SYSTEM,1,Transversalis fascia,MESH,False,False,False,False,False
+OBJECT,02 Fasciae,MUSCULAR SYSTEM,1,Extensor retinaculum of wrist.l,MESH,False,False,False,False,False
+OBJECT,02 Fasciae,MUSCULAR SYSTEM,1,Extensor retinaculum of wrist.r,MESH,False,False,False,False,False
+OBJECT,02 Fasciae,MUSCULAR SYSTEM,1,Flexor retinaculum of ankle.l,MESH,False,False,False,False,False
+OBJECT,02 Fasciae,MUSCULAR SYSTEM,1,Flexor retinaculum of ankle.r,MESH,False,False,False,False,False
+OBJECT,02 Fasciae,MUSCULAR SYSTEM,1,Flexor retinaculum of wrist.l,MESH,False,False,False,False,False
+OBJECT,02 Fasciae,MUSCULAR SYSTEM,1,Flexor retinaculum of wrist.r,MESH,False,False,False,False,False
+OBJECT,02 Fasciae,MUSCULAR SYSTEM,1,Inferior extensor retinaculum of ankle.l,MESH,False,False,False,False,False
+OBJECT,02 Fasciae,MUSCULAR SYSTEM,1,Inferior extensor retinaculum of ankle.r,MESH,False,False,False,False,False
+OBJECT,02 Fasciae,MUSCULAR SYSTEM,1,Inferior fibular retinaculum.l,MESH,False,False,False,False,False
+OBJECT,02 Fasciae,MUSCULAR SYSTEM,1,Inferior fibular retinaculum.r,MESH,False,False,False,False,False
+OBJECT,02 Fasciae,MUSCULAR SYSTEM,1,Lateral patellar retinaculum.l,MESH,False,False,False,False,False
+OBJECT,02 Fasciae,MUSCULAR SYSTEM,1,Lateral patellar retinaculum.r,MESH,False,False,False,False,False
+OBJECT,02 Fasciae,MUSCULAR SYSTEM,1,Medial patellar retinaculum.l,MESH,False,False,False,False,False
+OBJECT,02 Fasciae,MUSCULAR SYSTEM,1,Medial patellar retinaculum.r,MESH,False,False,False,False,False
+OBJECT,02 Fasciae,MUSCULAR SYSTEM,1,Superior extensor retinaculum of ankle.l,MESH,False,False,False,False,False
+OBJECT,02 Fasciae,MUSCULAR SYSTEM,1,Superior extensor retinaculum of ankle.r,MESH,False,False,False,False,False
+OBJECT,02 Fasciae,MUSCULAR SYSTEM,1,Superior fibular retinaculum.l,MESH,False,False,False,False,False
+OBJECT,02 Fasciae,MUSCULAR SYSTEM,1,Superior fibular retinaculum.r,MESH,False,False,False,False,False
+OBJECT,02 Fasciae,MUSCULAR SYSTEM,1,Common flexor tendon sheath.l,MESH,False,False,False,False,False
+OBJECT,02 Fasciae,MUSCULAR SYSTEM,1,Common flexor tendon sheath.r,MESH,False,False,False,False,False
+OBJECT,02 Fasciae,MUSCULAR SYSTEM,1,Cruciform part of fibrous sheath of digit of hand.l,MESH,False,False,False,False,False
+OBJECT,02 Fasciae,MUSCULAR SYSTEM,1,Cruciform part of fibrous sheath of digit of hand.r,MESH,False,False,False,False,False
+OBJECT,02 Fasciae,MUSCULAR SYSTEM,1,Synovial sheaths of digits of hand.l,MESH,False,False,False,False,False
+OBJECT,02 Fasciae,MUSCULAR SYSTEM,1,Synovial sheaths of digits of hand.r,MESH,False,False,False,False,False
+OBJECT,02 Fasciae,MUSCULAR SYSTEM,1,Tendon sheath - abd. pollicis longus - ext. pollicis brevis.r,MESH,False,False,False,False,False
+OBJECT,02 Fasciae,MUSCULAR SYSTEM,1,Superficial transverse metacarpal ligament.l,MESH,False,False,False,False,False
+OBJECT,02 Fasciae,MUSCULAR SYSTEM,1,Superficial transverse metacarpal ligament.r,MESH,False,False,False,False,False
+OBJECT,02 Fasciae,MUSCULAR SYSTEM,1,Tendon sheath - abd. pollicis longus - ext. pollicis brevis.l,MESH,False,False,False,False,False
+OBJECT,02 Fasciae,MUSCULAR SYSTEM,1,Tendon sheath of extensors carpi radialis.l,MESH,False,False,False,False,False
+OBJECT,02 Fasciae,MUSCULAR SYSTEM,1,Tendon sheath of extensors carpi radialis.r,MESH,False,False,False,False,False
+OBJECT,02 Fasciae,MUSCULAR SYSTEM,1,Calcaneal tendon.l,MESH,False,False,False,False,False
+OBJECT,02 Fasciae,MUSCULAR SYSTEM,1,Calcaneal tendon.r,MESH,False,False,False,False,False
+OBJECT,02 Fasciae,MUSCULAR SYSTEM,1,Common tendon sheath of fibularis muscles.l,MESH,False,False,False,False,False
+OBJECT,02 Fasciae,MUSCULAR SYSTEM,1,Common tendon sheath of fibularis muscles.r,MESH,False,False,False,False,False
+COLLECTION,03 Bursae,MUSCULAR SYSTEM,1,,,False,False,,,
+OBJECT,03 Bursae,MUSCULAR SYSTEM,1,Bicipitoradial bursa.l,MESH,False,False,False,False,False
+OBJECT,03 Bursae,MUSCULAR SYSTEM,1,Bicipitoradial bursa.r,MESH,False,False,False,False,False
+OBJECT,03 Bursae,MUSCULAR SYSTEM,1,(Iliopectineal bursa).l,MESH,False,False,False,False,False
+OBJECT,03 Bursae,MUSCULAR SYSTEM,1,(Iliopectineal bursa).r,MESH,False,False,False,False,False
+OBJECT,03 Bursae,MUSCULAR SYSTEM,1,Anserine bursa.l,MESH,False,False,False,False,False
+OBJECT,03 Bursae,MUSCULAR SYSTEM,1,Anserine bursa.r,MESH,False,False,False,False,False
+OBJECT,03 Bursae,MUSCULAR SYSTEM,1,Bursa of piriformis muscle.l,MESH,False,False,False,False,False
+OBJECT,03 Bursae,MUSCULAR SYSTEM,1,Bursa of piriformis muscle.r,MESH,False,False,False,False,False
+OBJECT,03 Bursae,MUSCULAR SYSTEM,1,Coracobrachial bursa.l,MESH,False,False,False,False,False
+OBJECT,03 Bursae,MUSCULAR SYSTEM,1,Coracobrachial bursa.r,MESH,False,False,False,False,False
+OBJECT,03 Bursae,MUSCULAR SYSTEM,1,Deep infrapatellar bursa.l,MESH,False,False,False,False,False
+OBJECT,03 Bursae,MUSCULAR SYSTEM,1,Deep infrapatellar bursa.r,MESH,False,False,False,False,False
+OBJECT,03 Bursae,MUSCULAR SYSTEM,1,Inferior subtendinous bursa of biceps femoris muscle.l,MESH,False,False,False,False,False
+OBJECT,03 Bursae,MUSCULAR SYSTEM,1,Inferior subtendinous bursa of biceps femoris muscle.r,MESH,False,False,False,False,False
+OBJECT,03 Bursae,MUSCULAR SYSTEM,1,Intermuscular gluteal bursae.l,MESH,False,False,False,False,False
+OBJECT,03 Bursae,MUSCULAR SYSTEM,1,Intermuscular gluteal bursae.r,MESH,False,False,False,False,False
+OBJECT,03 Bursae,MUSCULAR SYSTEM,1,Lateral subtendinous bursa of gastrocnemius muscle.l,MESH,False,False,False,False,False
+OBJECT,03 Bursae,MUSCULAR SYSTEM,1,Lateral subtendinous bursa of gastrocnemius muscle.r,MESH,False,False,False,False,False
+OBJECT,03 Bursae,MUSCULAR SYSTEM,1,Medial subtendinous bursa of gastrocnemius muscle.l,MESH,False,False,False,False,False
+OBJECT,03 Bursae,MUSCULAR SYSTEM,1,Medial subtendinous bursa of gastrocnemius muscle.r,MESH,False,False,False,False,False
+OBJECT,03 Bursae,MUSCULAR SYSTEM,1,Sciatic bursa of gluteus maximus muscle.l,MESH,False,False,False,False,False
+OBJECT,03 Bursae,MUSCULAR SYSTEM,1,Sciatic bursa of gluteus maximus muscle.r,MESH,False,False,False,False,False
+OBJECT,03 Bursae,MUSCULAR SYSTEM,1,Sciatic bursa of obturator internus.l,MESH,False,False,False,False,False
+OBJECT,03 Bursae,MUSCULAR SYSTEM,1,Sciatic bursa of obturator internus.r,MESH,False,False,False,False,False
+OBJECT,03 Bursae,MUSCULAR SYSTEM,1,Semimembranosus bursa.l,MESH,False,False,False,False,False
+OBJECT,03 Bursae,MUSCULAR SYSTEM,1,Semimembranosus bursa.r,MESH,False,False,False,False,False
+OBJECT,03 Bursae,MUSCULAR SYSTEM,1,Subacromial bursa.l,MESH,False,False,False,False,False
+OBJECT,03 Bursae,MUSCULAR SYSTEM,1,Subacromial bursa.r,MESH,False,False,False,False,False
+OBJECT,03 Bursae,MUSCULAR SYSTEM,1,Subcutaneous acromial bursa.l,MESH,False,False,False,False,False
+OBJECT,03 Bursae,MUSCULAR SYSTEM,1,Subcutaneous acromial bursa.r,MESH,False,False,False,False,False
+OBJECT,03 Bursae,MUSCULAR SYSTEM,1,Subcutaneous bursa of lateral malleolus.l,MESH,False,False,False,False,False
+OBJECT,03 Bursae,MUSCULAR SYSTEM,1,Subcutaneous bursa of lateral malleolus.r,MESH,False,False,False,False,False
+OBJECT,03 Bursae,MUSCULAR SYSTEM,1,Subcutaneous bursa of medial malleolus.l,MESH,False,False,False,False,False
+OBJECT,03 Bursae,MUSCULAR SYSTEM,1,Subcutaneous bursa of medial malleolus.r,MESH,False,False,False,False,False
+OBJECT,03 Bursae,MUSCULAR SYSTEM,1,Subcutaneous bursa of tuberosity of tibia.l,MESH,False,False,False,False,False
+OBJECT,03 Bursae,MUSCULAR SYSTEM,1,Subcutaneous bursa of tuberosity of tibia.r,MESH,False,False,False,False,False
+OBJECT,03 Bursae,MUSCULAR SYSTEM,1,Subcutaneous calcaneal bursa.l,MESH,False,False,False,False,False
+OBJECT,03 Bursae,MUSCULAR SYSTEM,1,Subcutaneous calcaneal bursa.r,MESH,False,False,False,False,False
+OBJECT,03 Bursae,MUSCULAR SYSTEM,1,Subcutaneous infrapatellar bursa.l,MESH,False,False,False,False,False
+OBJECT,03 Bursae,MUSCULAR SYSTEM,1,Subcutaneous infrapatellar bursa.r,MESH,False,False,False,False,False
+OBJECT,03 Bursae,MUSCULAR SYSTEM,1,Subcutaneous prepatellar bursa.l,MESH,False,False,False,False,False
+OBJECT,03 Bursae,MUSCULAR SYSTEM,1,Subcutaneous prepatellar bursa.r,MESH,False,False,False,False,False
+OBJECT,03 Bursae,MUSCULAR SYSTEM,1,Subcutaneous trochanteric bursa.l,MESH,False,False,False,False,False
+OBJECT,03 Bursae,MUSCULAR SYSTEM,1,Subcutaneous trochanteric bursa.r,MESH,False,False,False,False,False
+OBJECT,03 Bursae,MUSCULAR SYSTEM,1,Subdeltoid bursa.l,MESH,False,False,False,False,False
+OBJECT,03 Bursae,MUSCULAR SYSTEM,1,Subdeltoid bursa.r,MESH,False,False,False,False,False
+OBJECT,03 Bursae,MUSCULAR SYSTEM,1,Subfacial prepatellar bursa.l,MESH,False,False,False,False,False
+OBJECT,03 Bursae,MUSCULAR SYSTEM,1,Subfacial prepatellar bursa.r,MESH,False,False,False,False,False
+OBJECT,03 Bursae,MUSCULAR SYSTEM,1,Subtendinous bursa of iliacus muscle.l,MESH,False,False,False,False,False
+OBJECT,03 Bursae,MUSCULAR SYSTEM,1,Subtendinous bursa of iliacus muscle.r,MESH,False,False,False,False,False
+OBJECT,03 Bursae,MUSCULAR SYSTEM,1,Subtendinous bursa of infraspinatus muscle.l,MESH,False,False,False,False,False
+OBJECT,03 Bursae,MUSCULAR SYSTEM,1,Subtendinous bursa of infraspinatus muscle.r,MESH,False,False,False,False,False
+OBJECT,03 Bursae,MUSCULAR SYSTEM,1,Subtendinous bursa of obturator internus.l,MESH,False,False,False,False,False
+OBJECT,03 Bursae,MUSCULAR SYSTEM,1,Subtendinous bursa of obturator internus.r,MESH,False,False,False,False,False
+OBJECT,03 Bursae,MUSCULAR SYSTEM,1,Subtendinous bursa of sartorius muscle.l,MESH,False,False,False,False,False
+OBJECT,03 Bursae,MUSCULAR SYSTEM,1,Subtendinous bursa of sartorius muscle.r,MESH,False,False,False,False,False
+OBJECT,03 Bursae,MUSCULAR SYSTEM,1,Subtendinous bursa of teres major muscle.l,MESH,False,False,False,False,False
+OBJECT,03 Bursae,MUSCULAR SYSTEM,1,Subtendinous bursa of teres major muscle.r,MESH,False,False,False,False,False
+OBJECT,03 Bursae,MUSCULAR SYSTEM,1,Subtendinous bursa of tibialis anterior.l,MESH,False,False,False,False,False
+OBJECT,03 Bursae,MUSCULAR SYSTEM,1,Subtendinous bursa of tibialis anterior.r,MESH,False,False,False,False,False
+OBJECT,03 Bursae,MUSCULAR SYSTEM,1,Subtendinous bursa of trapezius muscle.l,MESH,False,False,False,False,False
+OBJECT,03 Bursae,MUSCULAR SYSTEM,1,Subtendinous bursa of trapezius muscle.r,MESH,False,False,False,False,False
+OBJECT,03 Bursae,MUSCULAR SYSTEM,1,Subtendinous bursa of triceps brachii muscle.l,MESH,False,False,False,False,False
+OBJECT,03 Bursae,MUSCULAR SYSTEM,1,Subtendinous bursa of triceps brachii muscle.r,MESH,False,False,False,False,False
+OBJECT,03 Bursae,MUSCULAR SYSTEM,1,Subtendinous calcaneal bursa.l,MESH,False,False,False,False,False
+OBJECT,03 Bursae,MUSCULAR SYSTEM,1,Subtendinous calcaneal bursa.r,MESH,False,False,False,False,False
+OBJECT,03 Bursae,MUSCULAR SYSTEM,1,Subtendinous prepatellar bursa.l,MESH,False,False,False,False,False
+OBJECT,03 Bursae,MUSCULAR SYSTEM,1,Subtendinous prepatellar bursa.r,MESH,False,False,False,False,False
+OBJECT,03 Bursae,MUSCULAR SYSTEM,1,Superior bursa of biceps femoris muscle.l,MESH,False,False,False,False,False
+OBJECT,03 Bursae,MUSCULAR SYSTEM,1,Superior bursa of biceps femoris muscle.r,MESH,False,False,False,False,False
+OBJECT,03 Bursae,MUSCULAR SYSTEM,1,Suprapatellar bursa.l,MESH,False,False,False,False,False
+OBJECT,03 Bursae,MUSCULAR SYSTEM,1,Suprapatellar bursa.r,MESH,False,False,False,False,False
+OBJECT,03 Bursae,MUSCULAR SYSTEM,1,Trochanteric bursa of gluteus maximus muscle.l,MESH,False,False,False,False,False
+OBJECT,03 Bursae,MUSCULAR SYSTEM,1,Trochanteric bursa of gluteus maximus muscle.r,MESH,False,False,False,False,False
+OBJECT,03 Bursae,MUSCULAR SYSTEM,1,Trochanteric bursa of gluteus medius muscle.l,MESH,False,False,False,False,False
+OBJECT,03 Bursae,MUSCULAR SYSTEM,1,Trochanteric bursa of gluteus medius muscle.r,MESH,False,False,False,False,False
+OBJECT,03 Bursae,MUSCULAR SYSTEM,1,Trochanteric bursa of gluteus minimus muscle.l,MESH,False,False,False,False,False
+OBJECT,03 Bursae,MUSCULAR SYSTEM,1,Trochanteric bursa of gluteus minimus muscle.r,MESH,False,False,False,False,False
+OBJECT,03 Bursae,MUSCULAR SYSTEM,1,Intertubercular tendon sheath.l,MESH,False,False,False,False,False
+OBJECT,03 Bursae,MUSCULAR SYSTEM,1,Intertubercular tendon sheath.r,MESH,False,False,False,False,False

@@ -1,0 +1,753 @@
+row_type,collection_name,parent_collection,depth,object_name,object_type,collection_hide_viewport,collection_exclude_view_layer,object_hide_viewport,object_hidden_get,object_hide_render
+COLLECTION,Collection,Scene Collection,0,,,False,False,,,
+COLLECTION,Collection 1,Collection,1,,,False,False,,,
+OBJECT,Collection 1,Collection,1,HCS_RV_Purkinje_05,CURVE,False,False,False,False,False
+OBJECT,Collection 1,Collection,1,HCS_LV_Purkinje_04,CURVE,False,False,False,False,False
+COLLECTION,Internal cerebral veins and trasverse sinus,Collection 1,2,,,False,False,,,
+COLLECTION,Cerebral veins,Collection 1,2,,,False,False,,,
+COLLECTION,Basilar venous plexus,Scene Collection,0,,,False,False,,,
+OBJECT,Basilar venous plexus,Scene Collection,0,Anterior_Intercavernous_Sinus,MESH,False,False,False,False,False
+OBJECT,Basilar venous plexus,Scene Collection,0,Basilar venous plexus clivus,MESH,False,False,False,False,False
+OBJECT,Basilar venous plexus,Scene Collection,0,Cavernous_Sinus_L,MESH,False,False,False,False,False
+OBJECT,Basilar venous plexus,Scene Collection,0,Cavernous_Sinus_R,MESH,False,False,False,False,False
+OBJECT,Basilar venous plexus,Scene Collection,0,FJ5120_BP28747_FMA52210_Right marginal sinus,MESH,False,False,False,False,False
+OBJECT,Basilar venous plexus,Scene Collection,0,Posterior_Intercavernous_Sinus,MESH,False,False,False,False,False
+OBJECT,Basilar venous plexus,Scene Collection,0,Sphenoid venous plexus,MESH,False,False,False,False,False
+OBJECT,Basilar venous plexus,Scene Collection,0,Cervical vertebral venous pleus,MESH,False,False,False,False,False
+OBJECT,Basilar venous plexus,Scene Collection,0,Lumbar vertebral venous plexus,MESH,False,False,False,False,False
+OBJECT,Basilar venous plexus,Scene Collection,0,Thoracic vertebral venosu plexus,MESH,False,False,False,False,False
+COLLECTION,CARDIOVASCULAR SYSTEM,Scene Collection,0,,,False,False,,,
+COLLECTION,01 Heart & Great Vessels,CARDIOVASCULAR SYSTEM,1,,,False,False,,,
+OBJECT,01 Heart & Great Vessels,CARDIOVASCULAR SYSTEM,1,Right coronary leaflet,MESH,False,False,False,False,False
+OBJECT,01 Heart & Great Vessels,CARDIOVASCULAR SYSTEM,1,Ascending aorta,MESH,False,False,False,False,False
+OBJECT,01 Heart & Great Vessels,CARDIOVASCULAR SYSTEM,1,Left pulmonary artery,MESH,False,False,False,False,False
+OBJECT,01 Heart & Great Vessels,CARDIOVASCULAR SYSTEM,1,Right inferolateral branch of right coronary artery,MESH,False,False,False,False,False
+OBJECT,01 Heart & Great Vessels,CARDIOVASCULAR SYSTEM,1,Right inferior pulmonary vein,MESH,False,False,False,False,False
+OBJECT,01 Heart & Great Vessels,CARDIOVASCULAR SYSTEM,1,Inferior vena cava (abdominal part),MESH,False,False,False,False,False
+OBJECT,01 Heart & Great Vessels,CARDIOVASCULAR SYSTEM,1,Aortic arch,MESH,False,False,False,False,False
+OBJECT,01 Heart & Great Vessels,CARDIOVASCULAR SYSTEM,1,Bifurcation of pulmonary trunk,MESH,False,False,False,False,False
+OBJECT,01 Heart & Great Vessels,CARDIOVASCULAR SYSTEM,1,Pulmonary arteries.j,MESH,False,False,False,False,False
+OBJECT,01 Heart & Great Vessels,CARDIOVASCULAR SYSTEM,1,Coronary sinus,MESH,False,False,False,False,False
+OBJECT,01 Heart & Great Vessels,CARDIOVASCULAR SYSTEM,1,Right coronary artery,MESH,False,False,False,False,False
+OBJECT,01 Heart & Great Vessels,CARDIOVASCULAR SYSTEM,1,Septal branches of anterior interventricular artery,MESH,False,False,False,False,False
+OBJECT,01 Heart & Great Vessels,CARDIOVASCULAR SYSTEM,1,Left inferior pulmonary vein,MESH,False,False,False,False,False
+OBJECT,01 Heart & Great Vessels,CARDIOVASCULAR SYSTEM,1,Pulmonary trunk,MESH,False,False,False,False,False
+OBJECT,01 Heart & Great Vessels,CARDIOVASCULAR SYSTEM,1,Inferior vein of left ventricle,MESH,False,False,False,False,False
+OBJECT,01 Heart & Great Vessels,CARDIOVASCULAR SYSTEM,1,Circumflex artery of heart,MESH,False,False,False,False,False
+OBJECT,01 Heart & Great Vessels,CARDIOVASCULAR SYSTEM,1,Great cardiac vein,MESH,False,False,False,False,False
+OBJECT,01 Heart & Great Vessels,CARDIOVASCULAR SYSTEM,1,Inferior vena cava (thoracic part),MESH,False,False,False,False,False
+OBJECT,01 Heart & Great Vessels,CARDIOVASCULAR SYSTEM,1,Inferior vein of left ventricle (//Posterior ''),MESH,False,False,False,False,False
+OBJECT,01 Heart & Great Vessels,CARDIOVASCULAR SYSTEM,1,Left coronary leaflet,MESH,False,False,False,False,False
+OBJECT,01 Heart & Great Vessels,CARDIOVASCULAR SYSTEM,1,Left superior pulmonary vein,MESH,False,False,False,False,False
+OBJECT,01 Heart & Great Vessels,CARDIOVASCULAR SYSTEM,1,Anterior interventricular artery,MESH,False,False,False,False,False
+OBJECT,01 Heart & Great Vessels,CARDIOVASCULAR SYSTEM,1,Superior vena cava,MESH,False,False,False,False,False
+OBJECT,01 Heart & Great Vessels,CARDIOVASCULAR SYSTEM,1,Non-coronary leaflet,MESH,False,False,False,False,False
+OBJECT,01 Heart & Great Vessels,CARDIOVASCULAR SYSTEM,1,Right pulmonary artery,MESH,False,False,False,False,False
+OBJECT,01 Heart & Great Vessels,CARDIOVASCULAR SYSTEM,1,Left coronary artery,MESH,False,False,False,False,False
+OBJECT,01 Heart & Great Vessels,CARDIOVASCULAR SYSTEM,1,Middle cardiac vein,MESH,False,False,False,False,False
+OBJECT,01 Heart & Great Vessels,CARDIOVASCULAR SYSTEM,1,Pulmonary veins.j,MESH,False,False,False,False,False
+OBJECT,01 Heart & Great Vessels,CARDIOVASCULAR SYSTEM,1,Right superior pulmonary vein,MESH,False,False,False,False,False
+OBJECT,01 Heart & Great Vessels,CARDIOVASCULAR SYSTEM,1,Septal papillary muscle of right ventricle,MESH,False,False,False,False,False
+OBJECT,01 Heart & Great Vessels,CARDIOVASCULAR SYSTEM,1,Right ventricle,MESH,False,False,False,False,False
+OBJECT,01 Heart & Great Vessels,CARDIOVASCULAR SYSTEM,1,Right atrium,MESH,False,False,False,False,False
+OBJECT,01 Heart & Great Vessels,CARDIOVASCULAR SYSTEM,1,Left ventricle,MESH,False,False,False,False,False
+OBJECT,01 Heart & Great Vessels,CARDIOVASCULAR SYSTEM,1,Left atrium,MESH,False,False,False,False,False
+OBJECT,01 Heart & Great Vessels,CARDIOVASCULAR SYSTEM,1,Inferior papillary muscle of right ventricle,MESH,False,False,False,False,False
+OBJECT,01 Heart & Great Vessels,CARDIOVASCULAR SYSTEM,1,Inferior papillary muscle of left ventricle,MESH,False,False,False,False,False
+OBJECT,01 Heart & Great Vessels,CARDIOVASCULAR SYSTEM,1,Anterior papillary muscle of right ventricle,MESH,False,False,False,False,False
+COLLECTION,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,,,False,False,,,
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Orbitofrontal branches of anterior cerebral artery.l,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Insular branches of middle cerebral artery (M2-segment).l,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Posterior cerebral artery.l,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Posterior inferior cerebellar artery.r,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Apical vein of right lung,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Superior sagittal sinus,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Medial pontine branches of basilar artery.l,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Pericallosal artery.l,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Anterior inferior cerebellar artery.l,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Inferior basal vein of right lung,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Middle cerebral artery (M1-segment).l,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Posterior cerebral artery.r,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Posterior communicating artery.l,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Superior basal vein of right lung,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Superior basal vein of left lung,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Parietal branches of middle cerebral artery.l,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Pericallosal artery.r,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Superior petrosal sinus.l,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Callosomarginal artery.r,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Lateral pontine branches of basilar artery.r,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Basilar artery,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Inferior sagittal sinus,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Middle cerebral artery (M3-segment).r,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Posterior inferior cerebellar artery.l,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Frontal branches of callosomarginal artery.r,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Apical segmental artery of left lung,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Sigmoid sinus.r,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Medial pontine branches of basilar artery.r,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Anterior cerebral artery.r,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Temporal branches of middle cerebral artery.r,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Superior cerebellar artery.r,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Superior cerebellar artery.l,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Middle cerebral artery (M1-segment).r,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Callosomarginal artery.l,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Inferior petrosal sinus.r,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Apical segmental artery of right lung,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Sigmoid sinus.l,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Temporal branches of middle cerebral artery.l,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Orbitofrontal branches of anterior cerebral artery.r,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Lateral pontine branches of basilar artery.l,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Anterior communicating artery,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Anterior cerebral artery.l,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Superior petrosal sinus.r,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Frontal branches of callosomarginal artery.l,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Anterior inferior cerebellar artery.r,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Insular branches of middle cerebral artery (M2).r,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Inferior basal vein of left lung,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Occipital sinus,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Middle cerebral artery (M3 segment).l,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Posterior communicating artery.r,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Inferior petrosal sinus.l,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Parietal branches of middle cerebral artery.r,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,FJ4654_BP28758_FMA50994_Right great cerebral vein,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,FJ4690_BP28702_FMA51004_Right internal cerebral vein,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,FJ4705_BP28864_FMA50769_Straight sinus,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,FJ5046_BP28730_FMA50991_Right basal vein,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,FJ5222_BP28771_FMA50764_Right transverse sinus,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,FJ4679_BP28953_FMA50986_Inferior cerebral vein,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,FJ5194_BP28746_FMA50984_Right superficial middle cerebral vein,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Artery of central sulcus.l,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,FJ4695_BP28751_FMA51240_Right superior anastomotic vein,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,FJ5090_BP28731_FMA51242_Right inferior anastomotic vein,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Prefrontal artery.l,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Artery of central sulcus.r,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Artery of precentral sulcus.l,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Artery of precentral sulcus.r,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Branch to angular gyrus.l,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Lateral frontobasal artery.l,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Lateral frontobasal artery.r,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Postcentral arterial branch.l,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Postcentral arterial branch.r,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Posterior parietal artery.l,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Posterior parietal artery.r,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Posterior temporal branch.l,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Posterior temporal branch.r,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Temporo-occipital branch.l,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Temporo-occipital branch.r,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,?x.l,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,?x.r,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Anterior ethmoidal artery.l,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Anterior ethmoidal artery.r,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Anterior temporal branch.l,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Anterior temporal branch.r,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Branch to angular gyrus.r,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Central retinal artery.l,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Central retinal artery.r,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Distal lateral striate branches.l,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Distal lateral striate branches.r,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,FJ4704_BP29489_FMA50784_Sinus confluence,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,FJ5091_BP28731_FMA51242_Right inferior anastomotic vein,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Infra-orbital artery.l,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Infra-orbital artery.r,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Posterior ethmoidal artery.r,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Prefrontal artery.r,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Proximal lateral striate branches.l,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Proximal lateral striate branches.r,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Septal branches of posterior ethmoidal artery.l,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Septal branches of posterior ethmoidal artery.r,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Supra-orbital artery.r,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Supratrochlear artery.l,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Supratrochlear artery.r,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Anterior deep temporal artery.r,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Anterior septal branches of anterior ethmoidal artery.l,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Anterior septal branches of anterior ethmoidal artery.r,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Lacrimal artery.l,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Long posterior ciliary arteries.l,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Long posterior ciliary arteries.r,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Posterior ethmoidal artery.l,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Supra-orbital artery.l,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,FJ4693_BP29632_FMA71571_Set of lateral direct veins of lateral ,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Lacrimal artery.r,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Short posterior ciliary arteries.l,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Short posterior ciliary arteries.r,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Confluence of sinuses.j,MESH,False,False,False,False,False
+OBJECT,02 Brain Vessels,CARDIOVASCULAR SYSTEM,1,Orbital veins.j,MESH,False,False,False,False,False
+COLLECTION,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,,,False,False,,,
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Occipital vein.r,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Submental artery.r,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Superior labial vein.r,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Lateral segmental artery of right lung,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Superior labial artery.l,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Posterior lateral nasal branches of sphenopalatine artery..r,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Mental branch of inferior alveolar artery.l,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Greater palatine artery.r,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Anterior segmental artery of left lung,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Superior labial vein.l,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Lateral basal segmental artery of right lung,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Medial basal segmental artery of right lung,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Superficial temporal artery.l,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Ophthalmic artery.r,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Parieto-occipital artery.l,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Posterior segmental artery of right lung,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Posterior septal branches of sphenopalatine artery.r,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Superficial temporal veins.r,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Facial artery.l,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Mental branch of inferior alveolar artery.r,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Occipital artery.r,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Facial vein.r,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Posterior basal segmental artery of left lung,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Facial artery.r,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Medial occipital artery.r,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Posterior lateral nasal branches of sphenopalatine artery..l,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Angular vein.r,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Ophthalmic artery.l,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Frontal branch of superficial temporal artery.l,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Superior ophthalmic vein.l,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Posterior superior alveolar artery.r,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Descending palatine artery.l,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Facial vein.l,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Medial segmental artery of right lung,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Transverse facial artery.l,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Superficial temporal veins.l,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Anterior basal segmental artery of left lung,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Middle meningeal artery.l,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Posterior basal segmental artery of right lung,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Angular vein.l,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Lingual vein.l,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Posterior auricular vein.r,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Transverse facial artery.r,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Angular artery.l,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Medial occipital artery.l,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Inferior alveolar artery.l,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Inferior ophthalmic vein.r,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Descending palatine artery.r,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Posterior superior alveolar artery.l,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Angular artery.r,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Lateral occipital artery.r,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Superior ophthalmic vein.r,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Submental vein.r,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Common facial vein.l,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Mylohyoid branch of inferior alveolar artery.l,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Artery of pterygoid canal.r,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Inferior ophthalmic vein.l,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Medial basal segmental artery of left lung,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Common facial vein.r,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Accessory branch of middle meningeal artery.l,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Superior segmental artery of left lung,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,External carotid artery.r,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Submental vein.l,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Superficial temporal artery.r,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Inferior labial artery.l,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Occipital artery.l,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Occipital vein.l,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Posterior septal branches of sphenopalatine artery.l,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Inferior labial artery.r,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Lateral occipital artery.l,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Frontal branch of superficial temporal artery.r,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Inferior labial veins.r,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Superior labial artery.r,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Parieto-occipital artery.r,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Lateral basal segmental artery of left lung,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Inferior alveolar artery.r,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Superior segmental artery of right lung,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Mylohyoid branch of inferior alveolar artery.r,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Artery of pterygoid canal.l,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,External carotid artery.l,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Inferior labial veins.l,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Anterior basal segmental artery of right lung,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Middle meningeal artery.r,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Greater palatine artery.l,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Posterior segmental artery of left lung,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Submental artery.l,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Accessory branch of middle meningeal artery.r,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Lingual vein.r,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Posterior auricular vein.l,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Anterior segmental artery of right lung,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,FJ5117_BP29142_FMA66447_Trunk of right lingual artery,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,FJ4996_BP28866_FMA52565_Right lingual vein,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Parietal branch middle meningeal artery.r,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Parietal branch middle meningeal artery.l,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Middle meningeal artery.r.001,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Middle meningeal artery.l.001,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Frontal branch middle meningeal artery.r,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Frontal branch middle meningeal artery.l,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Anterior deep temporal artery.l,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Posterior deep temporal artery.l,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Posterior deep temporal artery.r,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Internal carotid artery.l,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Internal carotid artery.r,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Anterior division of retromandibular vein.l,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Anterior division of retromandibular vein.r,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Posterior division of retromandibular vein.l,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Posterior division of retromandibular vein.r,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Retromandibular vein.l,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Retromandibular vein.r,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Anterior spinal artery.l,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Anterior spinal artery.r,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Ascending pharyngeal artery.l,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Ascending pharyngeal artery.r,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Buccal artery.l,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,Buccal artery.r,MESH,False,False,False,False,False
+OBJECT,03 Head & Face Vessels,CARDIOVASCULAR SYSTEM,1,FJ5024_BP29706_FMA49489_Anterior glandular branch of right supe,MESH,False,False,False,False,False
+COLLECTION,04 Cervical Vessels,CARDIOVASCULAR SYSTEM,1,,,False,False,,,
+OBJECT,04 Cervical Vessels,CARDIOVASCULAR SYSTEM,1,Internal jugular vein.r,MESH,False,False,False,False,False
+OBJECT,04 Cervical Vessels,CARDIOVASCULAR SYSTEM,1,External jugular vein.l,MESH,False,False,False,False,False
+OBJECT,04 Cervical Vessels,CARDIOVASCULAR SYSTEM,1,Anterior jugular vein.r,MESH,False,False,False,False,False
+OBJECT,04 Cervical Vessels,CARDIOVASCULAR SYSTEM,1,Vertebral artery.l,MESH,False,False,False,False,False
+OBJECT,04 Cervical Vessels,CARDIOVASCULAR SYSTEM,1,Transverse cervical artery.r,MESH,False,False,False,False,False
+OBJECT,04 Cervical Vessels,CARDIOVASCULAR SYSTEM,1,Inferior thyroid artery.r,MESH,False,False,False,False,False
+OBJECT,04 Cervical Vessels,CARDIOVASCULAR SYSTEM,1,Internal jugular vein.l,MESH,False,False,False,False,False
+OBJECT,04 Cervical Vessels,CARDIOVASCULAR SYSTEM,1,Left common carotid artery,MESH,False,False,False,False,False
+OBJECT,04 Cervical Vessels,CARDIOVASCULAR SYSTEM,1,Inferior thyroid artery.l,MESH,False,False,False,False,False
+OBJECT,04 Cervical Vessels,CARDIOVASCULAR SYSTEM,1,External jugular vein.r,MESH,False,False,False,False,False
+OBJECT,04 Cervical Vessels,CARDIOVASCULAR SYSTEM,1,Vertebral vein.r,MESH,False,False,False,False,False
+OBJECT,04 Cervical Vessels,CARDIOVASCULAR SYSTEM,1,(Deep branch of transverse cervical artery).r,MESH,False,False,False,False,False
+OBJECT,04 Cervical Vessels,CARDIOVASCULAR SYSTEM,1,Transverse cervical artery.l,MESH,False,False,False,False,False
+OBJECT,04 Cervical Vessels,CARDIOVASCULAR SYSTEM,1,(Superficial branch of transverse cervical artery).r,MESH,False,False,False,False,False
+OBJECT,04 Cervical Vessels,CARDIOVASCULAR SYSTEM,1,Deep cervical artery.r,MESH,False,False,False,False,False
+OBJECT,04 Cervical Vessels,CARDIOVASCULAR SYSTEM,1,Superior thyroid vein.r,MESH,False,False,False,False,False
+OBJECT,04 Cervical Vessels,CARDIOVASCULAR SYSTEM,1,(Deep branch of transverse cervical artery).l,MESH,False,False,False,False,False
+OBJECT,04 Cervical Vessels,CARDIOVASCULAR SYSTEM,1,Superior thyroid vein.l,MESH,False,False,False,False,False
+OBJECT,04 Cervical Vessels,CARDIOVASCULAR SYSTEM,1,Vertebral artery.r,MESH,False,False,False,False,False
+OBJECT,04 Cervical Vessels,CARDIOVASCULAR SYSTEM,1,Vertebral vein.l,MESH,False,False,False,False,False
+OBJECT,04 Cervical Vessels,CARDIOVASCULAR SYSTEM,1,Anterior jugular vein.l,MESH,False,False,False,False,False
+OBJECT,04 Cervical Vessels,CARDIOVASCULAR SYSTEM,1,Right common carotid artery,MESH,False,False,False,False,False
+OBJECT,04 Cervical Vessels,CARDIOVASCULAR SYSTEM,1,(Superficial branch of transverse cervical artery).l,MESH,False,False,False,False,False
+OBJECT,04 Cervical Vessels,CARDIOVASCULAR SYSTEM,1,Deep cervical artery.l,MESH,False,False,False,False,False
+OBJECT,04 Cervical Vessels,CARDIOVASCULAR SYSTEM,1,FJ5231_BP28831_FMA50808_Right superior thyroid vein,MESH,False,False,False,False,False
+OBJECT,04 Cervical Vessels,CARDIOVASCULAR SYSTEM,1,FJ5072_BP29683_FMA49484_Right cricothyroid artery,MESH,False,False,False,False,False
+OBJECT,04 Cervical Vessels,CARDIOVASCULAR SYSTEM,1,FJ5011_BP29192_FMA66472_Trunk of right superior thyroid artery,MESH,False,False,False,False,False
+OBJECT,04 Cervical Vessels,CARDIOVASCULAR SYSTEM,1,Costocervical trunk.l,MESH,False,False,False,False,False
+OBJECT,04 Cervical Vessels,CARDIOVASCULAR SYSTEM,1,Costocervical trunk.r,MESH,False,False,False,False,False
+OBJECT,04 Cervical Vessels,CARDIOVASCULAR SYSTEM,1,Thyrocervical trunk.l,MESH,False,False,False,False,False
+OBJECT,04 Cervical Vessels,CARDIOVASCULAR SYSTEM,1,Thyrocervical trunk.r,MESH,False,False,False,False,False
+COLLECTION,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,,,False,False,,,
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,Thoracic aorta,MESH,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,Second posterior intercostal artery.r,MESH,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,Supreme intercostal artery.r,MESH,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,Lateral thoracic vein.r,MESH,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,Posterior intercostal arteries.r,MESH,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,Internal thoracic veins.l,MESH,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,Hemi-azygos vein,MESH,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,Left superior intercostal vein,MESH,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,First posterior intercostal artery.l,MESH,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,Musculophrenic veins.l,MESH,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,Accessory hemi-azygos vein,MESH,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,Right superior intercostal vein,MESH,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,Internal thoracic artery.r,MESH,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,Internal thoracic veins.r,MESH,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,Lateral thoracic artery.r,MESH,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,First posterior intercostal artery.r,MESH,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,Lateral thoracic vein.l,MESH,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,Azygos vein,MESH,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,Internal thoracic artery.l,MESH,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,Lateral thoracic artery.l,MESH,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,Musculophrenic artery.l,MESH,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,Second posterior intercostal artery.l,MESH,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,Musculophrenic artery.r,MESH,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,Posterior intercostal arteries.l,MESH,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,Supreme intercostal artery.l,MESH,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,Musculophrenic veins.r,MESH,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,Brachiocephalic trunk,MESH,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,Inferior lingular artery of left lung,MESH,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,Inferior lobar artery of right lung,MESH,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,Middle lobar artery of right lung,MESH,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,Superior lingular artery of left lung,MESH,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,Superior lobar artery of right lung,MESH,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,Pectoral branches of thoraco-acromial artery.l,MESH,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,Pectoral branches of thoraco-acromial artery.r,MESH,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,HCS_Anterior_Atrial_Pathway,CURVE,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,HCS_Bachmann_Bundle,CURVE,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,HCS_Bundle_of_His,CURVE,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,HCS_Left_Anterior_Fascicle,CURVE,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,HCS_Left_Bundle_Branch,CURVE,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,HCS_Left_Posterior_Fascicle,CURVE,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,HCS_Left_Septal_Fascicle,CURVE,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,HCS_LV_Apical_Purkinje,CURVE,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,HCS_LV_Purkinje_01,CURVE,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,HCS_LV_Purkinje_02,CURVE,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,HCS_LV_Purkinje_05,CURVE,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,HCS_LV_Purkinje_06,CURVE,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,HCS_LV_Purkinje_07,CURVE,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,HCS_LV_Purkinje_08,CURVE,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,HCS_LV_Purkinje_09,CURVE,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,HCS_LV_Purkinje_10,CURVE,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,HCS_Middle_Atrial_Pathway,CURVE,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,HCS_Posterior_Atrial_Pathway,CURVE,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,HCS_Right_Bundle_Branch,CURVE,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,HCS_RV_Purkinje_01,CURVE,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,HCS_RV_Purkinje_02,CURVE,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,HCS_RV_Purkinje_03,CURVE,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,HCS_RV_Purkinje_04,CURVE,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,HCS_RV_Purkinje_07,CURVE,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,HCS_RV_Purkinje_08,CURVE,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,HCS_RV_Purkinje_09,CURVE,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,????????,MESH,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,Anterior semilunar leaflet of pulmonary valve,MESH,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,Anterior vein of left lung,MESH,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,Anterior vein of right lung,MESH,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,Apicoposterior vein of left lung,MESH,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,Circumflex scapular artery.l,MESH,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,Circumflex scapular artery.r,MESH,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,Circumflex scapular vein.l,MESH,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,Circumflex scapular vein.r,MESH,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,HCS_Atrioventricular_Node,MESH,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,HCS_Sinoatrial_Node,MESH,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,Inferior leaflet of right atrioventricular valve,MESH,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,Inferior lingular vein of left lung,MESH,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,Interatrial septum.j,MESH,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,Lateral vein of right lung,MESH,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,Left semilunar leaflet of pulmonary valve,MESH,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,Lingular vein of left lung,MESH,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,Medial vein of right lung,MESH,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,Posterior leaflet of left atrioventricular valve,MESH,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,Posterior vein of right lung,MESH,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,Right semilunar leaflet of pulmonary valve,MESH,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,Right superior phrenic vein,MESH,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,Septal leaflet of right atrioventricular valve,MESH,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,Superior lingular vein of left lung,MESH,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,Superior phrenic arteries,MESH,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,Superior vein of left lung,MESH,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,Superior vein of right lung,MESH,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,Thoraco-acromial artery.l,MESH,False,False,False,False,False
+OBJECT,05 Thoracic Vessels,CARDIOVASCULAR SYSTEM,1,Thoraco-acromial artery.r,MESH,False,False,False,False,False
+COLLECTION,06 Abdominal Vessels,CARDIOVASCULAR SYSTEM,1,,,False,False,,,
+OBJECT,06 Abdominal Vessels,CARDIOVASCULAR SYSTEM,1,Descending branch of left colic artery,MESH,False,False,False,False,False
+OBJECT,06 Abdominal Vessels,CARDIOVASCULAR SYSTEM,1,Inferior phrenic artery,MESH,False,False,False,False,False
+OBJECT,06 Abdominal Vessels,CARDIOVASCULAR SYSTEM,1,Superior mesenteric vein,MESH,False,False,False,False,False
+OBJECT,06 Abdominal Vessels,CARDIOVASCULAR SYSTEM,1,Spinal branch of iliolumbar artery.l,MESH,False,False,False,False,False
+OBJECT,06 Abdominal Vessels,CARDIOVASCULAR SYSTEM,1,Inferior epigastric artery.l,MESH,False,False,False,False,False
+OBJECT,06 Abdominal Vessels,CARDIOVASCULAR SYSTEM,1,Anterior branch of renal artery.l,MESH,False,False,False,False,False
+OBJECT,06 Abdominal Vessels,CARDIOVASCULAR SYSTEM,1,Iliolumbar artery.r,MESH,False,False,False,False,False
+OBJECT,06 Abdominal Vessels,CARDIOVASCULAR SYSTEM,1,Coeliac trunk,MESH,False,False,False,False,False
+OBJECT,06 Abdominal Vessels,CARDIOVASCULAR SYSTEM,1,Abdominal aorta,MESH,False,False,False,False,False
+OBJECT,06 Abdominal Vessels,CARDIOVASCULAR SYSTEM,1,Colic branch of ileocolic artery,MESH,False,False,False,False,False
+OBJECT,06 Abdominal Vessels,CARDIOVASCULAR SYSTEM,1,Inferior epigastric vein.r,MESH,False,False,False,False,False
+OBJECT,06 Abdominal Vessels,CARDIOVASCULAR SYSTEM,1,Superior epigastric artery.l,MESH,False,False,False,False,False
+OBJECT,06 Abdominal Vessels,CARDIOVASCULAR SYSTEM,1,Left testicular artery,MESH,False,False,False,False,False
+OBJECT,06 Abdominal Vessels,CARDIOVASCULAR SYSTEM,1,Right testicular vein,MESH,False,False,False,False,False
+OBJECT,06 Abdominal Vessels,CARDIOVASCULAR SYSTEM,1,Lumbar arteries.l,MESH,False,False,False,False,False
+OBJECT,06 Abdominal Vessels,CARDIOVASCULAR SYSTEM,1,Middle colic vein,MESH,False,False,False,False,False
+OBJECT,06 Abdominal Vessels,CARDIOVASCULAR SYSTEM,1,Iliolumbar vein.r,MESH,False,False,False,False,False
+OBJECT,06 Abdominal Vessels,CARDIOVASCULAR SYSTEM,1,Right renal artery,MESH,False,False,False,False,False
+OBJECT,06 Abdominal Vessels,CARDIOVASCULAR SYSTEM,1,Lumbar branch of iliolumbar artery.l,MESH,False,False,False,False,False
+OBJECT,06 Abdominal Vessels,CARDIOVASCULAR SYSTEM,1,Middle colic artery,MESH,False,False,False,False,False
+OBJECT,06 Abdominal Vessels,CARDIOVASCULAR SYSTEM,1,Superior epigastric artery.r,MESH,False,False,False,False,False
+OBJECT,06 Abdominal Vessels,CARDIOVASCULAR SYSTEM,1,External iliac artery.r,MESH,False,False,False,False,False
+OBJECT,06 Abdominal Vessels,CARDIOVASCULAR SYSTEM,1,Superficial epigastric vein.r,MESH,False,False,False,False,False
+OBJECT,06 Abdominal Vessels,CARDIOVASCULAR SYSTEM,1,Left gastric artery,MESH,False,False,False,False,False
+OBJECT,06 Abdominal Vessels,CARDIOVASCULAR SYSTEM,1,Inferior epigastric vein.l,MESH,False,False,False,False,False
+OBJECT,06 Abdominal Vessels,CARDIOVASCULAR SYSTEM,1,Lumbar veins.l,MESH,False,False,False,False,False
+OBJECT,06 Abdominal Vessels,CARDIOVASCULAR SYSTEM,1,Ileocolic artery,MESH,False,False,False,False,False
+OBJECT,06 Abdominal Vessels,CARDIOVASCULAR SYSTEM,1,Splenic vein,MESH,False,False,False,False,False
+OBJECT,06 Abdominal Vessels,CARDIOVASCULAR SYSTEM,1,Iliolumbar vein.l,MESH,False,False,False,False,False
+OBJECT,06 Abdominal Vessels,CARDIOVASCULAR SYSTEM,1,Superior mesenteric artery,MESH,False,False,False,False,False
+OBJECT,06 Abdominal Vessels,CARDIOVASCULAR SYSTEM,1,Ascending branch of left colic artery,MESH,False,False,False,False,False
+OBJECT,06 Abdominal Vessels,CARDIOVASCULAR SYSTEM,1,Lumbar arteries.r,MESH,False,False,False,False,False
+OBJECT,06 Abdominal Vessels,CARDIOVASCULAR SYSTEM,1,Right colic vein,MESH,False,False,False,False,False
+OBJECT,06 Abdominal Vessels,CARDIOVASCULAR SYSTEM,1,Right colic artery,MESH,False,False,False,False,False
+OBJECT,06 Abdominal Vessels,CARDIOVASCULAR SYSTEM,1,Left renal vein,MESH,False,False,False,False,False
+OBJECT,06 Abdominal Vessels,CARDIOVASCULAR SYSTEM,1,Left renal artery,MESH,False,False,False,False,False
+OBJECT,06 Abdominal Vessels,CARDIOVASCULAR SYSTEM,1,Left colic artery,MESH,False,False,False,False,False
+OBJECT,06 Abdominal Vessels,CARDIOVASCULAR SYSTEM,1,Inferior suprarenal artery.l,MESH,False,False,False,False,False
+OBJECT,06 Abdominal Vessels,CARDIOVASCULAR SYSTEM,1,External iliac vein.r,MESH,False,False,False,False,False
+OBJECT,06 Abdominal Vessels,CARDIOVASCULAR SYSTEM,1,Posterior branch of renal artery.l,MESH,False,False,False,False,False
+OBJECT,06 Abdominal Vessels,CARDIOVASCULAR SYSTEM,1,Spinal branch of iliolumbar artery.r,MESH,False,False,False,False,False
+OBJECT,06 Abdominal Vessels,CARDIOVASCULAR SYSTEM,1,Left testicular vein,MESH,False,False,False,False,False
+OBJECT,06 Abdominal Vessels,CARDIOVASCULAR SYSTEM,1,Intrarenal veins of left kidney,MESH,False,False,False,False,False
+OBJECT,06 Abdominal Vessels,CARDIOVASCULAR SYSTEM,1,Left ascending lumbar vein,MESH,False,False,False,False,False
+OBJECT,06 Abdominal Vessels,CARDIOVASCULAR SYSTEM,1,Iliacus branch of iliolumbar artery.l,MESH,False,False,False,False,False
+OBJECT,06 Abdominal Vessels,CARDIOVASCULAR SYSTEM,1,Lumbar veins.r,MESH,False,False,False,False,False
+OBJECT,06 Abdominal Vessels,CARDIOVASCULAR SYSTEM,1,External iliac artery.l,MESH,False,False,False,False,False
+OBJECT,06 Abdominal Vessels,CARDIOVASCULAR SYSTEM,1,Superficial epigastric artery.l,MESH,False,False,False,False,False
+OBJECT,06 Abdominal Vessels,CARDIOVASCULAR SYSTEM,1,Inferior mesenteric vein,MESH,False,False,False,False,False
+OBJECT,06 Abdominal Vessels,CARDIOVASCULAR SYSTEM,1,Iliacus branch of iliolumbar artery.r,MESH,False,False,False,False,False
+OBJECT,06 Abdominal Vessels,CARDIOVASCULAR SYSTEM,1,Ileal branch of ileocolic artery,MESH,False,False,False,False,False
+OBJECT,06 Abdominal Vessels,CARDIOVASCULAR SYSTEM,1,Superficial epigastric artery.r,MESH,False,False,False,False,False
+OBJECT,06 Abdominal Vessels,CARDIOVASCULAR SYSTEM,1,Proper hepatic artery,MESH,False,False,False,False,False
+OBJECT,06 Abdominal Vessels,CARDIOVASCULAR SYSTEM,1,Common hepatic artery,MESH,False,False,False,False,False
+OBJECT,06 Abdominal Vessels,CARDIOVASCULAR SYSTEM,1,Inferior mesenteric artery,MESH,False,False,False,False,False
+OBJECT,06 Abdominal Vessels,CARDIOVASCULAR SYSTEM,1,Right renal vein,MESH,False,False,False,False,False
+OBJECT,06 Abdominal Vessels,CARDIOVASCULAR SYSTEM,1,Splenic artery,MESH,False,False,False,False,False
+OBJECT,06 Abdominal Vessels,CARDIOVASCULAR SYSTEM,1,Right gastro-omental vein,MESH,False,False,False,False,False
+OBJECT,06 Abdominal Vessels,CARDIOVASCULAR SYSTEM,1,Superior epigastric veins.r,MESH,False,False,False,False,False
+OBJECT,06 Abdominal Vessels,CARDIOVASCULAR SYSTEM,1,External iliac vein.l,MESH,False,False,False,False,False
+OBJECT,06 Abdominal Vessels,CARDIOVASCULAR SYSTEM,1,Iliolumbar artery.l,MESH,False,False,False,False,False
+OBJECT,06 Abdominal Vessels,CARDIOVASCULAR SYSTEM,1,Right testicular artery.r,MESH,False,False,False,False,False
+OBJECT,06 Abdominal Vessels,CARDIOVASCULAR SYSTEM,1,Hepatic portal vein,MESH,False,False,False,False,False
+OBJECT,06 Abdominal Vessels,CARDIOVASCULAR SYSTEM,1,Hepatic veins,MESH,False,False,False,False,False
+OBJECT,06 Abdominal Vessels,CARDIOVASCULAR SYSTEM,1,Superficial epigastric vein.l,MESH,False,False,False,False,False
+OBJECT,06 Abdominal Vessels,CARDIOVASCULAR SYSTEM,1,Intrarenal veins of right kidney,MESH,False,False,False,False,False
+OBJECT,06 Abdominal Vessels,CARDIOVASCULAR SYSTEM,1,Lumbar branch of iliolumbar artery.r,MESH,False,False,False,False,False
+OBJECT,06 Abdominal Vessels,CARDIOVASCULAR SYSTEM,1,Inferior suprarenal artery.r,MESH,False,False,False,False,False
+OBJECT,06 Abdominal Vessels,CARDIOVASCULAR SYSTEM,1,Right ascending lumbar vein,MESH,False,False,False,False,False
+OBJECT,06 Abdominal Vessels,CARDIOVASCULAR SYSTEM,1,Anterior branch of renal artery.r,MESH,False,False,False,False,False
+OBJECT,06 Abdominal Vessels,CARDIOVASCULAR SYSTEM,1,Superior epigastric veins.l,MESH,False,False,False,False,False
+OBJECT,06 Abdominal Vessels,CARDIOVASCULAR SYSTEM,1,Left gastro-omental vein,MESH,False,False,False,False,False
+OBJECT,06 Abdominal Vessels,CARDIOVASCULAR SYSTEM,1,Posterior branch of renal artery.r,MESH,False,False,False,False,False
+OBJECT,06 Abdominal Vessels,CARDIOVASCULAR SYSTEM,1,Inferior epigastric artery.r,MESH,False,False,False,False,False
+COLLECTION,07 Pelvic & Perineal Vessels,CARDIOVASCULAR SYSTEM,1,,,False,False,,,
+OBJECT,07 Pelvic & Perineal Vessels,CARDIOVASCULAR SYSTEM,1,External pudendal veins.r,MESH,False,False,False,False,False
+OBJECT,07 Pelvic & Perineal Vessels,CARDIOVASCULAR SYSTEM,1,Inferior gluteal veins.r,MESH,False,False,False,False,False
+OBJECT,07 Pelvic & Perineal Vessels,CARDIOVASCULAR SYSTEM,1,Superior gluteal veins.l,MESH,False,False,False,False,False
+OBJECT,07 Pelvic & Perineal Vessels,CARDIOVASCULAR SYSTEM,1,Deep external pudendal artery.l,MESH,False,False,False,False,False
+OBJECT,07 Pelvic & Perineal Vessels,CARDIOVASCULAR SYSTEM,1,Common iliac artery.l,MESH,False,False,False,False,False
+OBJECT,07 Pelvic & Perineal Vessels,CARDIOVASCULAR SYSTEM,1,Superior gluteal veins.r,MESH,False,False,False,False,False
+OBJECT,07 Pelvic & Perineal Vessels,CARDIOVASCULAR SYSTEM,1,External pudendal veins.l,MESH,False,False,False,False,False
+OBJECT,07 Pelvic & Perineal Vessels,CARDIOVASCULAR SYSTEM,1,Common iliac vein.r,MESH,False,False,False,False,False
+OBJECT,07 Pelvic & Perineal Vessels,CARDIOVASCULAR SYSTEM,1,Anterior division of internal iliac artery.l,MESH,False,False,False,False,False
+OBJECT,07 Pelvic & Perineal Vessels,CARDIOVASCULAR SYSTEM,1,Deep dorsal vein of penis,MESH,False,False,False,False,False
+OBJECT,07 Pelvic & Perineal Vessels,CARDIOVASCULAR SYSTEM,1,Superior gluteal artery.r,MESH,False,False,False,False,False
+OBJECT,07 Pelvic & Perineal Vessels,CARDIOVASCULAR SYSTEM,1,Internal iliac artery.r,MESH,False,False,False,False,False
+OBJECT,07 Pelvic & Perineal Vessels,CARDIOVASCULAR SYSTEM,1,Internal pudendal vein.l,MESH,False,False,False,False,False
+OBJECT,07 Pelvic & Perineal Vessels,CARDIOVASCULAR SYSTEM,1,Posterior division of internal iliac artery.l,MESH,False,False,False,False,False
+OBJECT,07 Pelvic & Perineal Vessels,CARDIOVASCULAR SYSTEM,1,Inferior gluteal veins.l,MESH,False,False,False,False,False
+OBJECT,07 Pelvic & Perineal Vessels,CARDIOVASCULAR SYSTEM,1,Internal pudendal artery.r,MESH,False,False,False,False,False
+OBJECT,07 Pelvic & Perineal Vessels,CARDIOVASCULAR SYSTEM,1,Internal iliac vein.l,MESH,False,False,False,False,False
+OBJECT,07 Pelvic & Perineal Vessels,CARDIOVASCULAR SYSTEM,1,Superior anorectal artery,MESH,False,False,False,False,False
+OBJECT,07 Pelvic & Perineal Vessels,CARDIOVASCULAR SYSTEM,1,Dorsal artery of penis.r,MESH,False,False,False,False,False
+OBJECT,07 Pelvic & Perineal Vessels,CARDIOVASCULAR SYSTEM,1,Internal iliac artery.l,MESH,False,False,False,False,False
+OBJECT,07 Pelvic & Perineal Vessels,CARDIOVASCULAR SYSTEM,1,Posterior division of internal iliac artery.r,MESH,False,False,False,False,False
+OBJECT,07 Pelvic & Perineal Vessels,CARDIOVASCULAR SYSTEM,1,Internal pudendal artery.l,MESH,False,False,False,False,False
+OBJECT,07 Pelvic & Perineal Vessels,CARDIOVASCULAR SYSTEM,1,Inferior gluteal artery.l,MESH,False,False,False,False,False
+OBJECT,07 Pelvic & Perineal Vessels,CARDIOVASCULAR SYSTEM,1,Obturator artery.l,MESH,False,False,False,False,False
+OBJECT,07 Pelvic & Perineal Vessels,CARDIOVASCULAR SYSTEM,1,Superficial external pudendal artery.r,MESH,False,False,False,False,False
+OBJECT,07 Pelvic & Perineal Vessels,CARDIOVASCULAR SYSTEM,1,Obturator artery.r,MESH,False,False,False,False,False
+OBJECT,07 Pelvic & Perineal Vessels,CARDIOVASCULAR SYSTEM,1,Internal iliac vein.r,MESH,False,False,False,False,False
+OBJECT,07 Pelvic & Perineal Vessels,CARDIOVASCULAR SYSTEM,1,Dorsal artery of penis.l,MESH,False,False,False,False,False
+OBJECT,07 Pelvic & Perineal Vessels,CARDIOVASCULAR SYSTEM,1,Common iliac artery.r,MESH,False,False,False,False,False
+OBJECT,07 Pelvic & Perineal Vessels,CARDIOVASCULAR SYSTEM,1,Superficial external pudendal artery.l,MESH,False,False,False,False,False
+OBJECT,07 Pelvic & Perineal Vessels,CARDIOVASCULAR SYSTEM,1,Deep external pudendal artery.r,MESH,False,False,False,False,False
+OBJECT,07 Pelvic & Perineal Vessels,CARDIOVASCULAR SYSTEM,1,Anterior division of internal iliac artery.r,MESH,False,False,False,False,False
+OBJECT,07 Pelvic & Perineal Vessels,CARDIOVASCULAR SYSTEM,1,Inferior gluteal artery.r,MESH,False,False,False,False,False
+OBJECT,07 Pelvic & Perineal Vessels,CARDIOVASCULAR SYSTEM,1,Common iliac vein.l,MESH,False,False,False,False,False
+OBJECT,07 Pelvic & Perineal Vessels,CARDIOVASCULAR SYSTEM,1,Internal pudendal vein.r,MESH,False,False,False,False,False
+OBJECT,07 Pelvic & Perineal Vessels,CARDIOVASCULAR SYSTEM,1,Superior gluteal artery.l,MESH,False,False,False,False,False
+OBJECT,07 Pelvic & Perineal Vessels,CARDIOVASCULAR SYSTEM,1,(Ulnar recurrent artery).l,MESH,False,False,False,False,False
+OBJECT,07 Pelvic & Perineal Vessels,CARDIOVASCULAR SYSTEM,1,(Ulnar recurrent artery).r,MESH,False,False,False,False,False
+OBJECT,07 Pelvic & Perineal Vessels,CARDIOVASCULAR SYSTEM,1,Anterior inferior pancreaticoduodenal artery,MESH,False,False,False,False,False
+OBJECT,07 Pelvic & Perineal Vessels,CARDIOVASCULAR SYSTEM,1,Appendicular artery,MESH,False,False,False,False,False
+OBJECT,07 Pelvic & Perineal Vessels,CARDIOVASCULAR SYSTEM,1,Gastroduodenal artery,MESH,False,False,False,False,False
+OBJECT,07 Pelvic & Perineal Vessels,CARDIOVASCULAR SYSTEM,1,Inferior pancreaticoduodenal artery,MESH,False,False,False,False,False
+OBJECT,07 Pelvic & Perineal Vessels,CARDIOVASCULAR SYSTEM,1,Inferior ulnar collateral artery.l,MESH,False,False,False,False,False
+OBJECT,07 Pelvic & Perineal Vessels,CARDIOVASCULAR SYSTEM,1,Inferior ulnar collateral artery.r,MESH,False,False,False,False,False
+OBJECT,07 Pelvic & Perineal Vessels,CARDIOVASCULAR SYSTEM,1,Intrarenal arteries of left kidney,MESH,False,False,False,False,False
+OBJECT,07 Pelvic & Perineal Vessels,CARDIOVASCULAR SYSTEM,1,Intrarenal arteries of right kidney,MESH,False,False,False,False,False
+OBJECT,07 Pelvic & Perineal Vessels,CARDIOVASCULAR SYSTEM,1,Lateral sacral veins.l,MESH,False,False,False,False,False
+OBJECT,07 Pelvic & Perineal Vessels,CARDIOVASCULAR SYSTEM,1,Lateral sacral veins.r,MESH,False,False,False,False,False
+OBJECT,07 Pelvic & Perineal Vessels,CARDIOVASCULAR SYSTEM,1,Left subcostal vein,MESH,False,False,False,False,False
+OBJECT,07 Pelvic & Perineal Vessels,CARDIOVASCULAR SYSTEM,1,Marginal artery,MESH,False,False,False,False,False
+OBJECT,07 Pelvic & Perineal Vessels,CARDIOVASCULAR SYSTEM,1,Median sacral artery,MESH,False,False,False,False,False
+OBJECT,07 Pelvic & Perineal Vessels,CARDIOVASCULAR SYSTEM,1,Middle collateral artery.l,MESH,False,False,False,False,False
+OBJECT,07 Pelvic & Perineal Vessels,CARDIOVASCULAR SYSTEM,1,Middle collateral artery.r,MESH,False,False,False,False,False
+OBJECT,07 Pelvic & Perineal Vessels,CARDIOVASCULAR SYSTEM,1,Radial collateral artery.l,MESH,False,False,False,False,False
+OBJECT,07 Pelvic & Perineal Vessels,CARDIOVASCULAR SYSTEM,1,Radial collateral artery.r,MESH,False,False,False,False,False
+OBJECT,07 Pelvic & Perineal Vessels,CARDIOVASCULAR SYSTEM,1,Right subcostal vein,MESH,False,False,False,False,False
+OBJECT,07 Pelvic & Perineal Vessels,CARDIOVASCULAR SYSTEM,1,Sigmoid arteries,MESH,False,False,False,False,False
+OBJECT,07 Pelvic & Perineal Vessels,CARDIOVASCULAR SYSTEM,1,Sigmoid veins,MESH,False,False,False,False,False
+OBJECT,07 Pelvic & Perineal Vessels,CARDIOVASCULAR SYSTEM,1,Subcostal artery.l,MESH,False,False,False,False,False
+OBJECT,07 Pelvic & Perineal Vessels,CARDIOVASCULAR SYSTEM,1,Subcostal artery.r,MESH,False,False,False,False,False
+OBJECT,07 Pelvic & Perineal Vessels,CARDIOVASCULAR SYSTEM,1,Superior ulnar collateral artery.l,MESH,False,False,False,False,False
+OBJECT,07 Pelvic & Perineal Vessels,CARDIOVASCULAR SYSTEM,1,Superior ulnar collateral artery.r,MESH,False,False,False,False,False
+OBJECT,07 Pelvic & Perineal Vessels,CARDIOVASCULAR SYSTEM,1,Deep artery of penis.l,MESH,False,False,False,False,False
+OBJECT,07 Pelvic & Perineal Vessels,CARDIOVASCULAR SYSTEM,1,Deep artery of penis.r,MESH,False,False,False,False,False
+OBJECT,07 Pelvic & Perineal Vessels,CARDIOVASCULAR SYSTEM,1,Superficial dorsal veins of penis,MESH,False,False,False,False,False
+COLLECTION,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,,,False,False,,,
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Suprascapular vein.r,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Thoracodorsal vein.r,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Thoracodorsal artery.r,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Right subclavian vein,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Superficial palmar arch.l,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Superficial venous palmar arch.r,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Radial artery.r,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Common interosseous artery.r,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Posterior circumflex humeral vein.l,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Dorsal venous network of hand.r,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Common plantar digital arteries.r,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Deep palmar arch.l,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Dorsal digital veins of foot.l,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Dorsal metacarpal arteries.r,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Subscapular artery.r,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Brachial veins.r,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Left brachiocephalic vein,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Superficial palmar arch.r,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Dorsal digital veins of foot.r,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Median antebrachial vein.r,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Common interosseous artery.l,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Dorsal digital arteries of foot.r,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Axillary artery.r,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Proper palmar digital arteries.r,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Ulnar veins.l,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Radial artery.l,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Deep brachial artery.r,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Subscapular vein.r,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Dorsal digital veins of hand.r,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Posterior interosseous artery.r,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Palmar digital veins.r,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Palmar carpal branch of radial artery.r,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Maxillary veins.l,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Anterior circumflex humeral vein.r,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Dorsal venous network of hand.l,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Subscapular artery.l,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Axillary vein.r,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Dorsal digital arteries of hand.r,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Plantar digital veins.r,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Brachial veins.l,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Anterior circumflex humeral artery.l,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Brachial artery.l,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Deep brachial artery.l,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Posterior circumflex humeral artery.r,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Median cubital vein.l,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Ulnar artery.l,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Right brachiocephalic vein,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Common palmar digital arteries.l,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Deep venous palmar arch.r,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Recurrent interosseous artery.r,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Thoracodorsal vein.l,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Dorsal digital arteries of foot.l,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Thoracodorsal artery.l,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Subscapular vein.l,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Recurrent interosseous artery.l,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Superficial venous palmar arch.l,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Cephalic vein.r,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Anterior circumflex humeral vein.l,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Axillary artery.l,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Suprascapular artery.r,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Posterior circumflex humeral artery.l,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Maxillary artery.r,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Basilic vein.r,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Deep palmar arch.r,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Dorsal metacarpal arteries.l,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Left subclavian artery,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Median antebrachial vein.l,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Radial veins.r,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Proper palmar digital arteries.l,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Deep venous palmar arch.l,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Plantar digital veins.l,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Proper plantar digital arteries.r,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Maxillary veins.r,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Posterior interosseous artery.l,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Palmar digital veins.l,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Palmar carpal branch of radial artery.l,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Cephalic vein.l,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Proper plantar digital arteries.l,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Suprascapular artery.l,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Basilic vein.l,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Axillary vein.l,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Dorsal carpal branch of ulnar artery.l,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Dorsal digital arteries of hand.l,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Dorsal digital veins of hand.l,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Posterior circumflex humeral vein.r,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Anterior circumflex humeral artery.r,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Brachial artery.r,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Suprascapular vein.l,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Radial veins.l,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Right subclavian artery,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Common plantar digital arteries.l,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Ulnar artery.r,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Median cubital vein.r,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Dorsal carpal branch of ulnar artery.r,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Maxillary artery.l,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Common palmar digital arteries.r,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Ulnar veins.r,MESH,False,False,False,False,False
+OBJECT,08 Upper Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Left subclavian vein,MESH,False,False,False,False,False
+COLLECTION,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,,,False,False,,,
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Inferior lateral genicular artery.l,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Posterior tibial veins.r,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Dorsal metatarsal veins.r,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Middle genicular artery.r,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Deep femoral vein.r,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Calcaneal branches of fibular artery.l,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Popliteal artery.r,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Deep plantar artery.r,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Great saphenous vein.r,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Posterior tibial artery.r,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Lateral circumflex femoral artery.r,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Femoral artery.r,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Dorsalis pedis artery.r,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Fibular veins.r,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Anterior tibial veins.l,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Popliteal vein.l,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Genicular veins.r,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Superior lateral genicular artery.r,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Perforating branches of plantar metatarsal arteries.r,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Fibular artery.r,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Plantar metatarsal arteries.r,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Descending branch of lateral circumflex femoral artery,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Lateral circumflex femoral artery.l,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Superior medial genicular artery.r,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Popliteal vein.r,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Femoral vein.l,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Calcaneal branches of posterior tibial artery.r,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Medial circumflex femoral artery.r,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Genicular veins.l,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Plantar metatarsal veins.l,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Medial plantar artery.r,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Inferior medial genicular artery.l,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Lateral plantar veins.r,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Small saphenous vein.r,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Dorsal venous arch of foot.l,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Deep femoral vein.l,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Medial plantar veins.r,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Anterior tibial artery.r,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Dorsal metatarsal arteries.r,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Inferior medial genicular artery.r,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Plantar metatarsal veins.r,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Lateral circumflex femoral veins.l,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Great saphenous vein.l,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Middle genicular artery.l,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Posterior tibial artery.l,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Femoral vein.r,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Superficial branch of medial plantar artery.l,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Dorsal metatarsal veins.l,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Lateral plantar artery.r,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Small saphenous vein.l,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Dorsal venous arch of foot.r,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Plantar metatarsal arteries.l,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Anterior tibial artery.l,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Popliteal artery.l,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Lateral circumflex femoral veins.r,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Deep femoral artery.r,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Fibular veins.l,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Inferior lateral genicular artery.r,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Medial circumflex femoral artery.l,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Medial circumflex femoral veins.l,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Descending branch of lateral circumflex femoral artery.l,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Calcaneal branches of posterior tibial artery.l,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Dorsal metatarsal arteries.l,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Medial plantar artery.l,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Superficial branch of medial plantar artery.r,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Deep plantar artery.l,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Lateral plantar artery.l,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Lateral plantar veins.l,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Calcaneal branches of fibular artery.r,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Medial circumflex femoral veins.r,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Femoral artery.l,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Fibular artery.l,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Perforating branches of plantar metatarsal arteries.l,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Medial plantar veins.l,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Superior medial genicular artery.l,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Posterior tibial veins.l,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Superior lateral genicular artery.l,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Deep femoral artery.l,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Dorsalis pedis artery.l,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Anterior tibial veins.r,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Dorsal carpal anastomosis.l,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Dorsal carpal anastomosis.r,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Palmar metacarpal arteries.l,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Palmar metacarpal arteries.r,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Perforating femoral arteries.l,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Perforating femoral arteries.r,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Perforating veins.l,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Perforating veins.r,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Patellar anastomosis.l,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Patellar anastomosis.r,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Arcuate artery.l,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Arcuate artery.r,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Intercapitular veins of foot.l,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Intercapitular veins of foot.r,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Lateral tarsal artery.l,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Lateral tarsal artery.r,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Plantar arch.l,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Plantar arch.r,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Plantar venous arch.l,MESH,False,False,False,False,False
+OBJECT,09 Lower Extremity Vessels,CARDIOVASCULAR SYSTEM,1,Plantar venous arch.r,MESH,False,False,False,False,False

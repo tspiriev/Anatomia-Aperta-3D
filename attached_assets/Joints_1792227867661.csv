@@ -1,0 +1,530 @@
+row_type,collection_name,parent_collection,depth,object_name,object_type,collection_hide_viewport,collection_exclude_view_layer,object_hide_viewport,object_hidden_get,object_hide_render
+COLLECTION,Collection,Scene Collection,0,,,False,False,,,
+OBJECT,Collection,Scene Collection,0,Stylohyoid ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Intervertebral disc T8-T9,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Articular capsule of interphalangeal joint of great toe.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Intercarpal joints.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Ball and socket joint.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Costotransverse ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Intersesamoid ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Articular disc of distal radio-ulnar joint.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Dorsal intercuneiform ligaments.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Ulnolunate ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Nucleus pulposus C3-C4,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Cranial syndesmoses.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Superior tibiofibular joint.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Intertarsal joints.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Interosseous membrane of forearm.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Dorsal intercarpal ligaments.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Intervertebral disc L4-L5,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Acetabular labrum.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Joints of free lower limb.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Intervertebral disc T10-T11,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Radioscaphocapitate ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Ischiofemoral ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Articular capsule of sternoclavicular joint.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Articular capsule of superior tibiofibular joint.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Syndesmoses.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Palmar carpometacarpal ligaments.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Interchondral joints.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Collateral interphalangeal ligaments of hand.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Intersesamoid ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Palmar trapezoideocapitate ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Sternoclavicular joint.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Temporomandibular joint.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Middle glenohumeral ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Quadrangular membrane.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Obturator membrane.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Limbous suture.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Sacro-iliac joint.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Annular ligament of radius.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Posterior talofibular ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Anterior sacro-iliac ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Coracohumeral ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Nucleus pulposus L5-S1,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Talocalcaneal interosseous ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Anterior tibiofibular ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Intervertebral disc C7-T1,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Ligament of head of femur.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Trapezoideocapitate interosseous ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Dorsal cuneonavicular ligaments.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Articular capsule of radiocarpal joint.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Transverse acetabular ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Lateral talocalcaneal ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Oblique cord.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Posterior ligament of fibular head.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Posterior cruciate ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Articular disc of acromioclavicular joint.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Nucleus pulposus T10-T11,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Collateral interphalangeal ligaments of hand.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Cuneometatarsal interosseous ligaments.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Articular capsules of metacarpophalangeal joints.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Crico-arytenoid joint.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Synarthrosis.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Ulnar collateral ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Intervertebral disc T6-T7,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Dorsal calcaneocuboid ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Glenohumeral joint.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Tibionavicular ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Triradiate cartilage.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Coracohumeral ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Plantar cuboideonavicular ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Nucleus pulposus T2-T3,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Plane joint.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Articular disc of temporomandibular joint.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Intervertebral disc C3-C4,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Cartilaginous joints of vertebral column.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Lunotriquetral interosseous ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Joints of free upper limb.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Long plantar ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Articular capsule of knee joint.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Articular capsule of interphalangeal joint of great toe.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Anterior sternoclavicular ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Synostosis.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Anterior longitudinal ligament,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Articular capsule of knee joint.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Trapezoid ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Nucleus pulposus L2-L3,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Dorsal radiocarpal ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Interosseous membrane of forearm.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Articular capsule.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Joints of vertebral column.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Collateral metatarsophalangeal ligaments.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Anterior meniscotibial ligament (Medial meniscus).l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Zygapophysial joints.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Intervertebral disc T2-T3,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Palmar radio-ulnar ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Stylomandibular ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Dorsal tarsometatarsal ligaments.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Interosseous metacarpal ligaments.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Palmar trapezoideocapitate ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,External intercostal membrane.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Interpubic disc,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Middle glenohumeral ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Plantar cuneocuboid ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Nucleus pulposus T6-T7,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Collateral metacarpophalangeal ligaments.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Dorsal radiocarpal ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Articular capsules of metatarsophalangeal joints.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Plantar calcaneocuboid ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Infrapatellar fat pad.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Posterior tibiofibular ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Popliteofibular ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Medial meniscus.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Ligamenta flava,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Superior transverse scapular ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Intervertebral disc T9-T10,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Intermetatarsal joints.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Plantar calcaneonavicular ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Palmar metacarpal ligaments.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Articular capsule of sternoclavicular joint.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Articular fibrocartilage.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Dorsal radio-ulnar ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Schindylesis.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Ulnocapitate ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Intervertebral disc T1-T2,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Radioscaphocapitate ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Plantar intercuneiform ligaments.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Inferior glenohumeral ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Triquetrocapitate ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Nucleus pulposus C2-C3,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Iliolumbar ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Dorsal metacarpal ligaments.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Articular disc of temporomandibular joint.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Intervertebral symphysis.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Tibionavicular ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Quadrate ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Anterior meniscotibial ligament (Lateral meniscus).l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Posterior meniscotibial ligament (Medial meniscus).r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Anterior talocalcaneal ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Cricopharyngeal ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Intervertebral disc L5-S1,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Articular capsule of radiocarpal joint.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Plantar metatarsophalangeal ligaments.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Radiocapitate ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Ligament of head of femur.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Articular disc of sternoclavicular joint.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Intra-articular ligament of head of rib.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Collateral interphalangeal ligaments of foot.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Interosseous membrane of leg.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Bicondylar joint.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Costoclavicular ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Talocalcaneal interosseous ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Dorsal metatarsal ligaments.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Deep transverse metacarpal ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Radio-ulnar syndesmoses.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Sutures.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Nucleus pulposus C6-C7,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Obturator membrane.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Interosseous ligament.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Synovial joints of pelvic girdle.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Tibiofibular syndesmosis.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Deep transverse metatarsal ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Anterior talofibular ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Posterior sacro-iliac ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Transverse humeral ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Lateral talocalcaneal ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Cylindrical joints.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Palmar radio-ulnar ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Intervertebral disc L1-L2,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Articular capsule of hip joint.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Coraco-acromial ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Lunotriquetral interosseous ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Plantar cuneonavicular ligaments.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Acetabular labrum.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Oblique cord.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Talonavicular ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Intercornual ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Anterior cruciate ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Articular capsules of distal interphalangeal joints.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Articular capsule of acromioclavicular joint.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Lateral temporomandibular ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Simple joint.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Ulnar collateral ligament of wrist joint.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Palmar interphalangeal ligaments.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Dorsal metatarsal ligaments.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Triquetrohamate ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Joint of head of rib.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Amphiarthrosis.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Posterior tibiotalar ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Plantar metatarsophalangeal ligaments.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Posterior talocalcaneal ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Posterior meniscotibial ligament (Medial meniscus).l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Sternochondral joints.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Intervertebral disc T7-T8,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Ischiofemoral ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Costoclavicular ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Medial talocalcaneal ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Distal radio-ulnar joint.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Synovial joints of free upper limb.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Anterior sacro-iliac ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Transverse humeral ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Dorsal cuboideonavicular ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Nucleus pulposus T1-T2,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Anterior tibiofibular ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Intervertebral disc C4-C5,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Ulnar collateral ligament of wrist joint.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Synovial joints of vertebral column.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Scapholunate interosseous ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Long plantar ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Meniscopatellar ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Transverse tibiofibular ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Anterior ligament of fibular head.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Anterior sternoclavicular ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Articular disc of acromioclavicular joint.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Arcuate popliteal ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Meniscopatellar ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Triquetrocapitate ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Conoid ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Nucleus pulposus L1-L2,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Articular disc of sternoclavicular joint.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Interosseous metacarpal ligaments.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Intervertebral disc C2-C3,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Ligaments of epiglottis.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Thoracic joints.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Sternochondral synchondrosis of first rib.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Intervertebral disc T3-T4,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Sphenomandibular ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Plantar tarsometatarsal ligaments.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Superior glenohumeral ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Palmar lunotriquetral ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Internal intercostal membrane.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Inferior pubic ligament,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Pterygospinous ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Inferior glenohumeral ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Cuneocuboid interosseous ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Nucleus pulposus T5-T6,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Fibrous joints of thorax.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Articular capsule of elbow joint.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Calcaneonavicular ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Posterior meniscotibial ligament (Lateral meniscus).l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Dorsal scaphotriquetral ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Dorsal calcaneocuboid ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Calcaneonavicular ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Arcuate popliteal ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Deep transverse metatarsal ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Ulnocapitate ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Synchondroses.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Superficial part of tibial collateral ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Inferior transverse scapular ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Posterior talocalcaneal ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Accessory ligaments.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Transverse part of iliofemoral ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Dorsal carpometacarpal ligaments.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Plane suture.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Pubofemoral ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Median atlanto-axial joint.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Humero-ulnar joint.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Stylohyoid ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Scapholunate interosseous ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Intercuneiform interosseous ligaments.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Triquetrohamate ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Sacrococcygeal symphysis,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Joints of foot.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Ulnotriquetral ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Sacrospinous ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Articular capsules of proximal interphalangeal joints of foot.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Lumbosacral symphysis.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Fibrous joints of free lower limb.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Collateral metatarsophalangeal ligaments.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Nucleus pulposus T9-T10,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Descending part of iliofemoral ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Ulnopisiform ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Articular capsule of hip joint.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Joints of auditory ossicles.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Interspinous ligaments,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Symphysis.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Metatarsophalangeal joints.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Costotransverse ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Articular recess.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Plantar metatarsal ligaments.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Articular capsules of proximal interphalangeal joints.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Elbow joint.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Metacarpophalangeal joints.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Synovial joints of pectoral girdle.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Ulnopisiform ligament,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Nucleus pulposus C5-C6,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Articular capsule of elbow joint.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Superior transverse scapular ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Sacrotuberous ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Articular disc of distal radio-ulnar joint.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Interosseous membrane.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Hip joint.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Synovial joints of free lower limb.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Interosseous sacro-iliac ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Transverse acetabular ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Transverse tibiofibular ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Intervertebral disc L2-L3,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Frenula capsulae.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Pisohamate ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Pubofemoral ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Superior glenohumeral ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Intertransverse ligaments.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Anterior cruciate ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Palmar scaphotriquetral ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Intra-articular ligament of head of rib,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Articular capsules of proximal interphalangeal joints.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Articular capsules of proximal interphalangeal joints of foot.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Pisotriquetral ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Fibrous joints of free upper limb.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Costotransverse joint.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Diarthrosis.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Iliolumbar ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Quadrate ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Serrate suture.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Radiocarpal joint.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Cricopharyngeal ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Fibrous joints of pelvic girdle.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Posterior sacro-iliac ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Articular capsule of temporomandibular joint.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Articular capsule of glenohumeral joint.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Plantar cuboideonavicular ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Nucleus pulposus C7-T1,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Radial collateral ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Lateral thyrohyoid ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Intervertebral disc C5-C6,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Zona orbicularis.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Trapeziotrapezoidal interosseous ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Palmar lunotriquetral ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Dorsal cuneonavicular ligaments.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Joints of skull.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Transverse ligament of knee.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Plantar metatarsal ligaments.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Transverse part of iliofemoral ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Interclavicular ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Nuchal ligament,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Transverse ligament of knee.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Articular capsule of acromioclavicular joint.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Humeroradial joint.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Nucleus pulposus T12-L1,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Radiate ligament of head of rib.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Scaphocapitate ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Fibro-elastic membrane of larynx.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Joints of upper limb.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Palmar carpometacarpal ligaments.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Costochondral joints.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Intervertebral disc T4-T5,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Cuneometatarsal interosseous ligaments.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Scaphotrapeziotrapezoidal ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Fibrous joints of pectoral girdle.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Superior pubic ligament,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Articular capsule of glenohumeral joint.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Dorsal cuneocuboid ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Nucleus pulposus T4-T5,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Sacrospinous ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Capitohamate interosseous ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Plantar calcaneocuboid ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Saddle joint.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Popliteofibular ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Radial collateral ligament of wrist joint.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Deep part of tibial collateral ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Trapezoid ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Nucleus pulposus L4-L5,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Costovertebral joints.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Laryngeal joints.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Plantar interphalangeal ligaments.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Palmar interphalangeal ligaments.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Interphalangeal joints of foot.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Dorsal ulnocarpal ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Lateral atlanto-axial joint.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Intervertebral disc T11-T12,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Pterygospinous ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Dorsal intercuneiform ligaments.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Interphalangeal joints of hand.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Radial collateral ligament of wrist joint.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Articular capsules of metatarsophalangeal joints.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,External intercostal membrane.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Radial collateral ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Inferior transverse scapular ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Anterior meniscotibial ligament (Lateral meniscus).r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Sacrococcygeal joint.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Quadrangular membrane.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Cuneocuboid interosseous ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Nucleus pulposus T8-T9,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Fibular collateral ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Calcaneocuboid ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Calcaneofibular ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Tarsometatarsal joints.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Posterior tibiofibular ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Articular capsule of superior tibiofibular joint.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Pisohamate ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Articular capsules of distal interphalangeal joints of foot.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Coraco-acromial ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Radiocapitate ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Metatarsal interosseous ligaments.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Trapeziotrapezoidal interosseous ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Collateral metacarpophalangeal ligaments.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Palmar capitohamate ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Intercuneiform interosseous ligaments.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Scaphocapitate ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Nucleus pulposus C4-C5,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Sacrotuberous ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Gomphosis.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Knee joint.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Thyrohyoid membrane.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Sphenomandibular ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Calcaneofibular ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Synovial joints of thorax.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Collateral interphalangeal ligaments of foot.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Deep part of tibial collateral ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Median cricothyroid ligament,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Intervertebral disc L3-L4,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Joints of pelvic girdle.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Pisometacarpal ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Calcaneocuboid ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Fibrous joints.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Ankle joint.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Zona orbicularis.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Lateral collateral ligament of ankle.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Pisotriquetral ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Posterior sternoclavicular ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Articular cavity.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Posterior ligament of fibular head.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Palmar metacarpal ligaments.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Dorsal scaphotriquetral ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Posterior tibiotalar ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Proximal radio-ulnar joint.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Dorsal carpometacarpal ligaments.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Anterior talocalcaneal ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Medial talocalcaneal ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Metatarsal interosseous ligaments.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Articular capsules of metacarpophalangeal joints.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Acromioclavicular joint.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Cranial fibrous joints.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Dorsal metacarpal ligaments.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Denticulate suture.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Joints of hand.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Cartilaginous joints of pelvic girdle.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Interosseous sacro-iliac ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Glenoid labrum.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Articular capsules of distal interphalangeal joints.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Ulnotriquetral ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Dorsal cuboideonavicular ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Anterior meniscotibial ligament (Medial meniscus).r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Lateral thyrohyoid ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Intervertebral disc C6-C7,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Cartilaginous joints of thorax.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Capitohamate interosseous ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Infrapatellar fat pad.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Intermetacarpal joints.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Plantar cuneonavicular ligaments.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Ellipsoid joint.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Fibular collateral ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Plantar calcaneonavicular ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Descending part of iliofemoral ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Posterior sternoclavicular ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Intertransverse ligaments.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Acromioclavicular ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Posterior cruciate ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Acromioclavicular ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Nucleus pulposus T11-T12,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Medial meniscus.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Posterior longitudinal ligament,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Plantar tarsometatarsal ligaments.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Palmar scaphotriquetral ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Cricothyroid joint.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Joints of lower limb.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Median thyrohyoid ligament,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Radiate carpal ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Synovial joints of larynx.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Cartilaginous joints of sternum.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Intervertebral disc T5-T6,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Dorsal tarsometatarsal ligaments.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Medial collateral ligament of ankle.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Tibiocalcaneal ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Articular capsules of distal interphalangeal joints of foot.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Ulnar collateral ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Tibiocalcaneal ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Posterior meniscotibial ligament (Lateral meniscus).r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Triradiate cartilage.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Glenoid labrum.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Plantar cuneocuboid ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Synovial joint.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Nucleus pulposus T3-T4,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Dorsal intercarpal ligaments.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Fibrous joints of vertebral column.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Trapezoideocapitate interosseous ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Talonavicular ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Scaphotrapeziotrapezoidal ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Lateral meniscus.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Radiate carpal ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Dorsal radio-ulnar ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Superficial part of tibial collateral ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Anterior talofibular ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Oblique popliteal ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Lateral meniscus.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Conoid ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Anterior ligament of fibular head.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Pisometacarpal ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Nucleus pulposus L3-L4,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Fibrous joints of larynx.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Palmar capitohamate ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Uncovertebral joints.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Plantar interphalangeal ligaments.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Intervertebral disc T12-L1,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Interclavicular ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Deep transverse metacarpal ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Stylomandibular ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Plantar intercuneiform ligaments.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Radiate ligament of head of rib.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Dorsal ulnocarpal ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Internal intercostal membrane.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Pubic symphysis,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Intercornual ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Dorsal cuneocuboid ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Supraspinous ligament,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Nucleus pulposus T7-T8,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Carpometacarpal joints.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Complex joint.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Articular capsule of temporomandibular joint.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Frenula capsulae.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Posterior talofibular ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Joints of pectoral girdle.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Annular ligament of radius.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Interosseous membrane of leg.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Lateral temporomandibular ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Oblique popliteal ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Ulnolunate ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Cartilaginous joints.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Inguinal ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Inguinal ligament.l,MESH,False,False,False,False,False

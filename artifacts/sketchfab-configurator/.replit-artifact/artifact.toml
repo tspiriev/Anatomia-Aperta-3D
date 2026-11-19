@@ -1,0 +1,107 @@
+kind = "web"
+previewPath = "/"
+title = "Anatomia Aperta 3D"
+version = "1.0.0"
+id = "artifacts/sketchfab-configurator"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 18169
+
+[services.development]
+run = "pnpm --filter @workspace/sketchfab-configurator run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/sketchfab-configurator", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/sketchfab-configurator/dist/public"
+
+# Route-specific HTML serves metadata and readable content without JavaScript.
+# No catch-all: the static host serves 404.html with HTTP 404 for unknown URLs.
+[[services.production.rewrites]]
+from = "/atlas"
+to = "/atlas/index.html"
+[[services.production.rewrites]]
+from = "/atlas/central-nervous-system"
+to = "/atlas/central-nervous-system/index.html"
+[[services.production.rewrites]]
+from = "/atlas/brain"
+to = "/atlas/brain/index.html"
+[[services.production.rewrites]]
+from = "/atlas/brainstem-and-cerebellum"
+to = "/atlas/brainstem-and-cerebellum/index.html"
+[[services.production.rewrites]]
+from = "/atlas/cranial-nerves"
+to = "/atlas/cranial-nerves/index.html"
+[[services.production.rewrites]]
+from = "/atlas/autonomic-nervous-system"
+to = "/atlas/autonomic-nervous-system/index.html"
+[[services.production.rewrites]]
+from = "/atlas/brachial-plexus"
+to = "/atlas/brachial-plexus/index.html"
+[[services.production.rewrites]]
+from = "/atlas/lumbar-sacral-plexuses"
+to = "/atlas/lumbar-sacral-plexuses/index.html"
+[[services.production.rewrites]]
+from = "/atlas/long-tracts"
+to = "/atlas/long-tracts/index.html"
+[[services.production.rewrites]]
+from = "/atlas/spinal-cord-anatomy"
+to = "/atlas/spinal-cord-anatomy/index.html"
+[[services.production.rewrites]]
+from = "/atlas/thalamus-internal-capsule"
+to = "/atlas/thalamus-internal-capsule/index.html"
+[[services.production.rewrites]]
+from = "/atlas/temporal-stem-sagittal-stratum"
+to = "/atlas/temporal-stem-sagittal-stratum/index.html"
+[[services.production.rewrites]]
+from = "/atlas/musculoskeletal-system"
+to = "/atlas/musculoskeletal-system/index.html"
+[[services.production.rewrites]]
+from = "/atlas/skull-base"
+to = "/atlas/skull-base/index.html"
+[[services.production.rewrites]]
+from = "/atlas/head-neck"
+to = "/atlas/head-neck/index.html"
+[[services.production.rewrites]]
+from = "/atlas/neck"
+to = "/atlas/neck/index.html"
+[[services.production.rewrites]]
+from = "/atlas/upper-limb"
+to = "/atlas/upper-limb/index.html"
+[[services.production.rewrites]]
+from = "/atlas/lower-limb"
+to = "/atlas/lower-limb/index.html"
+[[services.production.rewrites]]
+from = "/atlas/spinal-cord-anatomy/model/cdee163998f24ccc856366353b3269fa"
+to = "/atlas/spinal-cord-anatomy/model/cdee163998f24ccc856366353b3269fa/index.html"
+[[services.production.rewrites]]
+from = "/atlas/spinal-cord-anatomy/model/e5e647a4351d41fd92842bdf88454526"
+to = "/atlas/spinal-cord-anatomy/model/e5e647a4351d41fd92842bdf88454526/index.html"
+[[services.production.rewrites]]
+from = "/atlas/spinal-cord-anatomy/model/35a28dea4dc049da9c549368cbeaf105"
+to = "/atlas/spinal-cord-anatomy/model/35a28dea4dc049da9c549368cbeaf105/index.html"
+[[services.production.rewrites]]
+from = "/about"
+to = "/about/index.html"
+[[services.production.rewrites]]
+from = "/sources"
+to = "/sources/index.html"
+[[services.production.rewrites]]
+from = "/contact"
+to = "/contact/index.html"
+[[services.production.rewrites]]
+from = "/terms-of-use"
+to = "/terms-of-use/index.html"
+[[services.production.rewrites]]
+from = "/licensing-attribution"
+to = "/licensing-attribution/index.html"
+[[services.production.rewrites]]
+from = "/privacy-policy"
+to = "/privacy-policy/index.html"
+
+[services.env]
+PORT = "18169"
+BASE_PATH = "/"

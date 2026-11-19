@@ -1,0 +1,77 @@
+Terms of Use
+Anatomia Aperta 3D — Terms of Use
+Last updated: October 2026
+Anatomia Aperta 3D is a nonprofit, open-access project providing interactive three-dimensional human anatomy for education, teaching, scientific research, and anatomical exploration. Anatomia Aperta 3D operates as a nonprofit educational initiative and may accept voluntary donations to support its development, maintenance, and continued availability. Donations are optional and do not affect access to the atlas or the licensing conditions applicable to its anatomical datasets.
+By accessing or using this website, you acknowledge and agree to the following terms.
+Educational and Research Purpose
+The anatomical models, illustrations, annotations, descriptions, and other materials presented through Anatomia Aperta 3D are provided for educational, academic, and research purposes.
+The atlas is not intended to provide medical advice and should not be considered a substitute for authoritative anatomical references, professional medical education, clinical judgment, diagnostic evaluation, or patient-specific medical assessment.
+Anatomical Accuracy
+The anatomical datasets incorporated into Anatomia Aperta 3D have undergone review, correction, reconstruction, reorganization, and expansion.
+Every effort has been made to provide anatomically accurate representations, and modifications have been performed to the best of the author’s anatomical knowledge. Nevertheless, anatomical models are representations of human anatomy and may contain inaccuracies, simplifications, omissions, or technical limitations.
+Users are responsible for independently verifying anatomical information when it is used for scientific, educational, clinical, or other professional purposes.
+If an anatomical error is identified, users are encouraged to report it through the project’s GitHub repository, preferably with appropriate anatomical references.
+Clinical Use
+Anatomia Aperta 3D is not a medical device and has not been developed or validated for diagnosis, treatment, surgical navigation, patient-specific surgical planning, or other regulated clinical applications.
+Any clinical or professional use of information obtained from the atlas remains the responsibility of the individual user.
+Intellectual Property and Licensing
+Anatomia Aperta 3D builds upon open anatomical resources created by other projects and contributors, particularly BodyParts3D/Anatomography and Z-Anatomy.
+Use, modification, and redistribution of downloadable datasets are governed by the applicable licenses of the respective source material and by the licensing information provided by Anatomia Aperta 3D.
+Third-party materials remain subject to their original licenses and attribution requirements.
+Please consult the Licensing & Attribution section before downloading, modifying, redistributing, or incorporating project materials into another work.
+Availability and Updates
+Anatomia Aperta 3D is an evolving project. Anatomical models, annotations, interfaces, organization, datasets, and other content may be corrected, expanded, modified, replaced, or removed as the atlas develops.
+Continuous availability of the website, viewer, downloadable datasets, or external resources is not guaranteed.
+Disclaimer
+The project and its content are provided in good faith as an open educational and scientific resource.
+To the extent permitted by applicable law, the project contributors make no warranty regarding completeness, accuracy, reliability, availability, or suitability for a particular purpose.
+Use of the website and its resources is at the user’s own discretion and responsibility.
+ 
+Licensing & Attribution
+Anatomia Aperta 3D — Licensing & Attribution
+Anatomia Aperta 3D is committed to open anatomical education, transparent provenance, and appropriate attribution of the resources on which the project is built.
+The atlas combines and develops anatomical material originating from several open resources. Consequently, users should consider the provenance and applicable license of the material they intend to reuse.
+BodyParts3D / Anatomography
+A substantial component of the anatomical geometry underlying Anatomia Aperta 3D originates from BodyParts3D/Anatomography, developed by the Database Center for Life Science (DBCLS), Japan.
+BodyParts3D has been distributed under Creative Commons licensing. The applicable license may depend upon the particular version of the source dataset.
+Users should consult the original BodyParts3D documentation and the detailed licensing information provided in the Anatomia Aperta 3D GitHub repository before redistributing source-derived material.
+Z-Anatomy
+Anatomia Aperta 3D also builds upon Z-Anatomy — The Libre 3D Atlas of Anatomy.
+Z-Anatomy itself incorporates material from multiple sources. Components derived from Z-Anatomy therefore remain subject to the applicable licensing and attribution requirements identified by the original project.
+Anatomia Aperta 3D Modifications
+The source anatomical resources have been extensively reviewed, corrected, reorganized, reconstructed, and expanded for Anatomia Aperta 3D.
+This work includes anatomical corrections and additions, reconstruction of neural structures and pathways, organization of anatomical datasets, modification of materials, and development of the interactive 3D presentation and anatomical hierarchy.
+A complete chronological record of these changes is publicly available in the project’s MODIFICATIONS.md document.
+Third-Party Material
+Nothing in the Anatomia Aperta 3D licensing documentation is intended to remove, replace, or restrict the attribution requirements or licensing conditions attached to third-party material.
+Where material originates from another project or creator, its original copyright, license, and attribution requirements remain applicable.
+Users intending to redistribute, modify, publish, or commercially reuse individual models should review the provenance and applicable licensing conditions of the relevant source material.
+Attribution
+When using Anatomia Aperta 3D materials, acknowledgment of both the project and the relevant original anatomical sources is encouraged and, where required by the applicable license, mandatory.
+A suggested general attribution is:
+Anatomia Aperta 3D — anatomical models derived from BodyParts3D/Anatomography and Z-Anatomy, with anatomical corrections, reconstructions, additions, organization, and interactive 3D visualization developed for Anatomia Aperta 3D.
+Where applicable, the original BodyParts3D/Anatomography, Z-Anatomy, and other third-party contributors should also be acknowledged according to their respective licensing requirements.
+Full Licensing Documentation
+The authoritative project documentation, including detailed source attribution, applicable licensing information, the modification record, and access to the downloadable datasets, is maintained in the official Anatomia Aperta 3D GitHub repository.
+Users planning to redistribute or adapt the datasets should consult that documentation before doing so.
+ 
+Privacy Policy
+Anatomia Aperta 3D — Privacy Policy
+Last updated: October 2026
+Anatomia Aperta 3D is designed as an open-access anatomical resource and does not require user registration or user accounts.
+The Anatomia Aperta 3D website does not intentionally collect, request, or store personal information from its visitors.
+The project does not maintain user profiles or databases containing visitor personal information.
+External Services
+The website may provide links to external services and resources, including GitHub, OneDrive, BodyParts3D/Anatomography, Z-Anatomy, and other scientific or educational websites.
+When users follow these links, they leave Anatomia Aperta 3D and become subject to the privacy policies and terms of the respective external service.
+Anatomia Aperta 3D does not control the data practices of third-party websites or services.
+Changes
+If the functionality of Anatomia Aperta 3D changes in the future in a way that involves collection or processing of personal information, this Privacy Policy will be updated accordingly.
+ 
+Support Anatomia Aperta 3D
+Anatomia Aperta 3D is an independent, nonprofit, open-access educational project.
+The atlas is freely available to everyone, without registration, subscription fees, or restrictions on access to its educational resources.
+The project is developed and maintained through voluntary contributions of time, expertise, and technical resources.
+Voluntary donations are welcome and help support website hosting, maintenance, continued anatomical development, corrections, and improvements to the interactive 3D atlas.
+Donations are entirely optional and do not provide preferential access to anatomical models, datasets, or educational content.
+Anatomia Aperta 3D remains committed to open anatomical education, transparent development, and appropriate acknowledgment of the original resources and contributors upon which the project is built.

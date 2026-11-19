@@ -1,0 +1,185 @@
+row_type,collection_name,parent_collection,depth,object_name,object_type,collection_hide_viewport,collection_exclude_view_layer,object_hide_viewport,object_hidden_get,object_hide_render
+COLLECTION,Collection,Scene Collection,0,,,False,False,,,
+COLLECTION,VISCERA,Scene Collection,0,,,False,False,,,
+COLLECTION,01 Respiratory System,VISCERA,1,,,False,False,,,
+OBJECT,01 Respiratory System,VISCERA,1,Pleura,MESH,False,False,False,False,False
+COLLECTION,Resp - Upper Respiratory Tract,01 Respiratory System,2,,,False,False,,,
+COLLECTION,Resp - Larynx & Trachea,01 Respiratory System,2,,,False,False,,,
+COLLECTION,Resp - Right Bronchial Tree,01 Respiratory System,2,,,False,False,,,
+COLLECTION,Resp - Left Bronchial Tree,01 Respiratory System,2,,,False,False,,,
+COLLECTION,Resp - Right Lung,01 Respiratory System,2,,,False,False,,,
+COLLECTION,Resp - Left Lung,01 Respiratory System,2,,,False,False,,,
+COLLECTION,Resp - Pleura,01 Respiratory System,2,,,False,False,,,
+COLLECTION,Upper Airways,01 Respiratory System,2,,,False,False,,,
+OBJECT,Upper Airways,01 Respiratory System,2,Nasopharynx,MESH,False,False,False,False,False
+OBJECT,Upper Airways,01 Respiratory System,2,Mucosa of nasal cavity,MESH,False,False,False,False,False
+OBJECT,Upper Airways,01 Respiratory System,2,Epiglottis,MESH,False,False,False,False,False
+COLLECTION,Tracheobronchial Tree,01 Respiratory System,2,,,False,False,,,
+OBJECT,Tracheobronchial Tree,01 Respiratory System,2,Trachea,MESH,False,False,False,False,False
+OBJECT,Tracheobronchial Tree,01 Respiratory System,2,Superior segmental bronchus of right lung (BVI),MESH,False,False,False,False,False
+OBJECT,Tracheobronchial Tree,01 Respiratory System,2,Posterior segmental bronchus of right lung (BII),MESH,False,False,False,False,False
+OBJECT,Tracheobronchial Tree,01 Respiratory System,2,Anterior segmental bronchus of right lung (BIII),MESH,False,False,False,False,False
+OBJECT,Tracheobronchial Tree,01 Respiratory System,2,Anterior basal segmental bronchus of right lung (BVIII),MESH,False,False,False,False,False
+OBJECT,Tracheobronchial Tree,01 Respiratory System,2,Medial basal segmental bronchus of right lung (BVII),MESH,False,False,False,False,False
+OBJECT,Tracheobronchial Tree,01 Respiratory System,2,Right inferior lobar bronchus,MESH,False,False,False,False,False
+OBJECT,Tracheobronchial Tree,01 Respiratory System,2,Right superior lobar bronchus,MESH,False,False,False,False,False
+OBJECT,Tracheobronchial Tree,01 Respiratory System,2,Apical segmental bronchus of right lung (BI),MESH,False,False,False,False,False
+OBJECT,Tracheobronchial Tree,01 Respiratory System,2,Middle lobar bronchus.r,MESH,False,False,False,False,False
+OBJECT,Tracheobronchial Tree,01 Respiratory System,2,Medial segmental bronchus of right lung (BV),MESH,False,False,False,False,False
+OBJECT,Tracheobronchial Tree,01 Respiratory System,2,Intermediate bronchus.r,MESH,False,False,False,False,False
+OBJECT,Tracheobronchial Tree,01 Respiratory System,2,Lateral basal segmental bronchus of right lung (BIX),MESH,False,False,False,False,False
+OBJECT,Tracheobronchial Tree,01 Respiratory System,2,Posterior basal segmental bronchus of right lung (BX),MESH,False,False,False,False,False
+OBJECT,Tracheobronchial Tree,01 Respiratory System,2,Lateral segmental bronchus of right lung (BIV),MESH,False,False,False,False,False
+OBJECT,Tracheobronchial Tree,01 Respiratory System,2,Right main bronchus,MESH,False,False,False,False,False
+OBJECT,Tracheobronchial Tree,01 Respiratory System,2,Posterior basal segmental bronchus of left lung (BX),MESH,False,False,False,False,False
+OBJECT,Tracheobronchial Tree,01 Respiratory System,2,Superior lingular segmental bronchus of left lung (BIV),MESH,False,False,False,False,False
+OBJECT,Tracheobronchial Tree,01 Respiratory System,2,Apicoposterior segmental bronchus of left lung (BI+BII),MESH,False,False,False,False,False
+OBJECT,Tracheobronchial Tree,01 Respiratory System,2,Anterior basal segmental bronchus of left lung (BVIII),MESH,False,False,False,False,False
+OBJECT,Tracheobronchial Tree,01 Respiratory System,2,Superior segmental bronchus of left lung (BVI),MESH,False,False,False,False,False
+OBJECT,Tracheobronchial Tree,01 Respiratory System,2,(Anteromedial basal segmental bronchus of left lung),MESH,False,False,False,False,False
+OBJECT,Tracheobronchial Tree,01 Respiratory System,2,Left main bronchus,MESH,False,False,False,False,False
+OBJECT,Tracheobronchial Tree,01 Respiratory System,2,Anterior segmental bronchus of left lung (BIII),MESH,False,False,False,False,False
+OBJECT,Tracheobronchial Tree,01 Respiratory System,2,Left superior lobar bronchus,MESH,False,False,False,False,False
+OBJECT,Tracheobronchial Tree,01 Respiratory System,2,Left inferior lobar bronchus,MESH,False,False,False,False,False
+OBJECT,Tracheobronchial Tree,01 Respiratory System,2,Medial basal segmental bronchus of left lung (BVII),MESH,False,False,False,False,False
+OBJECT,Tracheobronchial Tree,01 Respiratory System,2,Lateral basal segmental bronchus of left lung (BIX),MESH,False,False,False,False,False
+OBJECT,Tracheobronchial Tree,01 Respiratory System,2,Inferior lingular segmental bronchus of left lung (BV),MESH,False,False,False,False,False
+COLLECTION,Right Lung,01 Respiratory System,2,,,False,False,,,
+OBJECT,Right Lung,01 Respiratory System,2,Inferior lobe of right lung,MESH,False,False,False,False,False
+OBJECT,Right Lung,01 Respiratory System,2,Superior lobe of right lung,MESH,False,False,False,False,False
+OBJECT,Right Lung,01 Respiratory System,2,Middle lobe of right lung,MESH,False,False,False,False,False
+COLLECTION,Left Lung,01 Respiratory System,2,,,False,False,,,
+OBJECT,Left Lung,01 Respiratory System,2,Inferior lobe of left lung,MESH,False,False,False,False,False
+OBJECT,Left Lung,01 Respiratory System,2,Superior lobe of left lung,MESH,False,False,False,False,False
+COLLECTION,02 Digestive System,VISCERA,1,,,False,False,,,
+OBJECT,02 Digestive System,VISCERA,1,Lesser omentum,MESH,False,False,False,False,False
+OBJECT,02 Digestive System,VISCERA,1,Greater omentum,MESH,False,False,False,False,False
+COLLECTION,Digestive - Oral Cavity & Salivary Glands,02 Digestive System,2,,,False,False,,,
+COLLECTION,Digestive - Pharynx,02 Digestive System,2,,,False,False,,,
+COLLECTION,Digestive - Oesophagus,02 Digestive System,2,,,False,False,,,
+COLLECTION,Digestive - Stomach,02 Digestive System,2,,,False,False,,,
+COLLECTION,Digestive - Small Intestine,02 Digestive System,2,,,False,False,,,
+COLLECTION,Digestive - Large Intestine,02 Digestive System,2,,,False,False,,,
+COLLECTION,Digestive - Liver,02 Digestive System,2,,,False,False,,,
+COLLECTION,Digestive - Gallbladder & Biliary Tract,02 Digestive System,2,,,False,False,,,
+COLLECTION,Digestive - Pancreas,02 Digestive System,2,,,False,False,,,
+COLLECTION,Digestive - Peritoneum & Mesenteries,02 Digestive System,2,,,False,False,,,
+COLLECTION,Oral Cavity & Salivary Glands,02 Digestive System,2,,,False,False,,,
+OBJECT,Oral Cavity & Salivary Glands,02 Digestive System,2,(Accessory parotid gland).r,MESH,False,False,False,False,False
+OBJECT,Oral Cavity & Salivary Glands,02 Digestive System,2,Submandibular duct.l,MESH,False,False,False,False,False
+OBJECT,Oral Cavity & Salivary Glands,02 Digestive System,2,Submandibular gland.l,MESH,False,False,False,False,False
+OBJECT,Oral Cavity & Salivary Glands,02 Digestive System,2,Sublingual gland.l,MESH,False,False,False,False,False
+OBJECT,Oral Cavity & Salivary Glands,02 Digestive System,2,Parotid gland.r,MESH,False,False,False,False,False
+OBJECT,Oral Cavity & Salivary Glands,02 Digestive System,2,Submandibular gland.r,MESH,False,False,False,False,False
+OBJECT,Oral Cavity & Salivary Glands,02 Digestive System,2,Uvula of palate,MESH,False,False,False,False,False
+OBJECT,Oral Cavity & Salivary Glands,02 Digestive System,2,Soft palate,MESH,False,False,False,False,False
+OBJECT,Oral Cavity & Salivary Glands,02 Digestive System,2,Gingiva,MESH,False,False,False,False,False
+OBJECT,Oral Cavity & Salivary Glands,02 Digestive System,2,Submandibular duct.r,MESH,False,False,False,False,False
+OBJECT,Oral Cavity & Salivary Glands,02 Digestive System,2,Sublingual gland.r,MESH,False,False,False,False,False
+OBJECT,Oral Cavity & Salivary Glands,02 Digestive System,2,Parotid duct.r,MESH,False,False,False,False,False
+OBJECT,Oral Cavity & Salivary Glands,02 Digestive System,2,(Accessory parotid gland).l,MESH,False,False,False,False,False
+OBJECT,Oral Cavity & Salivary Glands,02 Digestive System,2,Parotid duct.l,MESH,False,False,False,False,False
+OBJECT,Oral Cavity & Salivary Glands,02 Digestive System,2,Parotid gland.l,MESH,False,False,False,False,False
+OBJECT,Oral Cavity & Salivary Glands,02 Digestive System,2,Tongue,MESH,False,False,False,False,False
+COLLECTION,Pharynx & Oesophagus,02 Digestive System,2,,,False,False,,,
+OBJECT,Pharynx & Oesophagus,02 Digestive System,2,Laryngopharynx,MESH,False,False,False,False,False
+OBJECT,Pharynx & Oesophagus,02 Digestive System,2,Oropharynx,MESH,False,False,False,False,False
+OBJECT,Pharynx & Oesophagus,02 Digestive System,2,Oesophagus-profile,MESH,False,False,False,False,False
+OBJECT,Pharynx & Oesophagus,02 Digestive System,2,Oesophagus,MESH,False,False,False,False,False
+COLLECTION,Stomach,02 Digestive System,2,,,False,False,,,
+OBJECT,Stomach,02 Digestive System,2,Stomach,MESH,False,False,False,False,False
+OBJECT,Stomach,02 Digestive System,2,Mucosa of stomach,MESH,False,False,False,False,False
+COLLECTION,Small Intestine,02 Digestive System,2,,,False,False,,,
+OBJECT,Small Intestine,02 Digestive System,2,Jejunum,MESH,False,False,False,False,False
+OBJECT,Small Intestine,02 Digestive System,2,Duodenum,MESH,False,False,False,False,False
+COLLECTION,Large Intestine,02 Digestive System,2,,,False,False,,,
+OBJECT,Large Intestine,02 Digestive System,2,Vermiform appendix,MESH,False,False,False,False,False
+OBJECT,Large Intestine,02 Digestive System,2,Omental taenia,MESH,False,False,False,False,False
+OBJECT,Large Intestine,02 Digestive System,2,Transverse colon,MESH,False,False,False,False,False
+OBJECT,Large Intestine,02 Digestive System,2,Mesocolic taenia,MESH,False,False,False,False,False
+OBJECT,Large Intestine,02 Digestive System,2,Free taenia,MESH,False,False,False,False,False
+OBJECT,Large Intestine,02 Digestive System,2,Ascending colon,MESH,False,False,False,False,False
+OBJECT,Large Intestine,02 Digestive System,2,Sigmoid colon,MESH,False,False,False,False,False
+OBJECT,Large Intestine,02 Digestive System,2,Descending colon,MESH,False,False,False,False,False
+OBJECT,Large Intestine,02 Digestive System,2,Meso-appendix,MESH,False,False,False,False,False
+OBJECT,Large Intestine,02 Digestive System,2,Mesocolon,MESH,False,False,False,False,False
+COLLECTION,Liver & Gallbladder,02 Digestive System,2,,,False,False,,,
+OBJECT,Liver & Gallbladder,02 Digestive System,2,Left medial segment of liver (IV),MESH,False,False,False,False,False
+OBJECT,Liver & Gallbladder,02 Digestive System,2,Anterior lateral segment of liver (VI),MESH,False,False,False,False,False
+OBJECT,Liver & Gallbladder,02 Digestive System,2,Left posterior lateral segment of liver (II),MESH,False,False,False,False,False
+OBJECT,Liver & Gallbladder,02 Digestive System,2,Posterior medial segment of liver (VIII),MESH,False,False,False,False,False
+OBJECT,Liver & Gallbladder,02 Digestive System,2,Posterior lateral segment of liver (VII),MESH,False,False,False,False,False
+OBJECT,Liver & Gallbladder,02 Digestive System,2,Liver,MESH,False,False,False,False,False
+OBJECT,Liver & Gallbladder,02 Digestive System,2,Left anterior lateral segment of liver (III),MESH,False,False,False,False,False
+OBJECT,Liver & Gallbladder,02 Digestive System,2,Anterior medial segment of liver (V),MESH,False,False,False,False,False
+OBJECT,Liver & Gallbladder,02 Digestive System,2,Posterior segment of liver (I),MESH,False,False,False,False,False
+OBJECT,Liver & Gallbladder,02 Digestive System,2,Bile duct,MESH,False,False,False,False,False
+OBJECT,Liver & Gallbladder,02 Digestive System,2,Gallbladder,MESH,False,False,False,False,False
+COLLECTION,Pancreas,02 Digestive System,2,,,False,False,,,
+OBJECT,Pancreas,02 Digestive System,2,Pancreatic duct,MESH,False,False,False,False,False
+OBJECT,Pancreas,02 Digestive System,2,Accessory pancreatic duct,MESH,False,False,False,False,False
+OBJECT,Pancreas,02 Digestive System,2,Pancreas,MESH,False,False,False,False,False
+COLLECTION,03 Urinary System,VISCERA,1,,,False,False,,,
+COLLECTION,Urinary - Kidneys,03 Urinary System,2,,,False,False,,,
+COLLECTION,Urinary - Renal Pelves,03 Urinary System,2,,,False,False,,,
+COLLECTION,Urinary - Ureters,03 Urinary System,2,,,False,False,,,
+COLLECTION,Urinary - Bladder,03 Urinary System,2,,,False,False,,,
+COLLECTION,Urinary - Urethra,03 Urinary System,2,,,False,False,,,
+COLLECTION,Right Kidney & Ureter,03 Urinary System,2,,,False,False,,,
+OBJECT,Right Kidney & Ureter,03 Urinary System,2,Kidney.r,MESH,False,False,False,False,False
+OBJECT,Right Kidney & Ureter,03 Urinary System,2,Renal pelvis.r,MESH,False,False,False,False,False
+OBJECT,Right Kidney & Ureter,03 Urinary System,2,Ureter.r,MESH,False,False,False,False,False
+COLLECTION,Left Kidney & Ureter,03 Urinary System,2,,,False,False,,,
+OBJECT,Left Kidney & Ureter,03 Urinary System,2,Kidney.l,MESH,False,False,False,False,False
+OBJECT,Left Kidney & Ureter,03 Urinary System,2,Renal pelvis.l,MESH,False,False,False,False,False
+OBJECT,Left Kidney & Ureter,03 Urinary System,2,Ureter.l,MESH,False,False,False,False,False
+COLLECTION,Bladder & Urethra,03 Urinary System,2,,,False,False,,,
+OBJECT,Bladder & Urethra,03 Urinary System,2,Urinary bladder,MESH,False,False,False,False,False
+OBJECT,Bladder & Urethra,03 Urinary System,2,Urethra,MESH,False,False,False,False,False
+COLLECTION,04 Male Reproductive System,VISCERA,1,,,False,False,,,
+COLLECTION,Reproductive - Testes,04 Male Reproductive System,2,,,False,False,,,
+COLLECTION,Reproductive - Epididymides,04 Male Reproductive System,2,,,False,False,,,
+COLLECTION,Reproductive - Ductus Deferentes,04 Male Reproductive System,2,,,False,False,,,
+COLLECTION,Reproductive - Seminal Glands,04 Male Reproductive System,2,,,False,False,,,
+COLLECTION,Reproductive - Ejaculatory Ducts,04 Male Reproductive System,2,,,False,False,,,
+COLLECTION,Reproductive - Prostate,04 Male Reproductive System,2,,,False,False,,,
+COLLECTION,Reproductive - Penis,04 Male Reproductive System,2,,,False,False,,,
+COLLECTION,Testes & Epididymides,04 Male Reproductive System,2,,,False,False,,,
+OBJECT,Testes & Epididymides,04 Male Reproductive System,2,Testis.r,MESH,False,False,False,False,False
+OBJECT,Testes & Epididymides,04 Male Reproductive System,2,Testis.l,MESH,False,False,False,False,False
+OBJECT,Testes & Epididymides,04 Male Reproductive System,2,Epididymis.l,MESH,False,False,False,False,False
+OBJECT,Testes & Epididymides,04 Male Reproductive System,2,Epididymis.r,MESH,False,False,False,False,False
+COLLECTION,Ductus Deferens & Seminal Glands,04 Male Reproductive System,2,,,False,False,,,
+OBJECT,Ductus Deferens & Seminal Glands,04 Male Reproductive System,2,Ductus deferens.l,MESH,False,False,False,False,False
+OBJECT,Ductus Deferens & Seminal Glands,04 Male Reproductive System,2,Ductus deferens.r,MESH,False,False,False,False,False
+OBJECT,Ductus Deferens & Seminal Glands,04 Male Reproductive System,2,Seminal gland.r,MESH,False,False,False,False,False
+OBJECT,Ductus Deferens & Seminal Glands,04 Male Reproductive System,2,Seminal gland.l,MESH,False,False,False,False,False
+COLLECTION,Prostate & Ejaculatory Ducts,04 Male Reproductive System,2,,,False,False,,,
+OBJECT,Prostate & Ejaculatory Ducts,04 Male Reproductive System,2,Ejaculatory duct.r,MESH,False,False,False,False,False
+OBJECT,Prostate & Ejaculatory Ducts,04 Male Reproductive System,2,Ejaculatory duct.l,MESH,False,False,False,False,False
+OBJECT,Prostate & Ejaculatory Ducts,04 Male Reproductive System,2,Prostate,MESH,False,False,False,False,False
+COLLECTION,Penis,04 Male Reproductive System,2,,,False,False,,,
+OBJECT,Penis,04 Male Reproductive System,2,Corpus cavernosum of penis,MESH,False,False,False,False,False
+OBJECT,Penis,04 Male Reproductive System,2,Corpus spongiosum of penis,MESH,False,False,False,False,False
+OBJECT,Penis,04 Male Reproductive System,2,Glans penis,MESH,False,False,False,False,False
+COLLECTION,05 Endocrine System,VISCERA,1,,,False,False,,,
+COLLECTION,Endocrine - Pituitary,05 Endocrine System,2,,,False,False,,,
+COLLECTION,Endocrine - Pineal,05 Endocrine System,2,,,False,False,,,
+COLLECTION,Endocrine - Thyroid,05 Endocrine System,2,,,False,False,,,
+COLLECTION,Endocrine - Parathyroids,05 Endocrine System,2,,,False,False,,,
+COLLECTION,Endocrine - Suprarenal Glands,05 Endocrine System,2,,,False,False,,,
+COLLECTION,Pituitary & Pineal,05 Endocrine System,2,,,False,False,,,
+OBJECT,Pituitary & Pineal,05 Endocrine System,2,Neurohypophysis,MESH,False,False,False,False,False
+OBJECT,Pituitary & Pineal,05 Endocrine System,2,Adenohypophysis,MESH,False,False,False,False,False
+OBJECT,Pituitary & Pineal,05 Endocrine System,2,Pineal gland,MESH,False,False,False,False,False
+COLLECTION,Thyroid & Parathyroids,05 Endocrine System,2,,,False,False,,,
+OBJECT,Thyroid & Parathyroids,05 Endocrine System,2,Thyroid gland,MESH,False,False,False,False,False
+OBJECT,Thyroid & Parathyroids,05 Endocrine System,2,Superior parathyroid gland.l,MESH,False,False,False,False,False
+OBJECT,Thyroid & Parathyroids,05 Endocrine System,2,Superior parathyroid gland.r,MESH,False,False,False,False,False
+OBJECT,Thyroid & Parathyroids,05 Endocrine System,2,Inferior parathyroid gland.l,MESH,False,False,False,False,False
+OBJECT,Thyroid & Parathyroids,05 Endocrine System,2,Inferior parathyroid gland.r,MESH,False,False,False,False,False
+COLLECTION,Suprarenal Glands,05 Endocrine System,2,,,False,False,,,
+OBJECT,Suprarenal Glands,05 Endocrine System,2,Suprarenal gland.r,MESH,False,False,False,False,False
+OBJECT,Suprarenal Glands,05 Endocrine System,2,Suprarenal gland.l,MESH,False,False,False,False,False
+COLLECTION,99 Other - Review,VISCERA,1,,,False,False,,,
+OBJECT,99 Other - Review,VISCERA,1,Cross Section X,MESH,False,False,False,False,False

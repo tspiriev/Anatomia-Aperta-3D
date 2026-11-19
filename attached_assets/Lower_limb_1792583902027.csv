@@ -1,0 +1,1217 @@
+row_type,collection_name,parent_collection,depth,object_name,object_type,collection_hide_viewport,collection_exclude_view_layer,object_hide_viewport,object_hidden_get,object_hide_render
+COLLECTION,Collection,Scene Collection,0,,,False,False,,,
+COLLECTION,Bones,Scene Collection,0,,,False,False,,,
+OBJECT,Bones,Scene Collection,0,Vertebra T12,MESH,False,False,False,False,False
+OBJECT,Bones,Scene Collection,0,Vertebra L5,MESH,False,False,False,False,False
+OBJECT,Bones,Scene Collection,0,Vertebra L4,MESH,False,False,False,False,False
+OBJECT,Bones,Scene Collection,0,Vertebra L3,MESH,False,False,False,False,False
+OBJECT,Bones,Scene Collection,0,Vertebra L2,MESH,False,False,False,False,False
+OBJECT,Bones,Scene Collection,0,Vertebra L1,MESH,False,False,False,False,False
+OBJECT,Bones,Scene Collection,0,Twelfth rib.r,MESH,False,False,False,False,False
+OBJECT,Bones,Scene Collection,0,Twelfth rib.l,MESH,False,False,False,False,False
+OBJECT,Bones,Scene Collection,0,Tibia.r,MESH,False,False,False,False,False
+OBJECT,Bones,Scene Collection,0,Tibia.l,MESH,False,False,False,False,False
+OBJECT,Bones,Scene Collection,0,Third metatarsal bone.r,MESH,False,False,False,False,False
+OBJECT,Bones,Scene Collection,0,Third metatarsal bone.l,MESH,False,False,False,False,False
+OBJECT,Bones,Scene Collection,0,Talus.r,MESH,False,False,False,False,False
+OBJECT,Bones,Scene Collection,0,Talus.l,MESH,False,False,False,False,False
+OBJECT,Bones,Scene Collection,0,Synovial joints of free upper limb.g,EMPTY,False,False,False,False,False
+OBJECT,Bones,Scene Collection,0,Sesamoid bones of foot.r,MESH,False,False,False,False,False
+OBJECT,Bones,Scene Collection,0,Sesamoid bones of foot.l,MESH,False,False,False,False,False
+OBJECT,Bones,Scene Collection,0,Second metatarsal bone.r,MESH,False,False,False,False,False
+OBJECT,Bones,Scene Collection,0,Second metatarsal bone.l,MESH,False,False,False,False,False
+OBJECT,Bones,Scene Collection,0,Sacrum,MESH,False,False,False,False,False
+OBJECT,Bones,Scene Collection,0,Proximal phalanx of third finger of foot.r,MESH,False,False,False,False,False
+OBJECT,Bones,Scene Collection,0,Proximal phalanx of third finger of foot.l,MESH,False,False,False,False,False
+OBJECT,Bones,Scene Collection,0,Proximal phalanx of second finger of foot.r,MESH,False,False,False,False,False
+OBJECT,Bones,Scene Collection,0,Proximal phalanx of second finger of foot.l,MESH,False,False,False,False,False
+OBJECT,Bones,Scene Collection,0,Proximal phalanx of fourth finger of foot.r,MESH,False,False,False,False,False
+OBJECT,Bones,Scene Collection,0,Proximal phalanx of fourth finger of foot.l,MESH,False,False,False,False,False
+OBJECT,Bones,Scene Collection,0,Proximal phalanx of first finger of foot.r,MESH,False,False,False,False,False
+OBJECT,Bones,Scene Collection,0,Proximal phalanx of first finger of foot.l,MESH,False,False,False,False,False
+OBJECT,Bones,Scene Collection,0,Proximal phalanx of fifth finger of foot.r,MESH,False,False,False,False,False
+OBJECT,Bones,Scene Collection,0,Proximal phalanx of fifth finger of foot.l,MESH,False,False,False,False,False
+OBJECT,Bones,Scene Collection,0,Patella.r,MESH,False,False,False,False,False
+OBJECT,Bones,Scene Collection,0,Patella.l,MESH,False,False,False,False,False
+OBJECT,Bones,Scene Collection,0,Navicular bone.r,MESH,False,False,False,False,False
+OBJECT,Bones,Scene Collection,0,Navicular bone.l,MESH,False,False,False,False,False
+OBJECT,Bones,Scene Collection,0,Middle phalanx of third finger of foot.r,MESH,False,False,False,False,False
+OBJECT,Bones,Scene Collection,0,Middle phalanx of third finger of foot.l,MESH,False,False,False,False,False
+OBJECT,Bones,Scene Collection,0,Middle phalanx of second finger of foot.r,MESH,False,False,False,False,False
+OBJECT,Bones,Scene Collection,0,Middle phalanx of second finger of foot.l,MESH,False,False,False,False,False
+OBJECT,Bones,Scene Collection,0,Middle phalanx of fourth finger of foot.r,MESH,False,False,False,False,False
+OBJECT,Bones,Scene Collection,0,Middle phalanx of fourth finger of foot.l,MESH,False,False,False,False,False
+OBJECT,Bones,Scene Collection,0,Middle phalanx of fifth finger of foot.r,MESH,False,False,False,False,False
+OBJECT,Bones,Scene Collection,0,Middle phalanx of fifth finger of foot.l,MESH,False,False,False,False,False
+OBJECT,Bones,Scene Collection,0,Metacarpophalangeal joints.g,EMPTY,False,False,False,False,False
+OBJECT,Bones,Scene Collection,0,Medial cuneiform bone.r,MESH,False,False,False,False,False
+OBJECT,Bones,Scene Collection,0,Medial cuneiform bone.l,MESH,False,False,False,False,False
+OBJECT,Bones,Scene Collection,0,Lateral cuneiform bone.r,MESH,False,False,False,False,False
+OBJECT,Bones,Scene Collection,0,Lateral cuneiform bone.l,MESH,False,False,False,False,False
+OBJECT,Bones,Scene Collection,0,Joints of upper limb.g,EMPTY,False,False,False,False,False
+OBJECT,Bones,Scene Collection,0,Joints of hand.g,EMPTY,False,False,False,False,False
+OBJECT,Bones,Scene Collection,0,Joints of free upper limb.g,EMPTY,False,False,False,False,False
+OBJECT,Bones,Scene Collection,0,Intermediate cuneiform bone.r,MESH,False,False,False,False,False
+OBJECT,Bones,Scene Collection,0,Intermediate cuneiform bone.l,MESH,False,False,False,False,False
+OBJECT,Bones,Scene Collection,0,Hip bone.r,MESH,False,False,False,False,False
+OBJECT,Bones,Scene Collection,0,Hip bone.l,MESH,False,False,False,False,False
+OBJECT,Bones,Scene Collection,0,Fourth metatarsal bone.r,MESH,False,False,False,False,False
+OBJECT,Bones,Scene Collection,0,Fourth metatarsal bone.l,MESH,False,False,False,False,False
+OBJECT,Bones,Scene Collection,0,First metatarsal bone.r,MESH,False,False,False,False,False
+OBJECT,Bones,Scene Collection,0,First metatarsal bone.l,MESH,False,False,False,False,False
+OBJECT,Bones,Scene Collection,0,Fifth metatarsal bone.r,MESH,False,False,False,False,False
+OBJECT,Bones,Scene Collection,0,Fifth metatarsal bone.l,MESH,False,False,False,False,False
+OBJECT,Bones,Scene Collection,0,Fibula.r,MESH,False,False,False,False,False
+OBJECT,Bones,Scene Collection,0,Fibula.l,MESH,False,False,False,False,False
+OBJECT,Bones,Scene Collection,0,Femur.r,MESH,False,False,False,False,False
+OBJECT,Bones,Scene Collection,0,Femur.l,MESH,False,False,False,False,False
+OBJECT,Bones,Scene Collection,0,Distal phalanx of third finger of foot.r,MESH,False,False,False,False,False
+OBJECT,Bones,Scene Collection,0,Distal phalanx of third finger of foot.l,MESH,False,False,False,False,False
+OBJECT,Bones,Scene Collection,0,Distal phalanx of second finger of foot.r,MESH,False,False,False,False,False
+OBJECT,Bones,Scene Collection,0,Distal phalanx of second finger of foot.l,MESH,False,False,False,False,False
+OBJECT,Bones,Scene Collection,0,Distal phalanx of fourth finger of foot.r,MESH,False,False,False,False,False
+OBJECT,Bones,Scene Collection,0,Distal phalanx of fourth finger of foot.l,MESH,False,False,False,False,False
+OBJECT,Bones,Scene Collection,0,Distal phalanx of first finger of foot.r,MESH,False,False,False,False,False
+OBJECT,Bones,Scene Collection,0,Distal phalanx of first finger of foot.l,MESH,False,False,False,False,False
+OBJECT,Bones,Scene Collection,0,Distal phalanx of fifth finger of foot.r,MESH,False,False,False,False,False
+OBJECT,Bones,Scene Collection,0,Distal phalanx of fifth finger of foot.l,MESH,False,False,False,False,False
+OBJECT,Bones,Scene Collection,0,Cuboid bone.r,MESH,False,False,False,False,False
+OBJECT,Bones,Scene Collection,0,Cuboid bone.l,MESH,False,False,False,False,False
+OBJECT,Bones,Scene Collection,0,Coccyx,MESH,False,False,False,False,False
+OBJECT,Bones,Scene Collection,0,Calcaneus.r,MESH,False,False,False,False,False
+OBJECT,Bones,Scene Collection,0,Calcaneus.l,MESH,False,False,False,False,False
+OBJECT,Bones,Scene Collection,0,Articular capsules of metacarpophalangeal joints.r,MESH,False,False,False,False,False
+COLLECTION,NS_NERVOUS_SYSTEM,Scene Collection,0,,,False,False,,,
+COLLECTION,NS_01_CNS,NS_NERVOUS_SYSTEM,1,,,False,False,,,
+COLLECTION,NS_01_BRAIN,NS_01_CNS,2,,,False,False,,,
+COLLECTION,NS_01_SUPRATENTORIAL,NS_01_BRAIN,3,,,False,False,,,
+COLLECTION,NS_01_CEREBRAL_CORTEX,NS_01_SUPRATENTORIAL,4,,,False,False,,,
+COLLECTION,NS_01_FRONTAL_LOBE,NS_01_CEREBRAL_CORTEX,5,,,False,False,,,
+COLLECTION,NS_02_PARIETAL_LOBE,NS_01_CEREBRAL_CORTEX,5,,,False,False,,,
+COLLECTION,NS_03_TEMPORAL_LOBE,NS_01_CEREBRAL_CORTEX,5,,,False,False,,,
+COLLECTION,NS_04_OCCIPITAL_LOBE,NS_01_CEREBRAL_CORTEX,5,,,False,False,,,
+COLLECTION,NS_05_INSULA,NS_01_CEREBRAL_CORTEX,5,,,False,False,,,
+COLLECTION,NS_06_OTHER_CORTEX,NS_01_CEREBRAL_CORTEX,5,,,False,False,,,
+COLLECTION,NS_02_WHITE_MATTER,NS_01_SUPRATENTORIAL,4,,,False,False,,,
+COLLECTION,NS_03_BASAL_GANGLIA,NS_01_SUPRATENTORIAL,4,,,False,False,,,
+COLLECTION,NS_04_DIENCEPHALON,NS_01_SUPRATENTORIAL,4,,,False,False,,,
+COLLECTION,Thalamus,NS_04_DIENCEPHALON,5,,,False,False,,,
+COLLECTION,NS_05_LIMBIC_SYSTEM,NS_01_SUPRATENTORIAL,4,,,False,False,,,
+COLLECTION,NS_06_VENTRICLES_AND_CHOROID,NS_01_SUPRATENTORIAL,4,,,False,False,,,
+COLLECTION,NS_02_INFRATENTORIAL,NS_01_BRAIN,3,,,False,False,,,
+COLLECTION,NS_01_CEREBELLUM,NS_02_INFRATENTORIAL,4,,,False,False,,,
+COLLECTION,NS_02_BRAINSTEM_GROSS_ANATOMY,NS_02_INFRATENTORIAL,4,,,False,False,,,
+COLLECTION,NS_03_BRAINSTEM_NUCLEI,NS_02_INFRATENTORIAL,4,,,False,False,,,
+COLLECTION,NS_03_CRANIAL_NERVES,NS_01_BRAIN,3,,,False,False,,,
+COLLECTION,NS_CN01_OLFACTORY,NS_03_CRANIAL_NERVES,4,,,False,False,,,
+COLLECTION,NS_CN02_OPTIC,NS_03_CRANIAL_NERVES,4,,,False,False,,,
+COLLECTION,NS_CN03_OCULOMOTOR,NS_03_CRANIAL_NERVES,4,,,False,False,,,
+COLLECTION,NS_CN04_TROCHLEAR,NS_03_CRANIAL_NERVES,4,,,False,False,,,
+COLLECTION,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,,,False,False,,,
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Muscles of head.g,EMPTY,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Extra-ocular muscles.g,EMPTY,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Cranial part of muscular system.r,EMPTY,False,False,False,False,False
+COLLECTION,NS_CN06_ABDUCENS,NS_03_CRANIAL_NERVES,4,,,False,False,,,
+COLLECTION,NS_CN07_FACIAL,NS_03_CRANIAL_NERVES,4,,,False,False,,,
+COLLECTION,NS_CN08_VESTIBULOCOCHLEAR,NS_03_CRANIAL_NERVES,4,,,False,False,,,
+OBJECT,NS_CN08_VESTIBULOCOCHLEAR,NS_03_CRANIAL_NERVES,4,Vestibulocochlear nerve (VIII).l,MESH,False,False,False,False,False
+OBJECT,NS_CN08_VESTIBULOCOCHLEAR,NS_03_CRANIAL_NERVES,4,Cochlear nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_CN08_VESTIBULOCOCHLEAR,NS_03_CRANIAL_NERVES,4,Vestibular nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_CN08_VESTIBULOCOCHLEAR,NS_03_CRANIAL_NERVES,4,Vestibulocochlear nerve (VIII).r.001,MESH,False,False,False,False,False
+OBJECT,NS_CN08_VESTIBULOCOCHLEAR,NS_03_CRANIAL_NERVES,4,Cochlear nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_CN08_VESTIBULOCOCHLEAR,NS_03_CRANIAL_NERVES,4,Vestibular nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_CN08_VESTIBULOCOCHLEAR,NS_03_CRANIAL_NERVES,4,Vestibular nerve fibers to nuclei.l,MESH,False,False,False,False,False
+OBJECT,NS_CN08_VESTIBULOCOCHLEAR,NS_03_CRANIAL_NERVES,4,Vestibular nerve fibers to nuclei.r,MESH,False,False,False,False,False
+COLLECTION,NS_CN09_GLOSSOPHARYNGEAL,NS_03_CRANIAL_NERVES,4,,,False,False,,,
+COLLECTION,NS_CN10_VAGUS,NS_03_CRANIAL_NERVES,4,,,False,False,,,
+COLLECTION,NS_CN11_ACCESSORY,NS_03_CRANIAL_NERVES,4,,,False,False,,,
+COLLECTION,NS_CN12_HYPOGLOSSAL,NS_03_CRANIAL_NERVES,4,,,False,False,,,
+COLLECTION,NS_CN_OTHER_BRANCHES,NS_03_CRANIAL_NERVES,4,,,False,False,,,
+COLLECTION,NS_02_SPINAL_CORD,NS_01_CNS,2,,,False,False,,,
+COLLECTION,NS_01_EXTERNAL_ANATOMY,NS_02_SPINAL_CORD,3,,,False,False,,,
+COLLECTION,NS_02_GRAY_MATTER,NS_02_SPINAL_CORD,3,,,False,False,,,
+COLLECTION,NS_03_GENERAL_WHITE_MATTER,NS_02_SPINAL_CORD,3,,,False,False,,,
+COLLECTION,NS_04_ASCENDING_SENSORY_TRACTS,NS_02_SPINAL_CORD,3,,,False,False,,,
+COLLECTION,NS_05_DESCENDING_MOTOR_TRACTS,NS_02_SPINAL_CORD,3,,,False,False,,,
+COLLECTION,NS_06_OTHER_TRACTS,NS_02_SPINAL_CORD,3,,,False,False,,,
+COLLECTION,NS_07_ROOTS,NS_02_SPINAL_CORD,3,,,False,False,,,
+OBJECT,NS_07_ROOTS,NS_02_SPINAL_CORD,3,Filum terminale,MESH,False,False,False,False,False
+COLLECTION,C1,NS_07_ROOTS,4,,,False,False,,,
+COLLECTION,C2,NS_07_ROOTS,4,,,False,False,,,
+COLLECTION,C3,NS_07_ROOTS,4,,,False,False,,,
+COLLECTION,C4,NS_07_ROOTS,4,,,False,False,,,
+COLLECTION,C5,NS_07_ROOTS,4,,,False,False,,,
+COLLECTION,C6,NS_07_ROOTS,4,,,False,False,,,
+COLLECTION,C7,NS_07_ROOTS,4,,,False,False,,,
+COLLECTION,C8,NS_07_ROOTS,4,,,False,False,,,
+COLLECTION,Th1,NS_07_ROOTS,4,,,False,False,,,
+COLLECTION,Th2,NS_07_ROOTS,4,,,False,False,,,
+COLLECTION,Th3,NS_07_ROOTS,4,,,False,False,,,
+COLLECTION,Th4,NS_07_ROOTS,4,,,False,False,,,
+COLLECTION,Th5,NS_07_ROOTS,4,,,False,False,,,
+COLLECTION,Th6,NS_07_ROOTS,4,,,False,False,,,
+COLLECTION,Th7,NS_07_ROOTS,4,,,False,False,,,
+COLLECTION,Th8,NS_07_ROOTS,4,,,False,False,,,
+COLLECTION,Th9,NS_07_ROOTS,4,,,False,False,,,
+COLLECTION,Th10,NS_07_ROOTS,4,,,False,False,,,
+COLLECTION,Th11,NS_07_ROOTS,4,,,False,False,,,
+COLLECTION,Th12,NS_07_ROOTS,4,,,False,False,,,
+OBJECT,Th12,NS_07_ROOTS,4,Th12 Dorsal root ganglion.l,MESH,False,False,False,False,False
+OBJECT,Th12,NS_07_ROOTS,4,Th12 Dorsal root ganglion.r,MESH,False,False,False,False,False
+COLLECTION,L1,NS_07_ROOTS,4,,,False,False,,,
+OBJECT,L1,NS_07_ROOTS,4,L1 anterior root.l,MESH,False,False,False,False,False
+OBJECT,L1,NS_07_ROOTS,4,L1 Dorsal root ganglion.l,MESH,False,False,False,False,False
+OBJECT,L1,NS_07_ROOTS,4,L1 posterior root.l,MESH,False,False,False,False,False
+OBJECT,L1,NS_07_ROOTS,4,L1 posterior root.r,MESH,False,False,False,False,False
+OBJECT,L1,NS_07_ROOTS,4,L1 anterior root.r,MESH,False,False,False,False,False
+OBJECT,L1,NS_07_ROOTS,4,L1 Dorsal root ganglion.r,MESH,False,False,False,False,False
+COLLECTION,L2,NS_07_ROOTS,4,,,False,False,,,
+OBJECT,L2,NS_07_ROOTS,4,L2 anterior root.l,MESH,False,False,False,False,False
+OBJECT,L2,NS_07_ROOTS,4,L2  Dorsal root ganglion.l,MESH,False,False,False,False,False
+OBJECT,L2,NS_07_ROOTS,4,L2 posterior root.l.001,MESH,False,False,False,False,False
+OBJECT,L2,NS_07_ROOTS,4,L2 Dorsal root ganglion.r,MESH,False,False,False,False,False
+OBJECT,L2,NS_07_ROOTS,4,L2 posterior root.r,MESH,False,False,False,False,False
+OBJECT,L2,NS_07_ROOTS,4,L2 anterior root.r,MESH,False,False,False,False,False
+COLLECTION,L3,NS_07_ROOTS,4,,,False,False,,,
+OBJECT,L3,NS_07_ROOTS,4,L3 Dorsal root ganglion.l,MESH,False,False,False,False,False
+OBJECT,L3,NS_07_ROOTS,4,L3 anterior root.l,MESH,False,False,False,False,False
+OBJECT,L3,NS_07_ROOTS,4,L3 posterior root.l,MESH,False,False,False,False,False
+OBJECT,L3,NS_07_ROOTS,4,L3 posterior root.r,MESH,False,False,False,False,False
+OBJECT,L3,NS_07_ROOTS,4,L3 anterior root.r,MESH,False,False,False,False,False
+OBJECT,L3,NS_07_ROOTS,4,L3 Dorsal root ganglion.r,MESH,False,False,False,False,False
+COLLECTION,L4,NS_07_ROOTS,4,,,False,False,,,
+OBJECT,L4,NS_07_ROOTS,4,L4 anterior root.l,MESH,False,False,False,False,False
+OBJECT,L4,NS_07_ROOTS,4,L4 Dorsal root ganglion.l,MESH,False,False,False,False,False
+OBJECT,L4,NS_07_ROOTS,4,L4 posterior root.l,MESH,False,False,False,False,False
+OBJECT,L4,NS_07_ROOTS,4,L4 anterior root.r,MESH,False,False,False,False,False
+OBJECT,L4,NS_07_ROOTS,4,L4 Dorsal root ganglion.r,MESH,False,False,False,False,False
+OBJECT,L4,NS_07_ROOTS,4,L4 posterior root.r,MESH,False,False,False,False,False
+COLLECTION,L5,NS_07_ROOTS,4,,,False,False,,,
+OBJECT,L5,NS_07_ROOTS,4,L5 anterior root.l,MESH,False,False,False,False,False
+OBJECT,L5,NS_07_ROOTS,4,L5 Dorsal root ganglion.l,MESH,False,False,False,False,False
+OBJECT,L5,NS_07_ROOTS,4,L5 posterior root.l,MESH,False,False,False,False,False
+OBJECT,L5,NS_07_ROOTS,4,L5 anterior root.r,MESH,False,False,False,False,False
+OBJECT,L5,NS_07_ROOTS,4,L5 posterior root.r,MESH,False,False,False,False,False
+COLLECTION,S1,NS_07_ROOTS,4,,,False,False,,,
+OBJECT,S1,NS_07_ROOTS,4,S1 anterior root.l,MESH,False,False,False,False,False
+OBJECT,S1,NS_07_ROOTS,4,S1 posterior root.l,MESH,False,False,False,False,False
+OBJECT,S1,NS_07_ROOTS,4,S1 anterior root.r,MESH,False,False,False,False,False
+OBJECT,S1,NS_07_ROOTS,4,S1 posterior root.r,MESH,False,False,False,False,False
+COLLECTION,S2,NS_07_ROOTS,4,,,False,False,,,
+OBJECT,S2,NS_07_ROOTS,4,S2 anterior root.l,MESH,False,False,False,False,False
+OBJECT,S2,NS_07_ROOTS,4,S2 posterior root.l,MESH,False,False,False,False,False
+OBJECT,S2,NS_07_ROOTS,4,S2 anterior root.r,MESH,False,False,False,False,False
+OBJECT,S2,NS_07_ROOTS,4,S2 posterior root.r,MESH,False,False,False,False,False
+COLLECTION,S3,NS_07_ROOTS,4,,,False,False,,,
+OBJECT,S3,NS_07_ROOTS,4,S3 anterior root.l,MESH,False,False,False,False,False
+OBJECT,S3,NS_07_ROOTS,4,S3 posterior root.l,MESH,False,False,False,False,False
+OBJECT,S3,NS_07_ROOTS,4,S3 anterior root.r,MESH,False,False,False,False,False
+OBJECT,S3,NS_07_ROOTS,4,S3 posterior root.r,MESH,False,False,False,False,False
+COLLECTION,S4,NS_07_ROOTS,4,,,False,False,,,
+OBJECT,S4,NS_07_ROOTS,4,S4 anterior root.l,MESH,False,False,False,False,False
+OBJECT,S4,NS_07_ROOTS,4,S4 posterior root.l,MESH,False,False,False,False,False
+OBJECT,S4,NS_07_ROOTS,4,S4 posterior root.r,MESH,False,False,False,False,False
+OBJECT,S4,NS_07_ROOTS,4,S4 anterior root.r,MESH,False,False,False,False,False
+COLLECTION,NS_08_SPINAL_GANGLIA,NS_02_SPINAL_CORD,3,,,False,False,,,
+COLLECTION,NS_03_MENINGES,NS_01_CNS,2,,,False,False,,,
+COLLECTION,NS_01_CRANIAL_DURA,NS_03_MENINGES,3,,,False,False,,,
+COLLECTION,NS_02_SPINAL_DURA,NS_03_MENINGES,3,,,False,False,,,
+COLLECTION,NS_03_ARACHNOID,NS_03_MENINGES,3,,,False,False,,,
+COLLECTION,NS_04_PIA,NS_03_MENINGES,3,,,False,False,,,
+COLLECTION,NS_02_PNS,NS_NERVOUS_SYSTEM,1,,,False,False,,,
+COLLECTION,NS_01_CERVICAL_PLEXUS,NS_02_PNS,2,,,False,False,,,
+COLLECTION,NS_01_PLEXUS_ROOTS_AND_LOOPS,NS_01_CERVICAL_PLEXUS,3,,,False,False,,,
+COLLECTION,NS_02_CUTANEOUS_BRANCHES,NS_01_CERVICAL_PLEXUS,3,,,False,False,,,
+COLLECTION,NS_03_ANSA_CERVICALIS,NS_01_CERVICAL_PLEXUS,3,,,False,False,,,
+COLLECTION,NS_04_PHRENIC_NERVE,NS_01_CERVICAL_PLEXUS,3,,,False,False,,,
+COLLECTION,NS_05_OTHER_BRANCHES,NS_01_CERVICAL_PLEXUS,3,,,False,False,,,
+COLLECTION,Cervical plexus,NS_01_CERVICAL_PLEXUS,3,,,False,False,,,
+COLLECTION,NS_02_BRACHIAL_PLEXUS,NS_02_PNS,2,,,False,False,,,
+COLLECTION,NS_01_ROOTS,NS_02_BRACHIAL_PLEXUS,3,,,False,False,,,
+COLLECTION,NS_02_TRUNKS,NS_02_BRACHIAL_PLEXUS,3,,,False,False,,,
+COLLECTION,NS_03_DIVISIONS,NS_02_BRACHIAL_PLEXUS,3,,,False,False,,,
+COLLECTION,NS_04_CORDS,NS_02_BRACHIAL_PLEXUS,3,,,False,False,,,
+COLLECTION,NS_05_TERMINAL_BRANCHES,NS_02_BRACHIAL_PLEXUS,3,,,False,False,,,
+COLLECTION,NS_06_COLLATERAL_BRANCHES,NS_02_BRACHIAL_PLEXUS,3,,,False,False,,,
+COLLECTION,Brachial plexus z anatomy,NS_02_BRACHIAL_PLEXUS,3,,,False,False,,,
+COLLECTION,NS_03_LUMBAR_PLEXUS,NS_02_PNS,2,,,False,False,,,
+COLLECTION,NS_01_PLEXUS_AND_ROOTS,NS_03_LUMBAR_PLEXUS,3,,,False,False,,,
+OBJECT,NS_01_PLEXUS_AND_ROOTS,NS_03_LUMBAR_PLEXUS,3,Lumbar plexus.r,MESH,False,False,False,False,False
+OBJECT,NS_01_PLEXUS_AND_ROOTS,NS_03_LUMBAR_PLEXUS,3,Lumbar plexus.l,MESH,False,False,False,False,False
+COLLECTION,NS_02_FEMORAL_NERVE,NS_03_LUMBAR_PLEXUS,3,,,False,False,,,
+OBJECT,NS_02_FEMORAL_NERVE,NS_03_LUMBAR_PLEXUS,3,Femoral branch of genitofemoral nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_02_FEMORAL_NERVE,NS_03_LUMBAR_PLEXUS,3,Femoral branch of genitofemoral nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_02_FEMORAL_NERVE,NS_03_LUMBAR_PLEXUS,3,Femoral nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_02_FEMORAL_NERVE,NS_03_LUMBAR_PLEXUS,3,Femoral nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_02_FEMORAL_NERVE,NS_03_LUMBAR_PLEXUS,3,Genital branch of genitofemoral nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_02_FEMORAL_NERVE,NS_03_LUMBAR_PLEXUS,3,Genitofemoral nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_02_FEMORAL_NERVE,NS_03_LUMBAR_PLEXUS,3,Anterior cutaneous branches of femoral nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_02_FEMORAL_NERVE,NS_03_LUMBAR_PLEXUS,3,Anterior cutaneous branches of femoral nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_02_FEMORAL_NERVE,NS_03_LUMBAR_PLEXUS,3,Genital branch of genitofemoral nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_02_FEMORAL_NERVE,NS_03_LUMBAR_PLEXUS,3,Genitofemoral nerve.r,MESH,False,False,False,False,False
+COLLECTION,NS_03_OBTURATOR_NERVE,NS_03_LUMBAR_PLEXUS,3,,,False,False,,,
+OBJECT,NS_03_OBTURATOR_NERVE,NS_03_LUMBAR_PLEXUS,3,Obturator nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_03_OBTURATOR_NERVE,NS_03_LUMBAR_PLEXUS,3,Anterior branch of obturator nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_03_OBTURATOR_NERVE,NS_03_LUMBAR_PLEXUS,3,Posterior branch of obturator nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_03_OBTURATOR_NERVE,NS_03_LUMBAR_PLEXUS,3,Anterior branch of obturator nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_03_OBTURATOR_NERVE,NS_03_LUMBAR_PLEXUS,3,Posterior branch of obturator nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_03_OBTURATOR_NERVE,NS_03_LUMBAR_PLEXUS,3,Obturator nerve.l,MESH,False,False,False,False,False
+COLLECTION,NS_04_OTHER_BRANCHES,NS_03_LUMBAR_PLEXUS,3,,,False,False,,,
+OBJECT,NS_04_OTHER_BRANCHES,NS_03_LUMBAR_PLEXUS,3,Iliohypogastric nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_04_OTHER_BRANCHES,NS_03_LUMBAR_PLEXUS,3,Lateral femoral cutaneous nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_04_OTHER_BRANCHES,NS_03_LUMBAR_PLEXUS,3,Iliohypogastric nerve.r.,MESH,False,False,False,False,False
+OBJECT,NS_04_OTHER_BRANCHES,NS_03_LUMBAR_PLEXUS,3,Lateral femoral cutaneous nerve.l,MESH,False,False,False,False,False
+COLLECTION,Lumbar plexus,NS_03_LUMBAR_PLEXUS,3,,,False,False,,,
+OBJECT,Lumbar plexus,NS_03_LUMBAR_PLEXUS,3,L2 root.l,MESH,False,False,False,False,False
+OBJECT,Lumbar plexus,NS_03_LUMBAR_PLEXUS,3,L3 root.l,MESH,False,False,False,False,False
+OBJECT,Lumbar plexus,NS_03_LUMBAR_PLEXUS,3,L4 root.l,MESH,False,False,False,False,False
+OBJECT,Lumbar plexus,NS_03_LUMBAR_PLEXUS,3,L5 root.l,MESH,False,False,False,False,False
+OBJECT,Lumbar plexus,NS_03_LUMBAR_PLEXUS,3,S1 root left,MESH,False,False,False,False,False
+OBJECT,Lumbar plexus,NS_03_LUMBAR_PLEXUS,3,S2 root left,MESH,False,False,False,False,False
+OBJECT,Lumbar plexus,NS_03_LUMBAR_PLEXUS,3,S4 root left,MESH,False,False,False,False,False
+OBJECT,Lumbar plexus,NS_03_LUMBAR_PLEXUS,3,S1 root.r,MESH,False,False,False,False,False
+OBJECT,Lumbar plexus,NS_03_LUMBAR_PLEXUS,3,S2 root.r,MESH,False,False,False,False,False
+OBJECT,Lumbar plexus,NS_03_LUMBAR_PLEXUS,3,S3 root.r,MESH,False,False,False,False,False
+OBJECT,Lumbar plexus,NS_03_LUMBAR_PLEXUS,3,S4 root.r,MESH,False,False,False,False,False
+OBJECT,Lumbar plexus,NS_03_LUMBAR_PLEXUS,3,Ilio-inguinal nerve.r,MESH,False,False,False,False,False
+OBJECT,Lumbar plexus,NS_03_LUMBAR_PLEXUS,3,Inferior cluneal nerves.l,MESH,False,False,False,False,False
+OBJECT,Lumbar plexus,NS_03_LUMBAR_PLEXUS,3,Inferior cluneal nerves.r,MESH,False,False,False,False,False
+OBJECT,Lumbar plexus,NS_03_LUMBAR_PLEXUS,3,Medial clluneal nerves.l,MESH,False,False,False,False,False
+OBJECT,Lumbar plexus,NS_03_LUMBAR_PLEXUS,3,Medial clluneal nerves.r,MESH,False,False,False,False,False
+OBJECT,Lumbar plexus,NS_03_LUMBAR_PLEXUS,3,Pudental nerve.r,MESH,False,False,False,False,False
+OBJECT,Lumbar plexus,NS_03_LUMBAR_PLEXUS,3,Superior cluneal nerves.l,MESH,False,False,False,False,False
+OBJECT,Lumbar plexus,NS_03_LUMBAR_PLEXUS,3,Ilio-inguinal nerve.l,MESH,False,False,False,False,False
+OBJECT,Lumbar plexus,NS_03_LUMBAR_PLEXUS,3,Dorsal digital branches of superficial fibular nerve.r,MESH,False,False,False,False,False
+OBJECT,Lumbar plexus,NS_03_LUMBAR_PLEXUS,3,Nerve to piriformis muscle.l,MESH,False,False,False,False,False
+OBJECT,Lumbar plexus,NS_03_LUMBAR_PLEXUS,3,Nerve to piriformis muscle.r,MESH,False,False,False,False,False
+OBJECT,Lumbar plexus,NS_03_LUMBAR_PLEXUS,3,Intermediate dorsal cutaneous nerve of foot.l,MESH,False,False,False,False,False
+OBJECT,Lumbar plexus,NS_03_LUMBAR_PLEXUS,3,Intermediate dorsal cutaneous nerve of foot.r,MESH,False,False,False,False,False
+OBJECT,Lumbar plexus,NS_03_LUMBAR_PLEXUS,3,Medial dorsal cutaneous nerve of foot.l,MESH,False,False,False,False,False
+OBJECT,Lumbar plexus,NS_03_LUMBAR_PLEXUS,3,Medial dorsal cutaneous nerve of foot.r,MESH,False,False,False,False,False
+OBJECT,Lumbar plexus,NS_03_LUMBAR_PLEXUS,3,Medial sural cutaneous nerve.l,MESH,False,False,False,False,False
+OBJECT,Lumbar plexus,NS_03_LUMBAR_PLEXUS,3,Medial sural cutaneous nerve.r,MESH,False,False,False,False,False
+OBJECT,Lumbar plexus,NS_03_LUMBAR_PLEXUS,3,L2 root.r,MESH,False,False,False,False,False
+OBJECT,Lumbar plexus,NS_03_LUMBAR_PLEXUS,3,L3 root.r,MESH,False,False,False,False,False
+OBJECT,Lumbar plexus,NS_03_LUMBAR_PLEXUS,3,Superior cluneal nerves.r,MESH,False,False,False,False,False
+OBJECT,Lumbar plexus,NS_03_LUMBAR_PLEXUS,3,L4 root.r,MESH,False,False,False,False,False
+OBJECT,Lumbar plexus,NS_03_LUMBAR_PLEXUS,3,L5 root.r,MESH,False,False,False,False,False
+OBJECT,Lumbar plexus,NS_03_LUMBAR_PLEXUS,3,S3 root.l,MESH,False,False,False,False,False
+COLLECTION,NS_04_SACRAL_PLEXUS,NS_02_PNS,2,,,False,False,,,
+COLLECTION,NS_01_PLEXUS_AND_ROOTS_01,NS_04_SACRAL_PLEXUS,3,,,False,False,,,
+COLLECTION,NS_02_SCIATIC_NERVE,NS_04_SACRAL_PLEXUS,3,,,False,False,,,
+OBJECT,NS_02_SCIATIC_NERVE,NS_04_SACRAL_PLEXUS,3,Sciatic nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_02_SCIATIC_NERVE,NS_04_SACRAL_PLEXUS,3,Sciatic nerve.r,MESH,False,False,False,False,False
+COLLECTION,NS_03_GLUTEAL_NERVES,NS_04_SACRAL_PLEXUS,3,,,False,False,,,
+OBJECT,NS_03_GLUTEAL_NERVES,NS_04_SACRAL_PLEXUS,3,Inferior gluteal nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_03_GLUTEAL_NERVES,NS_04_SACRAL_PLEXUS,3,Inferior gluteal nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_03_GLUTEAL_NERVES,NS_04_SACRAL_PLEXUS,3,Superior gluteal nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_03_GLUTEAL_NERVES,NS_04_SACRAL_PLEXUS,3,Superior gluteal nerve.r,MESH,False,False,False,False,False
+COLLECTION,NS_04_OTHER_BRANCHES_01,NS_04_SACRAL_PLEXUS,3,,,False,False,,,
+OBJECT,NS_04_OTHER_BRANCHES_01,NS_04_SACRAL_PLEXUS,3,Posterior femoral cutaneous nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_04_OTHER_BRANCHES_01,NS_04_SACRAL_PLEXUS,3,Posterior femoral cutaneous nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_04_OTHER_BRANCHES_01,NS_04_SACRAL_PLEXUS,3,Pudendal nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_04_OTHER_BRANCHES_01,NS_04_SACRAL_PLEXUS,3,Anterior root of posterior femoral cutaneous nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_04_OTHER_BRANCHES_01,NS_04_SACRAL_PLEXUS,3,Common fibular nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_04_OTHER_BRANCHES_01,NS_04_SACRAL_PLEXUS,3,Common fibular nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_04_OTHER_BRANCHES_01,NS_04_SACRAL_PLEXUS,3,Deep fibular nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_04_OTHER_BRANCHES_01,NS_04_SACRAL_PLEXUS,3,Deep fibular nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_04_OTHER_BRANCHES_01,NS_04_SACRAL_PLEXUS,3,Dorsal digital branches of deep fibular nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_04_OTHER_BRANCHES_01,NS_04_SACRAL_PLEXUS,3,Dorsal digital branches of deep fibular nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_04_OTHER_BRANCHES_01,NS_04_SACRAL_PLEXUS,3,Dorsal digital branches of superficial fibular nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_04_OTHER_BRANCHES_01,NS_04_SACRAL_PLEXUS,3,Muscular branches of deep fibular nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_04_OTHER_BRANCHES_01,NS_04_SACRAL_PLEXUS,3,Muscular branches of deep fibular nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_04_OTHER_BRANCHES_01,NS_04_SACRAL_PLEXUS,3,Nerve to quadratus femoris muscle.l,MESH,False,False,False,False,False
+OBJECT,NS_04_OTHER_BRANCHES_01,NS_04_SACRAL_PLEXUS,3,Nerve to quadratus femoris muscle.r,MESH,False,False,False,False,False
+OBJECT,NS_04_OTHER_BRANCHES_01,NS_04_SACRAL_PLEXUS,3,Superficial fibular nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_04_OTHER_BRANCHES_01,NS_04_SACRAL_PLEXUS,3,Superficial fibular nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_04_OTHER_BRANCHES_01,NS_04_SACRAL_PLEXUS,3,Sural communicating branch of common fibular nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_04_OTHER_BRANCHES_01,NS_04_SACRAL_PLEXUS,3,Sural communicating branch of common fibular nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_04_OTHER_BRANCHES_01,NS_04_SACRAL_PLEXUS,3,Tibial nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_04_OTHER_BRANCHES_01,NS_04_SACRAL_PLEXUS,3,Tibial nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_04_OTHER_BRANCHES_01,NS_04_SACRAL_PLEXUS,3,Anterior root of posterior femoral cutaneous nerve.r,MESH,False,False,False,False,False
+COLLECTION,NS_05_UPPER_LIMB_NERVES,NS_02_PNS,2,,,False,False,,,
+COLLECTION,NS_06_LOWER_LIMB_NERVES,NS_02_PNS,2,,,False,False,,,
+OBJECT,NS_06_LOWER_LIMB_NERVES,NS_02_PNS,2,Medial plantar nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_06_LOWER_LIMB_NERVES,NS_02_PNS,2,Sural nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_06_LOWER_LIMB_NERVES,NS_02_PNS,2,Medial plantar nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_06_LOWER_LIMB_NERVES,NS_02_PNS,2,Proper plantar digital branches of lateral plantar nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_06_LOWER_LIMB_NERVES,NS_02_PNS,2,Infrapatellar branch of saphenous nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_06_LOWER_LIMB_NERVES,NS_02_PNS,2,Common plantar digital branches of lateral plantar nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_06_LOWER_LIMB_NERVES,NS_02_PNS,2,Common plantar digital branches of lateral plantar nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_06_LOWER_LIMB_NERVES,NS_02_PNS,2,Common plantar digital branches of medial plantar nerve,MESH,False,False,False,False,False
+OBJECT,NS_06_LOWER_LIMB_NERVES,NS_02_PNS,2,Proper plantar digital branches of medial plantar nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_06_LOWER_LIMB_NERVES,NS_02_PNS,2,Medial crural cutaneous branches of saphenous nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_06_LOWER_LIMB_NERVES,NS_02_PNS,2,Lateral plantar nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_06_LOWER_LIMB_NERVES,NS_02_PNS,2,Saphenous nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_06_LOWER_LIMB_NERVES,NS_02_PNS,2,Common plantar digital branches of medial plantar nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_06_LOWER_LIMB_NERVES,NS_02_PNS,2,Infrapatellar branch of saphenous nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_06_LOWER_LIMB_NERVES,NS_02_PNS,2,Proper plantar digital branches of medial plantar nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_06_LOWER_LIMB_NERVES,NS_02_PNS,2,Sural nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_06_LOWER_LIMB_NERVES,NS_02_PNS,2,Proper plantar digital branches of lateral plantar nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_06_LOWER_LIMB_NERVES,NS_02_PNS,2,Medial crural cutaneous branches of saphenous nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_06_LOWER_LIMB_NERVES,NS_02_PNS,2,Lateral plantar nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_06_LOWER_LIMB_NERVES,NS_02_PNS,2,Saphenous nerve.r,MESH,False,False,False,False,False
+COLLECTION,NS_07_INTERCOSTAL_AND_TRUNK_NERVES,NS_02_PNS,2,,,False,False,,,
+COLLECTION,NS_08_HEAD_AND_NECK_PERIPHERAL_NERVES,NS_02_PNS,2,,,False,False,,,
+COLLECTION,NS_09_SPINAL_NERVES,NS_02_PNS,2,,,False,False,,,
+COLLECTION,Dorsal rami,NS_02_PNS,2,,,False,False,,,
+OBJECT,Dorsal rami,NS_02_PNS,2,Dorsal ramus L1.r,MESH,False,False,False,False,False
+OBJECT,Dorsal rami,NS_02_PNS,2,Dorsal ramus L2.r,MESH,False,False,False,False,False
+OBJECT,Dorsal rami,NS_02_PNS,2,Dorsal ramus L3.r,MESH,False,False,False,False,False
+OBJECT,Dorsal rami,NS_02_PNS,2,Dorsal ramus L4.r,MESH,False,False,False,False,False
+OBJECT,Dorsal rami,NS_02_PNS,2,Dorsal ramus L5.r,MESH,False,False,False,False,False
+OBJECT,Dorsal rami,NS_02_PNS,2,Dorsal ramus L1.l,MESH,False,False,False,False,False
+OBJECT,Dorsal rami,NS_02_PNS,2,Dorsal ramus L2.l,MESH,False,False,False,False,False
+OBJECT,Dorsal rami,NS_02_PNS,2,Dorsal ramus L3.l,MESH,False,False,False,False,False
+OBJECT,Dorsal rami,NS_02_PNS,2,Dorsal ramus L4.l,MESH,False,False,False,False,False
+OBJECT,Dorsal rami,NS_02_PNS,2,Dorsal ramus L5.l,MESH,False,False,False,False,False
+COLLECTION,NS_03_AUTONOMIC,NS_NERVOUS_SYSTEM,1,,,False,False,,,
+COLLECTION,NS_01_SYMPATHETIC,NS_03_AUTONOMIC,2,,,False,False,,,
+COLLECTION,NS_01_SYMPATHETIC_TRUNK,NS_01_SYMPATHETIC,3,,,False,False,,,
+COLLECTION,NS_02_SYMPATHETIC_GANGLIA,NS_01_SYMPATHETIC,3,,,False,False,,,
+OBJECT,NS_02_SYMPATHETIC_GANGLIA,NS_01_SYMPATHETIC,3,Thyrohyoid membrane.g,EMPTY,False,False,False,False,False
+OBJECT,NS_02_SYMPATHETIC_GANGLIA,NS_01_SYMPATHETIC,3,Synovial joints of larynx.g,EMPTY,False,False,False,False,False
+OBJECT,NS_02_SYMPATHETIC_GANGLIA,NS_01_SYMPATHETIC,3,Fibrous joints of larynx.g,EMPTY,False,False,False,False,False
+OBJECT,NS_02_SYMPATHETIC_GANGLIA,NS_01_SYMPATHETIC,3,Fibro-elastic membrane of larynx.g,EMPTY,False,False,False,False,False
+OBJECT,NS_02_SYMPATHETIC_GANGLIA,NS_01_SYMPATHETIC,3,Crico-arytenoid joint.g,EMPTY,False,False,False,False,False
+COLLECTION,NS_03_RAMICOMMUNICANTES,NS_01_SYMPATHETIC,3,,,False,False,,,
+COLLECTION,NS_04_SPLANCHNIC_NERVES,NS_01_SYMPATHETIC,3,,,False,False,,,
+COLLECTION,Sympathetic trunk thoracic,NS_01_SYMPATHETIC,3,,,False,False,,,
+COLLECTION,Sympathetic trunk Cervical,NS_01_SYMPATHETIC,3,,,False,False,,,
+COLLECTION,Sympathetic trunk lumbar and scacral,NS_01_SYMPATHETIC,3,,,False,False,,,
+OBJECT,Sympathetic trunk lumbar and scacral,NS_01_SYMPATHETIC,3,Rami communicantes albi lumbar region.r,MESH,False,False,False,False,False
+OBJECT,Sympathetic trunk lumbar and scacral,NS_01_SYMPATHETIC,3,Rami communicantes lumbar region.r,MESH,False,False,False,False,False
+OBJECT,Sympathetic trunk lumbar and scacral,NS_01_SYMPATHETIC,3,Rami communicantes albi lumbar region.l,MESH,False,False,False,False,False
+OBJECT,Sympathetic trunk lumbar and scacral,NS_01_SYMPATHETIC,3,Rami communicantes lumbar region.l,MESH,False,False,False,False,False
+COLLECTION,Sympathetic trunk Sacral,NS_01_SYMPATHETIC,3,,,False,False,,,
+OBJECT,Sympathetic trunk Sacral,NS_01_SYMPATHETIC,3,Sympathetic ganglia sacral region.r,MESH,False,False,False,False,False
+OBJECT,Sympathetic trunk Sacral,NS_01_SYMPATHETIC,3,Ganglion Impar,MESH,False,False,False,False,False
+OBJECT,Sympathetic trunk Sacral,NS_01_SYMPATHETIC,3,Rami communicantes albi sacral region.r,MESH,False,False,False,False,False
+OBJECT,Sympathetic trunk Sacral,NS_01_SYMPATHETIC,3,Rami communicantes grisei sacral region.r,MESH,False,False,False,False,False
+OBJECT,Sympathetic trunk Sacral,NS_01_SYMPATHETIC,3,Sympathetic ganglia sacral region.l,MESH,False,False,False,False,False
+OBJECT,Sympathetic trunk Sacral,NS_01_SYMPATHETIC,3,Rami communicantes albi sacral region.l,MESH,False,False,False,False,False
+OBJECT,Sympathetic trunk Sacral,NS_01_SYMPATHETIC,3,Rami communicantes grisei sacral region.l,MESH,False,False,False,False,False
+COLLECTION,NS_02_PARASYMPATHETIC,NS_03_AUTONOMIC,2,,,False,False,,,
+COLLECTION,NS_01_CRANIAL_PARASYMPATHETIC,NS_02_PARASYMPATHETIC,3,,,False,False,,,
+COLLECTION,NS_02_PELVIC_SPLANCHNIC,NS_02_PARASYMPATHETIC,3,,,False,False,,,
+COLLECTION,NS_03_PARASYMPATHETIC_GANGLIA,NS_02_PARASYMPATHETIC,3,,,False,False,,,
+COLLECTION,NS_03_ENTERIC_AND_VISCERAL,NS_03_AUTONOMIC,2,,,False,False,,,
+COLLECTION,NS_01_ESOPHAGEAL_PLEXUS,NS_03_ENTERIC_AND_VISCERAL,3,,,False,False,,,
+COLLECTION,NS_02_GASTRIC_PLEXUS,NS_03_ENTERIC_AND_VISCERAL,3,,,False,False,,,
+COLLECTION,NS_03_SMALL_INTESTINE_PLEXUS,NS_03_ENTERIC_AND_VISCERAL,3,,,False,False,,,
+COLLECTION,NS_04_COLONIC_PLEXUS,NS_03_ENTERIC_AND_VISCERAL,3,,,False,False,,,
+COLLECTION,NS_05_RECTAL_PLEXUS,NS_03_ENTERIC_AND_VISCERAL,3,,,False,False,,,
+COLLECTION,NS_06_MYENTERIC_PLEXUS,NS_03_ENTERIC_AND_VISCERAL,3,,,False,False,,,
+COLLECTION,NS_07_SUBMUCOSAL_PLEXUS,NS_03_ENTERIC_AND_VISCERAL,3,,,False,False,,,
+COLLECTION,NS_08_OTHER_VISCERAL_PLEXUSES,NS_03_ENTERIC_AND_VISCERAL,3,,,False,False,,,
+COLLECTION,NS_04_SENSORY_SYSTEMS,NS_NERVOUS_SYSTEM,1,,,False,False,,,
+COLLECTION,NS_01_VISUAL_PATHWAY,NS_04_SENSORY_SYSTEMS,2,,,False,False,,,
+COLLECTION,NS_02_AUDITORY_AND_VESTIBULAR,NS_04_SENSORY_SYSTEMS,2,,,False,False,,,
+COLLECTION,NS_03_OLFACTORY_PATHWAY,NS_04_SENSORY_SYSTEMS,2,,,False,False,,,
+COLLECTION,Eye,NS_04_SENSORY_SYSTEMS,2,,,False,False,,,
+COLLECTION,Eye muscles,Eye,3,,,False,False,,,
+COLLECTION,NS_99_REVIEW_MANUALLY,NS_NERVOUS_SYSTEM,1,,,False,False,,,
+OBJECT,NS_99_REVIEW_MANUALLY,NS_NERVOUS_SYSTEM,1,FJ4263_BP29309_FMA7007_Trunk of C4 nerve.l.001,MESH,False,False,False,False,False
+COLLECTION,Vessels,Scene Collection,0,,,False,False,,,
+COLLECTION,Basal forebrain and reward,Scene Collection,0,,,False,False,,,
+COLLECTION,Basal forebrain and reward left,Basal forebrain and reward,1,,,False,False,,,
+COLLECTION,FIber trackts comissural,Scene Collection,0,,,False,False,,,
+COLLECTION,Fiber tracts association,Scene Collection,0,,,False,False,,,
+COLLECTION,Fiber tracts association left,Fiber tracts association,1,,,False,False,,,
+COLLECTION,Fiber tracts projection ,Scene Collection,0,,,False,False,,,
+COLLECTION,Corticospinal tract,Fiber tracts projection ,1,,,False,False,,,
+COLLECTION,Corticospinal tract Left,Corticospinal tract,2,,,False,False,,,
+COLLECTION,Sensory tract,Fiber tracts projection ,1,,,False,False,,,
+COLLECTION,Sensory tract left,Sensory tract,2,,,False,False,,,
+COLLECTION,Corticopontine fibers,Fiber tracts projection ,1,,,False,False,,,
+COLLECTION,Corticopontinefibers left,Corticopontine fibers,2,,,False,False,,,
+COLLECTION,Brainstem fibers,Scene Collection,0,,,False,False,,,
+COLLECTION,Auditory,Brainstem fibers,1,,,False,False,,,
+COLLECTION,Ascending cerebellar,Brainstem fibers,1,,,False,False,,,
+COLLECTION,Trigeminal,Brainstem fibers,1,,,False,False,,,
+COLLECTION,Ascending sensory,Brainstem fibers,1,,,False,False,,,
+COLLECTION,Medial longitudinal fascicle,Brainstem fibers,1,,,False,False,,,
+COLLECTION,Splanchnic nerves and plexuses,Scene Collection,0,,,False,False,,,
+COLLECTION,Cutaneous innervation body,Scene Collection,0,,,False,False,,,
+OBJECT,Cutaneous innervation body,Scene Collection,0,Ventral (cutaneous) ramus Th12 nerve.r,MESH,False,False,False,False,False
+OBJECT,Cutaneous innervation body,Scene Collection,0,Ventral (cutaneous) ramus Th12 nerve.l,MESH,False,False,False,False,False
+COLLECTION,Muscular system,Scene Collection,0,,,False,False,,,
+OBJECT,Muscular system,Scene Collection,0,Ventral parts of lateral intertransversarii lumborum muscles.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Ventral parts of lateral intertransversarii lumborum muscles.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Vastus medialis muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Vastus medialis muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Vastus lateralis muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Vastus lateralis muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Vastus intermedius muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Vastus intermedius muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Trochanteric bursa of gluteus minimus muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Trochanteric bursa of gluteus minimus muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Trochanteric bursa of gluteus medius muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Trochanteric bursa of gluteus medius muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Trochanteric bursa of gluteus maximus muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Trochanteric bursa of gluteus maximus muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Transverse intermuscular septum of leg.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Transverse intermuscular septum of leg.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Transverse head of adductor hallucis.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Transverse head of adductor hallucis.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Tibialis posterior muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Tibialis posterior muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Tibialis anterior muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Tibialis anterior muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Tendon sheath of tibialis posterior muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Tendon sheath of tibialis posterior muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Tendon sheath of tibialis anterior.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Tendon sheath of tibialis anterior.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Tendon sheath of flexor hallucis longus.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Tendon sheath of flexor hallucis longus.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Tendon sheath of flexor digitorum longus.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Tendon sheath of flexor digitorum longus.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Tendon sheath of extensor hallucis longus.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Tendon sheath of extensor hallucis longus.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Tendon sheath of extensor digitorum longus.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Tendon sheath of extensor digitorum longus.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Tendon of extensor digitorum longus.r.001,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Tendon of extensor digitorum longus.l.002,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Tendon of extensor digitorum longus.l.001,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Tendinous arch of levator ani.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Tendinous arch of levator ani.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Suprapatellar bursa.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Suprapatellar bursa.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Superior gemellus muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Superior gemellus muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Superior fibular retinaculum.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Superior fibular retinaculum.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Superior extensor retinaculum of ankle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Superior extensor retinaculum of ankle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Superior bursa of biceps femoris muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Superior bursa of biceps femoris muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Superficial transverse metatarsal ligament.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Superficial transverse metatarsal ligament.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Subtendinous bursa of tibialis anterior.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Subtendinous bursa of tibialis anterior.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Subtendinous bursa of sartorius muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Subtendinous bursa of sartorius muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Subtendinous bursa of obturator internus.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Subtendinous bursa of obturator internus.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Subtendinous bursa of iliacus muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Subtendinous bursa of iliacus muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Subcutaneous trochanteric bursa.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Subcutaneous trochanteric bursa.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Subcutaneous bursa of medial malleolus.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Subcutaneous bursa of lateral malleolus.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Soleus muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Soleus muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Short head of biceps femoris.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Short head of biceps femoris.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Semitendinosus muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Semitendinosus muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Semimembranosus muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Semimembranosus muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Semimembranosus bursa.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Semimembranosus bursa.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Sciatic bursa of obturator internus.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Sciatic bursa of obturator internus.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Sciatic bursa of gluteus maximus muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Sciatic bursa of gluteus maximus muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Sartorius muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Sartorius muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Rectus femoris muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Rectus femoris muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Quadratus plantae muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Quadratus plantae muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Quadratus lumborum muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Quadratus lumborum muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Quadratus femoris muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Quadratus femoris muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Pubococcygeus muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Pubococcygeus muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Pubo-analis muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Pubo-analis muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Psoas major.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Psoas major.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Posterior intermuscular septum of leg.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Posterior intermuscular septum of leg.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Popliteus muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Popliteus muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Plantaris muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Plantaris muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Plantar tendon sheath of fibularis longus muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Plantar tendon sheath of fibularis longus muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Plantar interossei muscles.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Plantar interossei muscles.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Piriformis muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Piriformis muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Pectineus muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Pectineus muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Obturator internus.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Obturator internus.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Obturator externus.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Obturator externus.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Oblique head of adductor hallucis.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Oblique head of adductor hallucis.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Multifidus lumborum muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Multifidus lumborum muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Medial subtendinous bursa of gastrocnemius muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Medial subtendinous bursa of gastrocnemius muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Medial patellar retinaculum.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Medial patellar retinaculum.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Medial head of gastrocnemius.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Medial head of gastrocnemius.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Medial head of flexor hallucis brevis.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Medial head of flexor hallucis brevis.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Medial femoral intermuscular septum.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Medial femoral intermuscular septum.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Lumbrical muscles of foot.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Lumbrical muscles of foot.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Long head of biceps femoris.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Long head of biceps femoris.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Lateral subtendinous bursa of gastrocnemius muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Lateral subtendinous bursa of gastrocnemius muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Lateral patellar retinaculum.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Lateral patellar retinaculum.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Lateral head of gastrocnemius.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Lateral head of gastrocnemius.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Lateral head of flexor hallucis brevis.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Lateral head of flexor hallucis brevis.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Lateral femoral intermuscular septum.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Lateral femoral intermuscular septum.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Interspinales lumborum muscles.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Interspinales lumborum muscles.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Intermuscular gluteal bursae.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Intermuscular gluteal bursae.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Inferior subtendinous bursa of biceps femoris muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Inferior subtendinous bursa of biceps femoris muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Inferior gemellus muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Inferior gemellus muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Inferior fibular retinaculum.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Inferior fibular retinaculum.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Inferior extensor retinaculum of ankle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Inferior extensor retinaculum of ankle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Iliopectineal arch.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Iliopectineal arch.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Iliococcygeus muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Iliococcygeus muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Iliacus muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Iliacus muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Gracilis muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Gracilis muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Gluteus minimus muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Gluteus minimus muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Gluteus medius muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Gluteus medius muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Gluteus maximus muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Gluteus maximus muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Flexor retinaculum of ankle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Flexor retinaculum of ankle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Flexor hallucis longus.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Flexor hallucis longus.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Flexor digitorum longus.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Flexor digitorum longus.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Flexor digitorum brevis.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Flexor digitorum brevis.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Flexor digiti minimi of foot.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Flexor digiti minimi of foot.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Fibularis tertius muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Fibularis tertius muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Fibularis longus muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Fibularis longus muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Fibularis brevis muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Fibularis brevis muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,External anal sphincter.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,External anal sphincter.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Extensor hallucis longus.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Extensor hallucis longus.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Extensor hallucis brevis.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Extensor hallucis brevis.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Extensor digitorum longus.r.001,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Extensor digitorum longus.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Extensor digitorum longus.l.002,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Extensor digitorum longus.l.001,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Extensor digitorum longus.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Extensor digitorum brevis.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Extensor digitorum brevis.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Dorsal parts of lateral intertransversarii lumborum muscles.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Dorsal parts of lateral intertransversarii lumborum muscles.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Dorsal interossei muscles of foot.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Dorsal interossei muscles of foot.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Deep infrapatellar bursa.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Deep infrapatellar bursa.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Common tendon sheath of fibularis muscles.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Common tendon sheath of fibularis muscles.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Coccygeus muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Coccygeus muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Bursa of piriformis muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Bursa of piriformis muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Anterior intermuscular septum of leg.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Anterior intermuscular septum of leg.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Anserine bursa.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Anserine bursa.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Adductor magnus.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Adductor magnus.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Adductor longus.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Adductor longus.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Adductor brevis.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Adductor brevis.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Abductor hallucis.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Abductor hallucis.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Abductor digiti minimi of foot.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Abductor digiti minimi of foot.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,(Opponens digiti minimi muscle of foot).r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,(Opponens digiti minimi muscle of foot).l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,(Iliopectineal bursa).r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,(Iliopectineal bursa).l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,(Adductor minimus).r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,(Adductor minimus).l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Spinal dura,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Anterior horn of spinal cord,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Joints of vertebral column.g,EMPTY,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Intervertebral symphysis.g,EMPTY,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Cartilaginous joints of vertebral column.g,EMPTY,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Superior mesenteric vein,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Superior mesenteric artery,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Superior medial genicular artery.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Superior medial genicular artery.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Superior lateral genicular artery.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Superior lateral genicular artery.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Superior gluteal veins.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Superior gluteal veins.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Superior gluteal artery.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Superior gluteal artery.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Superior anorectal artery,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Superficial external pudendal artery.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Superficial external pudendal artery.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Superficial epigastric vein.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Superficial epigastric vein.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Superficial epigastric artery.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Superficial epigastric artery.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Superficial dorsal veins of penis,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Superficial branch of medial plantar artery.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Superficial branch of medial plantar artery.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Subcostal artery.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Subcostal artery.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Splenic vein,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Splenic artery,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Spinal branch of iliolumbar artery.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Spinal branch of iliolumbar artery.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Small saphenous vein.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Small saphenous vein.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Sigmoid veins,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Sigmoid arteries,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Right testicular vein,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Right testicular artery.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Right subcostal vein,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Right renal vein,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Right renal artery,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Right gastro-omental vein,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Right colic vein,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Right colic artery,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Right ascending lumbar vein,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Proper plantar digital arteries.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Proper plantar digital arteries.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Proper hepatic artery,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Posterior tibial veins.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Posterior tibial veins.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Posterior tibial artery.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Posterior tibial artery.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Posterior division of internal iliac artery.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Posterior division of internal iliac artery.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Posterior branch of renal artery.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Posterior branch of renal artery.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Popliteal vein.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Popliteal vein.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Popliteal artery.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Popliteal artery.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Plantar venous arch.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Plantar venous arch.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Plantar metatarsal veins.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Plantar metatarsal veins.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Plantar metatarsal arteries.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Plantar metatarsal arteries.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Plantar digital veins.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Plantar digital veins.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Plantar arch.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Plantar arch.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Perforating veins.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Perforating veins.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Perforating femoral arteries.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Perforating femoral arteries.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Perforating branches of plantar metatarsal arteries.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Perforating branches of plantar metatarsal arteries.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Patellar anastomosis.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Patellar anastomosis.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Obturator artery.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Obturator artery.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Middle genicular artery.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Middle genicular artery.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Middle colic vein,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Middle colic artery,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Median sacral artery,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Medial plantar veins.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Medial plantar veins.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Medial plantar artery.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Medial plantar artery.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Medial circumflex femoral veins.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Medial circumflex femoral veins.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Medial circumflex femoral artery.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Medial circumflex femoral artery.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Marginal artery,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Lumbar vertebral venous plexus,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Lumbar veins.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Lumbar veins.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Lumbar branch of iliolumbar artery.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Lumbar branch of iliolumbar artery.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Lumbar arteries.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Lumbar arteries.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Left testicular vein,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Left testicular artery,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Left subcostal vein,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Left renal vein,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Left renal artery,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Left gastro-omental vein,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Left gastric artery,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Left colic artery,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Left ascending lumbar vein,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Lateral tarsal artery.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Lateral tarsal artery.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Lateral sacral veins.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Lateral sacral veins.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Lateral plantar veins.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Lateral plantar veins.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Lateral plantar artery.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Lateral plantar artery.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Lateral circumflex femoral veins.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Lateral circumflex femoral veins.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Lateral circumflex femoral artery.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Lateral circumflex femoral artery.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Intrarenal veins of right kidney,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Intrarenal veins of left kidney,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Intrarenal arteries of right kidney,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Intrarenal arteries of left kidney,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Internal pudendal vein.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Internal pudendal vein.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Internal pudendal artery.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Internal pudendal artery.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Internal iliac vein.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Internal iliac vein.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Internal iliac artery.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Internal iliac artery.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Intercapitular veins of foot.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Intercapitular veins of foot.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Inferior vena cava (abdominal part),MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Inferior suprarenal artery.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Inferior suprarenal artery.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Inferior pancreaticoduodenal artery,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Inferior mesenteric vein,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Inferior mesenteric artery,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Inferior medial genicular artery.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Inferior medial genicular artery.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Inferior lateral genicular artery.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Inferior lateral genicular artery.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Inferior gluteal veins.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Inferior gluteal veins.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Inferior gluteal artery.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Inferior gluteal artery.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Inferior epigastric vein.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Inferior epigastric vein.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Inferior epigastric artery.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Inferior epigastric artery.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Iliolumbar vein.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Iliolumbar vein.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Iliolumbar artery.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Iliolumbar artery.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Iliacus branch of iliolumbar artery.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Iliacus branch of iliolumbar artery.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Ileocolic artery,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Ileal branch of ileocolic artery,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Hepatic portal vein,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,HCS_RV_Purkinje_05,CURVE,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,HCS_LV_Purkinje_04,CURVE,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Great saphenous vein.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Great saphenous vein.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Genicular veins.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Genicular veins.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Gastroduodenal artery,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Fibular veins.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Fibular veins.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Fibular artery.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Fibular artery.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Femoral vein.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Femoral vein.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Femoral artery.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Femoral artery.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,External pudendal veins.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,External pudendal veins.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,External iliac vein.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,External iliac vein.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,External iliac artery.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,External iliac artery.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Dorsalis pedis artery.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Dorsalis pedis artery.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Dorsal venous arch of foot.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Dorsal venous arch of foot.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Dorsal metatarsal veins.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Dorsal metatarsal veins.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Dorsal metatarsal arteries.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Dorsal metatarsal arteries.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Dorsal digital veins of foot.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Dorsal digital veins of foot.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Dorsal digital arteries of foot.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Dorsal digital arteries of foot.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Dorsal artery of penis.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Dorsal artery of penis.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Descending branch of left colic artery,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Descending branch of lateral circumflex femoral artery.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Descending branch of lateral circumflex femoral artery,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Deep plantar artery.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Deep plantar artery.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Deep femoral vein.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Deep femoral vein.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Deep femoral artery.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Deep femoral artery.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Deep external pudendal artery.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Deep external pudendal artery.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Deep dorsal vein of penis,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Deep artery of penis.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Deep artery of penis.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Common plantar digital arteries.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Common plantar digital arteries.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Common iliac vein.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Common iliac vein.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Common iliac artery.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Common iliac artery.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Common hepatic artery,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Colic branch of ileocolic artery,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Coeliac trunk,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Calcaneal branches of posterior tibial artery.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Calcaneal branches of posterior tibial artery.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Calcaneal branches of fibular artery.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Calcaneal branches of fibular artery.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Ascending branch of left colic artery,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Arcuate artery.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Arcuate artery.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Appendicular artery,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Anterior tibial veins.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Anterior tibial veins.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Anterior tibial artery.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Anterior tibial artery.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Anterior inferior pancreaticoduodenal artery,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Anterior division of internal iliac artery.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Anterior division of internal iliac artery.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Anterior branch of renal artery.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Anterior branch of renal artery.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Abdominal aorta,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Inguinal ligament.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Inguinal ligament.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Trochanteric bursa of gluteus minimus muscle.r.001,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Trochanteric bursa of gluteus minimus muscle.l.001,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Trochanteric bursa of gluteus medius muscle.r.001,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Trochanteric bursa of gluteus medius muscle.l.001,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Trochanteric bursa of gluteus maximus muscle.r.001,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Trochanteric bursa of gluteus maximus muscle.l.001,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Tensor fasciae latae.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Tensor fasciae latae.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Suprapatellar bursa.r.001,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Suprapatellar bursa.l.001,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Superior fibular retinaculum.r.001,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Superior fibular retinaculum.l.001,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Superior extensor retinaculum of ankle.r.001,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Superior extensor retinaculum of ankle.l.001,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Superior bursa of biceps femoris muscle.r.001,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Superior bursa of biceps femoris muscle.l.001,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Subtendinous prepatellar bursa.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Subtendinous prepatellar bursa.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Subtendinous calcaneal bursa.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Subtendinous calcaneal bursa.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Subtendinous bursa of tibialis anterior.r.001,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Subtendinous bursa of tibialis anterior.l.001,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Subtendinous bursa of sartorius muscle.r.001,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Subtendinous bursa of sartorius muscle.l.001,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Subtendinous bursa of obturator internus.r.001,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Subtendinous bursa of obturator internus.l.001,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Subtendinous bursa of iliacus muscle.r.001,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Subtendinous bursa of iliacus muscle.l.001,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Subfacial prepatellar bursa.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Subfacial prepatellar bursa.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Subcutaneous trochanteric bursa.r.001,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Subcutaneous trochanteric bursa.l.001,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Subcutaneous prepatellar bursa.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Subcutaneous prepatellar bursa.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Subcutaneous infrapatellar bursa.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Subcutaneous infrapatellar bursa.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Subcutaneous calcaneal bursa.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Subcutaneous calcaneal bursa.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Subcutaneous bursa of tuberosity of tibia.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Subcutaneous bursa of tuberosity of tibia.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Subcutaneous bursa of medial malleolus.r.001,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Subcutaneous bursa of medial malleolus.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Subcutaneous bursa of lateral malleolus.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Subcutaneous bursa of lateral malleolus.l.001,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Semimembranosus bursa.r.001,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Semimembranosus bursa.l.001,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Sciatic bursa of obturator internus.r.001,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Sciatic bursa of obturator internus.l.001,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Sciatic bursa of gluteus maximus muscle.r.001,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Sciatic bursa of gluteus maximus muscle.l.001,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Pubic symphysis,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Popliteal fascia.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Popliteal fascia.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Plantar aponeurosis.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Plantar aponeurosis.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Piriformis fascia.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Piriformis fascia.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Medial subtendinous bursa of gastrocnemius muscle.r.001,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Medial subtendinous bursa of gastrocnemius muscle.l.001,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Medial patellar retinaculum.r.001,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Medial patellar retinaculum.l.001,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Lateral subtendinous bursa of gastrocnemius muscle.r.001,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Lateral subtendinous bursa of gastrocnemius muscle.l.001,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Lateral patellar retinaculum.r.001,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Lateral patellar retinaculum.l.001,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Joints of pelvic girdle.g,EMPTY,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Joints of lower limb.g,EMPTY,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Intermuscular gluteal bursae.r.001,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Intermuscular gluteal bursae.l.001,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Inferior subtendinous bursa of biceps femoris muscle.r.001,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Inferior subtendinous bursa of biceps femoris muscle.l.001,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Inferior fibular retinaculum.r.001,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Inferior fibular retinaculum.l.001,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Inferior extensor retinaculum of ankle.r.001,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Inferior extensor retinaculum of ankle.l.001,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Iliotibial tract.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Iliotibial tract.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Flexor retinaculum of ankle.r.001,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Flexor retinaculum of ankle.l.001,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Fascia lata.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Fascia lata.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Deep infrapatellar bursa.r.001,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Deep infrapatellar bursa.l.001,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Crural fascia.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Crural fascia.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Common tendon sheath of fibularis muscles.r.001,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Common tendon sheath of fibularis muscles.l.001,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Cartilaginous joints of pelvic girdle.g,EMPTY,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Calcaneal tendon.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Calcaneal tendon.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,BézierCurve,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Bursa of piriformis muscle.r.001,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Bursa of piriformis muscle.l.001,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Anserine bursa.r.001,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Anserine bursa.l.001,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,(Iliopectineal bursa).r.001,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,(Iliopectineal bursa).l.001,MESH,False,False,False,False,False
+COLLECTION,JOINTS,Scene Collection,0,,,False,False,,,
+OBJECT,JOINTS,Scene Collection,0,Zona orbicularis.r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Zona orbicularis.l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Triradiate cartilage.r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Triradiate cartilage.l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Transverse tibiofibular ligament.r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Transverse tibiofibular ligament.l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Transverse part of iliofemoral ligament.r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Transverse part of iliofemoral ligament.l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Transverse ligament of knee.r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Transverse ligament of knee.l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Transverse acetabular ligament.r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Transverse acetabular ligament.l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Tibionavicular ligament.r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Tibionavicular ligament.l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Tibiofibular syndesmosis.g,EMPTY,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Tibiocalcaneal ligament.r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Tibiocalcaneal ligament.l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Tarsometatarsal joints.g,EMPTY,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Talonavicular ligament.r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Talonavicular ligament.l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Talocalcaneal interosseous ligament.r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Talocalcaneal interosseous ligament.l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Synovial joints of pelvic girdle.g,EMPTY,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Synovial joints of free lower limb.g,EMPTY,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Superior tibiofibular joint.g,EMPTY,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Superior pubic ligament,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Superficial part of tibial collateral ligament.r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Superficial part of tibial collateral ligament.l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Sacrotuberous ligament.r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Sacrotuberous ligament.l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Sacrospinous ligament.r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Sacrospinous ligament.l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Sacrococcygeal symphysis,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Sacro-iliac joint.g,EMPTY,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Pubofemoral ligament.r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Pubofemoral ligament.l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Pubic symphysis.001,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Posterior tibiotalar ligament.r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Posterior tibiotalar ligament.l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Posterior tibiofibular ligament.r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Posterior tibiofibular ligament.l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Posterior talofibular ligament.r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Posterior talofibular ligament.l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Posterior talocalcaneal ligament.r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Posterior talocalcaneal ligament.l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Posterior sacro-iliac ligament.r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Posterior sacro-iliac ligament.l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Posterior meniscotibial ligament (Medial meniscus).r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Posterior meniscotibial ligament (Medial meniscus).l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Posterior meniscotibial ligament (Lateral meniscus).r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Posterior meniscotibial ligament (Lateral meniscus).l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Posterior longitudinal ligament,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Posterior ligament of fibular head.r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Posterior ligament of fibular head.l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Posterior cruciate ligament.r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Posterior cruciate ligament.l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Popliteofibular ligament.r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Popliteofibular ligament.l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Plantar tarsometatarsal ligaments.r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Plantar tarsometatarsal ligaments.l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Plantar metatarsophalangeal ligaments.r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Plantar metatarsophalangeal ligaments.l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Plantar metatarsal ligaments.r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Plantar metatarsal ligaments.l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Plantar interphalangeal ligaments.r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Plantar interphalangeal ligaments.l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Plantar intercuneiform ligaments.r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Plantar intercuneiform ligaments.l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Plantar cuneonavicular ligaments.r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Plantar cuneonavicular ligaments.l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Plantar cuneocuboid ligament.r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Plantar cuneocuboid ligament.l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Plantar cuboideonavicular ligament.r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Plantar cuboideonavicular ligament.l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Plantar calcaneonavicular ligament.r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Plantar calcaneonavicular ligament.l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Plantar calcaneocuboid ligament.r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Plantar calcaneocuboid ligament.l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Obturator membrane.r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Obturator membrane.l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Oblique popliteal ligament.r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Oblique popliteal ligament.l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Nucleus pulposus L5-S1,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Metatarsophalangeal joints.g,EMPTY,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Metatarsal interosseous ligaments.r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Metatarsal interosseous ligaments.l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Meniscopatellar ligament.r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Meniscopatellar ligament.l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Medial talocalcaneal ligament.r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Medial talocalcaneal ligament.l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Medial meniscus.r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Medial meniscus.l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Medial collateral ligament of ankle.g,EMPTY,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Long plantar ligament.r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Long plantar ligament.l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Ligamenta flava,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Ligament of head of femur.r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Ligament of head of femur.l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Lateral talocalcaneal ligament.r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Lateral talocalcaneal ligament.l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Lateral meniscus.r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Lateral meniscus.l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Lateral collateral ligament of ankle.g,EMPTY,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Knee joint.g,EMPTY,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Joints of vertebral column.g.001,EMPTY,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Joints of pelvic girdle.g.001,EMPTY,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Joints of lower limb.g.001,EMPTY,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Joints of free lower limb.g,EMPTY,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Joints of foot.g,EMPTY,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Ischiofemoral ligament.r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Ischiofemoral ligament.l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Intervertebral symphysis.g.001,EMPTY,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Intervertebral disc L5-S1,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Intertransverse ligaments.r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Intertransverse ligaments.l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Intertarsal joints.g,EMPTY,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Interspinous ligaments,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Intersesamoid ligament.r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Intersesamoid ligament.l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Interpubic disc,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Interphalangeal joints of foot.g,EMPTY,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Interosseous sacro-iliac ligament.r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Interosseous sacro-iliac ligament.l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Interosseous membrane of leg.r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Interosseous membrane of leg.l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Intermetatarsal joints.g,EMPTY,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Intercuneiform interosseous ligaments.r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Intercuneiform interosseous ligaments.l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Intercornual ligament.r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Intercornual ligament.l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Inguinal ligament.r.001,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Inguinal ligament.l.001,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Infrapatellar fat pad.r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Infrapatellar fat pad.l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Inferior pubic ligament,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Hip joint.g,EMPTY,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Frenula capsulae.r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Frenula capsulae.l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Fibular collateral ligament.r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Fibular collateral ligament.l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Fibrous joints of vertebral column.g,EMPTY,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Fibrous joints of pelvic girdle.g,EMPTY,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Fibrous joints of free lower limb.g,EMPTY,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Dorsal tarsometatarsal ligaments.r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Dorsal tarsometatarsal ligaments.l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Dorsal metatarsal ligaments.r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Dorsal metatarsal ligaments.l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Dorsal intercuneiform ligaments.r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Dorsal intercuneiform ligaments.l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Dorsal cuneonavicular ligaments.r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Dorsal cuneonavicular ligaments.l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Dorsal cuneocuboid ligament.r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Dorsal cuneocuboid ligament.l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Dorsal cuboideonavicular ligament.r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Dorsal cuboideonavicular ligament.l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Dorsal calcaneocuboid ligament.r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Dorsal calcaneocuboid ligament.l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Descending part of iliofemoral ligament.r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Descending part of iliofemoral ligament.l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Deep transverse metatarsal ligament.r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Deep transverse metatarsal ligament.l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Deep part of tibial collateral ligament.r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Deep part of tibial collateral ligament.l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Cuneometatarsal interosseous ligaments.r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Cuneometatarsal interosseous ligaments.l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Cuneocuboid interosseous ligament.r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Cuneocuboid interosseous ligament.l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Collateral metatarsophalangeal ligaments.r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Collateral metatarsophalangeal ligaments.l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Collateral interphalangeal ligaments of foot.r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Collateral interphalangeal ligaments of foot.l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Cartilaginous joints of vertebral column.g.001,EMPTY,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Cartilaginous joints of pelvic girdle.g.001,EMPTY,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Calcaneonavicular ligament.r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Calcaneonavicular ligament.l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Calcaneofibular ligament.r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Calcaneofibular ligament.l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Calcaneocuboid ligament.r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Calcaneocuboid ligament.l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Articular capsules of proximal interphalangeal joints of foot.r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Articular capsules of proximal interphalangeal joints of foot.l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Articular capsules of metatarsophalangeal joints.r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Articular capsules of metatarsophalangeal joints.l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Articular capsules of distal interphalangeal joints of foot.r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Articular capsules of distal interphalangeal joints of foot.l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Articular capsule of superior tibiofibular joint.r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Articular capsule of superior tibiofibular joint.l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Articular capsule of knee joint.r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Articular capsule of knee joint.l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Articular capsule of interphalangeal joint of great toe.r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Articular capsule of interphalangeal joint of great toe.l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Articular capsule of hip joint.r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Articular capsule of hip joint.l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Arcuate popliteal ligament.r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Arcuate popliteal ligament.l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Anterior tibiofibular ligament.r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Anterior tibiofibular ligament.l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Anterior talofibular ligament.r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Anterior talofibular ligament.l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Anterior talocalcaneal ligament.r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Anterior talocalcaneal ligament.l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Anterior sacro-iliac ligament.r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Anterior sacro-iliac ligament.l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Anterior meniscotibial ligament (Medial meniscus).r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Anterior meniscotibial ligament (Medial meniscus).l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Anterior meniscotibial ligament (Lateral meniscus).r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Anterior meniscotibial ligament (Lateral meniscus).l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Anterior longitudinal ligament,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Anterior ligament of fibular head.r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Anterior ligament of fibular head.l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Anterior cruciate ligament.r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Anterior cruciate ligament.l,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Ankle joint.g,EMPTY,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Acetabular labrum.r,MESH,False,False,False,False,False
+OBJECT,JOINTS,Scene Collection,0,Acetabular labrum.l,MESH,False,False,False,False,False
