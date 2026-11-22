@@ -1,5 +1,5 @@
 {
-  "name": "@workspace/sketchfab-configurator",
+  "name": "@anatomia-aperta/viewer",
   "version": "0.0.0",
   "private": true,
   "type": "module",
@@ -7,6 +7,8 @@
     "dev": "vite --config vite.config.ts --host 127.0.0.1",
     "build": "vite build --config vite.config.ts && node seo/prerender.mjs",
     "serve": "vite preview --config vite.config.ts --host 127.0.0.1",
+    "test": "node scripts/run-tests.mjs",
+    "test:checks": "node scripts/check-attachments.mjs && node scripts/check-cardiovascular.mjs && node scripts/check-fullscreen.mjs && node scripts/check-muscular.mjs && node scripts/check-viscera.mjs",
     "test:seo": "node --test seo/check.mjs",
     "typecheck": "tsc -p tsconfig.json --noEmit"
   },
@@ -15,9 +17,6 @@
     "@radix-ui/react-dropdown-menu": "^2.2.1",
     "@radix-ui/react-scroll-area": "^1.4.0",
     "@radix-ui/react-toast": "^1.3.1",
-    "@replit/vite-plugin-cartographer": "catalog:",
-    "@replit/vite-plugin-dev-banner": "catalog:",
-    "@replit/vite-plugin-runtime-error-modal": "catalog:",
     "@tailwindcss/typography": "^0.5.20",
     "@tailwindcss/vite": "catalog:",
     "@types/node": "catalog:",
@@ -35,5 +34,6 @@
     "tw-animate-css": "^1.4.0",
     "vite": "catalog:",
     "wouter": "catalog:"
-  }
+  },
+  "license": "MIT"
 }

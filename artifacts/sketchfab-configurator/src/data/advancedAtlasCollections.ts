@@ -10,7 +10,7 @@ import { LIMBIC_GROUP } from './limbicTaxonomy';
 import basalForebrainImage from '../assets/advanced-basal-forebrain.webp';
 import { BASAL_FOREBRAIN_GROUP } from './basalForebrainTaxonomy';
 import { VENTRICULAR_GROUP } from './ventricularTaxonomy';
-import ventricularImage from '@assets/Screenshot_2026-10-13_at_11.34.08_1791880463175.png';
+import ventricularImage from '@/assets/advanced-ventricular-system.png';
 
 export const VENTRICULAR_ATLAS_COLLECTION = {
   id: VENTRICULAR_GROUP.id, label: VENTRICULAR_GROUP.label,

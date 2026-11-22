@@ -10,7 +10,7 @@ import { planRegionIsolation } from '../lib/regionIsolation';
 import { menuCollectionNodeIds } from '../components/NervousSystemMenu';
 import { createCollectionContextOpacity } from '../lib/collectionContextOpacity';
 import { refractionContextOpacity } from '../lib/materialTransparency';
-import type { SceneNode, SketchfabAPI, SketchfabMaterial } from '../types/sketchfab';
+import type { SceneNode, SketchfabMaterial } from '../types/sketchfab';
 import type { NervousGroup } from './nervousTaxonomy';
 
 const p = (...parts: string[]) => [...ROOT, 'leg', ...parts];

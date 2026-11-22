@@ -56,7 +56,7 @@ test('Every promoted region keeps its tissue hierarchy and head-only isolation/c
 });
 test('The shared top strip and sidebar open the promoted head regions directly; fullscreen retains collection controls', () => {
   const nodes = all.filter(isHeadTopographyNode);
-  const props = { nodes, selectedNodeId: null, activeNerveId: null,
+  const props = { nodes, selectedNodeId: null, activeNerveId: null, isolatedRegionPath: null,
     onActivateNerve: noop, onIsolateRegion: noop, onRestoreRegion: noop, onSetRegionVisibility: noop };
   const strip = renderToStaticMarkup(createElement(HeadNeckTopographyMenu, { ...props, variant: 'strip' }));
   for (const group of groups) assert.ok(strip.includes(group.label));

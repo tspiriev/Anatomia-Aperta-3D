@@ -9,22 +9,30 @@ const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const output = path.join(root, 'dist/public');
 const sitemap = await readFile(path.join(output, 'sitemap.xml'), 'utf8');
 const urls = [...sitemap.matchAll(/<loc>([^<]+)<\/loc>/g)].map(match => match[1]);
-const config = await readFile(path.join(root, '.replit-artifact/artifact.toml'), 'utf8');
-const rewrites = new Map([...config.matchAll(/from\s*=\s*"([^"]+)"\s+to\s*=\s*"([^"]+)"/g)]
-  .map(match => [match[1], match[2]]));
+// Optional local hosting config with per-route rewrites. When present, check that
+// it stays in sync with the sitemap; open-source checkouts don't have it.
+const hostingConfig = path.join(root, '.replit-artifact/artifact.toml');
+const rewrites = existsSync(hostingConfig)
+  ? new Map([...(await readFile(hostingConfig, 'utf8'))
+    .matchAll(/from\s*=\s*"([^"]+)"\s+to\s*=\s*"([^"]+)"/g)].map(match => [match[1], match[2]]))
+  : null;
 
 test('sitemap includes every configured public route, without preview addresses', () => {
   assert.equal(urls.length, 28);
   assert.equal(new Set(urls).size, urls.length);
-  assert.equal(rewrites.has('/*'), false, 'Unknown paths must not return homepage HTML');
   for (const url of urls) {
     const parsed = new URL(url);
     assert.equal(parsed.origin, 'https://anatomiaaperta.org');
-    if (parsed.pathname !== '/') {
-      assert.equal(rewrites.get(parsed.pathname), `${parsed.pathname}/index.html`);
-    }
+    assert.ok(existsSync(path.join(output, parsed.pathname.slice(1), 'index.html')), `Missing page: ${parsed.pathname}`);
   }
-  assert.equal(rewrites.size, urls.length - 1, 'A new route needs an SEO page and rewrite');
+  if (rewrites) {
+    assert.equal(rewrites.has('/*'), false, 'Unknown paths must not return homepage HTML');
+    for (const url of urls) {
+      const { pathname } = new URL(url);
+      if (pathname !== '/') assert.equal(rewrites.get(pathname), `${pathname}/index.html`);
+    }
+    assert.equal(rewrites.size, urls.length - 1, 'A new route needs an SEO page and rewrite');
+  }
 });
 
 test('all public pages have unique metadata, server-rendered content, schemas and working local links', async () => {
@@ -64,6 +72,5 @@ test('unknown pages are non-indexable and crawl instructions use the real domain
   assert.match(html, /Page not found/);
   const robots = await readFile(path.join(output, 'robots.txt'), 'utf8');
   assert.match(robots, /Sitemap: https:\/\/anatomiaaperta.org\/sitemap.xml/);
-  assert.match(robots, /Disallow: \/__mockup/);
   assert.ok(existsSync(path.join(output, 'social-preview.jpg')));
 });

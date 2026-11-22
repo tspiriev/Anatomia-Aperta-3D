@@ -1,6 +1,4 @@
 User-agent: *
 Allow: /
-Disallow: /api/
-Disallow: /__mockup
 
 Sitemap: https://anatomiaaperta.org/sitemap.xml

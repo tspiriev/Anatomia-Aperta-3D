@@ -209,8 +209,6 @@ export function useSketchfabViewer(modelUid: string, staticStartup = false, pres
       const panelNode = nodesRef.current.find((n) => n.instanceID === instanceID);
       if (!panelNode) return;
 
-      console.log('Selected exact node:', { instanceID: panelNode.instanceID, name: panelNode.name });
-
       const sel: SelectedNodeState = {
         instanceID,
         name: selectedGroup?.name ?? panelNode.name,
@@ -362,12 +360,6 @@ export function useSketchfabViewer(modelUid: string, staticStartup = false, pres
           api.addEventListener('viewerready', () => {
             setApiMode('api');
             setIsViewerReady(true);
-
-            // Log which material/highlight methods are actually available at runtime
-            console.log(
-              '[Sketchfab] Material-related API methods:',
-              Object.keys(api).filter((k) => /material|assign|highlight/i.test(k)),
-            );
 
             // ── Build node map + lookup tables ─────────────────────────────
             api.getNodeMap((err, rawMap) => {
@@ -533,7 +525,6 @@ export function useSketchfabViewer(modelUid: string, staticStartup = false, pres
               if (!info || info.instanceID == null) return;
 
               const clickedId = info.instanceID as number;
-              console.log('[click] raw instanceID:', clickedId);
 
               // Primary: O(1) precomputed ancestor map (populated by getNodeMap callback)
               let panelId = selectableAncestorRef.current.get(clickedId) ?? null;

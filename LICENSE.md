@@ -1,5 +1,10 @@
 # License — Anatomia Aperta 3D
 
+> **Scope.** This file covers the anatomical models, model data and original
+> anatomical contributions. The source code of the web viewer, build scripts and
+> configuration are licensed separately under the MIT License — see
+> [`LICENSE-CODE`](LICENSE-CODE).
+
 ## Creative Commons Attribution–ShareAlike 4.0 International
 
 **Anatomia Aperta 3D** is a nonprofit, open-access anatomical

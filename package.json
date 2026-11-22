@@ -1,16 +1,30 @@
 {
-  "name": "workspace",
-  "version": "0.0.0",
+  "name": "anatomia-aperta-3d",
+  "version": "1.0.0",
+  "description": "Open-access interactive 3D human anatomy atlas based on BodyParts3D/Anatomography and Z-Anatomy",
   "license": "MIT",
+  "homepage": "https://anatomiaaperta.org",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tspiriev/Anatomia-Aperta-3D.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tspiriev/Anatomia-Aperta-3D/issues"
+  },
+  "private": true,
+  "engines": {
+    "node": ">=24",
+    "pnpm": ">=12"
+  },
   "scripts": {
     "preinstall": "sh -c 'rm -f package-lock.json yarn.lock; case \"$npm_config_user_agent\" in pnpm/*) ;; *) echo \"Use pnpm instead\" >&2; exit 1 ;; esac'",
     "build": "pnpm run typecheck && pnpm -r --if-present run build",
-    "typecheck:libs": "tsc --build",
-    "typecheck": "pnpm run typecheck:libs && pnpm -r --filter \"./artifacts/**\" --if-present run typecheck"
+    "typecheck": "pnpm -r --filter \"./artifacts/**\" --if-present run typecheck",
+    "test": "pnpm -r --if-present run test"
   },
-  "private": true,
   "devDependencies": {
     "prettier": "^3.10.1",
     "typescript": "~5.9.3"
-  }
+  },
+  "packageManager": "pnpm@12.21.0"
 }

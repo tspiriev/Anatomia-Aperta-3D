@@ -44,28 +44,57 @@ neuroanatomy.
   cardiac structures, including the cardiac conduction system.
 
 The development record currently documents 202 individual modifications and stages of anatomical reconstruction and can
-be found in a separate file, `Modifications.md`.
+be found in a separate file, [`MODIFICATIONS.md`](MODIFICATIONS.md).
 
 ## Licensing and Attribution
 
 Important: Anatomia Aperta 3D is derived in substantial part from BodyParts3D/Anatomography and Z-Anatomy. The original
 creators and projects must be appropriately acknowledged.
 
+| Part of the repository | License |
+| --- | --- |
+| Source code of the web viewer (`artifacts/`), build scripts and configuration | [MIT](LICENSE-CODE) |
+| Anatomical models and model data (`attached_assets/`) | [CC BY-SA 4.0](LICENSE.md) |
+| Third-party source material (BodyParts3D/Anatomography, Z-Anatomy) | Original licenses, see [`ATTRIBUTION.md`](ATTRIBUTION.md) |
+
 The distributed anatomical models are provided under the same applicable licensing terms as the
 BodyParts3D/Anatomography source material.
 
-Detailed licensing, attribution, source provenance, and any distinctions between source-derived and newly created
-content should be provided in `LICENSE.md`.
+Detailed licensing, attribution, source provenance, and the distinctions between source-derived and newly created
+content are provided in [`LICENSE.md`](LICENSE.md) and [`ATTRIBUTION.md`](ATTRIBUTION.md).
+
+## The Web Viewer
+
+The interactive atlas at [anatomiaaperta.org](https://anatomiaaperta.org) is a React + Vite single-page app in
+[`artifacts/sketchfab-configurator`](artifacts/sketchfab-configurator). It embeds the 3D models through the
+[Sketchfab Viewer API](https://sketchfab.com/developers/viewer) and adds system, region and pathway menus, isolation,
+search and keyboard shortcuts on top of them. Public pages are pre-rendered at build time for search engines.
+
+## Development
+
+Prerequisites: Node.js 24 or newer and [pnpm](https://pnpm.io) 12 or newer (npm and yarn are not supported).
+
+```sh
+pnpm install
+pnpm --filter @anatomia-aperta/viewer dev     # dev server on http://127.0.0.1:5173
+pnpm typecheck                                # type-check all packages
+pnpm test                                     # unit tests (node:test)
+pnpm build                                    # production build in artifacts/sketchfab-configurator/dist/public
+pnpm --filter @anatomia-aperta/viewer test:seo   # check the pre-rendered pages (run after build)
+```
+
+Optional environment variables:
+
+| Variable | Default | Purpose |
+| --- | --- | --- |
+| `PORT` | `5173` | Port for the dev and preview servers |
+| `BASE_PATH` | `/` | Public base path the app is served from |
+
+See [`CONTRIBUTING.md`](CONTRIBUTING.md) for how to contribute code or report anatomical errors.
 
 ## About the Author
 
 Toma Spiriev, MD, PhD, FEBNS is a neurosurgeon with a particular interest in surgical anatomy, 3D anatomical
-visualization, photogrammetry, VR. Apart from Anatomia Aperta 3D please visit our other open-access project 3D Atlas of
-Neurological Surgery, which is interactive 3D atlas based on photrealistic anatomical models, derived from anatomical
-dissections
-
-
-
-
-
-
+visualization, photogrammetry, VR. Apart from Anatomia Aperta 3D, please visit our other open-access project,
+[3D Atlas of Neurological Surgery](https://3datlasofneurologicalsurgery.org), an interactive 3D atlas based on
+photorealistic anatomical models derived from anatomical dissections.
