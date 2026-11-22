@@ -4,9 +4,9 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "dev": "vite --config vite.config.ts --host 0.0.0.0",
+    "dev": "vite --config vite.config.ts --host 127.0.0.1",
     "build": "vite build --config vite.config.ts && node seo/prerender.mjs",
-    "serve": "vite preview --config vite.config.ts --host 0.0.0.0",
+    "serve": "vite preview --config vite.config.ts --host 127.0.0.1",
     "test:seo": "node --test seo/check.mjs",
     "typecheck": "tsc -p tsconfig.json --noEmit"
   },
