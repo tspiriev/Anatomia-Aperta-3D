@@ -1,0 +1,995 @@
+row_type,collection_name,parent_collection,depth,object_name,object_type,collection_hide_viewport,collection_exclude_view_layer,object_hide_viewport,object_hidden_get,object_hide_render
+COLLECTION,Collection,Scene Collection,0,,,False,False,,,
+COLLECTION,SKELETAL_SYSTEM_ORGANIZED,Scene Collection,0,,,False,False,,,
+COLLECTION,BONES,SKELETAL_SYSTEM_ORGANIZED,1,,,False,False,,,
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Second metatarsal bone.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Ulna.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Twelfth rib.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Patella.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Parietal bone.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Distal phalanx of first finger of foot.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Proximal phalanx of fourth finger of foot.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Third metatarsal bone.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Proximal phalanx of third finger of hand.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Third rib.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Palatine bone.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Twelfth rib.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Parietal bone.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Tibia.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Middle phalanx of third finger of hand.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Sinus of frontal bone,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Distal phalanx of first finger of foot.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Proximal phalanx of fourth finger of hand.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,First metacarpal bone.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Vertebra L3,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Proximal phalanx of second finger of foot.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Third metatarsal bone.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Zygomatic bone.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Manubrium of sternum,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Zygomatic bone.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Sixth rib.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Distal phalanx of fourth finger of foot.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Eleventh rib.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Second metacarpal bone.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Vertebra C7,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Distal phalanx of first finger of hand.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Fourth metatarsal bone.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Proximal phalanx of fifth finger of foot.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Hip bone.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Eighth rib.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Occipital bone,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Radius.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Fibula.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Second metacarpal bone.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Distal phalanx of first finger of hand.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Coccyx,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Fourth metatarsal bone.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Humerus.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Eighth rib.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Seventh rib.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Distal phalanx of second finger of foot.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Third metacarpal bone.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Distal phalanx of second finger of hand.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Middle phalanx of fourth finger of hand.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Proximal phalanx of second finger of hand.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Proximal phalanx of fourth finger of foot.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Humerus.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Mandible,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Ninth rib.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Capitate bone.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Distal phalanx of second finger of foot.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Middle phalanx of fourth finger of foot.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Third metacarpal bone.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Middle phalanx of second finger of foot.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Ninth rib.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Sixth rib.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Navicular bone.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Hamate bone.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Middle cells of ethmoid bone.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Lunate bone.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Middle phalanx of third finger of hand.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Fourth rib.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Distal phalanx of third finger of foot.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Fourth metacarpal bone.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Proximal phalanx of third finger of foot.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Distal phalanx of third finger of hand.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Fifth rib.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Proximal phalanx of second finger of foot.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Nasal bone.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Tenth rib.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Distal phalanx of fourth finger of foot.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Hamate bone.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Hip bone.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Distal phalanx of third finger of foot.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Middle phalanx of second finger of foot.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Ethmoid bone,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Distal phalanx of third finger of hand.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Fifth rib.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Cuboid bone.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Trapezoid bone.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Vertebra L1,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Middle phalanx of second finger of hand.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Fourth metacarpal bone.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Proximal phalanx of third finger of hand.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Fifth metacarpal bone.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Proximal phalanx of first finger of foot.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,First rib.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Vertebra L2,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Middle phalanx of third finger of foot.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Sacrum,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Seventh rib.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Third rib.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Middle phalanx of fourth finger of hand.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Fifth metacarpal bone.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Tenth rib.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Distal phalanx of fourth finger of hand.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,First rib.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Vertebra L4,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Hyoid bone,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Scaphoid bone.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Trapezoid bone.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Femur.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Middle phalanx of fifth finger of hand.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Capitate bone.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Maxilla.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Distal phalanx of fifth finger of hand.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Fourth rib.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Middle cells of ethmoid bone.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Vertebra L5,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Lunate bone.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Middle phalanx of fourth finger of foot.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Scaphoid bone.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Second rib.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Triquetrum bone.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Distal phalanx of fourth finger of hand.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Femur.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Middle phalanx of fifth finger of hand.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Distal phalanx of fifth finger of hand.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Fibula.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Proximal phalanx of fifth finger of hand.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Lacrimal bone.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Trapezium bone.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Tibia.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Triquetrum bone.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Body of sternum,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Middle phalanx of third finger of foot.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,First metatarsal bone.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Vertebra C4,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,First metatarsal bone.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Cuboid bone.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Sesamoid bones of foot.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Middle phalanx of fifth finger of foot.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Trapezium bone.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Middle phalanx of second finger of hand.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Vertebra C6,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Proximal phalanx of fourth finger of hand.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Proximal phalanx of first finger of hand.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Xiphoid process,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Fifth metatarsal bone.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,First metacarpal bone.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Distal phalanx of second finger of hand.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Lacrimal bone.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Nasal bone.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Proximal phalanx of first finger of hand.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Vertebra C3,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Sesamoid bones of foot.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Proximal phalanx of third finger of foot.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Fifth metatarsal bone.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Proximal phalanx of fifth finger of foot.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Proximal phalanx of first finger of foot.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Frontal bone,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Eleventh rib.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Palatine bone.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Maxilla.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Vomer,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Radius.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Vertebra C5,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Proximal phalanx of second finger of hand.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Middle phalanx of fifth finger of foot.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Second metatarsal bone.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Ulna.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Proximal phalanx of fifth finger of hand.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Distal phalanx of fifth finger of foot.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Patella.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Navicular bone.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Distal phalanx of fifth finger of foot.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Anterior cells of ethmoid bone.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Anterior cells of ethmoid bone.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Clavicle.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Clavicle.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Inferior nasal concha bone.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Inferior nasal concha bone.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Lower first molar tooth.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Lower first molar tooth.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Lower second molar tooth.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Lower second molar tooth.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Pisiform bone.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Pisiform bone.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Posterior cells of ethmoid bone.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Posterior cells of ethmoid bone.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Scapula.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Scapula.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Upper first molar tooth.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Upper first molar tooth.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Upper second molar tooth.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Upper second molar tooth.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Vertebra T1,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Vertebra T10,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Vertebra T11,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Vertebra T12,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Vertebra T2,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Vertebra T3,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Vertebra T4,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Vertebra T5,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Vertebra T6,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Vertebra T7,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Vertebra T8,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Vertebra T9,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Atlas (C1),MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Axis (C2),MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Incus.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Incus.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Malleus.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Malleus.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Stapes.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Stapes.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Upper canine.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Upper canine.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Upper first premolar.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Upper first premolar.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Upper lateral incisor.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Upper lateral incisor.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Upper medial incisor.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Upper medial incisor.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Upper second premolar.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Upper second premolar.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Lower canine.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Lower canine.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Lower first premolar.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Lower first premolar.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Lower lateral incisor.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Lower lateral incisor.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Lower medial incisor.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Lower medial incisor.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Lower second premolar.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Lower second premolar.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Calcaneus.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Calcaneus.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Talus.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Talus.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Sphenoid bone,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Sternocostal head of pectoralis major muscle.e1l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Temporal bone.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Temporal bone.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Medial cuneiform bone.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Intermediate cuneiform bone.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Intermediate cuneiform bone.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Lateral cuneiform bone.l,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Lateral cuneiform bone.r,MESH,False,False,False,False,False
+OBJECT,BONES,SKELETAL_SYSTEM_ORGANIZED,1,Medial cuneiform bone.l,MESH,False,False,False,False,False
+COLLECTION,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,,,False,False,,,
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Lateral head of flexor hallucis brevis.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Longissimus thoracis muscle.e24r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Brachioradialis muscle.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Flexor digitorum longus.e3l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Extensor digitorum.e7l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Zygomaticus major muscle.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Temporalis muscle.o1r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Flexor digitorum longus.e1r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Abductor hallucis.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Extensor digitorum longus.e3r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Nasalis muscle.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Flexor carpi ulnaris.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Adductor pollicis.e1r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Longissimus thoracis muscle.e2l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Pronator teres.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Pectoralis minor muscle.e1l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Abductor pollicis longus.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Flexor digitorum superficialis.e2r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Orbital part of orbicularis oculi.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Longissimus thoracis muscle.e9r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,External abdominal oblique muscle.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Latissimus dorsi muscle.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Occipitalis muscle.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Pectoralis major muscle.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Oblique head of adductor hallucis.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Flexor digitorum profundus.e3l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Serratus posterior inferior muscle.e3l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Zygomaticus minor muscle.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Temporalis muscle.o3r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Extensor digitorum longus.e2r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Flexor digitorum longus.e3r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Rectus anterior capitis muscle.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Longissimus thoracis muscle.e1r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Longissimus thoracis muscle.e1l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Serratus anterior muscle.e1l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Longissimus thoracis muscle.e23l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Sternohyoid muscle.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Tibialis anterior muscle.e1r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Deep head of flexor pollicis brevis.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Extensor digitorum longus.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Extensor carpi radialis longus.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Transverse part of trapezius muscle.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Extensor hallucis brevis.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Flexor digitorum superficialis.e1r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Supinator.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Rectus femoris muscle.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Pronator quadratus.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Scalenus anterior muscle.e2r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Extensor digitorum longus.e4r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Abductor pollicis longus.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Tibialis anterior muscle.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Rectus posterior minor capitis muscle.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Iliacus muscle.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Flexor digitorum profundus.e2l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Temporalis muscle.o4r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Zygomaticus minor muscle.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Abductor digiti minimi of foot.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Rectus anterior capitis muscle.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Longissimus thoracis muscle.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Abductor digiti minimi of hand.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Longissimus thoracis muscle.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Longissimus thoracis muscle.e21l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Transverse head of adductor hallucis.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Longissimus thoracis muscle.e16l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Extensor carpi radialis brevis.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Flexor pollicis longus.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Flexor digitorum longus.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Coracobrachialis muscle.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Extensor carpi radialis brevis.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Flexor hallucis longus.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Extensor indicis.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Longissimus thoracis muscle.e26l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Flexor pollicis longus.o1r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Longissimus thoracis muscle.e2r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Longissimus thoracis muscle.e6l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Scalenus anterior muscle.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Flexor digiti minimi of hand.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Tibialis posterior muscle.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Rectus posterior major capitis muscle.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Flexor digitorum brevis.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Flexor digitorum profundus.e1l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Rectus posterior minor capitis muscle.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Serratus posterior superior muscle.e3l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Pectoralis minor muscle.e2l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Obliquus inferior capitis muscle.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Longissimus thoracis muscle.e10r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Sternocleidomastoid muscle.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Sartorius muscle.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Gluteus medius muscle.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Longissimus thoracis muscle.e19l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Pronator teres.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Dorsal interossei muscles of hand.o2r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Longissimus thoracis muscle.e12l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Obturator internus.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Teres major muscle.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Tibialis anterior muscle.e1l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Levator scapulae.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Extensor digitorum longus.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Brachioradialis muscle.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Sternocostal head of pectoralis major muscle.e2l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Flexor digiti minimi of hand.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Longissimus thoracis muscle.e10l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Orbital part of orbicularis oculi.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Rectus posterior major capitis muscle.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Flexor digitorum brevis.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Abductor digiti minimi of hand.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Flexor hallucis longus.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Obliquus superior capitis muscle.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Flexor digitorum profundus.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Flexor pollicis longus.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Rectus posterior major capitis muscle.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Articularis genus muscle.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Serratus posterior superior muscle.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Extensor digitorum brevis.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Lateral head of flexor hallucis brevis.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Long head of biceps femoris.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Oblique head of adductor hallucis.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Levator scapulae.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Longissimus thoracis muscle.e6r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Scalenus posterior muscle.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Long head of biceps femoris.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Longissimus thoracis muscle.e17l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Dorsal interossei muscles of hand.o1r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Rhomboid major muscle.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Longissimus thoracis muscle.e8l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Adductor pollicis.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Longissimus thoracis muscle.e20r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Teres major muscle.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Medial head of triceps brachii.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Lateral head of flexor hallucis brevis.o1l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Depressor labii inferioris.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Flexor digitorum longus.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Abductor digiti minimi of hand.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Lateral head of triceps brachii.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Pectoralis major muscle.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Extensor pollicis brevis.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Plantaris muscle.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Extensor digitorum brevis.e1r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Extensor digitorum.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Extensor hallucis longus.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Flexor pollicis longus.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Longissimus thoracis muscle.e22l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Obliquus superior capitis muscle.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Extensor digitorum longus.e3l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Transversus thoracis muscle.o1r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Adductor longus.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Scalenus anterior muscle.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Transverse head of adductor hallucis.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Adductor magnus.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Longissimus thoracis muscle.e22r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Scalenus anterior muscle.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,(Abdominal part of pectoralis major muscle).or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Temporalis muscle.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Longissimus thoracis muscle.e15l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Transversus abdominis muscle.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Latissimus dorsi muscle.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Medial head of flexor hallucis brevis.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Rhomboid minor muscle.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Longissimus thoracis muscle.e4l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Extensor carpi ulnaris.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Flexor digitorum superficialis.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Scapular spinal part of deltoid muscle.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Longissimus thoracis muscle.e26r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Deep head of flexor pollicis brevis.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Flexor digiti minimi of hand.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Extensor digitorum longus.e1l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Popliteus muscle.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Levator scapulae.o2r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Extensor pollicis brevis.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Flexor digitorum brevis.e1r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Extensor digitorum.e1l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Long head of biceps brachii.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Fibularis longus muscle.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Serratus posterior inferior muscle.e1l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Abductor pollicis longus.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Vastus intermedius muscle.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Flexor digitorum superficialis.e3l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Longissimus thoracis muscle.e20l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Rectus lateralis capitis muscle.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Extensor digitorum brevis.e2l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Brachioradialis muscle.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Sternocostal head of pectoralis major muscle.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Obliquus inferior capitis muscle.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Biceps femoris muscle.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Short head of biceps femoris.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Pectoralis major muscle.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Abductor digiti minimi of foot.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Subscapularis muscle.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Levator scapulae.o1l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Sternocostal head of pectoralis major muscle.e1r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Longissimus thoracis muscle.e13l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Rectus femoris muscle.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Transversus thoracis muscle.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Flexor digitorum superficialis.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Lateral head of flexor hallucis brevis.o1r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Abductor digiti minimi of hand.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Levator scapulae.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Longissimus thoracis muscle.e24l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Latissimus dorsi muscle.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Extensor digitorum.e5l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Descending part of trapezius muscle.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Flexor digitorum longus.e1l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Levator scapulae.o3r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Fibularis brevis muscle.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Obturator externus.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Pronator teres.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Sartorius muscle.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Extensor digitorum brevis.e2r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Extensor digitorum.e2l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Extensor digitorum longus.o1r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Serratus anterior muscle.e4l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Extensor carpi radialis longus.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Flexor digitorum superficialis.e2l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Longissimus thoracis muscle.e18l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Flexor digitorum brevis.e1l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Adductor magnus.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Extensor digitorum longus.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Adductor longus.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Longissimus thoracis muscle.e25r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Levator scapulae.o2l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Piriformis muscle.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Rectus abdominis muscle.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Longissimus thoracis muscle.e9l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Deep head of flexor pollicis brevis.o1l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Piriformis muscle.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Serratus anterior muscle.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Tibialis anterior muscle.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Procerus muscle.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Serratus anterior muscle.e7l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Extensor pollicis brevis.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Temporalis muscle.o3l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Extensor digitorum.e6l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Extensor digitorum longus.e2l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Serratus anterior muscle.e4r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Soleus muscle.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Flexor digitorum brevis.e2r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Extensor digitorum.e3l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Extensor pollicis brevis.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Gracilis muscle.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Abductor hallucis.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Flexor digitorum brevis.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Flexor digitorum superficialis.e1l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Lateral head of gastrocnemius.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Scalenus posterior muscle.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Superior gemellus muscle.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Adductor magnus.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Inferior gemellus muscle.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Rectus posterior minor capitis muscle.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Long head of triceps brachii.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Levator scapulae.o3l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Adductor magnus.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Longissimus thoracis muscle.e7l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Sternocostal head of pectoralis major muscle.e2r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Dorsal interossei muscles of hand.o3l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Anterior belly of digastric muscle.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Extensor carpi ulnaris.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Tibialis posterior muscle.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Serratus posterior inferior muscle.e2l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Serratus anterior muscle.e2r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Pectoralis minor muscle.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Sartorius muscle.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Extensor carpi radialis longus.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Fibularis tertius muscle.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Obturator externus.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Quadriceps femoris muscle.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Extensor pollicis longus.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Extensor indicis.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Masseter.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Flexor digitorum brevis.e2l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Sternocleidomastoid muscle.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Superior gemellus muscle.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Longissimus thoracis muscle.e5l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Pronator teres.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Dorsal interossei muscles of hand.o2l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Transverse head of adductor hallucis.e3r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Ulnar head of flexor carpi ulnaris.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Extensor digitorum.e4r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Transversus thoracis muscle.o1l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Abductor pollicis longus.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Flexor hallucis longus.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Serratus anterior muscle.e3l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Mentalis muscle.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Medial head of gastrocnemius.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Extensor hallucis longus.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Quadratus femoris muscle.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Temporalis muscle.o4l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Sternocleidomastoid muscle.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Extensor hallucis longus.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Depressor anguli oris.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,(Opponens digiti minimi muscle of foot).or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Supinator.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Coracobrachialis muscle.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Extensor digitorum.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Rectus posterior major capitis muscle.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Short head of biceps brachii.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Obturator internus.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Longissimus thoracis muscle.e11l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Dorsal interossei muscles of hand.o1l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Supinator.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Extensor digitorum.e5r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Sternocostal head of pectoralis major muscle.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Extensor digitorum.e4l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Gluteus maximus muscle.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Extensor hallucis longus.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Clavicular part of deltoid muscle.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Longissimus thoracis muscle.e14r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Serratus anterior muscle.e6l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Serratus anterior muscle.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Serratus anterior muscle.e2l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Medial pterygoid muscle.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Lateral head of flexor hallucis brevis.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Lateral head of flexor hallucis brevis.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Dorsal interossei muscles of hand.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Sartorius muscle.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Ulnar head of flexor carpi ulnaris.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Vastus lateralis muscle.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Pectoralis minor muscle.e2r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Extensor digitorum.e1r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Acromial part of deltoid muscle.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Serratus anterior muscle.e3r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Semimembranosus muscle.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Latissimus dorsi muscle.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Oblique head of adductor hallucis.o1r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Pronator quadratus.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Opponens digiti minimi muscle of hand.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Extensor digitorum.e6r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Serratus anterior muscle.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Flexor digiti minimi of foot.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Extensor digitorum longus.e4l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Serratus anterior muscle.e5l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Deep head of flexor pollicis brevis.o1r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Ascending part of trapezius muscle.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Longissimus thoracis muscle.e23r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Flexor digitorum brevis.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Abductor hallucis.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Adductor pollicis.e1l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Longissimus thoracis muscle.e18r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Extensor hallucis brevis.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Extensor digitorum.e2r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Scalenus anterior muscle.e1r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Flexor digitorum longus.e2l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Biceps femoris muscle.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Anterior belly of digastric muscle.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Flexor digitorum superficialis.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Transverse head of adductor hallucis.e2r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Flexor pollicis longus.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Extensor digitorum.e7r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Extensor digitorum longus.o1l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Quadratus femoris muscle.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Flexor digitorum profundus.e2r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Longissimus thoracis muscle.e21r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Longissimus thoracis muscle.e3l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Brachioradialis muscle.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Abductor hallucis.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Gluteus minimus muscle.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Temporalis muscle.o2r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Teres minor muscle.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Omohyoid muscle.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Longus capitis muscle.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Medial head of flexor hallucis brevis.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Longissimus thoracis muscle.e16r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Quadriceps femoris muscle.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Adductor longus.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Temporalis muscle.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Extensor indicis.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Flexor hallucis longus.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Adductor longus.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Longissimus thoracis muscle.e7r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Extensor digitorum.e3r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Rectus anterior capitis muscle.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Supraspinatus muscle.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Piriformis muscle.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Serratus anterior muscle.e7r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Semitendinosus muscle.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Geniohyoid muscle.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Extensor carpi ulnaris.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Transverse head of adductor hallucis.e3l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Flexor digitorum longus.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Extensor digitorum brevis.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Extensor pollicis longus.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Flexor digitorum profundus.e3r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Scalenus anterior muscle.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Pectoralis minor muscle.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Flexor digitorum profundus.e1r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Longissimus thoracis muscle.e19r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Serratus anterior muscle.e8l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Transversus thoracis muscle.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Scalenus anterior muscle.e2l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Inferior gemellus muscle.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Lateral pterygoid muscle.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Longissimus thoracis muscle.e12r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Infraspinatus muscle.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Depressor labii inferioris.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Flexor carpi ulnaris.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Extensor digitorum longus.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Tibialis anterior muscle.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Longissimus thoracis muscle.e5r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Extensor pollicis longus.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Rectus anterior capitis muscle.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,(Abdominal part of pectoralis major muscle).ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Serratus posterior superior muscle.e2l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Oblique head of adductor hallucis.o1l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Adductor pollicis.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Extensor indicis.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Extensor carpi radialis longus.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Pectoralis major muscle.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Orbicularis oris muscle.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Flexor digitorum profundus.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Internal abdominal oblique muscle.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Longissimus thoracis muscle.e17r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Serratus anterior muscle.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Brachialis muscle.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Scalenus medius muscle.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Oblique head of adductor hallucis.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Pectoralis minor muscle.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Subclavius muscle.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Levator scapulae.o1r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Teres minor muscle.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Pectineus muscle.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Quadratus femoris muscle.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Transverse head of adductor hallucis.e1r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Longissimus thoracis muscle.e8r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Tibialis anterior muscle.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Flexor pollicis longus.o1l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Flexor digitorum longus.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Obliquus inferior capitis muscle.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Longissimus thoracis muscle.e3r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Dorsal interossei muscles of hand.o4r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Obliquus inferior capitis muscle.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Transverse head of adductor hallucis.e2l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Dorsal interossei muscles of hand.o4l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Extensor carpi ulnaris.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Flexor digiti minimi of foot.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Teres minor muscle.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Serratus posterior superior muscle.e1l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Rhomboid major muscle.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Flexor digiti minimi of hand.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Masseter.o1l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Extensor digitorum brevis.e1l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Longissimus thoracis muscle.e15r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Serratus anterior muscle.e5r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Anconeus muscle.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Longissimus thoracis muscle.e25l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Teres minor muscle.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Zygomaticus major muscle.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Longissimus thoracis muscle.e14l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Frontalis muscle.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Longissimus thoracis muscle.e4r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Pectoralis minor muscle.e1r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Supinator.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Serratus posterior inferior muscle.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Orbicularis oris muscle.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Vastus medialis muscle.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Mylohyoid muscle.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Extensor pollicis longus.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Masseter.o1r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Extensor digitorum longus.e1r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Flexor digitorum longus.e2r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Scalenus anterior muscle.e1l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Flexor digitorum superficialis.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Longissimus thoracis muscle.e11r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Dorsal interossei muscles of hand.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Levator scapulae.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Oblique head of adductor hallucis.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Serratus anterior muscle.e6r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Transverse head of adductor hallucis.e1l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Pectoralis minor muscle.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Rhomboid minor muscle.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Dorsal interossei muscles of hand.o3r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Depressor anguli oris.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Temporalis muscle.o1l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Flexor digitorum superficialis.e3r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Longissimus thoracis muscle.e13r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Rectus posterior minor capitis muscle.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Quadratus femoris muscle.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Temporalis muscle.o2l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Thyrohyoid muscle.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,(Opponens digiti minimi muscle of foot).ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Acromial part of deltoid muscle.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Anconeus muscle.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Anconeus muscle.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Anconeus muscle.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Articularis genus muscle.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Ascending part of trapezius muscle.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Ascending part of trapezius muscle.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Ascending part of trapezius muscle.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Biceps brachii muscle.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Biceps brachii muscle.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Brachialis muscle.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Brachialis muscle.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Brachialis muscle.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Clavicular part of deltoid muscle.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Deltoid muscle.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Deltoid muscle.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Descending part of trapezius muscle.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,External abdominal oblique muscle.o1l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,External abdominal oblique muscle.o1r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,External abdominal oblique muscle.o2l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,External abdominal oblique muscle.o2r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,External abdominal oblique muscle.o3l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,External abdominal oblique muscle.o3r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,External abdominal oblique muscle.o4l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,External abdominal oblique muscle.o4r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,External abdominal oblique muscle.o5l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,External abdominal oblique muscle.o5r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,External abdominal oblique muscle.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Fibularis brevis muscle.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Fibularis brevis muscle.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Fibularis brevis muscle.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Fibularis longus muscle.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Fibularis tertius muscle.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Fibularis tertius muscle.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Fibularis tertius muscle.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Frontalis muscle.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Geniohyoid muscle.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Geniohyoid muscle.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Geniohyoid muscle.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Gluteus maximus muscle.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Gluteus maximus muscle.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Gluteus maximus muscle.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Gluteus medius muscle.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Gluteus medius muscle.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Gluteus medius muscle.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Gluteus minimus muscle.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Gracilis muscle.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Gracilis muscle.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Gracilis muscle.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Iliacus muscle.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Iliocostalis colli muscle.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Iliocostalis colli muscle.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Iliopsoas muscle.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Iliopsoas muscle.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Infraspinatus muscle.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Infraspinatus muscle.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Infraspinatus muscle.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Internal abdominal oblique muscle.o1l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Internal abdominal oblique muscle.o1r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Internal abdominal oblique muscle.o2l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Internal abdominal oblique muscle.o2r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Internal abdominal oblique muscle.o3l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Internal abdominal oblique muscle.o3r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Internal abdominal oblique muscle.o4l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Internal abdominal oblique muscle.o4r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Internal abdominal oblique muscle.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Lateral head of gastrocnemius.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Lateral head of triceps brachii.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Lateral pterygoid muscle.o1l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Lateral pterygoid muscle.o1r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Lateral pterygoid muscle.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Long head of biceps brachii.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Long head of triceps brachii.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Longus capitis muscle.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Masseter.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Masseter.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Masseter.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Medial head of gastrocnemius.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Medial head of triceps brachii.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Medial pterygoid muscle.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Medial pterygoid muscle.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Medial pterygoid muscle.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Mentalis muscle.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Mylohyoid muscle.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Nasalis muscle.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Occipitalis muscle.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Omohyoid muscle.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Omohyoid muscle.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Omohyoid muscle.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Opponens digiti minimi muscle of hand.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Pectineus muscle.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Pectineus muscle.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Plantar interossei muscles.e1l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Plantar interossei muscles.e2l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Plantar interossei muscles.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Plantar interossei muscles.o1l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Plantar interossei muscles.o2l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Plantar interossei muscles.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Plantaris muscle.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Popliteus muscle.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Popliteus muscle.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Popliteus muscle.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Procerus muscle.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Procerus muscle.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Rectus abdominis muscle.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Rectus abdominis muscle.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Rectus abdominis muscle.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Rectus lateralis capitis muscle.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Scalenus medius muscle.e1l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Scalenus medius muscle.e1r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Scalenus medius muscle.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Scalenus medius muscle.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Scalenus medius muscle.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Scapular spinal part of deltoid muscle.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Semimembranosus muscle.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Semimembranosus muscle.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Semimembranosus muscle.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Semitendinosus muscle.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Semitendinosus muscle.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Semitendinosus muscle.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Soleus muscle.o1l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Soleus muscle.o1r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Soleus muscle.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Spinalis capitis muscle.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Spinalis capitis muscle.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Splenius colli muscle.e1l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Splenius colli muscle.e1r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Splenius colli muscle.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Splenius colli muscle.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Sternocleidomastoid muscle.o1l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Sternocleidomastoid muscle.o1r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Sternocleidomastoid muscle.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Sternohyoid muscle.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Sternohyoid muscle.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Sternohyoid muscle.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Subclavius muscle.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Subscapularis muscle.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Subscapularis muscle.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Subscapularis muscle.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Supraspinatus muscle.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Supraspinatus muscle.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Supraspinatus muscle.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Thyrohyoid muscle.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Thyrohyoid muscle.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Thyrohyoid muscle.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Transverse part of trapezius muscle.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Transversus abdominis muscle.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Triceps brachii muscle.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Triceps brachii muscle.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Triceps surae muscle.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Triceps surae muscle.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Vastus intermedius muscle.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Vastus lateralis muscle.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Vastus medialis muscle.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Levator labii superioris.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Levator anguli oris.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Levator labii superioris.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Levator nasolabialis.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Diaphragm.o1l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Diaphragm.o1r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Diaphragm.o2l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Diaphragm.o2r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Diaphragm.o3l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Diaphragm.o3r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Diaphragm.o4l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Diaphragm.o4r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Diaphragm.o5l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Diaphragm.o5r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Diaphragm.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Diaphragm.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Levatores longi costarum.e6l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Levatores longi costarum.e6r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Levatores longi costarum.e9l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Levatores longi costarum.e9r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Levatores longi costarum.e3l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Levatores longi costarum.e3r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Levatores longi costarum.e2l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Levatores longi costarum.e2r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Levatores longi costarum.e7l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Levatores longi costarum.e7r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Levatores longi costarum.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Levatores longi costarum.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Levatores longi costarum.e5l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Levatores longi costarum.e5r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Levatores longi costarum.e4l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Levatores longi costarum.e4r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Levatores longi costarum.e8l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Levatores longi costarum.e8r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Levatores longi costarum.e1l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Levatores longi costarum.e1r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Levatores longi costarum.e10l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Levatores longi costarum.e10r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Trochanteric insertion.el,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Trochanteric insertion.er,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Levator ani.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Levator ani.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Bucinator.o1l,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Bucinator.o1r,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Bucinator.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Bucinator.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Erector spinae.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Erector spinae.or,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Levator anguli oris.ol,MESH,False,False,False,False,False
+OBJECT,MUSCLE_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Levator nasolabialis.ol,MESH,False,False,False,False,False
+COLLECTION,TENDON_LIGAMENT_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,,,False,False,,,
+OBJECT,TENDON_LIGAMENT_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Common extensor tendon.ol,MESH,False,False,False,False,False
+OBJECT,TENDON_LIGAMENT_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Common extensor tendon.or,MESH,False,False,False,False,False
+OBJECT,TENDON_LIGAMENT_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Common flexor tendon.ol,MESH,False,False,False,False,False
+OBJECT,TENDON_LIGAMENT_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Common flexor tendon.or,MESH,False,False,False,False,False
+OBJECT,TENDON_LIGAMENT_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Long plantar ligament.o1l,MESH,False,False,False,False,False
+OBJECT,TENDON_LIGAMENT_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Long plantar ligament.o1r,MESH,False,False,False,False,False
+OBJECT,TENDON_LIGAMENT_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Long plantar ligament.o2l,MESH,False,False,False,False,False
+OBJECT,TENDON_LIGAMENT_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Long plantar ligament.o2r,MESH,False,False,False,False,False
+OBJECT,TENDON_LIGAMENT_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Long plantar ligament.o3l,MESH,False,False,False,False,False
+OBJECT,TENDON_LIGAMENT_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Long plantar ligament.o3r,MESH,False,False,False,False,False
+OBJECT,TENDON_LIGAMENT_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Long plantar ligament.o4l,MESH,False,False,False,False,False
+OBJECT,TENDON_LIGAMENT_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Long plantar ligament.o4r,MESH,False,False,False,False,False
+OBJECT,TENDON_LIGAMENT_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Long plantar ligament.ol,MESH,False,False,False,False,False
+OBJECT,TENDON_LIGAMENT_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Long plantar ligament.or,MESH,False,False,False,False,False
+OBJECT,TENDON_LIGAMENT_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Patellar ligament.el,MESH,False,False,False,False,False
+OBJECT,TENDON_LIGAMENT_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Patellar ligament.er,MESH,False,False,False,False,False
+OBJECT,TENDON_LIGAMENT_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Patellar ligament.ol,MESH,False,False,False,False,False
+OBJECT,TENDON_LIGAMENT_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Patellar ligament.or,MESH,False,False,False,False,False
+OBJECT,TENDON_LIGAMENT_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Tensor fasciae latae.ol,MESH,False,False,False,False,False
+OBJECT,TENDON_LIGAMENT_ATTACHMENTS,SKELETAL_SYSTEM_ORGANIZED,1,Tensor fasciae latae.or,MESH,False,False,False,False,False
+COLLECTION,CARTILAGE,SKELETAL_SYSTEM_ORGANIZED,1,,,False,False,,,
+OBJECT,CARTILAGE,SKELETAL_SYSTEM_ORGANIZED,1,Arytenoid cartilage.l,MESH,False,False,False,False,False
+OBJECT,CARTILAGE,SKELETAL_SYSTEM_ORGANIZED,1,Arytenoid cartilage.r,MESH,False,False,False,False,False
+OBJECT,CARTILAGE,SKELETAL_SYSTEM_ORGANIZED,1,Corniculate cartilage.l,MESH,False,False,False,False,False
+OBJECT,CARTILAGE,SKELETAL_SYSTEM_ORGANIZED,1,Corniculate cartilage.r,MESH,False,False,False,False,False
+OBJECT,CARTILAGE,SKELETAL_SYSTEM_ORGANIZED,1,Costal cartilage of eighth rib.l,MESH,False,False,False,False,False
+OBJECT,CARTILAGE,SKELETAL_SYSTEM_ORGANIZED,1,Costal cartilage of eighth rib.r,MESH,False,False,False,False,False
+OBJECT,CARTILAGE,SKELETAL_SYSTEM_ORGANIZED,1,Costal cartilage of fifth rib.l,MESH,False,False,False,False,False
+OBJECT,CARTILAGE,SKELETAL_SYSTEM_ORGANIZED,1,Costal cartilage of fifth rib.r,MESH,False,False,False,False,False
+OBJECT,CARTILAGE,SKELETAL_SYSTEM_ORGANIZED,1,Costal cartilage of first rib.l,MESH,False,False,False,False,False
+OBJECT,CARTILAGE,SKELETAL_SYSTEM_ORGANIZED,1,Costal cartilage of first rib.r,MESH,False,False,False,False,False
+OBJECT,CARTILAGE,SKELETAL_SYSTEM_ORGANIZED,1,Costal cartilage of fourth rib.l,MESH,False,False,False,False,False
+OBJECT,CARTILAGE,SKELETAL_SYSTEM_ORGANIZED,1,Costal cartilage of fourth rib.r,MESH,False,False,False,False,False
+OBJECT,CARTILAGE,SKELETAL_SYSTEM_ORGANIZED,1,Costal cartilage of ninth rib.l,MESH,False,False,False,False,False
+OBJECT,CARTILAGE,SKELETAL_SYSTEM_ORGANIZED,1,Costal cartilage of ninth rib.r,MESH,False,False,False,False,False
+OBJECT,CARTILAGE,SKELETAL_SYSTEM_ORGANIZED,1,Costal cartilage of second rib.l,MESH,False,False,False,False,False
+OBJECT,CARTILAGE,SKELETAL_SYSTEM_ORGANIZED,1,Costal cartilage of second rib.r,MESH,False,False,False,False,False
+OBJECT,CARTILAGE,SKELETAL_SYSTEM_ORGANIZED,1,Costal cartilage of seventh rib.l,MESH,False,False,False,False,False
+OBJECT,CARTILAGE,SKELETAL_SYSTEM_ORGANIZED,1,Costal cartilage of seventh rib.r,MESH,False,False,False,False,False
+OBJECT,CARTILAGE,SKELETAL_SYSTEM_ORGANIZED,1,Costal cartilage of sixth rib.l,MESH,False,False,False,False,False
+OBJECT,CARTILAGE,SKELETAL_SYSTEM_ORGANIZED,1,Costal cartilage of sixth rib.r,MESH,False,False,False,False,False
+OBJECT,CARTILAGE,SKELETAL_SYSTEM_ORGANIZED,1,Costal cartilage of tenth rib.l,MESH,False,False,False,False,False
+OBJECT,CARTILAGE,SKELETAL_SYSTEM_ORGANIZED,1,Costal cartilage of tenth rib.r,MESH,False,False,False,False,False
+OBJECT,CARTILAGE,SKELETAL_SYSTEM_ORGANIZED,1,Costal cartilage of third rib.l,MESH,False,False,False,False,False
+OBJECT,CARTILAGE,SKELETAL_SYSTEM_ORGANIZED,1,Costal cartilage of third rib.r,MESH,False,False,False,False,False
+OBJECT,CARTILAGE,SKELETAL_SYSTEM_ORGANIZED,1,Cricoid cartilage,MESH,False,False,False,False,False
+OBJECT,CARTILAGE,SKELETAL_SYSTEM_ORGANIZED,1,Lateral process of nasal septal cartilage.l,MESH,False,False,False,False,False
+OBJECT,CARTILAGE,SKELETAL_SYSTEM_ORGANIZED,1,Lateral process of nasal septal cartilage.r,MESH,False,False,False,False,False
+OBJECT,CARTILAGE,SKELETAL_SYSTEM_ORGANIZED,1,Major alar cartilage.l,MESH,False,False,False,False,False
+OBJECT,CARTILAGE,SKELETAL_SYSTEM_ORGANIZED,1,Major alar cartilage.r,MESH,False,False,False,False,False
+OBJECT,CARTILAGE,SKELETAL_SYSTEM_ORGANIZED,1,Nasal septal cartilage,MESH,False,False,False,False,False
+OBJECT,CARTILAGE,SKELETAL_SYSTEM_ORGANIZED,1,Thyroid cartilage,MESH,False,False,False,False,False
+OBJECT,CARTILAGE,SKELETAL_SYSTEM_ORGANIZED,1,Second rib.l,MESH,False,False,False,False,False
+OBJECT,CARTILAGE,SKELETAL_SYSTEM_ORGANIZED,1,Synovial joints of free upper limb.g,EMPTY,False,False,False,False,False
+OBJECT,CARTILAGE,SKELETAL_SYSTEM_ORGANIZED,1,Metacarpophalangeal joints.g,EMPTY,False,False,False,False,False
+OBJECT,CARTILAGE,SKELETAL_SYSTEM_ORGANIZED,1,Joints of upper limb.g,EMPTY,False,False,False,False,False
+OBJECT,CARTILAGE,SKELETAL_SYSTEM_ORGANIZED,1,Joints of hand.g,EMPTY,False,False,False,False,False
+OBJECT,CARTILAGE,SKELETAL_SYSTEM_ORGANIZED,1,Joints of free upper limb.g,EMPTY,False,False,False,False,False
+OBJECT,CARTILAGE,SKELETAL_SYSTEM_ORGANIZED,1,Articular capsules of metacarpophalangeal joints.r,MESH,False,False,False,False,False
+OBJECT,CARTILAGE,SKELETAL_SYSTEM_ORGANIZED,1,Articular capsules of metacarpophalangeal joints.r.001,MESH,False,False,False,False,False
+OBJECT,CARTILAGE,SKELETAL_SYSTEM_ORGANIZED,1,Depressor septi nasi.ol,MESH,False,False,False,False,False
+OBJECT,CARTILAGE,SKELETAL_SYSTEM_ORGANIZED,1,Depressor septi nasi.or,MESH,False,False,False,False,False

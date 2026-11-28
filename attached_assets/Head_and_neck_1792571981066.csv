@@ -1,0 +1,1293 @@
+row_type,collection_name,parent_collection,depth,object_name,object_type,collection_hide_viewport,collection_exclude_view_layer,object_hide_viewport,object_hidden_get,object_hide_render
+COLLECTION,Collection,Scene Collection,0,,,False,False,,,
+OBJECT,Collection,Scene Collection,0,Zygomatic bone.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Zygomatic bone.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Zygapophysial joints.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Vomer,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Vertebra T4,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Vertebra T3,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Vertebra T2,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Vertebra T1,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Vertebra C7,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Vertebra C6,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Vertebra C5,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Vertebra C4,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Vertebra C3,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Upper second premolar.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Upper second premolar.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Upper second molar tooth.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Upper second molar tooth.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Upper medial incisor.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Upper medial incisor.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Upper lateral incisor.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Upper lateral incisor.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Upper first premolar.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Upper first premolar.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Upper first molar tooth.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Upper first molar tooth.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Upper canine.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Upper canine.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Uncovertebral joints.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Trapezoid ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Trapezoid ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Tibiofibular syndesmosis.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Thyroid cartilage,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Thyrohyoid membrane.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Thoracic joints.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Temporomandibular joint.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Temporal bone.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Temporal bone.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Tarsometatarsal joints.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Synovial joints of vertebral column.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Synovial joints of thorax.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Synovial joints of pelvic girdle.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Synovial joints of larynx.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Synovial joints of free upper limb.g.001,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Synovial joints of free upper limb.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Synovial joints of free lower limb.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Synovial joint.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Synostosis.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Syndesmoses.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Synchondroses.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Synarthrosis.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Symphysis.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Sutures.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Superior transverse scapular ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Superior transverse scapular ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Superior tibiofibular joint.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Stylomandibular ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Stylomandibular ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Stylohyoid ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Stylohyoid ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Sternoclavicular joint.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Sternochondral synchondrosis of first rib.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Sternochondral joints.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Stapes.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Stapes.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Sphenomandibular ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Sphenomandibular ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Sphenoid bone,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Sinus of frontal bone,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Simple joint.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Serrate suture.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Second rib.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Second rib.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Schindylesis.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Saddle joint.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Sacrococcygeal joint.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Sacro-iliac joint.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Radiocarpal joint.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Radio-ulnar syndesmoses.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Quadrangular membrane.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Quadrangular membrane.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Pterygospinous ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Pterygospinous ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Proximal radio-ulnar joint.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Posterior sternoclavicular ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Posterior sternoclavicular ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Posterior cells of ethmoid bone.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Posterior cells of ethmoid bone.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Plane suture.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Plane joint.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Parietal bone.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Parietal bone.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Palatine bone.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Palatine bone.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Occipital bone,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Nucleus pulposus T5-T6,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Nucleus pulposus T4-T5,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Nucleus pulposus T3-T4,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Nucleus pulposus T2-T3,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Nucleus pulposus T1-T2,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Nucleus pulposus C7-T1,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Nucleus pulposus C6-C7,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Nucleus pulposus C5-C6,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Nucleus pulposus C4-C5,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Nucleus pulposus C3-C4,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Nucleus pulposus C2-C3,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Nuchal ligament,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Nasal septal cartilage,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Nasal bone.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Nasal bone.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Middle cells of ethmoid bone.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Middle cells of ethmoid bone.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Metatarsophalangeal joints.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Metacarpophalangeal joints.g.001,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Metacarpophalangeal joints.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Median thyrohyoid ligament,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Median cricothyroid ligament,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Median atlanto-axial joint.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Medial collateral ligament of ankle.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Maxilla.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Maxilla.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Manubrium of sternum,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Mandible,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Malleus.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Malleus.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Major alar cartilage.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Major alar cartilage.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Lumbosacral symphysis.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Lower second premolar.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Lower second premolar.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Lower second molar tooth.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Lower second molar tooth.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Lower medial incisor.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Lower medial incisor.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Lower lateral incisor.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Lower lateral incisor.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Lower first premolar.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Lower first premolar.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Lower first molar tooth.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Lower first molar tooth.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Lower canine.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Lower canine.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Limbous suture.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Ligaments of epiglottis.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Lateral thyrohyoid ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Lateral thyrohyoid ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Lateral temporomandibular ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Lateral temporomandibular ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Lateral process of nasal septal cartilage.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Lateral process of nasal septal cartilage.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Lateral collateral ligament of ankle.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Lateral atlanto-axial joint.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Laryngeal joints.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Lacrimal bone.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Lacrimal bone.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Knee joint.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Joints of vertebral column.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Joints of skull.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Joints of pelvic girdle.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Joints of lower limb.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Joints of hand.g.001,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Joints of hand.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Joints of free upper limb.g.001,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Joints of free upper limb.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Joints of free lower limb.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Joints of foot.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Joints of auditory ossicles.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Joint of head of rib.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Intervertebral symphysis.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Intervertebral disc T5-T6,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Intervertebral disc T4-T5,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Intervertebral disc T3-T4,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Intervertebral disc T2-T3,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Intervertebral disc T1-T2,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Intervertebral disc C7-T1,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Intervertebral disc C6-C7,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Intervertebral disc C5-C6,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Intervertebral disc C4-C5,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Intervertebral disc C3-C4,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Intervertebral disc C2-C3,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Intertarsal joints.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Interphalangeal joints of hand.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Interphalangeal joints of foot.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Interosseous membrane.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Interosseous ligament.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Intermetatarsal joints.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Intermetacarpal joints.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Interclavicular ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Interclavicular ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Interchondral joints.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Intercarpal joints.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Inferior transverse scapular ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Inferior nasal concha bone.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Inferior nasal concha bone.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Incus.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Incus.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Hyoid bone,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Humeroradial joint.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Humero-ulnar joint.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Hip joint.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Gomphosis.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Frontal bone,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,First rib.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,First rib.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Fibrous joints.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Fibrous joints of vertebral column.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Fibrous joints of thorax.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Fibrous joints of pelvic girdle.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Fibrous joints of larynx.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Fibrous joints of free upper limb.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Fibrous joints of free lower limb.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Fibro-elastic membrane of larynx.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Ethmoid bone,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Ellipsoid joint.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Elbow joint.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Distal radio-ulnar joint.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Diarthrosis.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Depressor septi nasi.or,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Depressor septi nasi.ol,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Denticulate suture.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Cylindrical joints.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Cricothyroid joint.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Cricopharyngeal ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Cricopharyngeal ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Cricoid cartilage,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Crico-arytenoid joint.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Cranial syndesmoses.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Cranial fibrous joints.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Costovertebral joints.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Costotransverse joint.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Costoclavicular ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Costoclavicular ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Costochondral joints.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Costal cartilage of second rib.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Costal cartilage of second rib.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Costal cartilage of first rib.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Costal cartilage of first rib.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Corniculate cartilage.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Corniculate cartilage.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Conoid ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Conoid ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Complex joint.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Clavicle.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Clavicle.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Cartilaginous joints.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Cartilaginous joints of vertebral column.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Cartilaginous joints of thorax.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Cartilaginous joints of sternum.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Cartilaginous joints of pelvic girdle.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Carpometacarpal joints.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Bicondylar joint.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Ball and socket joint.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Axis (C2),MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Atlas (C1),MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Arytenoid cartilage.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Arytenoid cartilage.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Articular recess.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Articular fibrocartilage.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Articular disc of temporomandibular joint.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Articular disc of temporomandibular joint.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Articular disc of sternoclavicular joint.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Articular disc of sternoclavicular joint.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Articular disc of acromioclavicular joint.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Articular disc of acromioclavicular joint.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Articular cavity.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Articular capsules of metacarpophalangeal joints.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Articular capsule.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Articular capsule of temporomandibular joint.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Articular capsule of temporomandibular joint.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Articular capsule of sternoclavicular joint.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Articular capsule of sternoclavicular joint.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Articular capsule of acromioclavicular joint.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Articular capsule of acromioclavicular joint.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Anterior sternoclavicular ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Anterior sternoclavicular ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Anterior cells of ethmoid bone.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Anterior cells of ethmoid bone.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Ankle joint.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Amphiarthrosis.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Acromioclavicular ligament.r,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Acromioclavicular ligament.l,MESH,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Acromioclavicular joint.g,EMPTY,False,False,False,False,False
+OBJECT,Collection,Scene Collection,0,Accessory ligaments.g,EMPTY,False,False,False,False,False
+COLLECTION,Vascular system,Scene Collection,0,,,False,False,,,
+OBJECT,Vascular system,Scene Collection,0,Vertebral vein.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Vertebral vein.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Vertebral artery.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Vertebral artery.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Transverse facial artery.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Transverse facial artery.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Transverse cervical artery.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Transverse cervical artery.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Thyrocervical trunk.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Thyrocervical trunk.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Thoraco-acromial artery.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Thoraco-acromial artery.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Temporo-occipital branch.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Temporo-occipital branch.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Temporal branches of middle cerebral artery.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Temporal branches of middle cerebral artery.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Supreme intercostal artery.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Supreme intercostal artery.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Supratrochlear artery.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Supratrochlear artery.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Suprascapular vein.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Suprascapular vein.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Suprascapular artery.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Suprascapular artery.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Supra-orbital artery.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Supra-orbital artery.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Superior vena cava,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Superior thyroid vein.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Superior thyroid vein.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Superior sagittal sinus,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Superior petrosal sinus.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Superior petrosal sinus.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Superior ophthalmic vein.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Superior ophthalmic vein.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Superior lobar artery of right lung,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Superior labial vein.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Superior labial vein.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Superior labial artery.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Superior labial artery.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Superior cerebellar artery.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Superior cerebellar artery.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Superficial temporal veins.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Superficial temporal veins.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Superficial temporal artery.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Superficial temporal artery.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Subscapular artery.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Submental vein.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Submental vein.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Submental artery.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Submental artery.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Sphenoid venous plexus,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Sigmoid sinus.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Sigmoid sinus.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Short posterior ciliary arteries.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Short posterior ciliary arteries.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Septal branches of posterior ethmoidal artery.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Septal branches of posterior ethmoidal artery.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Second posterior intercostal artery.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Second posterior intercostal artery.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Right subclavian vein,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Right subclavian artery,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Right common carotid artery,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Right brachiocephalic vein,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Retromandibular vein.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Retromandibular vein.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Proximal lateral striate branches.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Proximal lateral striate branches.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Prefrontal artery.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Prefrontal artery.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Posterior_Intercavernous_Sinus,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Posterior temporal branch.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Posterior temporal branch.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Posterior superior alveolar artery.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Posterior superior alveolar artery.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Posterior septal branches of sphenopalatine artery.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Posterior septal branches of sphenopalatine artery.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Posterior segmental artery of left lung,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Posterior parietal artery.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Posterior parietal artery.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Posterior lateral nasal branches of sphenopalatine artery..r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Posterior lateral nasal branches of sphenopalatine artery..l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Posterior inferior cerebellar artery.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Posterior inferior cerebellar artery.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Posterior ethmoidal artery.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Posterior ethmoidal artery.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Posterior division of retromandibular vein.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Posterior division of retromandibular vein.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Posterior deep temporal artery.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Posterior deep temporal artery.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Posterior communicating artery.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Posterior communicating artery.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Posterior cerebral artery.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Posterior cerebral artery.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Posterior auricular vein.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Posterior auricular vein.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Postcentral arterial branch.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Postcentral arterial branch.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Pericallosal artery.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Pericallosal artery.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Parieto-occipital artery.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Parieto-occipital artery.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Parietal branches of middle cerebral artery.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Parietal branches of middle cerebral artery.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Parietal branch middle meningeal artery.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Parietal branch middle meningeal artery.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Orbitofrontal branches of anterior cerebral artery.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Orbitofrontal branches of anterior cerebral artery.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Orbital veins.j,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Ophthalmic artery.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Ophthalmic artery.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Occipital vein.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Occipital vein.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Occipital sinus,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Occipital artery.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Occipital artery.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Mylohyoid branch of inferior alveolar artery.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Mylohyoid branch of inferior alveolar artery.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Middle meningeal artery.r.001,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Middle meningeal artery.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Middle meningeal artery.l.001,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Middle meningeal artery.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Middle cerebral artery (M3-segment).r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Middle cerebral artery (M3 segment).l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Middle cerebral artery (M1-segment).r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Middle cerebral artery (M1-segment).l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Mental branch of inferior alveolar artery.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Mental branch of inferior alveolar artery.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Medial pontine branches of basilar artery.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Medial pontine branches of basilar artery.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Medial occipital artery.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Medial occipital artery.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Maxillary veins.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Maxillary veins.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Maxillary artery.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Maxillary artery.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Long posterior ciliary arteries.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Long posterior ciliary arteries.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Lingual vein.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Lingual vein.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Left subclavian vein,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Left subclavian artery,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Left common carotid artery,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Left brachiocephalic vein,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Lateral pontine branches of basilar artery.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Lateral pontine branches of basilar artery.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Lateral occipital artery.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Lateral occipital artery.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Lateral frontobasal artery.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Lateral frontobasal artery.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Lacrimal artery.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Lacrimal artery.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Internal jugular vein.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Internal jugular vein.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Internal carotid artery.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Internal carotid artery.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Insular branches of middle cerebral artery (M2-segment).l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Insular branches of middle cerebral artery (M2).r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Infra-orbital artery.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Infra-orbital artery.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Inferior thyroid artery.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Inferior thyroid artery.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Inferior sagittal sinus,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Inferior petrosal sinus.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Inferior petrosal sinus.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Inferior ophthalmic vein.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Inferior ophthalmic vein.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Inferior labial veins.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Inferior labial veins.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Inferior labial artery.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Inferior labial artery.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Inferior alveolar artery.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Inferior alveolar artery.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,HCS_RV_Purkinje_05,CURVE,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,HCS_LV_Purkinje_04,CURVE,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Greater palatine artery.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Greater palatine artery.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Frontal branches of callosomarginal artery.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Frontal branches of callosomarginal artery.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Frontal branch of superficial temporal artery.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Frontal branch of superficial temporal artery.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Frontal branch middle meningeal artery.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Frontal branch middle meningeal artery.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,FJ5231_BP28831_FMA50808_Right superior thyroid vein,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,FJ5222_BP28771_FMA50764_Right transverse sinus,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,FJ5194_BP28746_FMA50984_Right superficial middle cerebral vein,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,FJ5120_BP28747_FMA52210_Right marginal sinus,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,FJ5117_BP29142_FMA66447_Trunk of right lingual artery,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,FJ5091_BP28731_FMA51242_Right inferior anastomotic vein,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,FJ5090_BP28731_FMA51242_Right inferior anastomotic vein,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,FJ5072_BP29683_FMA49484_Right cricothyroid artery,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,FJ5046_BP28730_FMA50991_Right basal vein,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,FJ5024_BP29706_FMA49489_Anterior glandular branch of right supe,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,FJ5011_BP29192_FMA66472_Trunk of right superior thyroid artery,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,FJ4996_BP28866_FMA52565_Right lingual vein,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,FJ4705_BP28864_FMA50769_Straight sinus,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,FJ4704_BP29489_FMA50784_Sinus confluence,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,FJ4693_BP29632_FMA71571_Set of lateral direct veins of lateral ,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,FJ4690_BP28702_FMA51004_Right internal cerebral vein,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,FJ4679_BP28953_FMA50986_Inferior cerebral vein,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,FJ4654_BP28758_FMA50994_Right great cerebral vein,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,First posterior intercostal artery.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,First posterior intercostal artery.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Facial vein.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Facial vein.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Facial artery.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Facial artery.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,External jugular vein.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,External jugular vein.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,External carotid artery.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,External carotid artery.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Distal lateral striate branches.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Distal lateral striate branches.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Descending palatine artery.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Descending palatine artery.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Deep cervical artery.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Deep cervical artery.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Costocervical trunk.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Costocervical trunk.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Confluence of sinuses.j,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Common facial vein.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Common facial vein.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Circumflex scapular vein.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Circumflex scapular artery.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Cervical vertebral venous pleus,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Central retinal artery.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Central retinal artery.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Cavernous_Sinus_R,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Cavernous_Sinus_L,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Callosomarginal artery.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Callosomarginal artery.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Buccal artery.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Buccal artery.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Branch to angular gyrus.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Branch to angular gyrus.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Brachiocephalic trunk,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Bifurcation of pulmonary trunk,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Basilar venous plexus clivus,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Basilar artery,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Axillary artery.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Axillary artery.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Ascending pharyngeal artery.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Ascending pharyngeal artery.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Artery of pterygoid canal.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Artery of pterygoid canal.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Artery of precentral sulcus.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Artery of precentral sulcus.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Artery of central sulcus.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Artery of central sulcus.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Apical segmental artery of right lung,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Apical segmental artery of left lung,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Aortic arch,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Anterior_Intercavernous_Sinus,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Anterior temporal branch.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Anterior temporal branch.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Anterior spinal artery.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Anterior spinal artery.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Anterior septal branches of anterior ethmoidal artery.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Anterior septal branches of anterior ethmoidal artery.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Anterior segmental artery of right lung,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Anterior jugular vein.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Anterior jugular vein.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Anterior inferior cerebellar artery.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Anterior inferior cerebellar artery.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Anterior ethmoidal artery.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Anterior ethmoidal artery.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Anterior division of retromandibular vein.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Anterior division of retromandibular vein.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Anterior deep temporal artery.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Anterior deep temporal artery.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Anterior communicating artery,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Anterior cerebral artery.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Anterior cerebral artery.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Angular vein.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Angular vein.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Angular artery.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Angular artery.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Accessory branch of middle meningeal artery.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,Accessory branch of middle meningeal artery.l,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,?x.r,MESH,False,False,False,False,False
+OBJECT,Vascular system,Scene Collection,0,?x.l,MESH,False,False,False,False,False
+COLLECTION,Muscular system,Scene Collection,0,,,False,False,,,
+OBJECT,Muscular system,Scene Collection,0,Zygomaticus minor muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Zygomaticus minor muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Zygomaticus major muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Zygomaticus major muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Trochlea of superior oblique muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Trochlea of superior oblique muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Transverse part of trapezius muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Transverse part of trapezius muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Transverse arytenoid muscle,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Thyrohyoid muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Thyrohyoid muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Thyro-epiglottic part of thyro-arytenoid muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Thyro-epiglottic part of thyro-arytenoid muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Temporalis muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Temporalis muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Superior tarsus.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Superior tarsus.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Superior rectus muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Superior rectus muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Superior pharyngeal constrictor.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Superior pharyngeal constrictor.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Superior oblique muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Superior oblique muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Superior head of lateral pterygoid muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Superior head of lateral pterygoid muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Superficial part of masseter.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Superficial part of masseter.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Superficial layer of temporal fascia.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Superficial layer of temporal fascia.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Superficial investing cervical fascia.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Superficial investing cervical fascia.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Subtendinous bursa of trapezius muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Subtendinous bursa of trapezius muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Subclavius muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Subclavius muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Stylopharyngeus muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Stylopharyngeus muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Stylohyoid muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Stylohyoid muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Straight part of cricothyroid muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Straight part of cricothyroid muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Sternothyroid muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Sternothyroid muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Sternohyoid muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Sternohyoid muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Sternocleidomastoid muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Sternocleidomastoid muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Splenius capitis muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Splenius capitis muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Spinalis colli muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Spinalis colli muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Spinalis capitis muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Spinalis capitis muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Serratus posterior superior muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Serratus posterior superior muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Semispinalis colli muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Semispinalis colli muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Scalenus posterior muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Scalenus posterior muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Scalenus medius muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Scalenus medius muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Scalenus anterior muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Scalenus anterior muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Risorius muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Risorius muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Rhomboid minor muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Rhomboid minor muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Rectus posterior minor capitis muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Rectus posterior minor capitis muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Rectus posterior major capitis muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Rectus posterior major capitis muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Rectus lateralis capitis muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Rectus lateralis capitis muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Rectus anterior capitis muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Rectus anterior capitis muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Procerus muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Procerus muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Posterior crico-arytenoid muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Posterior crico-arytenoid muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Posterior belly of digastric muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Posterior belly of digastric muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Platysma.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Platysma.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Palpebral part of orbicularis oculi.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Palpebral part of orbicularis oculi.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Palatopharyngeus muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Palatopharyngeus muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Orbital part of orbicularis oculi.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Orbital part of orbicularis oculi.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Orbicularis oris muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Orbicularis oris muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Omohyoid muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Omohyoid muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Occipitalis muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Occipitalis muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Obliquus superior capitis muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Obliquus superior capitis muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Obliquus inferior capitis muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Obliquus inferior capitis muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Oblique part of cricothyroid muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Oblique part of cricothyroid muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Nasalis muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Nasalis muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Mylohyoid muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Mylohyoid muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Multifidus colli muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Multifidus colli muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Middle pharyngeal constrictor.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Middle pharyngeal constrictor.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Mentalis muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Mentalis muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Medial rectus muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Medial rectus muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Medial pterygoid muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Medial pterygoid muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Masseteric fascia.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Masseteric fascia.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Longus colli muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Longus colli muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Longus capitis muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Longus capitis muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Longissimus capitis muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Longissimus capitis muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Levator scapulae.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Levator scapulae.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Levator palpebrae superioris.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Levator palpebrae superioris.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Levator nasolabialis.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Levator nasolabialis.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Levator labii superioris.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Levator labii superioris.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Levator anguli oris.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Levator anguli oris.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Lateral rectus muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Lateral rectus muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Lateral crico-arytenoid muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Lateral crico-arytenoid muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Joints of pelvic girdle.g.001,EMPTY,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Joints of lower limb.g.001,EMPTY,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Interspinales thoracis muscles.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Interspinales thoracis muscles.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Interspinales colli muscles.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Interspinales colli muscles.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Intermediate tendon of digastric muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Intermediate tendon of digastric muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Inferior tarsus.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Inferior tarsus.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Inferior rectus muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Inferior rectus muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Inferior pharyngeal constrictor.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Inferior pharyngeal constrictor.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Inferior oblique muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Inferior oblique muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Inferior head of lateral pterygoid muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Inferior head of lateral pterygoid muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Hyoglossus muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Hyoglossus muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Geniohyoid muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Geniohyoid muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Genioglossus muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Genioglossus muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Frontalis muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Frontalis muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,External part of thyro-arytenoid muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,External part of thyro-arytenoid muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Epicranial aponeurosis.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Epicranial aponeurosis.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Depressor septi nasi.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Depressor septi nasi.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Depressor labii inferioris.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Depressor labii inferioris.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Depressor anguli oris.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Depressor anguli oris.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Deep part of masseter.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Deep part of masseter.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Corrugator supercilii.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Corrugator supercilii.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Common tendinous ring.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Common tendinous ring.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Cartilaginous joints of pelvic girdle.g.001,EMPTY,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Bucinator.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Bucinator.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Ascending part of trapezius muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Ascending part of trapezius muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Ary-epiglottic part of oblique arytenoid muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Ary-epiglottic part of oblique arytenoid muscle.l,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Anterior belly of digastric muscle.r,MESH,False,False,False,False,False
+OBJECT,Muscular system,Scene Collection,0,Anterior belly of digastric muscle.l,MESH,False,False,False,False,False
+COLLECTION,Nervous system,Scene Collection,0,,,False,False,,,
+OBJECT,Nervous system,Scene Collection,0,Zygomaticotemporal nerve.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Zygomaticotemporal nerve.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Zygomaticofacial nerve.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Zygomaticofacial nerve.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Zygomatic nerve.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Zygomatic nerve.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Zonular fibres.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Zonular fibres.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Zonular fibers-curve.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Wing of central lobule.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Wing of central lobule.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Vitreous body.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Vitreous body.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Vidian nerve (nerve of the pterygoid canal).r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Vidian nerve (nerve of the pterygoid canal).l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Vestibuloolivary fibers.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Vestibuloolivary fibers.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Vestibule.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Vestibule.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Vestibular nuclei.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Vestibular nuclei.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Vagus nerve (X).r.002,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Vagus nerve (X).r.001,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Vagus nerve (X).r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Vagus nerve (X).l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Uvula of vermis,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,U fibers White matter of telencephalon.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,U fibers white matter of telencephalon.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Tympanic plexus.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Tympanic plexus.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Tympanic nerve (Jacobson).r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Tympanic nerve (Jacobson).l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Tympanic membrane.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Tympanic membrane.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Tuber of vermis,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Trunk of right inferior alveolar nerve.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Trunk of right inferior alveolar nerve.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Trochlear nerve (IV).r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Trochlear nerve (IV).l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Trigeminal nerve root.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Trigeminal nerve root.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Trigeminal nerve maxillary n (V).r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Trigeminal nerve maxillary n (V).l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Trigeminal nerve (Gasserian) ganglion.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Trigeminal nerve (Gasserian) ganglion.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Triangular part of inferior frontal gyrus.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Triangular part of inferior frontal gyrus.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Transverse temporal gyri.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Transverse temporal gyri.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Transverse occipital sulcus.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Transverse occipital sulcus.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Transverse frontopolar gyrus and sulcus*.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Transverse frontopolar gyrus and sulcus*.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Tonsil of cerebellum.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Tonsil of cerebellum.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Thyrohyoid membrane.g.001,EMPTY,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Third ventricle,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Thalamus.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Thalamus.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Tentorium cerebelli.r.002,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Tentorium cerebelli.r.001,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Tentorium cerebelli.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Tentorium cerebelli.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Tensor typmani muscle.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Tensor typmani muscle.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Tensor tympani nerve.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Tensor tympani nerve.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Temporal pole.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Temporal pole.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Temporal plane.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Temporal plane.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Synovial joints of larynx.g.001,EMPTY,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Suspensory ligament of eyeball.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Suspensory ligament of eyeball.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Supratrochlear nerve.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Supratrochlear nerve.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Supraorbital nerve.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Supraorbital nerve.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Supramarginal gyrus.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Supramarginal gyrus.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Superior temporal sulcus.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Superior temporal sulcus.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Superior temporal gyrus (Lateral part).r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Superior temporal gyrus (Lateral part).l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Superior semilunar lobule.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Superior semilunar lobule.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Superior salivatory nucleus.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Superior salivatory nucleus.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Superior root ansa cervicalis.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Superior root ansa cervicali.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Superior parietal lobule.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Superior parietal lobule.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Superior olivary complex.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Superior olivary complex.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Superior occipital gyri.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Superior occipital gyri.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Superior laryngeal nerve.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Superior laryngeal nerve.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Superior frontal sulcus.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Superior frontal sulcus.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Superior frontal gyrus.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Superior frontal gyrus.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Superior colliculus.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Superior colliculus.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Superior cerebellar peduncle.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Superior cerebellar peduncle.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Superior Cardiac nerve vagus.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Superior Cardiac nerve vagus.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Superior branch of the oculomotor nerve.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Superior branch of the oculomotor nerve.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Sulcus interm_prim-Jensen.r.001,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Sulcus interm_prim-Jensen.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Sulcus interm_prim-Jensen.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Substantia perforata anterior.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Substantia perforata anterior.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Substantia nigra pars reticularis..r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Substantia nigra pars reticularis..l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Substantia nigra pars compacta.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Substantia nigra pars compacta.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Subparietal sulcus.r.001,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Subparietal sulcus.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Subparietal sulcus.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Submandibular ganglion.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Submandibular ganglion.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Submadinular ganglia nerves.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Submadinular ganglia nerves.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Stria terminalis.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Stria terminalis.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Stria medullaris thalami.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Stria Medullaris thalami.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Straight gyrus (Gyrus rectus).r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Straight gyrus (Gyrus rectus).l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Stapes.r.001,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Stapes.l.001,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Spinal trigeminal tract.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Spinal trigeminal tract.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Spinal nucleus of trigeminal nerve.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Spinal nucleus of trigeminal nerve.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Somatosensory tract trunk.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Somatosensory tract trunk.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Somatosensory tract legs.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Somatosensory tract legs.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Somatosensory tract face.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Somatosensory tract face.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Somatosensory tract arm.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Somatosensory tract arm.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Short ciliary nerves.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Short ciliary nerves.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Septum pellucidum,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Sclera.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Sclera.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Right recurrent laryngeal nerve.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Right mental nerve.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Right mental nerve.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Right masseteric nerve.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Right masseteric nerve.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Retina.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Retina.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Reticular formation brainstem,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Red nucleus.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Red nucleus.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Pyramis of vermis,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Pyramid of medulla oblongata.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Pyramid of medulla oblongata.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Putamen.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Putamen.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Pterygopalatine ganglion.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Pterygopalatine ganglion.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Principal (pontine) neucleus of trigeminal nerve.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Principal (pontine) neucleus of trigeminal nerve.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Precuneus.r.001,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Precuneus.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Precuneus.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Precentral sulcus (Superior part)*.r.001,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Precentral sulcus (Superior part)*.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Precentral sulcus (Superior part)*.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Precentral sulcus (inferior part)*.r.001,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Precentral sulcus (inferior part)*.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Precentral sulcus (inferior part)*.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Precentral gyrus.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Precentral gyrus.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Posterior superior alveolar nerve.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Posterior superior alveolar nerve.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Posterior segment of eyeball.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Posterior segment of eyeball.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Posterior quadrangular lobule.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Posterior quadrangular lobule.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Posterior nucleus of vagus nerve.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Posterior nucleus of vagus nerve.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Posterior ethmoidal nerve.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Posterior ethmoidal nerve.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Posterior division of mandibular nerve.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Posterior division of mandibular nerve.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Posterior commissure,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Posterior cochlear nucleus.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Posterior cochlear nucleus.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Postcentral sulcus.r.001,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Postcentral sulcus.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Postcentral sulcus.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Postcentral gyrus.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Postcentral gyrus.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Pons.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Pons.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Pharyngeal nerve.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Pharyngeal nerve.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Peduncle of flocculus.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Peduncle of flocculus.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Parieto-occipital sulcus.r.001,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Parieto-occipital sulcus.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Parieto-occipital sulcus.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Paracentral sulcus.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Paracentral sulcus.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Paracentral gyrus and sulcus*.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Paracentral gyrus and sulcus*.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Otic ganglion.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Otic ganglion.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Orbital sulci (Lateral Orbital sulcus*).r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Orbital sulci (Lateral Orbital sulcus*).l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Orbital sulci (H-shaped orbital sulci*).r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Orbital sulci (H-shaped orbital sulci*).l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Orbital part of  inferior frontal gyrus.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Orbital part of  inferior frontal gyrus.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Orbital gyri.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Orbital gyri.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Orbital gyri (Frontomarginal gyrus and sulcus*).r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Orbital gyri (Frontomarginal gyrus and sulcus*).l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Optic tract.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Optic tract.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Optic nerve (II).r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Optic nerve (II).l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Optic chiasm.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Optic chiasm.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Ophthalmic nerve.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Ophthalmic nerve.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Opercular part of inferior frontal gyrus.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Opercular part of inferior frontal gyrus.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Olivodentate fibers (Guillain-Mollaet Triangle).r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Olivodentate fibers (Guillain-Mollaet Triangle).l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Olivocerebellar (Climbing fibers).r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Olivocerebellar (Climbing fibers).l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Olive.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Olive.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Olfactory sulcus.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Olfactory sulcus.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Olfactory nerve (I).r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Olfactory nerve (I).l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Oculomotr nerve - branch to superior rectus muscle.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Oculomotr nerve - branch to superior rectus m.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Oculomotor nerve (cisternal and cavernous part).r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Oculomotor nerve (cisternal and cavernous part).l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Oculomotor nerve (branch to levator palpebrae muscle).r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Oculomotor nerve (branch to levator palpebrae muscle).l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Occipitotemporal sulcus (Lateral part*).r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Occipitotemporal sulcus (Lateral part*).l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Occipital pole.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Occipital pole.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Nucleus_globosus.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Nucleus_globosus.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Nucleus_fastigii.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Nucleus_fastigii.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Nucleus_emboliformis.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Nucleus_emboliformis.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Nucleus of trochlear nerve.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Nucleus of trochlear nerve.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Nucleus of solitary tract.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Nucleus of solitary tract.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Nucleus of oculomotor nerve.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Nucleus of oculomotor nerve.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Nucleus of hypoglossal nerve.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Nucleus of hypoglossal nerve.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Nucleus of Darkschewitsch.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Nucleus of Darkschewitsch.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Nucleus of accessory nerve.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Nucleus of accessory nerve.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Nucleus of abducens nerve.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Nucleus of abducens nerve.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Nucleus ambiguus.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Nucleus ambiguus.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Nodule of vermis,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Nerve to mylohyoid muscle.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Nerve to mylohyoid muscle.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Nasopalatine nerve.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Nasopalatine nerve.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Nasolacrimal duct.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Nasolacrimal duct.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Nasociliary nerve.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Nasociliary nerve.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,N. of the lateral lemniscus.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,N. of the lateral lemniscus.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Muscles of head.g,EMPTY,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Motor root of trigeminal nerve.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Motor root of trigeminal nerve.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Motor nucleus of facial nerve.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Motor nucleus of facial nerve.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Middle temporal gyrus.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Middle temporal gyrus.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Middle superior alveolar nerve.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Middle superior alveolar nerve.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Middle frontal gyrus.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Middle frontal gyrus.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Middle cervical cardiac sympathetic nerve.r .002,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Midbrain.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Midbrain.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Mesencephalic nucleus of trigeminal nerve.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Mesencephalic nucleus of trigeminal nerve.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Mental nerve.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Mental nerve.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Medulla oblongata.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Medulla oblongata.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Medial pterygoid nerve.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Medial pterygoid nerve.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Medial occipitotemporal gyrus (Parahippocampal*).r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Medial occipitotemporal gyrus (Parahippocampal*).l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Maxillary nerve.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Maxillary nerve.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Mamillary body.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Mamillary body.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Malleus.r.001,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Malleus.l.001,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Lunate sulcus.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Lunate sulcus.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Long cilliary nerve.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Long cilliary nerve.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Lingula of cerebellum,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Lingual nerve.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Lingual nerve.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Lingual gyrus.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Lingual gyrus.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Lesser petrosal nerve.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Lesser petrosal nerve.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Lens.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Lens.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Left recurrent laryngeal nerve.l,CURVE,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Lateral ventricle.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Lateral ventricle.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Lateral pterygoid nerve.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Lateral pterygoid nerve.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Lateral posterior superior nasal nerve.r ,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Lateral posterior superior nasal nerve.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Lateral posterior inferior nasal nerve.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Lateral posterior inferior nasal nerve.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Lateral occipitotemporal gyrus.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Lateral occipitotemporal gyrus.l.001,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Lateral occipitotemporal gyrus.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Lateral occipital gyrus (Middle occipital gyrus*).r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Lateral occipital gyrus (Middle occipital gyrus*).l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Lat_Fis-post.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Lacrimal sac.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Lacrimal sac.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Lacrimal nerve.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Lacrimal nerve.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Lacrimal gland.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Lacrimal gland.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Lacrimal canaliculus.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Lacrimal canaliculus.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Iris.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Iris.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Intraparietal sulcus.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Intraparietal sulcus.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Interstitial nucleus of Cajal.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Interstitial nucleus of Cajal.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Interpositothalamic tract.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Interpositothalamic tract.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Interpeduncular fossa.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Interpeduncular fossa.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Internal axis of eyeball.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Insula.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Insula.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Insula (Subcentral gyrus and ant. and post. sulci*).r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Insula (Subcentral gyrus and ant. and post. sulci*).l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Infratrochlear nerve.l.001,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Infratrochlear nerve.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Inferior temporal sulcus.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Inferior temporal sulcus.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Inferior temporal gyrus.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Inferior temporal gyrus.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Inferior semilunar lobule.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Inferior semilunar lobule.l.001,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Inferior semilunar lobule.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Inferior salivatory nucleus.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Inferior salivatory nucleus.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Inferior occipital gyrus and sulcus*.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Inferior occipital gyrus and sulcus*.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Inferior frontal sulcus.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Inferior frontal sulcus.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Inferior colliculus.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Inferior colliculus.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Inferior cardiac nerve vagus.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Inferior cardiac nerve vagus.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Inferior branch of right oculomotor nerve.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Inferior branch of right oculomotor nerve.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Inferior alveolar nerve.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Inferior alveolar nerve.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Incus.r.001,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Incus.l.001,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Hypoglossal nerve (XII).r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Hypoglossal nerve (XII).l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Hippocampus.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Hippocampus.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Hippocampal commissure,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Gyrus paraterminalis and area subcallosa.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Gyrus paraterminalis and area subcallosa.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Greater palatine nerve.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Greater palatine nerve.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Gracile nucleus.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Gracile nucleus.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Gracile lobule.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Gracile lobule.l.001,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Gracile lobule.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Glossopharyngeal nerve (IX).r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Globus pallidus internus.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Globus pallidus internus.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Globus pallidus externus.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Globus pallidus externus.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Ganglionic branch of maxillary nerve.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Ganglionic branch of maxillary nerve.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Frontal nerve.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Frontal nerve.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Fourth ventricle,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Fornix.l.001,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Folium of vermis,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Flocculus.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Flocculus.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,FJ4263_BP29309_FMA7007_Trunk of C4 nerve.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,FJ4263_BP29309_FMA7007_Trunk of C4 nerve.l.001,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,FJ4263_BP29309_FMA7007_Trunk of C4 nerve.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Fibrous joints of larynx.g.001,EMPTY,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Fibro-elastic membrane of larynx.g.001,EMPTY,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Fastigiovestibular tract.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Fastigiovestibular tract.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Falx cerebri,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Facial nerve (VII).r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Facial nerve (VII).l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Extra-ocular muscles.g,EMPTY,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Dura mater brain,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Dentatorubrothalamic tract.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Dentatorubrothalamic tract.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Dentate_nucleus.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Dentate_nucleus.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Dentate Gyrus.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Dentate Gyrus.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Deep petrosal nerve.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Deep petrosal nerve.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Declive,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Cuneus.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Cuneus.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Cuneate nucleus.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Cuneate nucleus.l.,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Culmen,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Crico-arytenoid joint.g.001,EMPTY,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Cranial part of muscular system.r,EMPTY,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Corticospinal tract face.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Corticospinal tract face.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Corpus callosum,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Cornea.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Cornea.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Communicating branch of right nasociliary nerve to cilliary ganglion.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Communicating branch of right nasociliary nerve to cilliary ganglion.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Common tendinous ring.r.001,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Collateral sulcus.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Cochlea.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Cochlea.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Claustrum.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Claustrum.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Cingulate sulcus (Marginal part*).r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Cingulate sulcus (Marginal part*).l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Cingulate gyrus.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Cingulate gyrus and sulcus (Posterior dorsal part).r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Cingulate gyrus and sulcus (Middle anterior part).l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Cingulate gyrus (Posteroventral part*).r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Cingulate gyrus (Posteroventral part*).l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Cingulate gurys.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Ciliary ganglion.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Ciliary ganglion.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Ciliary body-curve.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Choroid plexus.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Choroid plexus.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Chorda tympani.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Chorda tympani.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Central tegmental tract (Guillain-Mollaet Triangle).r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Central tegmental tract (Guillain-Mollaet Triangle).l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Central sulcus.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Central sulcus.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Central lobule,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Central canal',MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Caudate to putamen.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Caudate to putamen.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Caudate nucleus.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Caudate nucleus.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Calcarine sulcus.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Calcarine sulcus.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Buccal nerve.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Buccal nerve.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Biventral lobule.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Biventral lobule.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Base of cerebral peduncle (Midbrain).r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Base of cerebral peduncle (Midbrain).l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Auriculotemporal nerve.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Auriculotemporal nerve.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Auditory tube.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Auditory tube.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Aqueduct of midbrain,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Anterior superior alveolar nerve.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Anterior superior alveolar nerve.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Anterior segment of eyeball.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Anterior segment of eyeball.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Anterior quadrangular lobule.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Anterior quadrangular lobule.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Anterior occipital sulcus*.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Anterior occipital sulcus*.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Anterior ethmoidal nerve.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Anterior ethmoidal nerve.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Anterior division of mandibular nerve.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Anterior division of mandibular nerve.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Anterior cochlear nucleus.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Anterior cochlear nucleus.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Anterior chamber of eyeball.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Anterior chamber of eyeball.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Angular gyrus.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Angular gyrus.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Amygdaloid body.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Amygdaloid body.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Ampulla of lacrimal canaliculus.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Ampulla of lacrimal canaliculus.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Accessory nucleus of oculomotor nerve.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Accessory nucleus of oculomotor nerve.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Accessory Cuneate nucleus.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Accessory Cuneate nucleus.l.,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Abducens nerve (VI).r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Abducens nerve (VI).l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0, Posterior transverse collateral sulcus.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0, Posterior transverse collateral sulcus.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Submandibular gland.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Submandibular gland.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Sublingual gland.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Sublingual gland.l,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Parotid gland.r,MESH,False,False,False,False,False
+OBJECT,Nervous system,Scene Collection,0,Parotid gland.l,MESH,False,False,False,False,False

@@ -1,0 +1,1530 @@
+row_type,collection_name,parent_collection,depth,object_name,object_type,collection_hide_viewport,collection_exclude_view_layer,object_hide_viewport,object_hidden_get,object_hide_render
+COLLECTION,Dural innervation,Scene Collection,0,,,False,False,,,
+OBJECT,Dural innervation,Scene Collection,0,Frontal branch meningeal nerve.r,MESH,False,False,False,False,False
+OBJECT,Dural innervation,Scene Collection,0,Frontal branch meningeal nerve.l,MESH,False,False,False,False,False
+OBJECT,Dural innervation,Scene Collection,0,Parietal branch meningeal nerve.r,MESH,False,False,False,False,False
+OBJECT,Dural innervation,Scene Collection,0,Parietal branch meningeal nerve.l,MESH,False,False,False,False,False
+COLLECTION,NS_NERVOUS_SYSTEM,Scene Collection,0,,,False,False,,,
+COLLECTION,NS_01_CNS,NS_NERVOUS_SYSTEM,1,,,False,False,,,
+COLLECTION,NS_01_BRAIN,NS_01_CNS,2,,,False,False,,,
+COLLECTION,NS_01_SUPRATENTORIAL,NS_01_BRAIN,3,,,False,False,,,
+COLLECTION,NS_01_CEREBRAL_CORTEX,NS_01_SUPRATENTORIAL,4,,,False,False,,,
+COLLECTION,NS_01_FRONTAL_LOBE,NS_01_CEREBRAL_CORTEX,5,,,False,False,,,
+OBJECT,NS_01_FRONTAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Middle frontal gyrus.l,MESH,False,False,False,False,False
+OBJECT,NS_01_FRONTAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Orbital part of  inferior frontal gyrus.l,MESH,False,False,False,False,False
+OBJECT,NS_01_FRONTAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Superior frontal sulcus.l,MESH,False,False,False,False,False
+OBJECT,NS_01_FRONTAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Precentral gyrus.l,MESH,False,False,False,False,False
+OBJECT,NS_01_FRONTAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Triangular part of inferior frontal gyrus.l,MESH,False,False,False,False,False
+OBJECT,NS_01_FRONTAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Inferior frontal sulcus.l,MESH,False,False,False,False,False
+OBJECT,NS_01_FRONTAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Superior frontal gyrus.l,MESH,False,False,False,False,False
+OBJECT,NS_01_FRONTAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Opercular part of inferior frontal gyrus.l,MESH,False,False,False,False,False
+OBJECT,NS_01_FRONTAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Straight gyrus (Gyrus rectus).l,MESH,False,False,False,False,False
+OBJECT,NS_01_FRONTAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Orbital gyri.l,MESH,False,False,False,False,False
+OBJECT,NS_01_FRONTAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Orbital sulci (H-shaped orbital sulci*).l,MESH,False,False,False,False,False
+OBJECT,NS_01_FRONTAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Orbital gyri (Frontomarginal gyrus and sulcus*).l,MESH,False,False,False,False,False
+OBJECT,NS_01_FRONTAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Orbital sulci (Lateral Orbital sulcus*).l,MESH,False,False,False,False,False
+OBJECT,NS_01_FRONTAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Triangular part of inferior frontal gyrus.r,MESH,False,False,False,False,False
+OBJECT,NS_01_FRONTAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Superior frontal sulcus.r,MESH,False,False,False,False,False
+OBJECT,NS_01_FRONTAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Precentral sulcus (Superior part)*.r.001,MESH,False,False,False,False,False
+OBJECT,NS_01_FRONTAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Precentral sulcus (inferior part)*.r.001,MESH,False,False,False,False,False
+OBJECT,NS_01_FRONTAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Precentral gyrus.r,MESH,False,False,False,False,False
+OBJECT,NS_01_FRONTAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Orbital sulci (Lateral Orbital sulcus*).r,MESH,False,False,False,False,False
+OBJECT,NS_01_FRONTAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Orbital part of  inferior frontal gyrus.r,MESH,False,False,False,False,False
+OBJECT,NS_01_FRONTAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Opercular part of inferior frontal gyrus.r,MESH,False,False,False,False,False
+OBJECT,NS_01_FRONTAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Olfactory sulcus.r,MESH,False,False,False,False,False
+OBJECT,NS_01_FRONTAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Inferior frontal sulcus.r,MESH,False,False,False,False,False
+OBJECT,NS_01_FRONTAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Central sulcus.l,MESH,False,False,False,False,False
+OBJECT,NS_01_FRONTAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Central sulcus.r,MESH,False,False,False,False,False
+OBJECT,NS_01_FRONTAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Orbital gyri.r,MESH,False,False,False,False,False
+OBJECT,NS_01_FRONTAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Orbital sulci (H-shaped orbital sulci*).r,MESH,False,False,False,False,False
+OBJECT,NS_01_FRONTAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Lateral occipitotemporal gyrus.l.001,MESH,False,False,False,False,False
+OBJECT,NS_01_FRONTAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Insula (Subcentral gyrus and ant. and post. sulci*).r,MESH,False,False,False,False,False
+OBJECT,NS_01_FRONTAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Paracentral sulcus.l,MESH,False,False,False,False,False
+OBJECT,NS_01_FRONTAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Paracentral sulcus.r,MESH,False,False,False,False,False
+OBJECT,NS_01_FRONTAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Transverse frontopolar gyrus and sulcus*.l,MESH,False,False,False,False,False
+OBJECT,NS_01_FRONTAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Precentral sulcus (inferior part)*.l,MESH,False,False,False,False,False
+OBJECT,NS_01_FRONTAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Precentral sulcus (inferior part)*.r,MESH,False,False,False,False,False
+OBJECT,NS_01_FRONTAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Precentral sulcus (Superior part)*.l,MESH,False,False,False,False,False
+OBJECT,NS_01_FRONTAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Precentral sulcus (Superior part)*.r,MESH,False,False,False,False,False
+OBJECT,NS_01_FRONTAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Middle frontal gyrus.r,MESH,False,False,False,False,False
+OBJECT,NS_01_FRONTAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Orbital gyri (Frontomarginal gyrus and sulcus*).r,MESH,False,False,False,False,False
+OBJECT,NS_01_FRONTAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Straight gyrus (Gyrus rectus).r,MESH,False,False,False,False,False
+OBJECT,NS_01_FRONTAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Superior frontal gyrus.r,MESH,False,False,False,False,False
+OBJECT,NS_01_FRONTAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Transverse frontopolar gyrus and sulcus*.r,MESH,False,False,False,False,False
+OBJECT,NS_01_FRONTAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Olfactory sulcus.l,MESH,False,False,False,False,False
+COLLECTION,NS_02_PARIETAL_LOBE,NS_01_CEREBRAL_CORTEX,5,,,False,False,,,
+OBJECT,NS_02_PARIETAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Postcentral gyrus.l,MESH,False,False,False,False,False
+OBJECT,NS_02_PARIETAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Precuneus.l,MESH,False,False,False,False,False
+OBJECT,NS_02_PARIETAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Precuneus.r,MESH,False,False,False,False,False
+OBJECT,NS_02_PARIETAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Superior parietal lobule.l,MESH,False,False,False,False,False
+OBJECT,NS_02_PARIETAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Superior parietal lobule.r,MESH,False,False,False,False,False
+OBJECT,NS_02_PARIETAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Precuneus.r.001,MESH,False,False,False,False,False
+OBJECT,NS_02_PARIETAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Postcentral gyrus.r,MESH,False,False,False,False,False
+OBJECT,NS_02_PARIETAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Paracentral gyrus and sulcus*.l,MESH,False,False,False,False,False
+OBJECT,NS_02_PARIETAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Postcentral sulcus.l,MESH,False,False,False,False,False
+OBJECT,NS_02_PARIETAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Sulcus interm_prim-Jensen.r,MESH,False,False,False,False,False
+OBJECT,NS_02_PARIETAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Subparietal sulcus.r.001,MESH,False,False,False,False,False
+OBJECT,NS_02_PARIETAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Postcentral sulcus.r,MESH,False,False,False,False,False
+OBJECT,NS_02_PARIETAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Paracentral gyrus and sulcus*.r,MESH,False,False,False,False,False
+OBJECT,NS_02_PARIETAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Angular gyrus.r,MESH,False,False,False,False,False
+OBJECT,NS_02_PARIETAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Postcentral sulcus.r.001,MESH,False,False,False,False,False
+OBJECT,NS_02_PARIETAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Intraparietal sulcus.r,MESH,False,False,False,False,False
+OBJECT,NS_02_PARIETAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Sulcus interm_prim-Jensen.r.001,MESH,False,False,False,False,False
+OBJECT,NS_02_PARIETAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Parieto-occipital sulcus.r.001,MESH,False,False,False,False,False
+OBJECT,NS_02_PARIETAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Anterior occipital sulcus*.r,MESH,False,False,False,False,False
+OBJECT,NS_02_PARIETAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Supramarginal gyrus.r,MESH,False,False,False,False,False
+OBJECT,NS_02_PARIETAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Angular gyrus.l,MESH,False,False,False,False,False
+OBJECT,NS_02_PARIETAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Supramarginal gyrus.l,MESH,False,False,False,False,False
+OBJECT,NS_02_PARIETAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Parieto-occipital sulcus.l,MESH,False,False,False,False,False
+OBJECT,NS_02_PARIETAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Intraparietal sulcus.l,MESH,False,False,False,False,False
+OBJECT,NS_02_PARIETAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Parieto-occipital sulcus.r,MESH,False,False,False,False,False
+OBJECT,NS_02_PARIETAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Subparietal sulcus.l,MESH,False,False,False,False,False
+OBJECT,NS_02_PARIETAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Subparietal sulcus.r,MESH,False,False,False,False,False
+OBJECT,NS_02_PARIETAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Sulcus interm_prim-Jensen.l,MESH,False,False,False,False,False
+COLLECTION,NS_03_TEMPORAL_LOBE,NS_01_CEREBRAL_CORTEX,5,,,False,False,,,
+OBJECT,NS_03_TEMPORAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Inferior temporal gyrus.l,MESH,False,False,False,False,False
+OBJECT,NS_03_TEMPORAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Superior temporal gyrus (Lateral part).l,MESH,False,False,False,False,False
+OBJECT,NS_03_TEMPORAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Occipitotemporal sulcus (Lateral part*).l,MESH,False,False,False,False,False
+OBJECT,NS_03_TEMPORAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Lateral occipitotemporal gyrus.l,MESH,False,False,False,False,False
+OBJECT,NS_03_TEMPORAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Middle temporal gyrus.l,MESH,False,False,False,False,False
+OBJECT,NS_03_TEMPORAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Inferior temporal sulcus.l,MESH,False,False,False,False,False
+OBJECT,NS_03_TEMPORAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Superior temporal sulcus.l,MESH,False,False,False,False,False
+OBJECT,NS_03_TEMPORAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Temporal plane.l,MESH,False,False,False,False,False
+OBJECT,NS_03_TEMPORAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Transverse temporal gyri.l,MESH,False,False,False,False,False
+OBJECT,NS_03_TEMPORAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Temporal plane.r,MESH,False,False,False,False,False
+OBJECT,NS_03_TEMPORAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Superior temporal sulcus.r,MESH,False,False,False,False,False
+OBJECT,NS_03_TEMPORAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Inferior temporal gyrus.r,MESH,False,False,False,False,False
+OBJECT,NS_03_TEMPORAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Middle temporal gyrus.r,MESH,False,False,False,False,False
+OBJECT,NS_03_TEMPORAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Superior temporal gyrus (Lateral part).r,MESH,False,False,False,False,False
+OBJECT,NS_03_TEMPORAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Temporal pole.r,MESH,False,False,False,False,False
+OBJECT,NS_03_TEMPORAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Inferior temporal sulcus.r,MESH,False,False,False,False,False
+OBJECT,NS_03_TEMPORAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Lateral occipitotemporal gyrus.r,MESH,False,False,False,False,False
+OBJECT,NS_03_TEMPORAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Medial occipitotemporal gyrus (Parahippocampal*).r,MESH,False,False,False,False,False
+OBJECT,NS_03_TEMPORAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Occipitotemporal sulcus (Lateral part*).r,MESH,False,False,False,False,False
+OBJECT,NS_03_TEMPORAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Transverse temporal gyri.r,MESH,False,False,False,False,False
+OBJECT,NS_03_TEMPORAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Temporal pole.l,MESH,False,False,False,False,False
+OBJECT,NS_03_TEMPORAL_LOBE,NS_01_CEREBRAL_CORTEX,5, Posterior transverse collateral sulcus.l,MESH,False,False,False,False,False
+OBJECT,NS_03_TEMPORAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Collateral sulcus.l,MESH,False,False,False,False,False
+OBJECT,NS_03_TEMPORAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Medial occipitotemporal gyrus (Parahippocampal*).l,MESH,False,False,False,False,False
+COLLECTION,NS_04_OCCIPITAL_LOBE,NS_01_CEREBRAL_CORTEX,5,,,False,False,,,
+OBJECT,NS_04_OCCIPITAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Cuneus.r,MESH,False,False,False,False,False
+OBJECT,NS_04_OCCIPITAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Transverse occipital sulcus.l,MESH,False,False,False,False,False
+OBJECT,NS_04_OCCIPITAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Anterior occipital sulcus*.l,MESH,False,False,False,False,False
+OBJECT,NS_04_OCCIPITAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Calcarine sulcus.l,MESH,False,False,False,False,False
+OBJECT,NS_04_OCCIPITAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Calcarine sulcus.r,MESH,False,False,False,False,False
+OBJECT,NS_04_OCCIPITAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Lateral occipital gyrus (Middle occipital gyrus*).l,MESH,False,False,False,False,False
+OBJECT,NS_04_OCCIPITAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Inferior occipital gyrus and sulcus*.l,MESH,False,False,False,False,False
+OBJECT,NS_04_OCCIPITAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Cuneus.l,MESH,False,False,False,False,False
+OBJECT,NS_04_OCCIPITAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Occipital pole.l,MESH,False,False,False,False,False
+OBJECT,NS_04_OCCIPITAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Occipital pole.r,MESH,False,False,False,False,False
+OBJECT,NS_04_OCCIPITAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Superior occipital gyri.l,MESH,False,False,False,False,False
+OBJECT,NS_04_OCCIPITAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Superior occipital gyri.r,MESH,False,False,False,False,False
+OBJECT,NS_04_OCCIPITAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Lingual gyrus.l,MESH,False,False,False,False,False
+OBJECT,NS_04_OCCIPITAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Lingual gyrus.r,MESH,False,False,False,False,False
+OBJECT,NS_04_OCCIPITAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Lateral occipital gyrus (Middle occipital gyrus*).r,MESH,False,False,False,False,False
+OBJECT,NS_04_OCCIPITAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Lunate sulcus.r,MESH,False,False,False,False,False
+OBJECT,NS_04_OCCIPITAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Transverse occipital sulcus.r,MESH,False,False,False,False,False
+OBJECT,NS_04_OCCIPITAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Inferior occipital gyrus and sulcus*.r,MESH,False,False,False,False,False
+OBJECT,NS_04_OCCIPITAL_LOBE,NS_01_CEREBRAL_CORTEX,5, Posterior transverse collateral sulcus.r,MESH,False,False,False,False,False
+OBJECT,NS_04_OCCIPITAL_LOBE,NS_01_CEREBRAL_CORTEX,5,Lunate sulcus.l,MESH,False,False,False,False,False
+COLLECTION,NS_05_INSULA,NS_01_CEREBRAL_CORTEX,5,,,False,False,,,
+OBJECT,NS_05_INSULA,NS_01_CEREBRAL_CORTEX,5,Insula (Subcentral gyrus and ant. and post. sulci*).l,MESH,False,False,False,False,False
+OBJECT,NS_05_INSULA,NS_01_CEREBRAL_CORTEX,5,Insula.l,MESH,False,False,False,False,False
+OBJECT,NS_05_INSULA,NS_01_CEREBRAL_CORTEX,5,Insula.r,MESH,False,False,False,False,False
+COLLECTION,NS_02_WHITE_MATTER,NS_01_SUPRATENTORIAL,4,,,False,False,,,
+OBJECT,NS_02_WHITE_MATTER,NS_01_SUPRATENTORIAL,4,U fibers White matter of telencephalon.r,MESH,False,False,False,False,False
+OBJECT,NS_02_WHITE_MATTER,NS_01_SUPRATENTORIAL,4,Hippocampal commissure,MESH,False,False,False,False,False
+OBJECT,NS_02_WHITE_MATTER,NS_01_SUPRATENTORIAL,4,Posterior commissure,MESH,False,False,False,False,False
+OBJECT,NS_02_WHITE_MATTER,NS_01_SUPRATENTORIAL,4,U fibers white matter of telencephalon.l,MESH,False,False,False,False,False
+OBJECT,NS_02_WHITE_MATTER,NS_01_SUPRATENTORIAL,4,Corpus callosum,MESH,False,False,False,False,False
+COLLECTION,Basal forebrain and reward,NS_02_WHITE_MATTER,5,,,False,False,,,
+OBJECT,Basal forebrain and reward,NS_02_WHITE_MATTER,5,Septal nucleus.r,MESH,False,False,False,False,False
+OBJECT,Basal forebrain and reward,NS_02_WHITE_MATTER,5,Nucleus accumbens.r,MESH,False,False,False,False,False
+OBJECT,Basal forebrain and reward,NS_02_WHITE_MATTER,5,Basal nucleus of Maynert.r,MESH,False,False,False,False,False
+OBJECT,Basal forebrain and reward,NS_02_WHITE_MATTER,5,Ventral tegmental area.r,MESH,False,False,False,False,False
+OBJECT,Basal forebrain and reward,NS_02_WHITE_MATTER,5,Ansa peduncularis Amygdaloseptal fibers.r,MESH,False,False,False,False,False
+OBJECT,Basal forebrain and reward,NS_02_WHITE_MATTER,5,Ansa peduncularis Amygdalohypothalamic fibers.r,MESH,False,False,False,False,False
+OBJECT,Basal forebrain and reward,NS_02_WHITE_MATTER,5,Ansa peduncularis Amygdalothalamic fibers.r,MESH,False,False,False,False,False
+OBJECT,Basal forebrain and reward,NS_02_WHITE_MATTER,5,Medial forebrain bundle dopamine.r,MESH,False,False,False,False,False
+OBJECT,Basal forebrain and reward,NS_02_WHITE_MATTER,5,Medial forebrain bundle serotonin.r,MESH,False,False,False,False,False
+COLLECTION,Basal forebrain and reward left,Basal forebrain and reward,6,,,False,False,,,
+OBJECT,Basal forebrain and reward left,Basal forebrain and reward,6,Ansa peduncularis Amygdalohypothalamic fibers.l,MESH,False,False,False,False,False
+OBJECT,Basal forebrain and reward left,Basal forebrain and reward,6,Basal nucleus of Maynert.l,MESH,False,False,False,False,False
+OBJECT,Basal forebrain and reward left,Basal forebrain and reward,6,Ansa peduncularis Amygdaloseptal fibers.l,MESH,False,False,False,False,False
+OBJECT,Basal forebrain and reward left,Basal forebrain and reward,6,Ansa peduncularis Amygdalothalamic fibers.l,MESH,False,False,False,False,False
+OBJECT,Basal forebrain and reward left,Basal forebrain and reward,6,Medial forebrain bundle dopamine.l,MESH,False,False,False,False,False
+OBJECT,Basal forebrain and reward left,Basal forebrain and reward,6,Medial forebrain bundle serotonin.l,MESH,False,False,False,False,False
+OBJECT,Basal forebrain and reward left,Basal forebrain and reward,6,Nucleus accumbens.l,MESH,False,False,False,False,False
+OBJECT,Basal forebrain and reward left,Basal forebrain and reward,6,Septal nucleus.l,MESH,False,False,False,False,False
+OBJECT,Basal forebrain and reward left,Basal forebrain and reward,6,Ventral tegmental area.l,MESH,False,False,False,False,False
+COLLECTION,FIber trackts comissural,NS_02_WHITE_MATTER,5,,,False,False,,,
+OBJECT,FIber trackts comissural,NS_02_WHITE_MATTER,5,Periaqueductal gray matter,MESH,False,False,False,False,False
+OBJECT,FIber trackts comissural,NS_02_WHITE_MATTER,5,Corpus callosum body,CURVE,False,False,False,False,False
+OBJECT,FIber trackts comissural,NS_02_WHITE_MATTER,5,Corpus callosum forceps minor (genu) fibers,CURVE,False,False,False,False,False
+OBJECT,FIber trackts comissural,NS_02_WHITE_MATTER,5,Corpus callosum forceps major (splenium) fibers,CURVE,False,False,False,False,False
+OBJECT,FIber trackts comissural,NS_02_WHITE_MATTER,5,Anterior commissure,CURVE,False,False,False,False,False
+COLLECTION,Fiber tracts association,NS_02_WHITE_MATTER,5,,,False,False,,,
+OBJECT,Fiber tracts association,NS_02_WHITE_MATTER,5,Optic radiation.l,MESH,False,False,False,False,False
+OBJECT,Fiber tracts association,NS_02_WHITE_MATTER,5,Arcuate fascicle.r,MESH,False,False,False,False,False
+OBJECT,Fiber tracts association,NS_02_WHITE_MATTER,5,Cingulum fibers.r,MESH,False,False,False,False,False
+OBJECT,Fiber tracts association,NS_02_WHITE_MATTER,5,Frontal aslant tract.r,MESH,False,False,False,False,False
+OBJECT,Fiber tracts association,NS_02_WHITE_MATTER,5,Inferor FrontoOccipital Fascicle (IFOF).r,MESH,False,False,False,False,False
+OBJECT,Fiber tracts association,NS_02_WHITE_MATTER,5,Inferior Longitudinal Fascicle (ILF).r,MESH,False,False,False,False,False
+OBJECT,Fiber tracts association,NS_02_WHITE_MATTER,5,Middle longitudianl fascicle.r,MESH,False,False,False,False,False
+OBJECT,Fiber tracts association,NS_02_WHITE_MATTER,5,Superior longitudinal fascicle (SLF) I.r,MESH,False,False,False,False,False
+OBJECT,Fiber tracts association,NS_02_WHITE_MATTER,5,Superior longitudinal fiascicle (SLF) II.r,MESH,False,False,False,False,False
+OBJECT,Fiber tracts association,NS_02_WHITE_MATTER,5,Superior longitudinal fascicle III.r,MESH,False,False,False,False,False
+OBJECT,Fiber tracts association,NS_02_WHITE_MATTER,5,Uncinate fascicle.r,MESH,False,False,False,False,False
+COLLECTION,Fiber tracts association left,Fiber tracts association,6,,,False,False,,,
+OBJECT,Fiber tracts association left,Fiber tracts association,6,Arcuate fascicle.l,MESH,False,False,False,False,False
+OBJECT,Fiber tracts association left,Fiber tracts association,6,Cingulum fibers.l,MESH,False,False,False,False,False
+OBJECT,Fiber tracts association left,Fiber tracts association,6,Frontal aslant tract.l,MESH,False,False,False,False,False
+OBJECT,Fiber tracts association left,Fiber tracts association,6,Inferor FrontoOccipital Fascicle (IFOF).l,MESH,False,False,False,False,False
+OBJECT,Fiber tracts association left,Fiber tracts association,6,Inferior Longitudinal Fascicle (ILF).l,MESH,False,False,False,False,False
+OBJECT,Fiber tracts association left,Fiber tracts association,6,Middle longitudianl fascicle.l,MESH,False,False,False,False,False
+OBJECT,Fiber tracts association left,Fiber tracts association,6,Optic radiation.r,MESH,False,False,False,False,False
+OBJECT,Fiber tracts association left,Fiber tracts association,6,Superior longitudinal fascicle (SLF) I.l,MESH,False,False,False,False,False
+OBJECT,Fiber tracts association left,Fiber tracts association,6,Superior longitudinal fiascicle (SLF) II.l,MESH,False,False,False,False,False
+OBJECT,Fiber tracts association left,Fiber tracts association,6,Superior longitudinal fascicle III.l,MESH,False,False,False,False,False
+OBJECT,Fiber tracts association left,Fiber tracts association,6,Uncinate fascicle.l,MESH,False,False,False,False,False
+COLLECTION,Fiber tracts projection ,NS_02_WHITE_MATTER,5,,,False,False,,,
+COLLECTION,Corticospinal tract,Fiber tracts projection ,6,,,False,False,,,
+OBJECT,Corticospinal tract,Fiber tracts projection ,6,Corticospinal tract arm.r,MESH,False,False,False,False,False
+OBJECT,Corticospinal tract,Fiber tracts projection ,6,Corticospinal tract face.r,MESH,False,False,False,False,False
+OBJECT,Corticospinal tract,Fiber tracts projection ,6,Corticospinal tract legs.r,MESH,False,False,False,False,False
+OBJECT,Corticospinal tract,Fiber tracts projection ,6,Corticospinal tract trunk.r,MESH,False,False,False,False,False
+COLLECTION,Corticospinal tract Left,Corticospinal tract,7,,,False,False,,,
+OBJECT,Corticospinal tract Left,Corticospinal tract,7,Corticospinal tract arm.l,MESH,False,False,False,False,False
+OBJECT,Corticospinal tract Left,Corticospinal tract,7,Corticospinal tract face.l,MESH,False,False,False,False,False
+OBJECT,Corticospinal tract Left,Corticospinal tract,7,Corticospinal tract legs.l,MESH,False,False,False,False,False
+OBJECT,Corticospinal tract Left,Corticospinal tract,7,Corticospinal tract trunk.l,MESH,False,False,False,False,False
+COLLECTION,Sensory tract,Fiber tracts projection ,6,,,False,False,,,
+OBJECT,Sensory tract,Fiber tracts projection ,6,Somatosensory tract legs.r,MESH,False,False,False,False,False
+OBJECT,Sensory tract,Fiber tracts projection ,6,Somatosensory tract arm.r,MESH,False,False,False,False,False
+OBJECT,Sensory tract,Fiber tracts projection ,6,Somatosensory tract face.r,MESH,False,False,False,False,False
+OBJECT,Sensory tract,Fiber tracts projection ,6,Somatosensory tract trunk.r,MESH,False,False,False,False,False
+COLLECTION,Sensory tract left,Sensory tract,7,,,False,False,,,
+OBJECT,Sensory tract left,Sensory tract,7,Somatosensory tract arm.l,MESH,False,False,False,False,False
+OBJECT,Sensory tract left,Sensory tract,7,Somatosensory tract face.l,MESH,False,False,False,False,False
+OBJECT,Sensory tract left,Sensory tract,7,Somatosensory tract legs.l,MESH,False,False,False,False,False
+OBJECT,Sensory tract left,Sensory tract,7,Somatosensory tract trunk.l,MESH,False,False,False,False,False
+COLLECTION,Corticopontine fibers,Fiber tracts projection ,6,,,False,False,,,
+OBJECT,Corticopontine fibers,Fiber tracts projection ,6,Fronto pontine fibers.r,MESH,False,False,False,False,False
+OBJECT,Corticopontine fibers,Fiber tracts projection ,6,Occipitopontine fibers.r,MESH,False,False,False,False,False
+OBJECT,Corticopontine fibers,Fiber tracts projection ,6,Parietopontine fibers.r,MESH,False,False,False,False,False
+OBJECT,Corticopontine fibers,Fiber tracts projection ,6,Temporoponne fibers.r,MESH,False,False,False,False,False
+COLLECTION,Corticopontinefibers left,Corticopontine fibers,7,,,False,False,,,
+OBJECT,Corticopontinefibers left,Corticopontine fibers,7,Fronto pontine fibers.l,MESH,False,False,False,False,False
+OBJECT,Corticopontinefibers left,Corticopontine fibers,7,Occipitopontine fibers.l,MESH,False,False,False,False,False
+OBJECT,Corticopontinefibers left,Corticopontine fibers,7,Parietopontine fibers.l,MESH,False,False,False,False,False
+OBJECT,Corticopontinefibers left,Corticopontine fibers,7,Temporoponne fibers.l,MESH,False,False,False,False,False
+COLLECTION,Thalamic fibers,NS_02_WHITE_MATTER,5,,,False,False,,,
+OBJECT,Thalamic fibers,NS_02_WHITE_MATTER,5,bundle of Vicq d'Azyr tractus mamillothalamicus.r,MESH,False,False,False,False,False
+OBJECT,Thalamic fibers,NS_02_WHITE_MATTER,5,Fibers from anterior thalamic nuclei.r,MESH,False,False,False,False,False
+OBJECT,Thalamic fibers,NS_02_WHITE_MATTER,5,Mediodorsal thalamic fibers.r,MESH,False,False,False,False,False
+OBJECT,Thalamic fibers,NS_02_WHITE_MATTER,5,Pulvinar fibers.r,MESH,False,False,False,False,False
+OBJECT,Thalamic fibers,NS_02_WHITE_MATTER,5,Thalamocortical fibers to VL and VA.r,MESH,False,False,False,False,False
+OBJECT,Thalamic fibers,NS_02_WHITE_MATTER,5,Thalamocortical from lateral LD and LP.r,MESH,False,False,False,False,False
+OBJECT,Thalamic fibers,NS_02_WHITE_MATTER,5,Thalamocortical from lateral pulvinar to parietal cortex.r,MESH,False,False,False,False,False
+COLLECTION,Thalamic fibers left,Thalamic fibers,6,,,False,False,,,
+OBJECT,Thalamic fibers left,Thalamic fibers,6,bundle of Vicq d'Azyr tractus mamillothalamicus.l,MESH,False,False,False,False,False
+OBJECT,Thalamic fibers left,Thalamic fibers,6,Fibers from anterior thalamic nuclei.l,MESH,False,False,False,False,False
+OBJECT,Thalamic fibers left,Thalamic fibers,6,Mediodorsal thalamic fibers.l,MESH,False,False,False,False,False
+OBJECT,Thalamic fibers left,Thalamic fibers,6,Pulvinar fibers.l,MESH,False,False,False,False,False
+OBJECT,Thalamic fibers left,Thalamic fibers,6,Thalamocortical fibers to VL and VA.l,MESH,False,False,False,False,False
+OBJECT,Thalamic fibers left,Thalamic fibers,6,Thalamocortical from lateral LD and LP.l,MESH,False,False,False,False,False
+OBJECT,Thalamic fibers left,Thalamic fibers,6,Thalamocortical from lateral pulvinar to parietal cortex.l,MESH,False,False,False,False,False
+COLLECTION,Brainstem fibers,NS_02_WHITE_MATTER,5,,,False,False,,,
+OBJECT,Brainstem fibers,NS_02_WHITE_MATTER,5,Lateral (medullary) reticulospinal tract.l,MESH,False,False,False,False,False
+OBJECT,Brainstem fibers,NS_02_WHITE_MATTER,5,Lateral (medullary) reticulospinal tract.r,MESH,False,False,False,False,False
+OBJECT,Brainstem fibers,NS_02_WHITE_MATTER,5,Rubrospiinal tract.l,MESH,False,False,False,False,False
+OBJECT,Brainstem fibers,NS_02_WHITE_MATTER,5,Rubrospinal tract.r,MESH,False,False,False,False,False
+OBJECT,Brainstem fibers,NS_02_WHITE_MATTER,5,Pontocerebellar fibers.l,MESH,False,False,False,False,False
+OBJECT,Brainstem fibers,NS_02_WHITE_MATTER,5,Pontocerebellar fibers.r,MESH,False,False,False,False,False
+OBJECT,Brainstem fibers,NS_02_WHITE_MATTER,5,Central tegmental tract (nucleus tractus solitarii).l,MESH,False,False,False,False,False
+OBJECT,Brainstem fibers,NS_02_WHITE_MATTER,5,Central tegmental tract (nucleus tractus solitarii).r,MESH,False,False,False,False,False
+OBJECT,Brainstem fibers,NS_02_WHITE_MATTER,5,Lateral vestiibulospinal tract.l,MESH,False,False,False,False,False
+OBJECT,Brainstem fibers,NS_02_WHITE_MATTER,5,Lateral vestiibulospinal tract.r,MESH,False,False,False,False,False
+OBJECT,Brainstem fibers,NS_02_WHITE_MATTER,5,Medial (pontine) reticulospinal tract.l,MESH,False,False,False,False,False
+OBJECT,Brainstem fibers,NS_02_WHITE_MATTER,5,Medial (pontine) reticulospinal tract.r,MESH,False,False,False,False,False
+OBJECT,Brainstem fibers,NS_02_WHITE_MATTER,5,Tectospinal tract.l,MESH,False,False,False,False,False
+OBJECT,Brainstem fibers,NS_02_WHITE_MATTER,5,Tectospinal tract.r,MESH,False,False,False,False,False
+COLLECTION,Auditory,Brainstem fibers,6,,,False,False,,,
+OBJECT,Auditory,Brainstem fibers,6,Auditory decussation inferior colliculus,CURVE,False,False,False,False,False
+OBJECT,Auditory,Brainstem fibers,6,Auditory decussation nucleus lateral lemnniscus,CURVE,False,False,False,False,False
+OBJECT,Auditory,Brainstem fibers,6,Auditory fibers.l,MESH,False,False,False,False,False
+OBJECT,Auditory,Brainstem fibers,6,Auditory fibers.r,MESH,False,False,False,False,False
+COLLECTION,Ascending cerebellar,Brainstem fibers,6,,,False,False,,,
+OBJECT,Ascending cerebellar,Brainstem fibers,6,Anterior spinocerebellar tract (Gowers).l,MESH,False,False,False,False,False
+OBJECT,Ascending cerebellar,Brainstem fibers,6,Anterior spinocerebellar tract (Gowers).r,MESH,False,False,False,False,False
+OBJECT,Ascending cerebellar,Brainstem fibers,6,Posterior spinocerebellar tract.l,MESH,False,False,False,False,False
+OBJECT,Ascending cerebellar,Brainstem fibers,6,Posterior spinocerebellar tract.r,MESH,False,False,False,False,False
+COLLECTION,Trigeminal,Brainstem fibers,6,,,False,False,,,
+OBJECT,Trigeminal,Brainstem fibers,6,Dorsal trigeminal tract.l,CURVE,False,False,False,False,False
+OBJECT,Trigeminal,Brainstem fibers,6,Trigeminal lemniscus pain.l,MESH,False,False,False,False,False
+OBJECT,Trigeminal,Brainstem fibers,6,Trigeminal lemniscus proprioception.l,MESH,False,False,False,False,False
+OBJECT,Trigeminal,Brainstem fibers,6,Trigeminal lemniscus pain.r,MESH,False,False,False,False,False
+OBJECT,Trigeminal,Brainstem fibers,6,Trigeminal lemniscus proprioception.r,MESH,False,False,False,False,False
+COLLECTION,Ascending sensory,Brainstem fibers,6,,,False,False,,,
+OBJECT,Ascending sensory,Brainstem fibers,6,Spinothalamic tract.l,MESH,False,False,False,False,False
+OBJECT,Ascending sensory,Brainstem fibers,6,Spinothalamic tract.r,MESH,False,False,False,False,False
+OBJECT,Ascending sensory,Brainstem fibers,6,Medial lemmniscus arms.l,MESH,False,False,False,False,False
+OBJECT,Ascending sensory,Brainstem fibers,6,Medial lemmniscus arms.r,MESH,False,False,False,False,False
+OBJECT,Ascending sensory,Brainstem fibers,6,Medial lemniscus legs.l,MESH,False,False,False,False,False
+OBJECT,Ascending sensory,Brainstem fibers,6,Medial lemniscus legs.r,MESH,False,False,False,False,False
+COLLECTION,Medial longitudinal fascicle,Brainstem fibers,6,,,False,False,,,
+OBJECT,Medial longitudinal fascicle,Brainstem fibers,6,Medial longitudinal fascicle - Fibers to vestibular nuclei.l,MESH,False,False,False,False,False
+OBJECT,Medial longitudinal fascicle,Brainstem fibers,6,Medial longitudinal fascicle - Fibers to abducens nerve.l,MESH,False,False,False,False,False
+OBJECT,Medial longitudinal fascicle,Brainstem fibers,6,Medial longitudinal fascicle - Internuclear fibers,MESH,False,False,False,False,False
+OBJECT,Medial longitudinal fascicle,Brainstem fibers,6,Medial longitudinal fascicle - Fibers to trochlear nerve.l,MESH,False,False,False,False,False
+OBJECT,Medial longitudinal fascicle,Brainstem fibers,6,Medial longitudinal fascicle - Fibers to vestibular nuclei.r,MESH,False,False,False,False,False
+OBJECT,Medial longitudinal fascicle,Brainstem fibers,6,Medial longitudinal fascicle - Fibers to abducens nerve.r,MESH,False,False,False,False,False
+OBJECT,Medial longitudinal fascicle,Brainstem fibers,6,Medial longitudinal fascicle - Fibers to trochlear nerve.r,MESH,False,False,False,False,False
+OBJECT,Medial longitudinal fascicle,Brainstem fibers,6,Medial longitudinal fascicle - Fibers to oculomotor nerve.l,MESH,False,False,False,False,False
+OBJECT,Medial longitudinal fascicle,Brainstem fibers,6,Medial longitudinal fascicle - Fibers to oculomotor nerve.r,MESH,False,False,False,False,False
+OBJECT,Medial longitudinal fascicle,Brainstem fibers,6,Medial longitudinal fascicle.l,MESH,False,False,False,False,False
+OBJECT,Medial longitudinal fascicle,Brainstem fibers,6,Medial longitudinal fascicle.r,MESH,False,False,False,False,False
+COLLECTION,Cerebellar,NS_02_WHITE_MATTER,5,,,False,False,,,
+OBJECT,Cerebellar,NS_02_WHITE_MATTER,5,Dentatorubrothalamic tract.l,MESH,False,False,False,False,False
+OBJECT,Cerebellar,NS_02_WHITE_MATTER,5,Dentatorubrothalamic tract.r,MESH,False,False,False,False,False
+OBJECT,Cerebellar,NS_02_WHITE_MATTER,5,Interpositothalamic tract.l,MESH,False,False,False,False,False
+OBJECT,Cerebellar,NS_02_WHITE_MATTER,5,Interpositothalamic tract.r,MESH,False,False,False,False,False
+COLLECTION,NS_03_BASAL_GANGLIA,NS_01_SUPRATENTORIAL,4,,,False,False,,,
+OBJECT,NS_03_BASAL_GANGLIA,NS_01_SUPRATENTORIAL,4,Globus pallidus externus.l,MESH,False,False,False,False,False
+OBJECT,NS_03_BASAL_GANGLIA,NS_01_SUPRATENTORIAL,4,Putamen.l,MESH,False,False,False,False,False
+OBJECT,NS_03_BASAL_GANGLIA,NS_01_SUPRATENTORIAL,4,Caudate nucleus.l,MESH,False,False,False,False,False
+OBJECT,NS_03_BASAL_GANGLIA,NS_01_SUPRATENTORIAL,4,Globus pallidus internus.l,MESH,False,False,False,False,False
+OBJECT,NS_03_BASAL_GANGLIA,NS_01_SUPRATENTORIAL,4,Substantia nigra pars reticularis..l,MESH,False,False,False,False,False
+OBJECT,NS_03_BASAL_GANGLIA,NS_01_SUPRATENTORIAL,4,Substantia nigra pars compacta.l,MESH,False,False,False,False,False
+OBJECT,NS_03_BASAL_GANGLIA,NS_01_SUPRATENTORIAL,4,Substantia nigra pars reticularis..r,MESH,False,False,False,False,False
+OBJECT,NS_03_BASAL_GANGLIA,NS_01_SUPRATENTORIAL,4,Substantia nigra pars compacta.r,MESH,False,False,False,False,False
+OBJECT,NS_03_BASAL_GANGLIA,NS_01_SUPRATENTORIAL,4,Caudate to putamen.l,MESH,False,False,False,False,False
+OBJECT,NS_03_BASAL_GANGLIA,NS_01_SUPRATENTORIAL,4,Claustrum.l,MESH,False,False,False,False,False
+OBJECT,NS_03_BASAL_GANGLIA,NS_01_SUPRATENTORIAL,4,Claustrum.r,MESH,False,False,False,False,False
+OBJECT,NS_03_BASAL_GANGLIA,NS_01_SUPRATENTORIAL,4,Putamen.r,MESH,False,False,False,False,False
+OBJECT,NS_03_BASAL_GANGLIA,NS_01_SUPRATENTORIAL,4,Caudate to putamen.r,MESH,False,False,False,False,False
+OBJECT,NS_03_BASAL_GANGLIA,NS_01_SUPRATENTORIAL,4,Globus pallidus externus.r,MESH,False,False,False,False,False
+OBJECT,NS_03_BASAL_GANGLIA,NS_01_SUPRATENTORIAL,4,Caudate nucleus.r,MESH,False,False,False,False,False
+OBJECT,NS_03_BASAL_GANGLIA,NS_01_SUPRATENTORIAL,4,Globus pallidus internus.r,MESH,False,False,False,False,False
+COLLECTION,NS_04_DIENCEPHALON,NS_01_SUPRATENTORIAL,4,,,False,False,,,
+OBJECT,NS_04_DIENCEPHALON,NS_01_SUPRATENTORIAL,4,Medial geniculate body.r,MESH,False,False,False,False,False
+OBJECT,NS_04_DIENCEPHALON,NS_01_SUPRATENTORIAL,4,Lateral geniculate body.l,MESH,False,False,False,False,False
+OBJECT,NS_04_DIENCEPHALON,NS_01_SUPRATENTORIAL,4,Lateral geniculate body.r,MESH,False,False,False,False,False
+OBJECT,NS_04_DIENCEPHALON,NS_01_SUPRATENTORIAL,4,Habenula,MESH,False,False,False,False,False
+OBJECT,NS_04_DIENCEPHALON,NS_01_SUPRATENTORIAL,4,Medial geniculate body.l,MESH,False,False,False,False,False
+OBJECT,NS_04_DIENCEPHALON,NS_01_SUPRATENTORIAL,4,Subthalamic nucleus.l,MESH,False,False,False,False,False
+OBJECT,NS_04_DIENCEPHALON,NS_01_SUPRATENTORIAL,4,Subthalamic nucleus.r,MESH,False,False,False,False,False
+COLLECTION,Thalamus,NS_04_DIENCEPHALON,5,,,False,False,,,
+OBJECT,Thalamus,NS_04_DIENCEPHALON,5,00_Thalamic_background_core.l,MESH,False,False,False,False,False
+OBJECT,Thalamus,NS_04_DIENCEPHALON,5,01_Anterior_ventral_AV,MESH,False,False,False,False,False
+OBJECT,Thalamus,NS_04_DIENCEPHALON,5,01_Anterior_ventral_AV.l,MESH,False,False,False,False,False
+OBJECT,Thalamus,NS_04_DIENCEPHALON,5,02_Anterior_dorsal_AD,MESH,False,False,False,False,False
+OBJECT,Thalamus,NS_04_DIENCEPHALON,5,02_Anterior_dorsal_AD.l,MESH,False,False,False,False,False
+OBJECT,Thalamus,NS_04_DIENCEPHALON,5,03_Anterior_medial_AM,MESH,False,False,False,False,False
+OBJECT,Thalamus,NS_04_DIENCEPHALON,5,03_Anterior_medial_AM.l,MESH,False,False,False,False,False
+OBJECT,Thalamus,NS_04_DIENCEPHALON,5,04_Mediodorsal_MD,MESH,False,False,False,False,False
+OBJECT,Thalamus,NS_04_DIENCEPHALON,5,04_Mediodorsal_MD.l,MESH,False,False,False,False,False
+OBJECT,Thalamus,NS_04_DIENCEPHALON,5,05_Midline_nuclei,MESH,False,False,False,False,False
+OBJECT,Thalamus,NS_04_DIENCEPHALON,5,05_Midline_nuclei.l,MESH,False,False,False,False,False
+OBJECT,Thalamus,NS_04_DIENCEPHALON,5,06_Intralaminar_rostral_CL_PC_CeM,MESH,False,False,False,False,False
+OBJECT,Thalamus,NS_04_DIENCEPHALON,5,06_Intralaminar_rostral_CL_PC_CeM.l,MESH,False,False,False,False,False
+OBJECT,Thalamus,NS_04_DIENCEPHALON,5,07_Centromedian_parafascicular_CM_Pf,MESH,False,False,False,False,False
+OBJECT,Thalamus,NS_04_DIENCEPHALON,5,07_Centromedian_parafascicular_CM_Pf.l,MESH,False,False,False,False,False
+OBJECT,Thalamus,NS_04_DIENCEPHALON,5,08_Lateral_dorsal_LD,MESH,False,False,False,False,False
+OBJECT,Thalamus,NS_04_DIENCEPHALON,5,08_Lateral_dorsal_LD.l,MESH,False,False,False,False,False
+OBJECT,Thalamus,NS_04_DIENCEPHALON,5,09_Lateral_posterior_LP,MESH,False,False,False,False,False
+OBJECT,Thalamus,NS_04_DIENCEPHALON,5,09_Lateral_posterior_LP.l,MESH,False,False,False,False,False
+OBJECT,Thalamus,NS_04_DIENCEPHALON,5,10_Ventral_anterior_VA,MESH,False,False,False,False,False
+OBJECT,Thalamus,NS_04_DIENCEPHALON,5,10_Ventral_anterior_VA.l,MESH,False,False,False,False,False
+OBJECT,Thalamus,NS_04_DIENCEPHALON,5,11_Ventral_lateral_VL,MESH,False,False,False,False,False
+OBJECT,Thalamus,NS_04_DIENCEPHALON,5,11_Ventral_lateral_VL.l,MESH,False,False,False,False,False
+OBJECT,Thalamus,NS_04_DIENCEPHALON,5,12_Ventral_posterolateral_VPL,MESH,False,False,False,False,False
+OBJECT,Thalamus,NS_04_DIENCEPHALON,5,12_Ventral_posterolateral_VPL.l,MESH,False,False,False,False,False
+OBJECT,Thalamus,NS_04_DIENCEPHALON,5,13_Ventral_posteromedial_VPM,MESH,False,False,False,False,False
+OBJECT,Thalamus,NS_04_DIENCEPHALON,5,13_Ventral_posteromedial_VPM.l,MESH,False,False,False,False,False
+OBJECT,Thalamus,NS_04_DIENCEPHALON,5,14_Pulvinar_medial_PuM,MESH,False,False,False,False,False
+OBJECT,Thalamus,NS_04_DIENCEPHALON,5,14_Pulvinar_medial_PuM.l,MESH,False,False,False,False,False
+OBJECT,Thalamus,NS_04_DIENCEPHALON,5,15_Pulvinar_lateral_PuL,MESH,False,False,False,False,False
+OBJECT,Thalamus,NS_04_DIENCEPHALON,5,15_Pulvinar_lateral_PuL.l,MESH,False,False,False,False,False
+OBJECT,Thalamus,NS_04_DIENCEPHALON,5,16_Pulvinar_inferior_PuI,MESH,False,False,False,False,False
+OBJECT,Thalamus,NS_04_DIENCEPHALON,5,16_Pulvinar_inferior_PuI.l,MESH,False,False,False,False,False
+OBJECT,Thalamus,NS_04_DIENCEPHALON,5,Anterior_hypothalamic_nucleus.l,MESH,False,False,False,False,False
+OBJECT,Thalamus,NS_04_DIENCEPHALON,5,Anterior_hypothalamic_nucleus.r,MESH,False,False,False,False,False
+OBJECT,Thalamus,NS_04_DIENCEPHALON,5,Arcuate_nucleus.l,MESH,False,False,False,False,False
+OBJECT,Thalamus,NS_04_DIENCEPHALON,5,Dorsal hypothalamic area.l,MESH,False,False,False,False,False
+OBJECT,Thalamus,NS_04_DIENCEPHALON,5,Dorsal hypothalamic area.r,MESH,False,False,False,False,False
+OBJECT,Thalamus,NS_04_DIENCEPHALON,5,Dorsomedial_nucleus.l,MESH,False,False,False,False,False
+OBJECT,Thalamus,NS_04_DIENCEPHALON,5,Dorsomedial_nucleus.r,MESH,False,False,False,False,False
+OBJECT,Thalamus,NS_04_DIENCEPHALON,5,Internal_medullary_lamina_anterior_lateral_arm,MESH,False,False,False,False,False
+OBJECT,Thalamus,NS_04_DIENCEPHALON,5,Internal_medullary_lamina_anterior_lateral_arm.l,MESH,False,False,False,False,False
+OBJECT,Thalamus,NS_04_DIENCEPHALON,5,Internal_medullary_lamina_anterior_medial_arm,MESH,False,False,False,False,False
+OBJECT,Thalamus,NS_04_DIENCEPHALON,5,Internal_medullary_lamina_anterior_medial_arm.l,MESH,False,False,False,False,False
+OBJECT,Thalamus,NS_04_DIENCEPHALON,5,Internal_medullary_lamina_main,MESH,False,False,False,False,False
+OBJECT,Thalamus,NS_04_DIENCEPHALON,5,Internal_medullary_lamina_main.l,MESH,False,False,False,False,False
+OBJECT,Thalamus,NS_04_DIENCEPHALON,5,Lateral_hypothalamic_area.l,MESH,False,False,False,False,False
+OBJECT,Thalamus,NS_04_DIENCEPHALON,5,Lateral_hypothalamic_area.r,MESH,False,False,False,False,False
+OBJECT,Thalamus,NS_04_DIENCEPHALON,5,Lateral_mammillary_nucleus.l,MESH,False,False,False,False,False
+OBJECT,Thalamus,NS_04_DIENCEPHALON,5,Lateral_mammillary_nucleus.r,MESH,False,False,False,False,False
+OBJECT,Thalamus,NS_04_DIENCEPHALON,5,Lateral_preoptic_nucleus.l.,MESH,False,False,False,False,False
+OBJECT,Thalamus,NS_04_DIENCEPHALON,5,Lateral_preoptic_nucleus.r,MESH,False,False,False,False,False
+OBJECT,Thalamus,NS_04_DIENCEPHALON,5,Medial_mammillary_nucleus.l,MESH,False,False,False,False,False
+OBJECT,Thalamus,NS_04_DIENCEPHALON,5,Medial_mammillary_nucleus.r,MESH,False,False,False,False,False
+OBJECT,Thalamus,NS_04_DIENCEPHALON,5,Medial_preoptic_nucleus.l,MESH,False,False,False,False,False
+OBJECT,Thalamus,NS_04_DIENCEPHALON,5,Medial_preoptic_nucleus.r,MESH,False,False,False,False,False
+OBJECT,Thalamus,NS_04_DIENCEPHALON,5,Medial_preoptic_nucleus.r.001,MESH,False,False,False,False,False
+OBJECT,Thalamus,NS_04_DIENCEPHALON,5,Periventricular_nucleus.l,MESH,False,False,False,False,False
+OBJECT,Thalamus,NS_04_DIENCEPHALON,5,Periventricular_nucleus.r,MESH,False,False,False,False,False
+OBJECT,Thalamus,NS_04_DIENCEPHALON,5,Posterior_hypothalamic_nucleus.l,MESH,False,False,False,False,False
+OBJECT,Thalamus,NS_04_DIENCEPHALON,5,Posterior_hypothalamic_nucleus.r,MESH,False,False,False,False,False
+OBJECT,Thalamus,NS_04_DIENCEPHALON,5,Suprachiasmatic_nucleus.l,MESH,False,False,False,False,False
+OBJECT,Thalamus,NS_04_DIENCEPHALON,5,Suprachiasmatic_nucleus.r,MESH,False,False,False,False,False
+OBJECT,Thalamus,NS_04_DIENCEPHALON,5,Supraoptic_nucleus.l,MESH,False,False,False,False,False
+OBJECT,Thalamus,NS_04_DIENCEPHALON,5,Supraoptic_nucleus.r,MESH,False,False,False,False,False
+OBJECT,Thalamus,NS_04_DIENCEPHALON,5,Thalamus.l,MESH,False,False,False,False,False
+OBJECT,Thalamus,NS_04_DIENCEPHALON,5,Thalamus.r,MESH,False,False,False,False,False
+OBJECT,Thalamus,NS_04_DIENCEPHALON,5,Tuberomammillary_nucleus.l,MESH,False,False,False,False,False
+OBJECT,Thalamus,NS_04_DIENCEPHALON,5,Tuberomammillary_nucleus.r,MESH,False,False,False,False,False
+OBJECT,Thalamus,NS_04_DIENCEPHALON,5,Ventromedial_nucleus.l,MESH,False,False,False,False,False
+OBJECT,Thalamus,NS_04_DIENCEPHALON,5,Ventromedial_nucleus.r,MESH,False,False,False,False,False
+OBJECT,Thalamus,NS_04_DIENCEPHALON,5,Arcuate_nucleus.r,MESH,False,False,False,False,False
+OBJECT,Thalamus,NS_04_DIENCEPHALON,5,Hypothalamus,MESH,False,False,False,False,False
+COLLECTION,NS_05_LIMBIC_SYSTEM,NS_01_SUPRATENTORIAL,4,,,False,False,,,
+OBJECT,NS_05_LIMBIC_SYSTEM,NS_01_SUPRATENTORIAL,4,Cingulate gyrus (Posteroventral part*).l,MESH,False,False,False,False,False
+OBJECT,NS_05_LIMBIC_SYSTEM,NS_01_SUPRATENTORIAL,4,Fornix.l.001,MESH,False,False,False,False,False
+OBJECT,NS_05_LIMBIC_SYSTEM,NS_01_SUPRATENTORIAL,4,Cingulate gyrus (Posteroventral part*).r,MESH,False,False,False,False,False
+OBJECT,NS_05_LIMBIC_SYSTEM,NS_01_SUPRATENTORIAL,4,Cingulate gyrus and sulcus (Middle anterior part).l,MESH,False,False,False,False,False
+OBJECT,NS_05_LIMBIC_SYSTEM,NS_01_SUPRATENTORIAL,4,Cingulate gyrus and sulcus (Posterior dorsal part).r,MESH,False,False,False,False,False
+OBJECT,NS_05_LIMBIC_SYSTEM,NS_01_SUPRATENTORIAL,4,Hippocampus.l,MESH,False,False,False,False,False
+OBJECT,NS_05_LIMBIC_SYSTEM,NS_01_SUPRATENTORIAL,4,Amygdaloid body.l,MESH,False,False,False,False,False
+OBJECT,NS_05_LIMBIC_SYSTEM,NS_01_SUPRATENTORIAL,4,Dentate Gyrus.l,MESH,False,False,False,False,False
+OBJECT,NS_05_LIMBIC_SYSTEM,NS_01_SUPRATENTORIAL,4,Dentate Gyrus.r,MESH,False,False,False,False,False
+OBJECT,NS_05_LIMBIC_SYSTEM,NS_01_SUPRATENTORIAL,4,Indusium griseum.l,CURVE,False,False,False,False,False
+OBJECT,NS_05_LIMBIC_SYSTEM,NS_01_SUPRATENTORIAL,4,Gyrus paraterminalis and area subcallosa.l,MESH,False,False,False,False,False
+OBJECT,NS_05_LIMBIC_SYSTEM,NS_01_SUPRATENTORIAL,4,Cingulate gurys.l,MESH,False,False,False,False,False
+OBJECT,NS_05_LIMBIC_SYSTEM,NS_01_SUPRATENTORIAL,4,Cingulate gyrus.r,MESH,False,False,False,False,False
+OBJECT,NS_05_LIMBIC_SYSTEM,NS_01_SUPRATENTORIAL,4,Substantia perforata anterior.l,MESH,False,False,False,False,False
+OBJECT,NS_05_LIMBIC_SYSTEM,NS_01_SUPRATENTORIAL,4,Substantia perforata anterior.r,MESH,False,False,False,False,False
+OBJECT,NS_05_LIMBIC_SYSTEM,NS_01_SUPRATENTORIAL,4,Gyrus paraterminalis and area subcallosa.r,MESH,False,False,False,False,False
+OBJECT,NS_05_LIMBIC_SYSTEM,NS_01_SUPRATENTORIAL,4,Stria terminalis.r,MESH,False,False,False,False,False
+OBJECT,NS_05_LIMBIC_SYSTEM,NS_01_SUPRATENTORIAL,4,Stria Medullaris thalami.l,MESH,False,False,False,False,False
+OBJECT,NS_05_LIMBIC_SYSTEM,NS_01_SUPRATENTORIAL,4,Hippocampus.r,MESH,False,False,False,False,False
+OBJECT,NS_05_LIMBIC_SYSTEM,NS_01_SUPRATENTORIAL,4,Amygdaloid body.r,MESH,False,False,False,False,False
+OBJECT,NS_05_LIMBIC_SYSTEM,NS_01_SUPRATENTORIAL,4,Stria terminalis.l,MESH,False,False,False,False,False
+OBJECT,NS_05_LIMBIC_SYSTEM,NS_01_SUPRATENTORIAL,4,Stria medullaris thalami.r,MESH,False,False,False,False,False
+OBJECT,NS_05_LIMBIC_SYSTEM,NS_01_SUPRATENTORIAL,4,Mamillary body.l,MESH,False,False,False,False,False
+OBJECT,NS_05_LIMBIC_SYSTEM,NS_01_SUPRATENTORIAL,4,Mamillary body.r,MESH,False,False,False,False,False
+OBJECT,NS_05_LIMBIC_SYSTEM,NS_01_SUPRATENTORIAL,4,Cingulate sulcus (Marginal part*).l,MESH,False,False,False,False,False
+OBJECT,NS_05_LIMBIC_SYSTEM,NS_01_SUPRATENTORIAL,4,Cingulate sulcus (Marginal part*).r,MESH,False,False,False,False,False
+COLLECTION,NS_06_VENTRICLES_AND_CHOROID,NS_01_SUPRATENTORIAL,4,,,False,False,,,
+OBJECT,NS_06_VENTRICLES_AND_CHOROID,NS_01_SUPRATENTORIAL,4,Choroid plexus.l,MESH,False,False,False,False,False
+OBJECT,NS_06_VENTRICLES_AND_CHOROID,NS_01_SUPRATENTORIAL,4,Third ventricle,MESH,False,False,False,False,False
+OBJECT,NS_06_VENTRICLES_AND_CHOROID,NS_01_SUPRATENTORIAL,4,Lateral ventricle.l,MESH,False,False,False,False,False
+OBJECT,NS_06_VENTRICLES_AND_CHOROID,NS_01_SUPRATENTORIAL,4,Fourth ventricle,MESH,False,False,False,False,False
+OBJECT,NS_06_VENTRICLES_AND_CHOROID,NS_01_SUPRATENTORIAL,4,Lateral ventricle.r,MESH,False,False,False,False,False
+OBJECT,NS_06_VENTRICLES_AND_CHOROID,NS_01_SUPRATENTORIAL,4,Choroid plexus.r,MESH,False,False,False,False,False
+OBJECT,NS_06_VENTRICLES_AND_CHOROID,NS_01_SUPRATENTORIAL,4,Septum pellucidum,MESH,False,False,False,False,False
+COLLECTION,NS_02_INFRATENTORIAL,NS_01_BRAIN,3,,,False,False,,,
+COLLECTION,NS_01_CEREBELLUM,NS_02_INFRATENTORIAL,4,,,False,False,,,
+OBJECT,NS_01_CEREBELLUM,NS_02_INFRATENTORIAL,4,Declive,MESH,False,False,False,False,False
+OBJECT,NS_01_CEREBELLUM,NS_02_INFRATENTORIAL,4,Folium of vermis,MESH,False,False,False,False,False
+OBJECT,NS_01_CEREBELLUM,NS_02_INFRATENTORIAL,4,Biventral lobule.l,MESH,False,False,False,False,False
+OBJECT,NS_01_CEREBELLUM,NS_02_INFRATENTORIAL,4,Tuber of vermis,MESH,False,False,False,False,False
+OBJECT,NS_01_CEREBELLUM,NS_02_INFRATENTORIAL,4,Anterior quadrangular lobule.l,MESH,False,False,False,False,False
+OBJECT,NS_01_CEREBELLUM,NS_02_INFRATENTORIAL,4,Lingula of cerebellum,MESH,False,False,False,False,False
+OBJECT,NS_01_CEREBELLUM,NS_02_INFRATENTORIAL,4,Superior cerebellar peduncle.l,MESH,False,False,False,False,False
+OBJECT,NS_01_CEREBELLUM,NS_02_INFRATENTORIAL,4,Tonsil of cerebellum.l,MESH,False,False,False,False,False
+OBJECT,NS_01_CEREBELLUM,NS_02_INFRATENTORIAL,4,Posterior quadrangular lobule.l,MESH,False,False,False,False,False
+OBJECT,NS_01_CEREBELLUM,NS_02_INFRATENTORIAL,4,Pyramis of vermis,MESH,False,False,False,False,False
+OBJECT,NS_01_CEREBELLUM,NS_02_INFRATENTORIAL,4,Superior cerebellar peduncle.r,MESH,False,False,False,False,False
+OBJECT,NS_01_CEREBELLUM,NS_02_INFRATENTORIAL,4,Uvula of vermis,MESH,False,False,False,False,False
+OBJECT,NS_01_CEREBELLUM,NS_02_INFRATENTORIAL,4,Peduncle of flocculus.l,MESH,False,False,False,False,False
+OBJECT,NS_01_CEREBELLUM,NS_02_INFRATENTORIAL,4,Culmen,MESH,False,False,False,False,False
+OBJECT,NS_01_CEREBELLUM,NS_02_INFRATENTORIAL,4,Flocculus.l,MESH,False,False,False,False,False
+OBJECT,NS_01_CEREBELLUM,NS_02_INFRATENTORIAL,4,Nodule of vermis,MESH,False,False,False,False,False
+OBJECT,NS_01_CEREBELLUM,NS_02_INFRATENTORIAL,4,Posterior quadrangular lobule.r,MESH,False,False,False,False,False
+OBJECT,NS_01_CEREBELLUM,NS_02_INFRATENTORIAL,4,Anterior quadrangular lobule.r,MESH,False,False,False,False,False
+OBJECT,NS_01_CEREBELLUM,NS_02_INFRATENTORIAL,4,Tonsil of cerebellum.r,MESH,False,False,False,False,False
+OBJECT,NS_01_CEREBELLUM,NS_02_INFRATENTORIAL,4,Superior semilunar lobule.r,MESH,False,False,False,False,False
+OBJECT,NS_01_CEREBELLUM,NS_02_INFRATENTORIAL,4,Peduncle of flocculus.r,MESH,False,False,False,False,False
+OBJECT,NS_01_CEREBELLUM,NS_02_INFRATENTORIAL,4,Gracile lobule.r,MESH,False,False,False,False,False
+OBJECT,NS_01_CEREBELLUM,NS_02_INFRATENTORIAL,4,Flocculus.r,MESH,False,False,False,False,False
+OBJECT,NS_01_CEREBELLUM,NS_02_INFRATENTORIAL,4,Biventral lobule.r,MESH,False,False,False,False,False
+OBJECT,NS_01_CEREBELLUM,NS_02_INFRATENTORIAL,4,Superior semilunar lobule.l,MESH,False,False,False,False,False
+OBJECT,NS_01_CEREBELLUM,NS_02_INFRATENTORIAL,4,Gracile lobule.l,MESH,False,False,False,False,False
+OBJECT,NS_01_CEREBELLUM,NS_02_INFRATENTORIAL,4,Inferior semilunar lobule.l,MESH,False,False,False,False,False
+OBJECT,NS_01_CEREBELLUM,NS_02_INFRATENTORIAL,4,Dentate_nucleus.l,MESH,False,False,False,False,False
+OBJECT,NS_01_CEREBELLUM,NS_02_INFRATENTORIAL,4,Dentate_nucleus.r,MESH,False,False,False,False,False
+OBJECT,NS_01_CEREBELLUM,NS_02_INFRATENTORIAL,4,Nucleus_globosus.r,MESH,False,False,False,False,False
+OBJECT,NS_01_CEREBELLUM,NS_02_INFRATENTORIAL,4,Nucleus_globosus.l,MESH,False,False,False,False,False
+OBJECT,NS_01_CEREBELLUM,NS_02_INFRATENTORIAL,4,Nucleus_fastigii.r,MESH,False,False,False,False,False
+OBJECT,NS_01_CEREBELLUM,NS_02_INFRATENTORIAL,4,Nucleus_fastigii.l,MESH,False,False,False,False,False
+OBJECT,NS_01_CEREBELLUM,NS_02_INFRATENTORIAL,4,Nucleus_emboliformis.r,MESH,False,False,False,False,False
+OBJECT,NS_01_CEREBELLUM,NS_02_INFRATENTORIAL,4,Nucleus_emboliformis.l,MESH,False,False,False,False,False
+OBJECT,NS_01_CEREBELLUM,NS_02_INFRATENTORIAL,4,Central tegmental tract (Guillain-Mollaet Triangle).l,MESH,False,False,False,False,False
+OBJECT,NS_01_CEREBELLUM,NS_02_INFRATENTORIAL,4,Olivodentate fibers (Guillain-Mollaet Triangle).l,MESH,False,False,False,False,False
+OBJECT,NS_01_CEREBELLUM,NS_02_INFRATENTORIAL,4,Central tegmental tract (Guillain-Mollaet Triangle).r,MESH,False,False,False,False,False
+OBJECT,NS_01_CEREBELLUM,NS_02_INFRATENTORIAL,4,Olivocerebellar (Climbing fibers).l,MESH,False,False,False,False,False
+OBJECT,NS_01_CEREBELLUM,NS_02_INFRATENTORIAL,4,Vestibuloolivary fibers.l,MESH,False,False,False,False,False
+OBJECT,NS_01_CEREBELLUM,NS_02_INFRATENTORIAL,4,Vestibuloolivary fibers.r,MESH,False,False,False,False,False
+OBJECT,NS_01_CEREBELLUM,NS_02_INFRATENTORIAL,4,Fastigiovestibular tract.l,MESH,False,False,False,False,False
+OBJECT,NS_01_CEREBELLUM,NS_02_INFRATENTORIAL,4,Fastigiovestibular tract.r,MESH,False,False,False,False,False
+OBJECT,NS_01_CEREBELLUM,NS_02_INFRATENTORIAL,4,Olivodentate fibers (Guillain-Mollaet Triangle).r,MESH,False,False,False,False,False
+OBJECT,NS_01_CEREBELLUM,NS_02_INFRATENTORIAL,4,Olivocerebellar (Climbing fibers).r,MESH,False,False,False,False,False
+OBJECT,NS_01_CEREBELLUM,NS_02_INFRATENTORIAL,4,Central lobule,MESH,False,False,False,False,False
+OBJECT,NS_01_CEREBELLUM,NS_02_INFRATENTORIAL,4,Gracile lobule.l.001,MESH,False,False,False,False,False
+OBJECT,NS_01_CEREBELLUM,NS_02_INFRATENTORIAL,4,Inferior semilunar lobule.l.001,MESH,False,False,False,False,False
+OBJECT,NS_01_CEREBELLUM,NS_02_INFRATENTORIAL,4,Wing of central lobule.l,MESH,False,False,False,False,False
+OBJECT,NS_01_CEREBELLUM,NS_02_INFRATENTORIAL,4,Wing of central lobule.r,MESH,False,False,False,False,False
+OBJECT,NS_01_CEREBELLUM,NS_02_INFRATENTORIAL,4,Inferior semilunar lobule.r,MESH,False,False,False,False,False
+COLLECTION,NS_02_BRAINSTEM_GROSS_ANATOMY,NS_02_INFRATENTORIAL,4,,,False,False,,,
+OBJECT,NS_02_BRAINSTEM_GROSS_ANATOMY,NS_02_INFRATENTORIAL,4,Inferior colliculus.r,MESH,False,False,False,False,False
+OBJECT,NS_02_BRAINSTEM_GROSS_ANATOMY,NS_02_INFRATENTORIAL,4,Medulla oblongata.l,MESH,False,False,False,False,False
+OBJECT,NS_02_BRAINSTEM_GROSS_ANATOMY,NS_02_INFRATENTORIAL,4,Pons.l,MESH,False,False,False,False,False
+OBJECT,NS_02_BRAINSTEM_GROSS_ANATOMY,NS_02_INFRATENTORIAL,4,Superior colliculus.l,MESH,False,False,False,False,False
+OBJECT,NS_02_BRAINSTEM_GROSS_ANATOMY,NS_02_INFRATENTORIAL,4,Inferior colliculus.l,MESH,False,False,False,False,False
+OBJECT,NS_02_BRAINSTEM_GROSS_ANATOMY,NS_02_INFRATENTORIAL,4,Midbrain.l,MESH,False,False,False,False,False
+OBJECT,NS_02_BRAINSTEM_GROSS_ANATOMY,NS_02_INFRATENTORIAL,4,Medulla oblongata.r,MESH,False,False,False,False,False
+OBJECT,NS_02_BRAINSTEM_GROSS_ANATOMY,NS_02_INFRATENTORIAL,4,Pons.r,MESH,False,False,False,False,False
+OBJECT,NS_02_BRAINSTEM_GROSS_ANATOMY,NS_02_INFRATENTORIAL,4,Pyramid of medulla oblongata.l,MESH,False,False,False,False,False
+OBJECT,NS_02_BRAINSTEM_GROSS_ANATOMY,NS_02_INFRATENTORIAL,4,Midbrain.r,MESH,False,False,False,False,False
+OBJECT,NS_02_BRAINSTEM_GROSS_ANATOMY,NS_02_INFRATENTORIAL,4,Pyramid of medulla oblongata.r,MESH,False,False,False,False,False
+OBJECT,NS_02_BRAINSTEM_GROSS_ANATOMY,NS_02_INFRATENTORIAL,4,Superior colliculus.r,MESH,False,False,False,False,False
+OBJECT,NS_02_BRAINSTEM_GROSS_ANATOMY,NS_02_INFRATENTORIAL,4,Aqueduct of midbrain,MESH,False,False,False,False,False
+OBJECT,NS_02_BRAINSTEM_GROSS_ANATOMY,NS_02_INFRATENTORIAL,4,Superior olivary complex.l,MESH,False,False,False,False,False
+OBJECT,NS_02_BRAINSTEM_GROSS_ANATOMY,NS_02_INFRATENTORIAL,4,Superior olivary complex.r,MESH,False,False,False,False,False
+OBJECT,NS_02_BRAINSTEM_GROSS_ANATOMY,NS_02_INFRATENTORIAL,4,N. of the lateral lemniscus.r,MESH,False,False,False,False,False
+OBJECT,NS_02_BRAINSTEM_GROSS_ANATOMY,NS_02_INFRATENTORIAL,4,N. of the lateral lemniscus.l,MESH,False,False,False,False,False
+OBJECT,NS_02_BRAINSTEM_GROSS_ANATOMY,NS_02_INFRATENTORIAL,4,Interstitial nucleus of Cajal.l,MESH,False,False,False,False,False
+OBJECT,NS_02_BRAINSTEM_GROSS_ANATOMY,NS_02_INFRATENTORIAL,4,Nucleus of Darkschewitsch.l,MESH,False,False,False,False,False
+OBJECT,NS_02_BRAINSTEM_GROSS_ANATOMY,NS_02_INFRATENTORIAL,4,Nucleus of Darkschewitsch.r,MESH,False,False,False,False,False
+OBJECT,NS_02_BRAINSTEM_GROSS_ANATOMY,NS_02_INFRATENTORIAL,4,Interstitial nucleus of Cajal.r,MESH,False,False,False,False,False
+OBJECT,NS_02_BRAINSTEM_GROSS_ANATOMY,NS_02_INFRATENTORIAL,4,Base of cerebral peduncle (Midbrain).l,MESH,False,False,False,False,False
+OBJECT,NS_02_BRAINSTEM_GROSS_ANATOMY,NS_02_INFRATENTORIAL,4,Base of cerebral peduncle (Midbrain).r,MESH,False,False,False,False,False
+OBJECT,NS_02_BRAINSTEM_GROSS_ANATOMY,NS_02_INFRATENTORIAL,4,Interpeduncular fossa.l,MESH,False,False,False,False,False
+OBJECT,NS_02_BRAINSTEM_GROSS_ANATOMY,NS_02_INFRATENTORIAL,4,Interpeduncular fossa.r,MESH,False,False,False,False,False
+COLLECTION,NS_03_BRAINSTEM_NUCLEI,NS_02_INFRATENTORIAL,4,,,False,False,,,
+OBJECT,NS_03_BRAINSTEM_NUCLEI,NS_02_INFRATENTORIAL,4,Superior salivatory nucleus.r,MESH,False,False,False,False,False
+OBJECT,NS_03_BRAINSTEM_NUCLEI,NS_02_INFRATENTORIAL,4,Nucleus ambiguus.l,MESH,False,False,False,False,False
+OBJECT,NS_03_BRAINSTEM_NUCLEI,NS_02_INFRATENTORIAL,4,Nucleus ambiguus.r,MESH,False,False,False,False,False
+OBJECT,NS_03_BRAINSTEM_NUCLEI,NS_02_INFRATENTORIAL,4,Anterior cochlear nucleus.l,MESH,False,False,False,False,False
+OBJECT,NS_03_BRAINSTEM_NUCLEI,NS_02_INFRATENTORIAL,4,Red nucleus.l,MESH,False,False,False,False,False
+OBJECT,NS_03_BRAINSTEM_NUCLEI,NS_02_INFRATENTORIAL,4,Anterior cochlear nucleus.r,MESH,False,False,False,False,False
+OBJECT,NS_03_BRAINSTEM_NUCLEI,NS_02_INFRATENTORIAL,4,Inferior salivatory nucleus.l,MESH,False,False,False,False,False
+OBJECT,NS_03_BRAINSTEM_NUCLEI,NS_02_INFRATENTORIAL,4,Red nucleus.r,MESH,False,False,False,False,False
+OBJECT,NS_03_BRAINSTEM_NUCLEI,NS_02_INFRATENTORIAL,4,Superior salivatory nucleus.l,MESH,False,False,False,False,False
+OBJECT,NS_03_BRAINSTEM_NUCLEI,NS_02_INFRATENTORIAL,4,Posterior cochlear nucleus.r,MESH,False,False,False,False,False
+OBJECT,NS_03_BRAINSTEM_NUCLEI,NS_02_INFRATENTORIAL,4,Inferior salivatory nucleus.r,MESH,False,False,False,False,False
+OBJECT,NS_03_BRAINSTEM_NUCLEI,NS_02_INFRATENTORIAL,4,Posterior cochlear nucleus.l,MESH,False,False,False,False,False
+OBJECT,NS_03_BRAINSTEM_NUCLEI,NS_02_INFRATENTORIAL,4,Vestibular nuclei.l,MESH,False,False,False,False,False
+OBJECT,NS_03_BRAINSTEM_NUCLEI,NS_02_INFRATENTORIAL,4,Vestibular nuclei.r,MESH,False,False,False,False,False
+OBJECT,NS_03_BRAINSTEM_NUCLEI,NS_02_INFRATENTORIAL,4,Cuneate nucleus.l.,MESH,False,False,False,False,False
+OBJECT,NS_03_BRAINSTEM_NUCLEI,NS_02_INFRATENTORIAL,4,Gracile nucleus.l,MESH,False,False,False,False,False
+OBJECT,NS_03_BRAINSTEM_NUCLEI,NS_02_INFRATENTORIAL,4,Accessory Cuneate nucleus.l.,MESH,False,False,False,False,False
+OBJECT,NS_03_BRAINSTEM_NUCLEI,NS_02_INFRATENTORIAL,4,Reticular formation brainstem,MESH,False,False,False,False,False
+OBJECT,NS_03_BRAINSTEM_NUCLEI,NS_02_INFRATENTORIAL,4,Olive.l,MESH,False,False,False,False,False
+OBJECT,NS_03_BRAINSTEM_NUCLEI,NS_02_INFRATENTORIAL,4,Olive.r,MESH,False,False,False,False,False
+OBJECT,NS_03_BRAINSTEM_NUCLEI,NS_02_INFRATENTORIAL,4,Nucleus of solitary tract.l,MESH,False,False,False,False,False
+OBJECT,NS_03_BRAINSTEM_NUCLEI,NS_02_INFRATENTORIAL,4,Nucleus of solitary tract.r,MESH,False,False,False,False,False
+OBJECT,NS_03_BRAINSTEM_NUCLEI,NS_02_INFRATENTORIAL,4,Gracile nucleus.r,MESH,False,False,False,False,False
+OBJECT,NS_03_BRAINSTEM_NUCLEI,NS_02_INFRATENTORIAL,4,Cuneate nucleus.r,MESH,False,False,False,False,False
+OBJECT,NS_03_BRAINSTEM_NUCLEI,NS_02_INFRATENTORIAL,4,Accessory Cuneate nucleus.r,MESH,False,False,False,False,False
+OBJECT,NS_03_BRAINSTEM_NUCLEI,NS_02_INFRATENTORIAL,4,Vestibular nerve fibers to nuclei.l,MESH,False,False,False,False,False
+OBJECT,NS_03_BRAINSTEM_NUCLEI,NS_02_INFRATENTORIAL,4,Vestibular nerve fibers to nuclei.r,MESH,False,False,False,False,False
+COLLECTION,NS_03_CRANIAL_NERVES,NS_01_BRAIN,3,,,False,False,,,
+COLLECTION,NS_CN01_OLFACTORY,NS_03_CRANIAL_NERVES,4,,,False,False,,,
+OBJECT,NS_CN01_OLFACTORY,NS_03_CRANIAL_NERVES,4,Olfactory nerve (I).l,MESH,False,False,False,False,False
+OBJECT,NS_CN01_OLFACTORY,NS_03_CRANIAL_NERVES,4,Olfactory nerve (I).r,MESH,False,False,False,False,False
+COLLECTION,NS_CN02_OPTIC,NS_03_CRANIAL_NERVES,4,,,False,False,,,
+OBJECT,NS_CN02_OPTIC,NS_03_CRANIAL_NERVES,4,Optic nerve (II).r,MESH,False,False,False,False,False
+OBJECT,NS_CN02_OPTIC,NS_03_CRANIAL_NERVES,4,Optic nerve (II).l,MESH,False,False,False,False,False
+COLLECTION,NS_CN03_OCULOMOTOR,NS_03_CRANIAL_NERVES,4,,,False,False,,,
+OBJECT,NS_CN03_OCULOMOTOR,NS_03_CRANIAL_NERVES,4,Nucleus of oculomotor nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_CN03_OCULOMOTOR,NS_03_CRANIAL_NERVES,4,Nucleus of oculomotor nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_CN03_OCULOMOTOR,NS_03_CRANIAL_NERVES,4,Accessory nucleus of oculomotor nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_CN03_OCULOMOTOR,NS_03_CRANIAL_NERVES,4,Accessory nucleus of oculomotor nerve.r,MESH,False,False,False,False,False
+COLLECTION,NS_CN04_TROCHLEAR,NS_03_CRANIAL_NERVES,4,,,False,False,,,
+OBJECT,NS_CN04_TROCHLEAR,NS_03_CRANIAL_NERVES,4,Nucleus of trochlear nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_CN04_TROCHLEAR,NS_03_CRANIAL_NERVES,4,Nucleus of trochlear nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_CN04_TROCHLEAR,NS_03_CRANIAL_NERVES,4,Trochlear nerve (IV).r,MESH,False,False,False,False,False
+OBJECT,NS_CN04_TROCHLEAR,NS_03_CRANIAL_NERVES,4,Trochlear nerve (IV).l,MESH,False,False,False,False,False
+COLLECTION,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,,,False,False,,,
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Ophthalmic nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Motor root of trigeminal nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Motor root of trigeminal nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Mesencephalic nucleus of trigeminal nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Principal (pontine) neucleus of trigeminal nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Spinal nucleus of trigeminal nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Spinal trigeminal tract.r,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Principal (pontine) neucleus of trigeminal nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Mesencephalic nucleus of trigeminal nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Spinal nucleus of trigeminal nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Trigeminal nerve maxillary n (V).r,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Trigeminal nerve root.r,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Trigeminal nerve root.l,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Trigeminal nerve (Gasserian) ganglion.l,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Trigeminal nerve (Gasserian) ganglion.r,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Maxillary nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Auriculotemporal nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Auriculotemporal nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Inferior alveolar nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Inferior alveolar nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Spinal trigeminal tract.l,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Otic ganglion.r,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Otic ganglion.l,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Right masseteric nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Right masseteric nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Lateral pterygoid nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Lateral pterygoid nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Medial pterygoid nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Medial pterygoid nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Submandibular ganglion.r,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Submadinular ganglia nerves.r,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Submandibular ganglion.l,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Submadinular ganglia nerves.l,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Trunk of right inferior alveolar nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Right mental nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Right mental nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Trunk of right inferior alveolar nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Middle superior alveolar nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Anterior superior alveolar nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Posterior superior alveolar nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Posterior superior alveolar nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Middle superior alveolar nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Anterior superior alveolar nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Pterygopalatine ganglion.r,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Greater palatine nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Greater palatine nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Pterygopalatine ganglion.l,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Nasopalatine nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Nasopalatine nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Pharyngeal nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Pharyngeal nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Lateral posterior superior nasal nerve.r ,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Lateral posterior inferior nasal nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Lateral posterior inferior nasal nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Lateral posterior superior nasal nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Muscles of head.g,EMPTY,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Extra-ocular muscles.g,EMPTY,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Cranial part of muscular system.r,EMPTY,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Common tendinous ring.r,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Anterior ethmoidal nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Posterior ethmoidal nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Anterior ethmoidal nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Posterior ethmoidal nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Nasociliary nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Infratrochlear nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Infratrochlear nerve.l.001,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Supratrochlear nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Supraorbital nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Frontal nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Lacrimal nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Ophthalmic nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Frontal nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Supraorbital nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Supratrochlear nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Lacrimal nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Zygomatic nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Nasociliary nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Zygomatic nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Zygomaticofacial nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Zygomaticofacial nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Zygomaticotemporal nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Zygomaticotemporal nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Long cilliary nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Long cilliary nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Ciliary ganglion.r,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Ciliary ganglion.l,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Short ciliary nerves.r,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Short ciliary nerves.l,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Oculomotor nerve (cisternal and cavernous part).r,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Oculomotor nerve (branch to levator palpebrae muscle).r,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Oculomotr nerve - branch to superior rectus m.r,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Inferior branch of right oculomotor nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Superior branch of the oculomotor nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Oculomotor nerve (cisternal and cavernous part).l,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Superior branch of the oculomotor nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Oculomotor nerve (branch to levator palpebrae muscle).l,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Oculomotr nerve - branch to superior rectus muscle.l,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Inferior branch of right oculomotor nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Maxillary nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Communicating branch of right nasociliary nerve to cilliary ganglion.l,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Communicating branch of right nasociliary nerve to cilliary ganglion.r,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Ganglionic branch of maxillary nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Ganglionic branch of maxillary nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_CN05_TRIGEMINAL,NS_03_CRANIAL_NERVES,4,Trigeminal nerve maxillary n (V).l,MESH,False,False,False,False,False
+COLLECTION,NS_CN06_ABDUCENS,NS_03_CRANIAL_NERVES,4,,,False,False,,,
+OBJECT,NS_CN06_ABDUCENS,NS_03_CRANIAL_NERVES,4,Nucleus of abducens nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_CN06_ABDUCENS,NS_03_CRANIAL_NERVES,4,Abducens nerve (VI).r,MESH,False,False,False,False,False
+OBJECT,NS_CN06_ABDUCENS,NS_03_CRANIAL_NERVES,4,Nucleus of abducens nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_CN06_ABDUCENS,NS_03_CRANIAL_NERVES,4,Abducens nerve (VI).l,MESH,False,False,False,False,False
+COLLECTION,NS_CN07_FACIAL,NS_03_CRANIAL_NERVES,4,,,False,False,,,
+OBJECT,NS_CN07_FACIAL,NS_03_CRANIAL_NERVES,4,Chorda tympani.r,MESH,False,False,False,False,False
+OBJECT,NS_CN07_FACIAL,NS_03_CRANIAL_NERVES,4,Facial nerve (VII).l,MESH,False,False,False,False,False
+OBJECT,NS_CN07_FACIAL,NS_03_CRANIAL_NERVES,4,Facial nerve (VII).r,MESH,False,False,False,False,False
+OBJECT,NS_CN07_FACIAL,NS_03_CRANIAL_NERVES,4,Motor nucleus of facial nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_CN07_FACIAL,NS_03_CRANIAL_NERVES,4,Motor nucleus of facial nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_CN07_FACIAL,NS_03_CRANIAL_NERVES,4,Vidian nerve (nerve of the pterygoid canal).r,MESH,False,False,False,False,False
+OBJECT,NS_CN07_FACIAL,NS_03_CRANIAL_NERVES,4,Deep petrosal nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_CN07_FACIAL,NS_03_CRANIAL_NERVES,4,Deep petrosal nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_CN07_FACIAL,NS_03_CRANIAL_NERVES,4,Vidian nerve (nerve of the pterygoid canal).l,MESH,False,False,False,False,False
+OBJECT,NS_CN07_FACIAL,NS_03_CRANIAL_NERVES,4,Chorda tympani.l,MESH,False,False,False,False,False
+OBJECT,NS_CN07_FACIAL,NS_03_CRANIAL_NERVES,4,Lesser petrosal nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_CN07_FACIAL,NS_03_CRANIAL_NERVES,4,Tensor tympani nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_CN07_FACIAL,NS_03_CRANIAL_NERVES,4,Lesser petrosal nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_CN07_FACIAL,NS_03_CRANIAL_NERVES,4,Tensor tympani nerve.l,MESH,False,False,False,False,False
+COLLECTION,NS_CN08_VESTIBULOCOCHLEAR,NS_03_CRANIAL_NERVES,4,,,False,False,,,
+OBJECT,NS_CN08_VESTIBULOCOCHLEAR,NS_03_CRANIAL_NERVES,4,Vestibulocochlear nerve (VIII).l,MESH,False,False,False,False,False
+OBJECT,NS_CN08_VESTIBULOCOCHLEAR,NS_03_CRANIAL_NERVES,4,Cochlear nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_CN08_VESTIBULOCOCHLEAR,NS_03_CRANIAL_NERVES,4,Vestibular nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_CN08_VESTIBULOCOCHLEAR,NS_03_CRANIAL_NERVES,4,Vestibulocochlear nerve (VIII).r.001,MESH,False,False,False,False,False
+OBJECT,NS_CN08_VESTIBULOCOCHLEAR,NS_03_CRANIAL_NERVES,4,Cochlear nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_CN08_VESTIBULOCOCHLEAR,NS_03_CRANIAL_NERVES,4,Vestibular nerve.r,MESH,False,False,False,False,False
+COLLECTION,NS_CN09_GLOSSOPHARYNGEAL,NS_03_CRANIAL_NERVES,4,,,False,False,,,
+OBJECT,NS_CN09_GLOSSOPHARYNGEAL,NS_03_CRANIAL_NERVES,4,Glossopharyngeal nerve (IX).l,MESH,False,False,False,False,False
+OBJECT,NS_CN09_GLOSSOPHARYNGEAL,NS_03_CRANIAL_NERVES,4,Glossopharyngeal nerve (IX).r,MESH,False,False,False,False,False
+COLLECTION,NS_CN10_VAGUS,NS_03_CRANIAL_NERVES,4,,,False,False,,,
+OBJECT,NS_CN10_VAGUS,NS_03_CRANIAL_NERVES,4,Posterior nucleus of vagus nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_CN10_VAGUS,NS_03_CRANIAL_NERVES,4,Posterior nucleus of vagus nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_CN10_VAGUS,NS_03_CRANIAL_NERVES,4,Vagus nerve (X).l,MESH,False,False,False,False,False
+OBJECT,NS_CN10_VAGUS,NS_03_CRANIAL_NERVES,4,Vagus nerve (X).r,MESH,False,False,False,False,False
+OBJECT,NS_CN10_VAGUS,NS_03_CRANIAL_NERVES,4,Superior laryngeal nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_CN10_VAGUS,NS_03_CRANIAL_NERVES,4,Vagus nerve (X).r.001,MESH,False,False,False,False,False
+OBJECT,NS_CN10_VAGUS,NS_03_CRANIAL_NERVES,4,Vagus nerve (X).r.002,MESH,False,False,False,False,False
+OBJECT,NS_CN10_VAGUS,NS_03_CRANIAL_NERVES,4,Pharyngeal branch of the vagus nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_CN10_VAGUS,NS_03_CRANIAL_NERVES,4,Pharyngeal branch of the vagus nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_CN10_VAGUS,NS_03_CRANIAL_NERVES,4,Right recurrent laryngeal nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_CN10_VAGUS,NS_03_CRANIAL_NERVES,4,Left recurrent laryngeal nerve.l,CURVE,False,False,False,False,False
+OBJECT,NS_CN10_VAGUS,NS_03_CRANIAL_NERVES,4,Carotid body left.l,MESH,False,False,False,False,False
+OBJECT,NS_CN10_VAGUS,NS_03_CRANIAL_NERVES,4,Carotid body right.r,MESH,False,False,False,False,False
+OBJECT,NS_CN10_VAGUS,NS_03_CRANIAL_NERVES,4,Superior Cardiac nerve vagus.l,MESH,False,False,False,False,False
+OBJECT,NS_CN10_VAGUS,NS_03_CRANIAL_NERVES,4,Inferior cardiac nerve vagus.l,MESH,False,False,False,False,False
+OBJECT,NS_CN10_VAGUS,NS_03_CRANIAL_NERVES,4,Superior cervical cardiac sympathetic nerve.r ,MESH,False,False,False,False,False
+OBJECT,NS_CN10_VAGUS,NS_03_CRANIAL_NERVES,4,Middle cervical cardiac sympathetic nerve.r .001,MESH,False,False,False,False,False
+OBJECT,NS_CN10_VAGUS,NS_03_CRANIAL_NERVES,4,Middle cervical cardiac sympathetic nerve.r .002,MESH,False,False,False,False,False
+OBJECT,NS_CN10_VAGUS,NS_03_CRANIAL_NERVES,4,Thoracic cardiac sympathetic nerve branches.l,MESH,False,False,False,False,False
+OBJECT,NS_CN10_VAGUS,NS_03_CRANIAL_NERVES,4,Thoracic cardiac sympathetic nerve branches.r.001,MESH,False,False,False,False,False
+OBJECT,NS_CN10_VAGUS,NS_03_CRANIAL_NERVES,4,Cardiac plexus,MESH,False,False,False,False,False
+OBJECT,NS_CN10_VAGUS,NS_03_CRANIAL_NERVES,4,Aortic plexus,MESH,False,False,False,False,False
+OBJECT,NS_CN10_VAGUS,NS_03_CRANIAL_NERVES,4,Ascending aorta nerve Plexus,MESH,False,False,False,False,False
+OBJECT,NS_CN10_VAGUS,NS_03_CRANIAL_NERVES,4,Superior Cardiac nerve vagus.r,MESH,False,False,False,False,False
+OBJECT,NS_CN10_VAGUS,NS_03_CRANIAL_NERVES,4,Inferior cardiac nerve vagus.r,MESH,False,False,False,False,False
+OBJECT,NS_CN10_VAGUS,NS_03_CRANIAL_NERVES,4,Superior laryngeal nerve.l,MESH,False,False,False,False,False
+COLLECTION,NS_CN11_ACCESSORY,NS_03_CRANIAL_NERVES,4,,,False,False,,,
+OBJECT,NS_CN11_ACCESSORY,NS_03_CRANIAL_NERVES,4,Nucleus of accessory nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_CN11_ACCESSORY,NS_03_CRANIAL_NERVES,4,Nucleus of accessory nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_CN11_ACCESSORY,NS_03_CRANIAL_NERVES,4,Accessory nerve (XI).l,MESH,False,False,False,False,False
+OBJECT,NS_CN11_ACCESSORY,NS_03_CRANIAL_NERVES,4,Accessory nerve (XI).r,MESH,False,False,False,False,False
+COLLECTION,NS_CN12_HYPOGLOSSAL,NS_03_CRANIAL_NERVES,4,,,False,False,,,
+OBJECT,NS_CN12_HYPOGLOSSAL,NS_03_CRANIAL_NERVES,4,Hypoglossal nerve (XII).l,MESH,False,False,False,False,False
+OBJECT,NS_CN12_HYPOGLOSSAL,NS_03_CRANIAL_NERVES,4,Hypoglossal nerve (XII).r,MESH,False,False,False,False,False
+OBJECT,NS_CN12_HYPOGLOSSAL,NS_03_CRANIAL_NERVES,4,Nucleus of hypoglossal nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_CN12_HYPOGLOSSAL,NS_03_CRANIAL_NERVES,4,Nucleus of hypoglossal nerve.r,MESH,False,False,False,False,False
+COLLECTION,NS_02_SPINAL_CORD,NS_01_CNS,2,,,False,False,,,
+OBJECT,NS_02_SPINAL_CORD,NS_01_CNS,2,Central canal,MESH,False,False,False,False,False
+OBJECT,NS_02_SPINAL_CORD,NS_01_CNS,2,Central canal',MESH,False,False,False,False,False
+OBJECT,NS_02_SPINAL_CORD,NS_01_CNS,2,Dorsal nucleus Clarke's nucleus,MESH,False,False,False,False,False
+OBJECT,NS_02_SPINAL_CORD,NS_01_CNS,2,Intermediolateral nucleus,MESH,False,False,False,False,False
+COLLECTION,NS_01_EXTERNAL_ANATOMY,NS_02_SPINAL_CORD,3,,,False,False,,,
+COLLECTION,NS_02_GRAY_MATTER,NS_02_SPINAL_CORD,3,,,False,False,,,
+OBJECT,NS_02_GRAY_MATTER,NS_02_SPINAL_CORD,3,Posterior horn of spinal cord,MESH,False,False,False,False,False
+OBJECT,NS_02_GRAY_MATTER,NS_02_SPINAL_CORD,3,Anterior horn of spinal cord,MESH,False,False,False,False,False
+OBJECT,NS_02_GRAY_MATTER,NS_02_SPINAL_CORD,3,Intermediomedial nucleus,MESH,False,False,False,False,False
+OBJECT,NS_02_GRAY_MATTER,NS_02_SPINAL_CORD,3,Lateral intermediate substance,MESH,False,False,False,False,False
+OBJECT,NS_02_GRAY_MATTER,NS_02_SPINAL_CORD,3,Nucleus proprius,MESH,False,False,False,False,False
+COLLECTION,NS_03_GENERAL_WHITE_MATTER,NS_02_SPINAL_CORD,3,,,False,False,,,
+OBJECT,NS_03_GENERAL_WHITE_MATTER,NS_02_SPINAL_CORD,3,White matter of spinal cord,MESH,False,False,False,False,False
+COLLECTION,NS_04_ASCENDING_SENSORY_TRACTS,NS_02_SPINAL_CORD,3,,,False,False,,,
+OBJECT,NS_04_ASCENDING_SENSORY_TRACTS,NS_02_SPINAL_CORD,3,Gracile fasciculus,MESH,False,False,False,False,False
+OBJECT,NS_04_ASCENDING_SENSORY_TRACTS,NS_02_SPINAL_CORD,3,Lateral spinothalamic tract,MESH,False,False,False,False,False
+OBJECT,NS_04_ASCENDING_SENSORY_TRACTS,NS_02_SPINAL_CORD,3,Spinotectal tract,MESH,False,False,False,False,False
+OBJECT,NS_04_ASCENDING_SENSORY_TRACTS,NS_02_SPINAL_CORD,3,Anterior spinothalamic tract,MESH,False,False,False,False,False
+OBJECT,NS_04_ASCENDING_SENSORY_TRACTS,NS_02_SPINAL_CORD,3,Posterior spinocerebellar tract,MESH,False,False,False,False,False
+OBJECT,NS_04_ASCENDING_SENSORY_TRACTS,NS_02_SPINAL_CORD,3,Anterior spinocerebellar tract,MESH,False,False,False,False,False
+OBJECT,NS_04_ASCENDING_SENSORY_TRACTS,NS_02_SPINAL_CORD,3,Cuneate fasciculus,MESH,False,False,False,False,False
+COLLECTION,NS_05_DESCENDING_MOTOR_TRACTS,NS_02_SPINAL_CORD,3,,,False,False,,,
+OBJECT,NS_05_DESCENDING_MOTOR_TRACTS,NS_02_SPINAL_CORD,3,Tectospinal tract,MESH,False,False,False,False,False
+OBJECT,NS_05_DESCENDING_MOTOR_TRACTS,NS_02_SPINAL_CORD,3,Lateral reticulospinal tract,MESH,False,False,False,False,False
+OBJECT,NS_05_DESCENDING_MOTOR_TRACTS,NS_02_SPINAL_CORD,3,Lateral vestibulospinal tract,MESH,False,False,False,False,False
+OBJECT,NS_05_DESCENDING_MOTOR_TRACTS,NS_02_SPINAL_CORD,3,Medial reticulospinal tract,MESH,False,False,False,False,False
+OBJECT,NS_05_DESCENDING_MOTOR_TRACTS,NS_02_SPINAL_CORD,3,Rubrospinal tract,MESH,False,False,False,False,False
+OBJECT,NS_05_DESCENDING_MOTOR_TRACTS,NS_02_SPINAL_CORD,3,Medial vestibulospinal tract,MESH,False,False,False,False,False
+OBJECT,NS_05_DESCENDING_MOTOR_TRACTS,NS_02_SPINAL_CORD,3,Lateral corticospinal tract,MESH,False,False,False,False,False
+OBJECT,NS_05_DESCENDING_MOTOR_TRACTS,NS_02_SPINAL_CORD,3,Anterior corticospinal tract,MESH,False,False,False,False,False
+COLLECTION,NS_06_OTHER_TRACTS,NS_02_SPINAL_CORD,3,,,False,False,,,
+OBJECT,NS_06_OTHER_TRACTS,NS_02_SPINAL_CORD,3,Posterior fasciculus proprius,MESH,False,False,False,False,False
+OBJECT,NS_06_OTHER_TRACTS,NS_02_SPINAL_CORD,3,Anterior fasciculus proprius,MESH,False,False,False,False,False
+OBJECT,NS_06_OTHER_TRACTS,NS_02_SPINAL_CORD,3,Lateral fasciculus proprius,MESH,False,False,False,False,False
+OBJECT,NS_06_OTHER_TRACTS,NS_02_SPINAL_CORD,3,Posterolateral (Lissauer's) tract,MESH,False,False,False,False,False
+COLLECTION,NS_07_ROOTS,NS_02_SPINAL_CORD,3,,,False,False,,,
+OBJECT,NS_07_ROOTS,NS_02_SPINAL_CORD,3,Filum terminale,MESH,False,False,False,False,False
+COLLECTION,C1,NS_07_ROOTS,4,,,False,False,,,
+OBJECT,C1,NS_07_ROOTS,4,C1 anterior posterior.l,MESH,False,False,False,False,False
+OBJECT,C1,NS_07_ROOTS,4,C1 anterior root.l,MESH,False,False,False,False,False
+OBJECT,C1,NS_07_ROOTS,4,C1 spinal nerve.l.001,MESH,False,False,False,False,False
+OBJECT,C1,NS_07_ROOTS,4,C1 anterior root.r,MESH,False,False,False,False,False
+OBJECT,C1,NS_07_ROOTS,4,C1 anterior posterior.r,MESH,False,False,False,False,False
+OBJECT,C1,NS_07_ROOTS,4,C1 spinal nerve.r,MESH,False,False,False,False,False
+COLLECTION,C2,NS_07_ROOTS,4,,,False,False,,,
+OBJECT,C2,NS_07_ROOTS,4,C2 anterior posterior.l,MESH,False,False,False,False,False
+OBJECT,C2,NS_07_ROOTS,4,C2 anterior root.l,MESH,False,False,False,False,False
+OBJECT,C2,NS_07_ROOTS,4,C2 spinal nerve.l,MESH,False,False,False,False,False
+OBJECT,C2,NS_07_ROOTS,4,C2 Dorsal root ganglion.l,MESH,False,False,False,False,False
+OBJECT,C2,NS_07_ROOTS,4,C2 anterior posterior.r,MESH,False,False,False,False,False
+OBJECT,C2,NS_07_ROOTS,4,C2 anterior root.r,MESH,False,False,False,False,False
+OBJECT,C2,NS_07_ROOTS,4,C2 spinal nerve.r,MESH,False,False,False,False,False
+OBJECT,C2,NS_07_ROOTS,4,C2 Dorsal root ganglion.r,MESH,False,False,False,False,False
+COLLECTION,C3,NS_07_ROOTS,4,,,False,False,,,
+OBJECT,C3,NS_07_ROOTS,4,C3  posterior root.l,MESH,False,False,False,False,False
+OBJECT,C3,NS_07_ROOTS,4,C3 anterior root.l,MESH,False,False,False,False,False
+OBJECT,C3,NS_07_ROOTS,4,C3 spinal nerve.l,MESH,False,False,False,False,False
+OBJECT,C3,NS_07_ROOTS,4,C3 Dorsal root ganglion.l,MESH,False,False,False,False,False
+OBJECT,C3,NS_07_ROOTS,4,C3  posterior root.r,MESH,False,False,False,False,False
+OBJECT,C3,NS_07_ROOTS,4,C3 anterior root.r,MESH,False,False,False,False,False
+OBJECT,C3,NS_07_ROOTS,4,C3 Dorsal root ganglion.r,MESH,False,False,False,False,False
+OBJECT,C3,NS_07_ROOTS,4,C3 spinal nerve.r,MESH,False,False,False,False,False
+COLLECTION,C4,NS_07_ROOTS,4,,,False,False,,,
+OBJECT,C4,NS_07_ROOTS,4,C4  posterior root.l,MESH,False,False,False,False,False
+OBJECT,C4,NS_07_ROOTS,4,C4 anterior root.l,MESH,False,False,False,False,False
+OBJECT,C4,NS_07_ROOTS,4,C4 Dorsal root ganglion.l,MESH,False,False,False,False,False
+OBJECT,C4,NS_07_ROOTS,4,C4 spinal nerve.l,MESH,False,False,False,False,False
+OBJECT,C4,NS_07_ROOTS,4,C4  posterior root.r,MESH,False,False,False,False,False
+OBJECT,C4,NS_07_ROOTS,4,C4 anterior root.r,MESH,False,False,False,False,False
+OBJECT,C4,NS_07_ROOTS,4,C4 Dorsal root ganglion.r,MESH,False,False,False,False,False
+COLLECTION,C5,NS_07_ROOTS,4,,,False,False,,,
+OBJECT,C5,NS_07_ROOTS,4,C5  posterior root.l,MESH,False,False,False,False,False
+OBJECT,C5,NS_07_ROOTS,4,C5 anterior root.l,MESH,False,False,False,False,False
+OBJECT,C5,NS_07_ROOTS,4,C5 Dorsal root ganglion.l,MESH,False,False,False,False,False
+OBJECT,C5,NS_07_ROOTS,4,C5  posterior root.r,MESH,False,False,False,False,False
+OBJECT,C5,NS_07_ROOTS,4,C5 anterior root.r,MESH,False,False,False,False,False
+OBJECT,C5,NS_07_ROOTS,4,C5 Dorsal root ganglion.r,MESH,False,False,False,False,False
+COLLECTION,C6,NS_07_ROOTS,4,,,False,False,,,
+OBJECT,C6,NS_07_ROOTS,4,C6  posterior root.l,MESH,False,False,False,False,False
+OBJECT,C6,NS_07_ROOTS,4,C6 anterior root.l,MESH,False,False,False,False,False
+OBJECT,C6,NS_07_ROOTS,4,C6 Dorsal root ganglion.l,MESH,False,False,False,False,False
+OBJECT,C6,NS_07_ROOTS,4,C6  posterior root.r,MESH,False,False,False,False,False
+OBJECT,C6,NS_07_ROOTS,4,C6 Dorsal root ganglion.r,MESH,False,False,False,False,False
+OBJECT,C6,NS_07_ROOTS,4,C6 anterior root.r,MESH,False,False,False,False,False
+COLLECTION,C7,NS_07_ROOTS,4,,,False,False,,,
+OBJECT,C7,NS_07_ROOTS,4,C7  posterior root.l,MESH,False,False,False,False,False
+OBJECT,C7,NS_07_ROOTS,4,C7 anterior root.l,MESH,False,False,False,False,False
+OBJECT,C7,NS_07_ROOTS,4,C7 Dorsal root ganglion.l,MESH,False,False,False,False,False
+OBJECT,C7,NS_07_ROOTS,4,C7  posterior root.r,MESH,False,False,False,False,False
+OBJECT,C7,NS_07_ROOTS,4,C7 Dorsal root ganglion.r,MESH,False,False,False,False,False
+OBJECT,C7,NS_07_ROOTS,4,C7 anterior root.r,MESH,False,False,False,False,False
+COLLECTION,C8,NS_07_ROOTS,4,,,False,False,,,
+OBJECT,C8,NS_07_ROOTS,4,C8  posterior root.l,MESH,False,False,False,False,False
+OBJECT,C8,NS_07_ROOTS,4,C8 anterior root.l,MESH,False,False,False,False,False
+OBJECT,C8,NS_07_ROOTS,4,C8 Dorsal root ganglion.l,MESH,False,False,False,False,False
+OBJECT,C8,NS_07_ROOTS,4,C8  posterior root.r,MESH,False,False,False,False,False
+OBJECT,C8,NS_07_ROOTS,4,C8 Dorsal root ganglion.r,MESH,False,False,False,False,False
+OBJECT,C8,NS_07_ROOTS,4,C8 anterior root.r,MESH,False,False,False,False,False
+COLLECTION,Th1,NS_07_ROOTS,4,,,False,False,,,
+OBJECT,Th1,NS_07_ROOTS,4,Th1  posterior root.l,MESH,False,False,False,False,False
+OBJECT,Th1,NS_07_ROOTS,4,Th1anterior root.l,MESH,False,False,False,False,False
+OBJECT,Th1,NS_07_ROOTS,4,Th1 Dorsal root ganglion.l,MESH,False,False,False,False,False
+OBJECT,Th1,NS_07_ROOTS,4,Th1  posterior root.r,MESH,False,False,False,False,False
+OBJECT,Th1,NS_07_ROOTS,4,Th1 Dorsal root ganglion.r,MESH,False,False,False,False,False
+OBJECT,Th1,NS_07_ROOTS,4,Th1anterior root.r,MESH,False,False,False,False,False
+COLLECTION,Th2,NS_07_ROOTS,4,,,False,False,,,
+OBJECT,Th2,NS_07_ROOTS,4,Th2  posterior root.l,MESH,False,False,False,False,False
+OBJECT,Th2,NS_07_ROOTS,4,Th2 Dorsal root ganglion.l,MESH,False,False,False,False,False
+OBJECT,Th2,NS_07_ROOTS,4,Th2 anterior root.l,MESH,False,False,False,False,False
+OBJECT,Th2,NS_07_ROOTS,4,Th2  posterior root.r,MESH,False,False,False,False,False
+OBJECT,Th2,NS_07_ROOTS,4,Th2 anterior root.r,MESH,False,False,False,False,False
+OBJECT,Th2,NS_07_ROOTS,4,Th2 Dorsal root ganglion.r,MESH,False,False,False,False,False
+COLLECTION,Th3,NS_07_ROOTS,4,,,False,False,,,
+OBJECT,Th3,NS_07_ROOTS,4,Th3  posterior root.l,MESH,False,False,False,False,False
+OBJECT,Th3,NS_07_ROOTS,4,Th3 anterior root.l,MESH,False,False,False,False,False
+OBJECT,Th3,NS_07_ROOTS,4,Th3 Dorsal root ganglion.l,MESH,False,False,False,False,False
+OBJECT,Th3,NS_07_ROOTS,4,Th3  posterior root.r,MESH,False,False,False,False,False
+OBJECT,Th3,NS_07_ROOTS,4,Th3 Dorsal root ganglion.r,MESH,False,False,False,False,False
+OBJECT,Th3,NS_07_ROOTS,4,Th3 anterior root.r,MESH,False,False,False,False,False
+COLLECTION,Th4,NS_07_ROOTS,4,,,False,False,,,
+OBJECT,Th4,NS_07_ROOTS,4,Th4 posterior root.l.001,MESH,False,False,False,False,False
+OBJECT,Th4,NS_07_ROOTS,4,Th4 anterior root.l,MESH,False,False,False,False,False
+OBJECT,Th4,NS_07_ROOTS,4,Th4 Dorsal root ganglion.l,MESH,False,False,False,False,False
+OBJECT,Th4,NS_07_ROOTS,4,Th4 posterior root.r,MESH,False,False,False,False,False
+OBJECT,Th4,NS_07_ROOTS,4,Th4 anterior root.r,MESH,False,False,False,False,False
+OBJECT,Th4,NS_07_ROOTS,4,Th4 Dorsal root ganglion.r,MESH,False,False,False,False,False
+COLLECTION,Th5,NS_07_ROOTS,4,,,False,False,,,
+OBJECT,Th5,NS_07_ROOTS,4,Th5 anterior root.l,MESH,False,False,False,False,False
+OBJECT,Th5,NS_07_ROOTS,4,Th5 posterior root.l,MESH,False,False,False,False,False
+OBJECT,Th5,NS_07_ROOTS,4,Th5 Dorsal root ganglion.l,MESH,False,False,False,False,False
+OBJECT,Th5,NS_07_ROOTS,4,Th5 posterior root.r,MESH,False,False,False,False,False
+OBJECT,Th5,NS_07_ROOTS,4,Th5 anterior root.r,MESH,False,False,False,False,False
+OBJECT,Th5,NS_07_ROOTS,4,Th5 Dorsal root ganglion.r,MESH,False,False,False,False,False
+COLLECTION,Th6,NS_07_ROOTS,4,,,False,False,,,
+OBJECT,Th6,NS_07_ROOTS,4,Th6 anterior root.l,MESH,False,False,False,False,False
+OBJECT,Th6,NS_07_ROOTS,4,Th6 Dorsal root ganglion.r,MESH,False,False,False,False,False
+OBJECT,Th6,NS_07_ROOTS,4,Th6 posterior root.l,MESH,False,False,False,False,False
+OBJECT,Th6,NS_07_ROOTS,4,Th6 posterior root.r,MESH,False,False,False,False,False
+OBJECT,Th6,NS_07_ROOTS,4,Th6 anterior root.r,MESH,False,False,False,False,False
+OBJECT,Th6,NS_07_ROOTS,4,Th6 Dorsal root ganglion.l,MESH,False,False,False,False,False
+COLLECTION,Th7,NS_07_ROOTS,4,,,False,False,,,
+OBJECT,Th7,NS_07_ROOTS,4,Th7 anterior root.l,MESH,False,False,False,False,False
+OBJECT,Th7,NS_07_ROOTS,4,Th7 Dorsal root ganglion.l,MESH,False,False,False,False,False
+OBJECT,Th7,NS_07_ROOTS,4,Th7 posterior root.l,MESH,False,False,False,False,False
+OBJECT,Th7,NS_07_ROOTS,4,Th7 posterior root.r,MESH,False,False,False,False,False
+OBJECT,Th7,NS_07_ROOTS,4,Th7 anterior root.r,MESH,False,False,False,False,False
+OBJECT,Th7,NS_07_ROOTS,4,Th7 Dorsal root ganglion.r,MESH,False,False,False,False,False
+COLLECTION,Th8,NS_07_ROOTS,4,,,False,False,,,
+OBJECT,Th8,NS_07_ROOTS,4,Th8 anterior root.l,MESH,False,False,False,False,False
+OBJECT,Th8,NS_07_ROOTS,4,Th8 Dorsal root ganglion.l,MESH,False,False,False,False,False
+OBJECT,Th8,NS_07_ROOTS,4,Th8 posterior root.l,MESH,False,False,False,False,False
+OBJECT,Th8,NS_07_ROOTS,4,Th8 posterior root.r,MESH,False,False,False,False,False
+OBJECT,Th8,NS_07_ROOTS,4,Th8 anterior root.r,MESH,False,False,False,False,False
+OBJECT,Th8,NS_07_ROOTS,4,Th8 Dorsal root ganglion.r,MESH,False,False,False,False,False
+COLLECTION,Th9,NS_07_ROOTS,4,,,False,False,,,
+OBJECT,Th9,NS_07_ROOTS,4,Th9 anterior root.l,MESH,False,False,False,False,False
+OBJECT,Th9,NS_07_ROOTS,4,Th9 Dorsal root ganglion.l,MESH,False,False,False,False,False
+OBJECT,Th9,NS_07_ROOTS,4,Th9 posterior root.l,MESH,False,False,False,False,False
+OBJECT,Th9,NS_07_ROOTS,4,Th9 posterior root.r,MESH,False,False,False,False,False
+OBJECT,Th9,NS_07_ROOTS,4,Th9 anterior root.r,MESH,False,False,False,False,False
+OBJECT,Th9,NS_07_ROOTS,4,Th9 Dorsal root ganglion.r,MESH,False,False,False,False,False
+COLLECTION,Th10,NS_07_ROOTS,4,,,False,False,,,
+OBJECT,Th10,NS_07_ROOTS,4,Th10 anterior root.l,MESH,False,False,False,False,False
+OBJECT,Th10,NS_07_ROOTS,4,Th10 Dorsal root ganglion.l,MESH,False,False,False,False,False
+OBJECT,Th10,NS_07_ROOTS,4,Th10 posterior root.l,MESH,False,False,False,False,False
+OBJECT,Th10,NS_07_ROOTS,4,Th10 posterior root.r,MESH,False,False,False,False,False
+OBJECT,Th10,NS_07_ROOTS,4,Th10 anterior root.r,MESH,False,False,False,False,False
+OBJECT,Th10,NS_07_ROOTS,4,Th10 Dorsal root ganglion.r,MESH,False,False,False,False,False
+COLLECTION,Th11,NS_07_ROOTS,4,,,False,False,,,
+OBJECT,Th11,NS_07_ROOTS,4,Th11 anterior root.l,MESH,False,False,False,False,False
+OBJECT,Th11,NS_07_ROOTS,4,Th11 Dorsal root ganglion.l,MESH,False,False,False,False,False
+OBJECT,Th11,NS_07_ROOTS,4,Th11 posterior root.l,MESH,False,False,False,False,False
+OBJECT,Th11,NS_07_ROOTS,4,Th11 posterior root.r,MESH,False,False,False,False,False
+OBJECT,Th11,NS_07_ROOTS,4,Th11 Dorsal root ganglion.r,MESH,False,False,False,False,False
+OBJECT,Th11,NS_07_ROOTS,4,Th11 anterior root.r,MESH,False,False,False,False,False
+COLLECTION,Th12,NS_07_ROOTS,4,,,False,False,,,
+OBJECT,Th12,NS_07_ROOTS,4,Th12 anterior root.l,MESH,False,False,False,False,False
+OBJECT,Th12,NS_07_ROOTS,4,Th12 Dorsal root ganglion.l,MESH,False,False,False,False,False
+OBJECT,Th12,NS_07_ROOTS,4,Th12 posterior root.l,MESH,False,False,False,False,False
+OBJECT,Th12,NS_07_ROOTS,4,Th12 posterior root.r,MESH,False,False,False,False,False
+OBJECT,Th12,NS_07_ROOTS,4,Th12 Dorsal root ganglion.r,MESH,False,False,False,False,False
+OBJECT,Th12,NS_07_ROOTS,4,Th12 anterior root.r,MESH,False,False,False,False,False
+COLLECTION,L1,NS_07_ROOTS,4,,,False,False,,,
+OBJECT,L1,NS_07_ROOTS,4,L1 anterior root.l,MESH,False,False,False,False,False
+OBJECT,L1,NS_07_ROOTS,4,L1 Dorsal root ganglion.l,MESH,False,False,False,False,False
+OBJECT,L1,NS_07_ROOTS,4,L1 posterior root.l,MESH,False,False,False,False,False
+OBJECT,L1,NS_07_ROOTS,4,L1 posterior root.r,MESH,False,False,False,False,False
+OBJECT,L1,NS_07_ROOTS,4,L1 anterior root.r,MESH,False,False,False,False,False
+OBJECT,L1,NS_07_ROOTS,4,L1 Dorsal root ganglion.r,MESH,False,False,False,False,False
+COLLECTION,L2,NS_07_ROOTS,4,,,False,False,,,
+OBJECT,L2,NS_07_ROOTS,4,L2 anterior root.l,MESH,False,False,False,False,False
+OBJECT,L2,NS_07_ROOTS,4,L2  Dorsal root ganglion.l,MESH,False,False,False,False,False
+OBJECT,L2,NS_07_ROOTS,4,L2 posterior root.l.001,MESH,False,False,False,False,False
+OBJECT,L2,NS_07_ROOTS,4,L2 Dorsal root ganglion.r,MESH,False,False,False,False,False
+OBJECT,L2,NS_07_ROOTS,4,L2 posterior root.r,MESH,False,False,False,False,False
+OBJECT,L2,NS_07_ROOTS,4,L2 anterior root.r,MESH,False,False,False,False,False
+COLLECTION,L3,NS_07_ROOTS,4,,,False,False,,,
+OBJECT,L3,NS_07_ROOTS,4,L3 Dorsal root ganglion.l,MESH,False,False,False,False,False
+OBJECT,L3,NS_07_ROOTS,4,L3 anterior root.l,MESH,False,False,False,False,False
+OBJECT,L3,NS_07_ROOTS,4,L3 posterior root.l,MESH,False,False,False,False,False
+OBJECT,L3,NS_07_ROOTS,4,L3 posterior root.r,MESH,False,False,False,False,False
+OBJECT,L3,NS_07_ROOTS,4,L3 anterior root.r,MESH,False,False,False,False,False
+OBJECT,L3,NS_07_ROOTS,4,L3 Dorsal root ganglion.r,MESH,False,False,False,False,False
+COLLECTION,L4,NS_07_ROOTS,4,,,False,False,,,
+OBJECT,L4,NS_07_ROOTS,4,L4 anterior root.l,MESH,False,False,False,False,False
+OBJECT,L4,NS_07_ROOTS,4,L4 Dorsal root ganglion.l,MESH,False,False,False,False,False
+OBJECT,L4,NS_07_ROOTS,4,L4 posterior root.l,MESH,False,False,False,False,False
+OBJECT,L4,NS_07_ROOTS,4,L4 anterior root.r,MESH,False,False,False,False,False
+OBJECT,L4,NS_07_ROOTS,4,L4 Dorsal root ganglion.r,MESH,False,False,False,False,False
+OBJECT,L4,NS_07_ROOTS,4,L4 posterior root.r,MESH,False,False,False,False,False
+COLLECTION,L5,NS_07_ROOTS,4,,,False,False,,,
+OBJECT,L5,NS_07_ROOTS,4,L5 anterior root.l,MESH,False,False,False,False,False
+OBJECT,L5,NS_07_ROOTS,4,L5 Dorsal root ganglion.l,MESH,False,False,False,False,False
+OBJECT,L5,NS_07_ROOTS,4,L5 posterior root.l,MESH,False,False,False,False,False
+OBJECT,L5,NS_07_ROOTS,4,L5 anterior root.r,MESH,False,False,False,False,False
+OBJECT,L5,NS_07_ROOTS,4,L5 posterior root.r,MESH,False,False,False,False,False
+COLLECTION,S1,NS_07_ROOTS,4,,,False,False,,,
+OBJECT,S1,NS_07_ROOTS,4,S1 anterior root.l,MESH,False,False,False,False,False
+OBJECT,S1,NS_07_ROOTS,4,S1 posterior root.l,MESH,False,False,False,False,False
+OBJECT,S1,NS_07_ROOTS,4,S1 anterior root.r,MESH,False,False,False,False,False
+OBJECT,S1,NS_07_ROOTS,4,S1 posterior root.r,MESH,False,False,False,False,False
+COLLECTION,S2,NS_07_ROOTS,4,,,False,False,,,
+OBJECT,S2,NS_07_ROOTS,4,S2 anterior root.l,MESH,False,False,False,False,False
+OBJECT,S2,NS_07_ROOTS,4,S2 posterior root.l,MESH,False,False,False,False,False
+OBJECT,S2,NS_07_ROOTS,4,S2 anterior root.r,MESH,False,False,False,False,False
+OBJECT,S2,NS_07_ROOTS,4,S2 posterior root.r,MESH,False,False,False,False,False
+COLLECTION,S3,NS_07_ROOTS,4,,,False,False,,,
+OBJECT,S3,NS_07_ROOTS,4,S3 anterior root.l,MESH,False,False,False,False,False
+OBJECT,S3,NS_07_ROOTS,4,S3 posterior root.l,MESH,False,False,False,False,False
+OBJECT,S3,NS_07_ROOTS,4,S3 anterior root.r,MESH,False,False,False,False,False
+OBJECT,S3,NS_07_ROOTS,4,S3 posterior root.r,MESH,False,False,False,False,False
+COLLECTION,S4,NS_07_ROOTS,4,,,False,False,,,
+OBJECT,S4,NS_07_ROOTS,4,S4 anterior root.l,MESH,False,False,False,False,False
+OBJECT,S4,NS_07_ROOTS,4,S4 posterior root.l,MESH,False,False,False,False,False
+OBJECT,S4,NS_07_ROOTS,4,S4 posterior root.r,MESH,False,False,False,False,False
+OBJECT,S4,NS_07_ROOTS,4,S4 anterior root.r,MESH,False,False,False,False,False
+COLLECTION,NS_08_SPINAL_GANGLIA,NS_02_SPINAL_CORD,3,,,False,False,,,
+COLLECTION,NS_03_MENINGES,NS_01_CNS,2,,,False,False,,,
+COLLECTION,NS_01_CRANIAL_DURA,NS_03_MENINGES,3,,,False,False,,,
+OBJECT,NS_01_CRANIAL_DURA,NS_03_MENINGES,3,Falx cerebri,MESH,False,False,False,False,False
+OBJECT,NS_01_CRANIAL_DURA,NS_03_MENINGES,3,Tentorium cerebelli.r.001,MESH,False,False,False,False,False
+OBJECT,NS_01_CRANIAL_DURA,NS_03_MENINGES,3,Tentorium cerebelli.r.002,MESH,False,False,False,False,False
+OBJECT,NS_01_CRANIAL_DURA,NS_03_MENINGES,3,Tentorium cerebelli.l,MESH,False,False,False,False,False
+OBJECT,NS_01_CRANIAL_DURA,NS_03_MENINGES,3,Tentorium cerebelli.r,MESH,False,False,False,False,False
+OBJECT,NS_01_CRANIAL_DURA,NS_03_MENINGES,3,Dura mater brain,MESH,False,False,False,False,False
+COLLECTION,NS_02_SPINAL_DURA,NS_03_MENINGES,3,,,False,False,,,
+OBJECT,NS_02_SPINAL_DURA,NS_03_MENINGES,3,Spinal dura,MESH,False,False,False,False,False
+COLLECTION,NS_03_ARACHNOID,NS_03_MENINGES,3,,,False,False,,,
+COLLECTION,NS_04_PIA,NS_03_MENINGES,3,,,False,False,,,
+COLLECTION,NS_02_PNS,NS_NERVOUS_SYSTEM,1,,,False,False,,,
+COLLECTION,NS_01_CERVICAL_PLEXUS,NS_02_PNS,2,,,False,False,,,
+OBJECT,NS_01_CERVICAL_PLEXUS,NS_02_PNS,2,Nerve to mylohyoid muscle.l,MESH,False,False,False,False,False
+OBJECT,NS_01_CERVICAL_PLEXUS,NS_02_PNS,2,Nerve to mylohyoid muscle.r,MESH,False,False,False,False,False
+OBJECT,NS_01_CERVICAL_PLEXUS,NS_02_PNS,2,FJ4261_BP29310_FMA7003_Trunk of C2 nerve root.l,MESH,False,False,False,False,False
+OBJECT,NS_01_CERVICAL_PLEXUS,NS_02_PNS,2,FJ4261_BP29310_FMA7003_Trunk of C2 nerve root.r,MESH,False,False,False,False,False
+OBJECT,NS_01_CERVICAL_PLEXUS,NS_02_PNS,2,FJ4262_BP29408_FMA7005_Trunk of C3 nerve root.l,MESH,False,False,False,False,False
+OBJECT,NS_01_CERVICAL_PLEXUS,NS_02_PNS,2,FJ4262_BP29408_FMA7005_Trunk of C3 nerve root.r,MESH,False,False,False,False,False
+OBJECT,NS_01_CERVICAL_PLEXUS,NS_02_PNS,2,FJ4263_BP29309_FMA7007_Trunk of C4 nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_01_CERVICAL_PLEXUS,NS_02_PNS,2,FJ4263_BP29309_FMA7007_Trunk of C4 nerve.l.001,MESH,False,False,False,False,False
+OBJECT,NS_01_CERVICAL_PLEXUS,NS_02_PNS,2,FJ4263_BP29309_FMA7007_Trunk of C4 nerve.r,MESH,False,False,False,False,False
+COLLECTION,NS_01_PLEXUS_ROOTS_AND_LOOPS,NS_01_CERVICAL_PLEXUS,3,,,False,False,,,
+COLLECTION,NS_02_CUTANEOUS_BRANCHES,NS_01_CERVICAL_PLEXUS,3,,,False,False,,,
+OBJECT,NS_02_CUTANEOUS_BRANCHES,NS_01_CERVICAL_PLEXUS,3,FJ4244_BP29533_FMA65416_Supraclavicular nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_02_CUTANEOUS_BRANCHES,NS_01_CERVICAL_PLEXUS,3,FJ4244_BP29533_FMA65416_Supraclavicular nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_02_CUTANEOUS_BRANCHES,NS_01_CERVICAL_PLEXUS,3,FJ4257_BP29547_FMA55173_transverse cervical nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_02_CUTANEOUS_BRANCHES,NS_01_CERVICAL_PLEXUS,3,FJ4257_BP29547_FMA55173_transverse cervical nerve.r.001,MESH,False,False,False,False,False
+OBJECT,NS_02_CUTANEOUS_BRANCHES,NS_01_CERVICAL_PLEXUS,3,FJ4173_BP29081_FMA65396_Trunk of left great auricular nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_02_CUTANEOUS_BRANCHES,NS_01_CERVICAL_PLEXUS,3,FJ4221_BP28988_FMA65389_Left lesser occipital nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_02_CUTANEOUS_BRANCHES,NS_01_CERVICAL_PLEXUS,3,FJ4173_BP29081_FMA65396_Trunk of left great auricular nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_02_CUTANEOUS_BRANCHES,NS_01_CERVICAL_PLEXUS,3,FJ4221_BP28988_FMA65389_Left lesser occipital nerve.l,MESH,False,False,False,False,False
+COLLECTION,NS_03_ANSA_CERVICALIS,NS_01_CERVICAL_PLEXUS,3,,,False,False,,,
+OBJECT,NS_03_ANSA_CERVICALIS,NS_01_CERVICAL_PLEXUS,3,FJ4272_BP29116_FMA55150_Inferior root of ansa cervicalis.r,MESH,False,False,False,False,False
+OBJECT,NS_03_ANSA_CERVICALIS,NS_01_CERVICAL_PLEXUS,3,Superior root ansa cervicalis.r,MESH,False,False,False,False,False
+OBJECT,NS_03_ANSA_CERVICALIS,NS_01_CERVICAL_PLEXUS,3,FJ4272_BP29116_FMA55150_Inferior root of ansa cervicalis.l,MESH,False,False,False,False,False
+COLLECTION,NS_04_PHRENIC_NERVE,NS_01_CERVICAL_PLEXUS,3,,,False,False,,,
+OBJECT,NS_04_PHRENIC_NERVE,NS_01_CERVICAL_PLEXUS,3,FJ4157_BP29423_FMA65387_Trunk of left phrenic nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_04_PHRENIC_NERVE,NS_01_CERVICAL_PLEXUS,3,FJ4157_BP29423_FMA65387_Trunk of left phrenic nerve.r,MESH,False,False,False,False,False
+COLLECTION,NS_05_OTHER_BRANCHES,NS_01_CERVICAL_PLEXUS,3,,,False,False,,,
+COLLECTION,Cervical plexus,NS_01_CERVICAL_PLEXUS,3,,,False,False,,,
+OBJECT,Cervical plexus,NS_01_CERVICAL_PLEXUS,3,Superior root ansa cervicali.l,MESH,False,False,False,False,False
+OBJECT,Cervical plexus,NS_01_CERVICAL_PLEXUS,3,C1 nerve.l,MESH,False,False,False,False,False
+OBJECT,Cervical plexus,NS_01_CERVICAL_PLEXUS,3,C1 nerve.r,MESH,False,False,False,False,False
+COLLECTION,NS_02_BRACHIAL_PLEXUS,NS_02_PNS,2,,,False,False,,,
+COLLECTION,NS_01_ROOTS,NS_02_BRACHIAL_PLEXUS,3,,,False,False,,,
+OBJECT,NS_01_ROOTS,NS_02_BRACHIAL_PLEXUS,3,Roots of brachial plexus.r,MESH,False,False,False,False,False
+OBJECT,NS_01_ROOTS,NS_02_BRACHIAL_PLEXUS,3,Roots of brachial plexus.l,MESH,False,False,False,False,False
+COLLECTION,NS_02_TRUNKS,NS_02_BRACHIAL_PLEXUS,3,,,False,False,,,
+OBJECT,NS_02_TRUNKS,NS_02_BRACHIAL_PLEXUS,3,Middle trunk of brachial plexus.l,MESH,False,False,False,False,False
+OBJECT,NS_02_TRUNKS,NS_02_BRACHIAL_PLEXUS,3,Middle trunk of brachial plexus.r,MESH,False,False,False,False,False
+OBJECT,NS_02_TRUNKS,NS_02_BRACHIAL_PLEXUS,3,Inferior trunk of brachial plexus.l,MESH,False,False,False,False,False
+OBJECT,NS_02_TRUNKS,NS_02_BRACHIAL_PLEXUS,3,Superior trunk of brachial plexus.l,MESH,False,False,False,False,False
+OBJECT,NS_02_TRUNKS,NS_02_BRACHIAL_PLEXUS,3,Inferior trunk of brachial plexus.r,MESH,False,False,False,False,False
+OBJECT,NS_02_TRUNKS,NS_02_BRACHIAL_PLEXUS,3,Superior trunk of brachial plexus.r,MESH,False,False,False,False,False
+COLLECTION,NS_03_DIVISIONS,NS_02_BRACHIAL_PLEXUS,3,,,False,False,,,
+OBJECT,NS_03_DIVISIONS,NS_02_BRACHIAL_PLEXUS,3,Posterior division of middle trunk of brachial plexus.r,MESH,False,False,False,False,False
+OBJECT,NS_03_DIVISIONS,NS_02_BRACHIAL_PLEXUS,3,Anterior division of middle trunk of brachial plexus.l,MESH,False,False,False,False,False
+OBJECT,NS_03_DIVISIONS,NS_02_BRACHIAL_PLEXUS,3,Posterior division of superior trunk of brachial plexus.r,MESH,False,False,False,False,False
+OBJECT,NS_03_DIVISIONS,NS_02_BRACHIAL_PLEXUS,3,Anterior division of middle trunk of brachial plexus.r,MESH,False,False,False,False,False
+OBJECT,NS_03_DIVISIONS,NS_02_BRACHIAL_PLEXUS,3,Posterior division of superior trunk of brachial plexus.l.003,MESH,False,False,False,False,False
+OBJECT,NS_03_DIVISIONS,NS_02_BRACHIAL_PLEXUS,3,Anterior division of superior trunk of brachial plexus.l,MESH,False,False,False,False,False
+OBJECT,NS_03_DIVISIONS,NS_02_BRACHIAL_PLEXUS,3,Posterior division of inferior trunk of brachial plexus.l,MESH,False,False,False,False,False
+OBJECT,NS_03_DIVISIONS,NS_02_BRACHIAL_PLEXUS,3,Anterior division of inferior trunk of brachial plexus.l,MESH,False,False,False,False,False
+OBJECT,NS_03_DIVISIONS,NS_02_BRACHIAL_PLEXUS,3,Posterior division of inferior trunk of brachial plexus.r,MESH,False,False,False,False,False
+OBJECT,NS_03_DIVISIONS,NS_02_BRACHIAL_PLEXUS,3,Anterior division of mandibular nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_03_DIVISIONS,NS_02_BRACHIAL_PLEXUS,3,Posterior division of mandibular nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_03_DIVISIONS,NS_02_BRACHIAL_PLEXUS,3,Posterior division of mandibular nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_03_DIVISIONS,NS_02_BRACHIAL_PLEXUS,3,Posterior division of middle trunk of brachial plexus.l.001,MESH,False,False,False,False,False
+OBJECT,NS_03_DIVISIONS,NS_02_BRACHIAL_PLEXUS,3,Anterior division of superior trunk of brachial plexus.r,MESH,False,False,False,False,False
+OBJECT,NS_03_DIVISIONS,NS_02_BRACHIAL_PLEXUS,3,Anterior division of inferior trunk of brachial plexus.r,MESH,False,False,False,False,False
+OBJECT,NS_03_DIVISIONS,NS_02_BRACHIAL_PLEXUS,3,Posterior division of superior trunk of brachial plexus.l.002,MESH,False,False,False,False,False
+OBJECT,NS_03_DIVISIONS,NS_02_BRACHIAL_PLEXUS,3,Anterior division of mandibular nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_03_DIVISIONS,NS_02_BRACHIAL_PLEXUS,3,Subclavian nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_03_DIVISIONS,NS_02_BRACHIAL_PLEXUS,3,Subclavian nerve.l.r,MESH,False,False,False,False,False
+COLLECTION,NS_04_CORDS,NS_02_BRACHIAL_PLEXUS,3,,,False,False,,,
+OBJECT,NS_04_CORDS,NS_02_BRACHIAL_PLEXUS,3,Posterior cord brachial plexus.r,MESH,False,False,False,False,False
+OBJECT,NS_04_CORDS,NS_02_BRACHIAL_PLEXUS,3,Posterior cord of brachial plexus.l,MESH,False,False,False,False,False
+OBJECT,NS_04_CORDS,NS_02_BRACHIAL_PLEXUS,3,Lateral cord of brachial plexus.l.,MESH,False,False,False,False,False
+OBJECT,NS_04_CORDS,NS_02_BRACHIAL_PLEXUS,3,Medial cord of brachial plexus.l,MESH,False,False,False,False,False
+OBJECT,NS_04_CORDS,NS_02_BRACHIAL_PLEXUS,3,Medial cord of brachial plexus.r,MESH,False,False,False,False,False
+OBJECT,NS_04_CORDS,NS_02_BRACHIAL_PLEXUS,3,Lateral cord of brachial plexus.r,MESH,False,False,False,False,False
+COLLECTION,NS_05_TERMINAL_BRANCHES,NS_02_BRACHIAL_PLEXUS,3,,,False,False,,,
+OBJECT,NS_05_TERMINAL_BRANCHES,NS_02_BRACHIAL_PLEXUS,3,Muscular branches of axillary nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_05_TERMINAL_BRANCHES,NS_02_BRACHIAL_PLEXUS,3,Deep branch of radial nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_05_TERMINAL_BRANCHES,NS_02_BRACHIAL_PLEXUS,3,Musculocutaneous nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_05_TERMINAL_BRANCHES,NS_02_BRACHIAL_PLEXUS,3,Proper palmar digital branches of median nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_05_TERMINAL_BRANCHES,NS_02_BRACHIAL_PLEXUS,3,Palmar branch of median nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_05_TERMINAL_BRANCHES,NS_02_BRACHIAL_PLEXUS,3,Deep branch of radial nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_05_TERMINAL_BRANCHES,NS_02_BRACHIAL_PLEXUS,3,Palmar branch of median nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_05_TERMINAL_BRANCHES,NS_02_BRACHIAL_PLEXUS,3,Muscular branches of radial nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_05_TERMINAL_BRANCHES,NS_02_BRACHIAL_PLEXUS,3,Dorsal digital branches of radial nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_05_TERMINAL_BRANCHES,NS_02_BRACHIAL_PLEXUS,3,Muscular branches of radial nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_05_TERMINAL_BRANCHES,NS_02_BRACHIAL_PLEXUS,3,Dorsal digital branches of radial nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_05_TERMINAL_BRANCHES,NS_02_BRACHIAL_PLEXUS,3,Muscular branches of axillary nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_05_TERMINAL_BRANCHES,NS_02_BRACHIAL_PLEXUS,3,Median nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_05_TERMINAL_BRANCHES,NS_02_BRACHIAL_PLEXUS,3,Radial nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_05_TERMINAL_BRANCHES,NS_02_BRACHIAL_PLEXUS,3,Common palmar digital branches of median nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_05_TERMINAL_BRANCHES,NS_02_BRACHIAL_PLEXUS,3,Muscular branches of median nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_05_TERMINAL_BRANCHES,NS_02_BRACHIAL_PLEXUS,3,Superficial branch of radial nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_05_TERMINAL_BRANCHES,NS_02_BRACHIAL_PLEXUS,3,Common palmar digital branches of median nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_05_TERMINAL_BRANCHES,NS_02_BRACHIAL_PLEXUS,3,Median nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_05_TERMINAL_BRANCHES,NS_02_BRACHIAL_PLEXUS,3,Radial nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_05_TERMINAL_BRANCHES,NS_02_BRACHIAL_PLEXUS,3,Axillary nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_05_TERMINAL_BRANCHES,NS_02_BRACHIAL_PLEXUS,3,Proper palmar digital branches of median nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_05_TERMINAL_BRANCHES,NS_02_BRACHIAL_PLEXUS,3,Muscular branches of median nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_05_TERMINAL_BRANCHES,NS_02_BRACHIAL_PLEXUS,3,Superficial branch of radial nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_05_TERMINAL_BRANCHES,NS_02_BRACHIAL_PLEXUS,3,Axillary nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_05_TERMINAL_BRANCHES,NS_02_BRACHIAL_PLEXUS,3,Musculocutaneous nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_05_TERMINAL_BRANCHES,NS_02_BRACHIAL_PLEXUS,3,Lateral antebrachial cutaneous nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_05_TERMINAL_BRANCHES,NS_02_BRACHIAL_PLEXUS,3,Lateral antebrachial cutaneous nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_05_TERMINAL_BRANCHES,NS_02_BRACHIAL_PLEXUS,3,Medial antebrachial cutaneous nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_05_TERMINAL_BRANCHES,NS_02_BRACHIAL_PLEXUS,3,Medial antebrachial cutaneous nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_05_TERMINAL_BRANCHES,NS_02_BRACHIAL_PLEXUS,3,Medial brachial cutaneous nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_05_TERMINAL_BRANCHES,NS_02_BRACHIAL_PLEXUS,3,Medial brachial cutaneous nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_05_TERMINAL_BRANCHES,NS_02_BRACHIAL_PLEXUS,3,Deep branch of ulnar nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_05_TERMINAL_BRANCHES,NS_02_BRACHIAL_PLEXUS,3,Dorsal branch of ulnar nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_05_TERMINAL_BRANCHES,NS_02_BRACHIAL_PLEXUS,3,Palmar branch of ulnar nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_05_TERMINAL_BRANCHES,NS_02_BRACHIAL_PLEXUS,3,Proper palmar digital branches of ulnar nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_05_TERMINAL_BRANCHES,NS_02_BRACHIAL_PLEXUS,3,Superficial branch of ulnar nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_05_TERMINAL_BRANCHES,NS_02_BRACHIAL_PLEXUS,3,Superior subscapular nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_05_TERMINAL_BRANCHES,NS_02_BRACHIAL_PLEXUS,3,Common palmar digital branches of ulnar nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_05_TERMINAL_BRANCHES,NS_02_BRACHIAL_PLEXUS,3,Dorsal digital branches of ulnar nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_05_TERMINAL_BRANCHES,NS_02_BRACHIAL_PLEXUS,3,Inferior subscapular nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_05_TERMINAL_BRANCHES,NS_02_BRACHIAL_PLEXUS,3,Muscular branches of ulnar nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_05_TERMINAL_BRANCHES,NS_02_BRACHIAL_PLEXUS,3,Anterior branch of medial antebrachial cutaneous nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_05_TERMINAL_BRANCHES,NS_02_BRACHIAL_PLEXUS,3,Anterior branch of medial antebrachial cutaneous nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_05_TERMINAL_BRANCHES,NS_02_BRACHIAL_PLEXUS,3,Inferior lateral brachial cutaneous nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_05_TERMINAL_BRANCHES,NS_02_BRACHIAL_PLEXUS,3,Inferior lateral brachial cutaneous nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_05_TERMINAL_BRANCHES,NS_02_BRACHIAL_PLEXUS,3,Posterior antebrachial cutaneous nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_05_TERMINAL_BRANCHES,NS_02_BRACHIAL_PLEXUS,3,Posterior antebrachial cutaneous nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_05_TERMINAL_BRANCHES,NS_02_BRACHIAL_PLEXUS,3,Posterior branch of medial antebrachial cutaneous nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_05_TERMINAL_BRANCHES,NS_02_BRACHIAL_PLEXUS,3,Posterior branch of medial antebrachial cutaneous nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_05_TERMINAL_BRANCHES,NS_02_BRACHIAL_PLEXUS,3,Superior lateral brachial cutaneous nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_05_TERMINAL_BRANCHES,NS_02_BRACHIAL_PLEXUS,3,Superior lateral brachial cutaneous nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_05_TERMINAL_BRANCHES,NS_02_BRACHIAL_PLEXUS,3,(Communicating branch of median nerve with ulnar nerve).r,MESH,False,False,False,False,False
+COLLECTION,NS_06_COLLATERAL_BRANCHES,NS_02_BRACHIAL_PLEXUS,3,,,False,False,,,
+OBJECT,NS_06_COLLATERAL_BRANCHES,NS_02_BRACHIAL_PLEXUS,3,Thoracodorsal nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_06_COLLATERAL_BRANCHES,NS_02_BRACHIAL_PLEXUS,3,Long thoracic nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_06_COLLATERAL_BRANCHES,NS_02_BRACHIAL_PLEXUS,3,Long thoracic nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_06_COLLATERAL_BRANCHES,NS_02_BRACHIAL_PLEXUS,3,Medial pectoral nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_06_COLLATERAL_BRANCHES,NS_02_BRACHIAL_PLEXUS,3,Thoracodorsal nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_06_COLLATERAL_BRANCHES,NS_02_BRACHIAL_PLEXUS,3,Medial pectoral nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_06_COLLATERAL_BRANCHES,NS_02_BRACHIAL_PLEXUS,3,Lateral pectoral nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_06_COLLATERAL_BRANCHES,NS_02_BRACHIAL_PLEXUS,3,Lateral pectoral nerve.l,MESH,False,False,False,False,False
+COLLECTION,Brachial plexus z anatomy,NS_02_BRACHIAL_PLEXUS,3,,,False,False,,,
+OBJECT,Brachial plexus z anatomy,NS_02_BRACHIAL_PLEXUS,3,(Communicating branch of median nerve with ulnar nerve).l,MESH,False,False,False,False,False
+OBJECT,Brachial plexus z anatomy,NS_02_BRACHIAL_PLEXUS,3,Common palmar digital branches of ulnar nerve.l,MESH,False,False,False,False,False
+OBJECT,Brachial plexus z anatomy,NS_02_BRACHIAL_PLEXUS,3,Deep branch of ulnar nerve.l,MESH,False,False,False,False,False
+OBJECT,Brachial plexus z anatomy,NS_02_BRACHIAL_PLEXUS,3,Dorsal branch of ulnar nerve.l,MESH,False,False,False,False,False
+OBJECT,Brachial plexus z anatomy,NS_02_BRACHIAL_PLEXUS,3,Dorsal digital branches of ulnar nerve.l,MESH,False,False,False,False,False
+OBJECT,Brachial plexus z anatomy,NS_02_BRACHIAL_PLEXUS,3,Dorsal scapular nerve.l,MESH,False,False,False,False,False
+OBJECT,Brachial plexus z anatomy,NS_02_BRACHIAL_PLEXUS,3,Inferior subscapular nerve.l,MESH,False,False,False,False,False
+OBJECT,Brachial plexus z anatomy,NS_02_BRACHIAL_PLEXUS,3,Muscular branches of ulnar nerve.l,MESH,False,False,False,False,False
+OBJECT,Brachial plexus z anatomy,NS_02_BRACHIAL_PLEXUS,3,Palmar branch of ulnar nerve.l,MESH,False,False,False,False,False
+OBJECT,Brachial plexus z anatomy,NS_02_BRACHIAL_PLEXUS,3,Proper palmar digital branches of ulnar nerve.l,MESH,False,False,False,False,False
+OBJECT,Brachial plexus z anatomy,NS_02_BRACHIAL_PLEXUS,3,Superficial branch of ulnar nerve.l,MESH,False,False,False,False,False
+OBJECT,Brachial plexus z anatomy,NS_02_BRACHIAL_PLEXUS,3,Superior subscapular nerve.l,MESH,False,False,False,False,False
+OBJECT,Brachial plexus z anatomy,NS_02_BRACHIAL_PLEXUS,3,Suprascapular nerve.l,MESH,False,False,False,False,False
+OBJECT,Brachial plexus z anatomy,NS_02_BRACHIAL_PLEXUS,3,Ulnar nerve.l,MESH,False,False,False,False,False
+OBJECT,Brachial plexus z anatomy,NS_02_BRACHIAL_PLEXUS,3,Suprascapular nerve.r,MESH,False,False,False,False,False
+OBJECT,Brachial plexus z anatomy,NS_02_BRACHIAL_PLEXUS,3,Dorsal scapular nerve.r,MESH,False,False,False,False,False
+OBJECT,Brachial plexus z anatomy,NS_02_BRACHIAL_PLEXUS,3,Ulnar nerve.r,MESH,False,False,False,False,False
+COLLECTION,NS_03_LUMBAR_PLEXUS,NS_02_PNS,2,,,False,False,,,
+COLLECTION,NS_01_PLEXUS_AND_ROOTS,NS_03_LUMBAR_PLEXUS,3,,,False,False,,,
+OBJECT,NS_01_PLEXUS_AND_ROOTS,NS_03_LUMBAR_PLEXUS,3,Lumbar plexus.r,MESH,False,False,False,False,False
+OBJECT,NS_01_PLEXUS_AND_ROOTS,NS_03_LUMBAR_PLEXUS,3,Lumbar plexus.l,MESH,False,False,False,False,False
+COLLECTION,NS_02_FEMORAL_NERVE,NS_03_LUMBAR_PLEXUS,3,,,False,False,,,
+OBJECT,NS_02_FEMORAL_NERVE,NS_03_LUMBAR_PLEXUS,3,Femoral branch of genitofemoral nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_02_FEMORAL_NERVE,NS_03_LUMBAR_PLEXUS,3,Femoral branch of genitofemoral nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_02_FEMORAL_NERVE,NS_03_LUMBAR_PLEXUS,3,Femoral nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_02_FEMORAL_NERVE,NS_03_LUMBAR_PLEXUS,3,Femoral nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_02_FEMORAL_NERVE,NS_03_LUMBAR_PLEXUS,3,Genital branch of genitofemoral nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_02_FEMORAL_NERVE,NS_03_LUMBAR_PLEXUS,3,Genitofemoral nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_02_FEMORAL_NERVE,NS_03_LUMBAR_PLEXUS,3,Anterior cutaneous branches of femoral nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_02_FEMORAL_NERVE,NS_03_LUMBAR_PLEXUS,3,Anterior cutaneous branches of femoral nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_02_FEMORAL_NERVE,NS_03_LUMBAR_PLEXUS,3,Genital branch of genitofemoral nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_02_FEMORAL_NERVE,NS_03_LUMBAR_PLEXUS,3,Genitofemoral nerve.r,MESH,False,False,False,False,False
+COLLECTION,NS_03_OBTURATOR_NERVE,NS_03_LUMBAR_PLEXUS,3,,,False,False,,,
+OBJECT,NS_03_OBTURATOR_NERVE,NS_03_LUMBAR_PLEXUS,3,Obturator nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_03_OBTURATOR_NERVE,NS_03_LUMBAR_PLEXUS,3,Anterior branch of obturator nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_03_OBTURATOR_NERVE,NS_03_LUMBAR_PLEXUS,3,Posterior branch of obturator nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_03_OBTURATOR_NERVE,NS_03_LUMBAR_PLEXUS,3,Anterior branch of obturator nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_03_OBTURATOR_NERVE,NS_03_LUMBAR_PLEXUS,3,Posterior branch of obturator nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_03_OBTURATOR_NERVE,NS_03_LUMBAR_PLEXUS,3,Obturator nerve.l,MESH,False,False,False,False,False
+COLLECTION,NS_04_OTHER_BRANCHES,NS_03_LUMBAR_PLEXUS,3,,,False,False,,,
+OBJECT,NS_04_OTHER_BRANCHES,NS_03_LUMBAR_PLEXUS,3,Iliohypogastric nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_04_OTHER_BRANCHES,NS_03_LUMBAR_PLEXUS,3,Lateral femoral cutaneous nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_04_OTHER_BRANCHES,NS_03_LUMBAR_PLEXUS,3,Iliohypogastric nerve.r.,MESH,False,False,False,False,False
+OBJECT,NS_04_OTHER_BRANCHES,NS_03_LUMBAR_PLEXUS,3,Lateral femoral cutaneous nerve.l,MESH,False,False,False,False,False
+COLLECTION,Lumbar plexus,NS_03_LUMBAR_PLEXUS,3,,,False,False,,,
+OBJECT,Lumbar plexus,NS_03_LUMBAR_PLEXUS,3,L2 root.l,MESH,False,False,False,False,False
+OBJECT,Lumbar plexus,NS_03_LUMBAR_PLEXUS,3,L3 root.l,MESH,False,False,False,False,False
+OBJECT,Lumbar plexus,NS_03_LUMBAR_PLEXUS,3,L4 root.l,MESH,False,False,False,False,False
+OBJECT,Lumbar plexus,NS_03_LUMBAR_PLEXUS,3,L5 root.l,MESH,False,False,False,False,False
+OBJECT,Lumbar plexus,NS_03_LUMBAR_PLEXUS,3,S1 root left,MESH,False,False,False,False,False
+OBJECT,Lumbar plexus,NS_03_LUMBAR_PLEXUS,3,S2 root left,MESH,False,False,False,False,False
+OBJECT,Lumbar plexus,NS_03_LUMBAR_PLEXUS,3,S4 root left,MESH,False,False,False,False,False
+OBJECT,Lumbar plexus,NS_03_LUMBAR_PLEXUS,3,S1 root.r,MESH,False,False,False,False,False
+OBJECT,Lumbar plexus,NS_03_LUMBAR_PLEXUS,3,S2 root.r,MESH,False,False,False,False,False
+OBJECT,Lumbar plexus,NS_03_LUMBAR_PLEXUS,3,S3 root.r,MESH,False,False,False,False,False
+OBJECT,Lumbar plexus,NS_03_LUMBAR_PLEXUS,3,S4 root.r,MESH,False,False,False,False,False
+OBJECT,Lumbar plexus,NS_03_LUMBAR_PLEXUS,3,Ilio-inguinal nerve.r,MESH,False,False,False,False,False
+OBJECT,Lumbar plexus,NS_03_LUMBAR_PLEXUS,3,Inferior cluneal nerves.l,MESH,False,False,False,False,False
+OBJECT,Lumbar plexus,NS_03_LUMBAR_PLEXUS,3,Inferior cluneal nerves.r,MESH,False,False,False,False,False
+OBJECT,Lumbar plexus,NS_03_LUMBAR_PLEXUS,3,Medial clluneal nerves.l,MESH,False,False,False,False,False
+OBJECT,Lumbar plexus,NS_03_LUMBAR_PLEXUS,3,Medial clluneal nerves.r,MESH,False,False,False,False,False
+OBJECT,Lumbar plexus,NS_03_LUMBAR_PLEXUS,3,Pudental nerve.r,MESH,False,False,False,False,False
+OBJECT,Lumbar plexus,NS_03_LUMBAR_PLEXUS,3,Superior cluneal nerves.l,MESH,False,False,False,False,False
+OBJECT,Lumbar plexus,NS_03_LUMBAR_PLEXUS,3,Ilio-inguinal nerve.l,MESH,False,False,False,False,False
+OBJECT,Lumbar plexus,NS_03_LUMBAR_PLEXUS,3,Dorsal digital branches of superficial fibular nerve.r,MESH,False,False,False,False,False
+OBJECT,Lumbar plexus,NS_03_LUMBAR_PLEXUS,3,Nerve to piriformis muscle.l,MESH,False,False,False,False,False
+OBJECT,Lumbar plexus,NS_03_LUMBAR_PLEXUS,3,Nerve to piriformis muscle.r,MESH,False,False,False,False,False
+OBJECT,Lumbar plexus,NS_03_LUMBAR_PLEXUS,3,Intermediate dorsal cutaneous nerve of foot.l,MESH,False,False,False,False,False
+OBJECT,Lumbar plexus,NS_03_LUMBAR_PLEXUS,3,Intermediate dorsal cutaneous nerve of foot.r,MESH,False,False,False,False,False
+OBJECT,Lumbar plexus,NS_03_LUMBAR_PLEXUS,3,Medial dorsal cutaneous nerve of foot.l,MESH,False,False,False,False,False
+OBJECT,Lumbar plexus,NS_03_LUMBAR_PLEXUS,3,Medial dorsal cutaneous nerve of foot.r,MESH,False,False,False,False,False
+OBJECT,Lumbar plexus,NS_03_LUMBAR_PLEXUS,3,Medial sural cutaneous nerve.l,MESH,False,False,False,False,False
+OBJECT,Lumbar plexus,NS_03_LUMBAR_PLEXUS,3,Medial sural cutaneous nerve.r,MESH,False,False,False,False,False
+OBJECT,Lumbar plexus,NS_03_LUMBAR_PLEXUS,3,L2 root.r,MESH,False,False,False,False,False
+OBJECT,Lumbar plexus,NS_03_LUMBAR_PLEXUS,3,L3 root.r,MESH,False,False,False,False,False
+OBJECT,Lumbar plexus,NS_03_LUMBAR_PLEXUS,3,Superior cluneal nerves.r,MESH,False,False,False,False,False
+OBJECT,Lumbar plexus,NS_03_LUMBAR_PLEXUS,3,L4 root.r,MESH,False,False,False,False,False
+OBJECT,Lumbar plexus,NS_03_LUMBAR_PLEXUS,3,L5 root.r,MESH,False,False,False,False,False
+OBJECT,Lumbar plexus,NS_03_LUMBAR_PLEXUS,3,S3 root.l,MESH,False,False,False,False,False
+COLLECTION,NS_04_SACRAL_PLEXUS,NS_02_PNS,2,,,False,False,,,
+COLLECTION,NS_01_PLEXUS_AND_ROOTS_01,NS_04_SACRAL_PLEXUS,3,,,False,False,,,
+COLLECTION,NS_02_SCIATIC_NERVE,NS_04_SACRAL_PLEXUS,3,,,False,False,,,
+OBJECT,NS_02_SCIATIC_NERVE,NS_04_SACRAL_PLEXUS,3,Sciatic nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_02_SCIATIC_NERVE,NS_04_SACRAL_PLEXUS,3,Sciatic nerve.r,MESH,False,False,False,False,False
+COLLECTION,NS_03_GLUTEAL_NERVES,NS_04_SACRAL_PLEXUS,3,,,False,False,,,
+OBJECT,NS_03_GLUTEAL_NERVES,NS_04_SACRAL_PLEXUS,3,Inferior gluteal nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_03_GLUTEAL_NERVES,NS_04_SACRAL_PLEXUS,3,Inferior gluteal nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_03_GLUTEAL_NERVES,NS_04_SACRAL_PLEXUS,3,Superior gluteal nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_03_GLUTEAL_NERVES,NS_04_SACRAL_PLEXUS,3,Superior gluteal nerve.r,MESH,False,False,False,False,False
+COLLECTION,NS_04_OTHER_BRANCHES_01,NS_04_SACRAL_PLEXUS,3,,,False,False,,,
+OBJECT,NS_04_OTHER_BRANCHES_01,NS_04_SACRAL_PLEXUS,3,Posterior femoral cutaneous nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_04_OTHER_BRANCHES_01,NS_04_SACRAL_PLEXUS,3,Posterior femoral cutaneous nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_04_OTHER_BRANCHES_01,NS_04_SACRAL_PLEXUS,3,Pudendal nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_04_OTHER_BRANCHES_01,NS_04_SACRAL_PLEXUS,3,Anterior root of posterior femoral cutaneous nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_04_OTHER_BRANCHES_01,NS_04_SACRAL_PLEXUS,3,Common fibular nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_04_OTHER_BRANCHES_01,NS_04_SACRAL_PLEXUS,3,Common fibular nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_04_OTHER_BRANCHES_01,NS_04_SACRAL_PLEXUS,3,Deep fibular nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_04_OTHER_BRANCHES_01,NS_04_SACRAL_PLEXUS,3,Deep fibular nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_04_OTHER_BRANCHES_01,NS_04_SACRAL_PLEXUS,3,Dorsal digital branches of deep fibular nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_04_OTHER_BRANCHES_01,NS_04_SACRAL_PLEXUS,3,Dorsal digital branches of deep fibular nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_04_OTHER_BRANCHES_01,NS_04_SACRAL_PLEXUS,3,Dorsal digital branches of superficial fibular nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_04_OTHER_BRANCHES_01,NS_04_SACRAL_PLEXUS,3,Muscular branches of deep fibular nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_04_OTHER_BRANCHES_01,NS_04_SACRAL_PLEXUS,3,Muscular branches of deep fibular nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_04_OTHER_BRANCHES_01,NS_04_SACRAL_PLEXUS,3,Nerve to quadratus femoris muscle.l,MESH,False,False,False,False,False
+OBJECT,NS_04_OTHER_BRANCHES_01,NS_04_SACRAL_PLEXUS,3,Nerve to quadratus femoris muscle.r,MESH,False,False,False,False,False
+OBJECT,NS_04_OTHER_BRANCHES_01,NS_04_SACRAL_PLEXUS,3,Superficial fibular nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_04_OTHER_BRANCHES_01,NS_04_SACRAL_PLEXUS,3,Superficial fibular nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_04_OTHER_BRANCHES_01,NS_04_SACRAL_PLEXUS,3,Sural communicating branch of common fibular nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_04_OTHER_BRANCHES_01,NS_04_SACRAL_PLEXUS,3,Sural communicating branch of common fibular nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_04_OTHER_BRANCHES_01,NS_04_SACRAL_PLEXUS,3,Tibial nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_04_OTHER_BRANCHES_01,NS_04_SACRAL_PLEXUS,3,Tibial nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_04_OTHER_BRANCHES_01,NS_04_SACRAL_PLEXUS,3,Anterior root of posterior femoral cutaneous nerve.r,MESH,False,False,False,False,False
+COLLECTION,NS_05_UPPER_LIMB_NERVES,NS_02_PNS,2,,,False,False,,,
+OBJECT,NS_05_UPPER_LIMB_NERVES,NS_02_PNS,2,Posterior interosseous nerve of forearm.l,MESH,False,False,False,False,False
+OBJECT,NS_05_UPPER_LIMB_NERVES,NS_02_PNS,2,Posterior interosseous nerve of forearm.r,MESH,False,False,False,False,False
+OBJECT,NS_05_UPPER_LIMB_NERVES,NS_02_PNS,2,Anterior interosseous nerve of forearm.r,MESH,False,False,False,False,False
+OBJECT,NS_05_UPPER_LIMB_NERVES,NS_02_PNS,2,Anterior interosseous nerve of forearm.l,MESH,False,False,False,False,False
+COLLECTION,NS_06_LOWER_LIMB_NERVES,NS_02_PNS,2,,,False,False,,,
+OBJECT,NS_06_LOWER_LIMB_NERVES,NS_02_PNS,2,Medial plantar nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_06_LOWER_LIMB_NERVES,NS_02_PNS,2,Sural nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_06_LOWER_LIMB_NERVES,NS_02_PNS,2,Medial plantar nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_06_LOWER_LIMB_NERVES,NS_02_PNS,2,Proper plantar digital branches of lateral plantar nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_06_LOWER_LIMB_NERVES,NS_02_PNS,2,Infrapatellar branch of saphenous nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_06_LOWER_LIMB_NERVES,NS_02_PNS,2,Common plantar digital branches of lateral plantar nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_06_LOWER_LIMB_NERVES,NS_02_PNS,2,Common plantar digital branches of lateral plantar nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_06_LOWER_LIMB_NERVES,NS_02_PNS,2,Common plantar digital branches of medial plantar nerve,MESH,False,False,False,False,False
+OBJECT,NS_06_LOWER_LIMB_NERVES,NS_02_PNS,2,Proper plantar digital branches of medial plantar nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_06_LOWER_LIMB_NERVES,NS_02_PNS,2,Medial crural cutaneous branches of saphenous nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_06_LOWER_LIMB_NERVES,NS_02_PNS,2,Lateral plantar nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_06_LOWER_LIMB_NERVES,NS_02_PNS,2,Saphenous nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_06_LOWER_LIMB_NERVES,NS_02_PNS,2,Common plantar digital branches of medial plantar nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_06_LOWER_LIMB_NERVES,NS_02_PNS,2,Infrapatellar branch of saphenous nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_06_LOWER_LIMB_NERVES,NS_02_PNS,2,Proper plantar digital branches of medial plantar nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_06_LOWER_LIMB_NERVES,NS_02_PNS,2,Sural nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_06_LOWER_LIMB_NERVES,NS_02_PNS,2,Proper plantar digital branches of lateral plantar nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_06_LOWER_LIMB_NERVES,NS_02_PNS,2,Medial crural cutaneous branches of saphenous nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_06_LOWER_LIMB_NERVES,NS_02_PNS,2,Lateral plantar nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_06_LOWER_LIMB_NERVES,NS_02_PNS,2,Saphenous nerve.r,MESH,False,False,False,False,False
+COLLECTION,NS_07_INTERCOSTAL_AND_TRUNK_NERVES,NS_02_PNS,2,,,False,False,,,
+OBJECT,NS_07_INTERCOSTAL_AND_TRUNK_NERVES,NS_02_PNS,2,Intercostal nerve I.r,MESH,False,False,False,False,False
+OBJECT,NS_07_INTERCOSTAL_AND_TRUNK_NERVES,NS_02_PNS,2,Intercostal nerve VIII.r,MESH,False,False,False,False,False
+OBJECT,NS_07_INTERCOSTAL_AND_TRUNK_NERVES,NS_02_PNS,2,Intercostal nerve VI.r,MESH,False,False,False,False,False
+OBJECT,NS_07_INTERCOSTAL_AND_TRUNK_NERVES,NS_02_PNS,2,Intercostal nerve III.r,MESH,False,False,False,False,False
+OBJECT,NS_07_INTERCOSTAL_AND_TRUNK_NERVES,NS_02_PNS,2,Intercostal nerve XI.r,MESH,False,False,False,False,False
+OBJECT,NS_07_INTERCOSTAL_AND_TRUNK_NERVES,NS_02_PNS,2,Intercostal nerve X left,MESH,False,False,False,False,False
+OBJECT,NS_07_INTERCOSTAL_AND_TRUNK_NERVES,NS_02_PNS,2,Intercostal nerve IX.r,MESH,False,False,False,False,False
+OBJECT,NS_07_INTERCOSTAL_AND_TRUNK_NERVES,NS_02_PNS,2,Intercostal nerve X right,MESH,False,False,False,False,False
+OBJECT,NS_07_INTERCOSTAL_AND_TRUNK_NERVES,NS_02_PNS,2,Intercostal nerve VII.r,MESH,False,False,False,False,False
+OBJECT,NS_07_INTERCOSTAL_AND_TRUNK_NERVES,NS_02_PNS,2,Intercostal nerve V.r,MESH,False,False,False,False,False
+OBJECT,NS_07_INTERCOSTAL_AND_TRUNK_NERVES,NS_02_PNS,2,Intercostal nerve II.r,MESH,False,False,False,False,False
+OBJECT,NS_07_INTERCOSTAL_AND_TRUNK_NERVES,NS_02_PNS,2,Intercostal nerve XII.r,MESH,False,False,False,False,False
+OBJECT,NS_07_INTERCOSTAL_AND_TRUNK_NERVES,NS_02_PNS,2,Intercostal nerve I.l,MESH,False,False,False,False,False
+OBJECT,NS_07_INTERCOSTAL_AND_TRUNK_NERVES,NS_02_PNS,2,Intercostal nerve II.l,MESH,False,False,False,False,False
+OBJECT,NS_07_INTERCOSTAL_AND_TRUNK_NERVES,NS_02_PNS,2,Intercostal nerve III.l,MESH,False,False,False,False,False
+OBJECT,NS_07_INTERCOSTAL_AND_TRUNK_NERVES,NS_02_PNS,2,Intercostal nerve IV.l,MESH,False,False,False,False,False
+OBJECT,NS_07_INTERCOSTAL_AND_TRUNK_NERVES,NS_02_PNS,2,Intercostal nerve V.l,MESH,False,False,False,False,False
+OBJECT,NS_07_INTERCOSTAL_AND_TRUNK_NERVES,NS_02_PNS,2,Intercostal nerve VI.l,MESH,False,False,False,False,False
+OBJECT,NS_07_INTERCOSTAL_AND_TRUNK_NERVES,NS_02_PNS,2,Intercostal nerve XII.l,MESH,False,False,False,False,False
+OBJECT,NS_07_INTERCOSTAL_AND_TRUNK_NERVES,NS_02_PNS,2,Intercostal nerve XI.l,MESH,False,False,False,False,False
+OBJECT,NS_07_INTERCOSTAL_AND_TRUNK_NERVES,NS_02_PNS,2,Intercostal nerve VII.l,MESH,False,False,False,False,False
+OBJECT,NS_07_INTERCOSTAL_AND_TRUNK_NERVES,NS_02_PNS,2,Intercostal nerve VIII.l,MESH,False,False,False,False,False
+OBJECT,NS_07_INTERCOSTAL_AND_TRUNK_NERVES,NS_02_PNS,2,Intercostal nerve IX.l,MESH,False,False,False,False,False
+OBJECT,NS_07_INTERCOSTAL_AND_TRUNK_NERVES,NS_02_PNS,2,Intercostal nerve IV.r,MESH,False,False,False,False,False
+COLLECTION,NS_08_HEAD_AND_NECK_PERIPHERAL_NERVES,NS_02_PNS,2,,,False,False,,,
+OBJECT,NS_08_HEAD_AND_NECK_PERIPHERAL_NERVES,NS_02_PNS,2,Buccal nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_08_HEAD_AND_NECK_PERIPHERAL_NERVES,NS_02_PNS,2,Lingual nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_08_HEAD_AND_NECK_PERIPHERAL_NERVES,NS_02_PNS,2,Mental nerve.l,MESH,False,False,False,False,False
+OBJECT,NS_08_HEAD_AND_NECK_PERIPHERAL_NERVES,NS_02_PNS,2,Lingual nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_08_HEAD_AND_NECK_PERIPHERAL_NERVES,NS_02_PNS,2,Buccal nerve.r,MESH,False,False,False,False,False
+OBJECT,NS_08_HEAD_AND_NECK_PERIPHERAL_NERVES,NS_02_PNS,2,Mental nerve.r,MESH,False,False,False,False,False
+COLLECTION,NS_09_SPINAL_NERVES,NS_02_PNS,2,,,False,False,,,
+COLLECTION,Dorsal rami,NS_02_PNS,2,,,False,False,,,
+OBJECT,Dorsal rami,NS_02_PNS,2,Dorsal ramus C4.r,MESH,False,False,False,False,False
+OBJECT,Dorsal rami,NS_02_PNS,2,Dorsal ramus C5.r,MESH,False,False,False,False,False
+OBJECT,Dorsal rami,NS_02_PNS,2,Dorsal ramus C6.r,MESH,False,False,False,False,False
+OBJECT,Dorsal rami,NS_02_PNS,2,Dorsal ramus C7.r,MESH,False,False,False,False,False
+OBJECT,Dorsal rami,NS_02_PNS,2,Dorsal ramus C8.r,MESH,False,False,False,False,False
+OBJECT,Dorsal rami,NS_02_PNS,2,Dorsal ramus Th1.r,MESH,False,False,False,False,False
+OBJECT,Dorsal rami,NS_02_PNS,2,Dorsal ramus Th2.r,MESH,False,False,False,False,False
+OBJECT,Dorsal rami,NS_02_PNS,2,Dorsal ramus Th3.r,MESH,False,False,False,False,False
+OBJECT,Dorsal rami,NS_02_PNS,2,Dorsal ramus Th4.r,MESH,False,False,False,False,False
+OBJECT,Dorsal rami,NS_02_PNS,2,Dorsal ramus Th5.r,MESH,False,False,False,False,False
+OBJECT,Dorsal rami,NS_02_PNS,2,Dorsal ramus Th6.r,MESH,False,False,False,False,False
+OBJECT,Dorsal rami,NS_02_PNS,2,Dorsal ramus Th7.r,MESH,False,False,False,False,False
+OBJECT,Dorsal rami,NS_02_PNS,2,Dorsal ramus Th8.r,MESH,False,False,False,False,False
+OBJECT,Dorsal rami,NS_02_PNS,2,Dorsal ramus Th9.r,MESH,False,False,False,False,False
+OBJECT,Dorsal rami,NS_02_PNS,2,Dorsal ramus Th10.r,MESH,False,False,False,False,False
+OBJECT,Dorsal rami,NS_02_PNS,2,Dorsal ramus Th11.r,MESH,False,False,False,False,False
+OBJECT,Dorsal rami,NS_02_PNS,2,Dorsal ramus Th12.r,MESH,False,False,False,False,False
+OBJECT,Dorsal rami,NS_02_PNS,2,Dorsal ramus L1.r,MESH,False,False,False,False,False
+OBJECT,Dorsal rami,NS_02_PNS,2,Dorsal ramus L2.r,MESH,False,False,False,False,False
+OBJECT,Dorsal rami,NS_02_PNS,2,Dorsal ramus L3.r,MESH,False,False,False,False,False
+OBJECT,Dorsal rami,NS_02_PNS,2,Dorsal ramus L4.r,MESH,False,False,False,False,False
+OBJECT,Dorsal rami,NS_02_PNS,2,Dorsal ramus L5.r,MESH,False,False,False,False,False
+OBJECT,Dorsal rami,NS_02_PNS,2,Dorsal ramus C4.l,MESH,False,False,False,False,False
+OBJECT,Dorsal rami,NS_02_PNS,2,Dorsal ramus C5.l,MESH,False,False,False,False,False
+OBJECT,Dorsal rami,NS_02_PNS,2,Dorsal ramus C6.l,MESH,False,False,False,False,False
+OBJECT,Dorsal rami,NS_02_PNS,2,Dorsal ramus C7.l,MESH,False,False,False,False,False
+OBJECT,Dorsal rami,NS_02_PNS,2,Dorsal ramus C8.l,MESH,False,False,False,False,False
+OBJECT,Dorsal rami,NS_02_PNS,2,Dorsal ramus Th1.l,MESH,False,False,False,False,False
+OBJECT,Dorsal rami,NS_02_PNS,2,Dorsal ramus Th2.l,MESH,False,False,False,False,False
+OBJECT,Dorsal rami,NS_02_PNS,2,Dorsal ramus Th3.l,MESH,False,False,False,False,False
+OBJECT,Dorsal rami,NS_02_PNS,2,Dorsal ramus Th4.l,MESH,False,False,False,False,False
+OBJECT,Dorsal rami,NS_02_PNS,2,Dorsal ramus Th5.l,MESH,False,False,False,False,False
+OBJECT,Dorsal rami,NS_02_PNS,2,Dorsal ramus Th6.l,MESH,False,False,False,False,False
+OBJECT,Dorsal rami,NS_02_PNS,2,Dorsal ramus Th7.l,MESH,False,False,False,False,False
+OBJECT,Dorsal rami,NS_02_PNS,2,Dorsal ramus Th8.l,MESH,False,False,False,False,False
+OBJECT,Dorsal rami,NS_02_PNS,2,Dorsal ramus Th9.l,MESH,False,False,False,False,False
+OBJECT,Dorsal rami,NS_02_PNS,2,Dorsal ramus Th10.l,MESH,False,False,False,False,False
+OBJECT,Dorsal rami,NS_02_PNS,2,Dorsal ramus Th11.l,MESH,False,False,False,False,False
+OBJECT,Dorsal rami,NS_02_PNS,2,Dorsal ramus Th12.l,MESH,False,False,False,False,False
+OBJECT,Dorsal rami,NS_02_PNS,2,Dorsal ramus L1.l,MESH,False,False,False,False,False
+OBJECT,Dorsal rami,NS_02_PNS,2,Dorsal ramus L2.l,MESH,False,False,False,False,False
+OBJECT,Dorsal rami,NS_02_PNS,2,Dorsal ramus L3.l,MESH,False,False,False,False,False
+OBJECT,Dorsal rami,NS_02_PNS,2,Dorsal ramus L4.l,MESH,False,False,False,False,False
+OBJECT,Dorsal rami,NS_02_PNS,2,Dorsal ramus L5.l,MESH,False,False,False,False,False
+COLLECTION,Cutaneous innervation body,NS_02_PNS,2,,,False,False,,,
+OBJECT,Cutaneous innervation body,NS_02_PNS,2,Ventral (cutaneous) ramus Th1 nerve.r,MESH,False,False,False,False,False
+OBJECT,Cutaneous innervation body,NS_02_PNS,2,Ventral (cutaneous) ramus Th1 nerve.l,MESH,False,False,False,False,False
+OBJECT,Cutaneous innervation body,NS_02_PNS,2,Ventral (cutaneous) ramus Th2 nerve.r,MESH,False,False,False,False,False
+OBJECT,Cutaneous innervation body,NS_02_PNS,2,Ventral (cutaneous) ramus Th2 nerve.l,MESH,False,False,False,False,False
+OBJECT,Cutaneous innervation body,NS_02_PNS,2,Ventral (cutaneous) ramus Th3 nerve.r,MESH,False,False,False,False,False
+OBJECT,Cutaneous innervation body,NS_02_PNS,2,Ventral (cutaneous) ramus Th3 nerve.l,MESH,False,False,False,False,False
+OBJECT,Cutaneous innervation body,NS_02_PNS,2,Ventral (cutaneous) ramus Th4 nerve.r,MESH,False,False,False,False,False
+OBJECT,Cutaneous innervation body,NS_02_PNS,2,Ventral (cutaneous) ramus Th4 nerve.l,MESH,False,False,False,False,False
+OBJECT,Cutaneous innervation body,NS_02_PNS,2,Ventral (cutaneous) ramus Th5 nerve.r,MESH,False,False,False,False,False
+OBJECT,Cutaneous innervation body,NS_02_PNS,2,Ventral (cutaneous) ramus Th5 nerve.l,MESH,False,False,False,False,False
+OBJECT,Cutaneous innervation body,NS_02_PNS,2,Ventral (cutaneous) ramus Th6 nerve.r,MESH,False,False,False,False,False
+OBJECT,Cutaneous innervation body,NS_02_PNS,2,Ventral (cutaneous) ramus Th6 nerve.l,MESH,False,False,False,False,False
+OBJECT,Cutaneous innervation body,NS_02_PNS,2,Ventral (cutaneous) ramus Th7 nerve.r,MESH,False,False,False,False,False
+OBJECT,Cutaneous innervation body,NS_02_PNS,2,Ventral (cutaneous) ramus Th7 nerve.l,MESH,False,False,False,False,False
+OBJECT,Cutaneous innervation body,NS_02_PNS,2,Ventral (cutaneous) ramus Th8 nerve.r,MESH,False,False,False,False,False
+OBJECT,Cutaneous innervation body,NS_02_PNS,2,Ventral (cutaneous) ramus Th9 nerve.r,MESH,False,False,False,False,False
+OBJECT,Cutaneous innervation body,NS_02_PNS,2,Ventral (cutaneous) ramus Th8 nerve.l,MESH,False,False,False,False,False
+OBJECT,Cutaneous innervation body,NS_02_PNS,2,Ventral (cutaneous) ramus Th9 nerve.l,MESH,False,False,False,False,False
+OBJECT,Cutaneous innervation body,NS_02_PNS,2,Ventral (cutaneous) ramus Th10 nerve.r,MESH,False,False,False,False,False
+OBJECT,Cutaneous innervation body,NS_02_PNS,2,Ventral (cutaneous) ramus Th10 nerve.l,MESH,False,False,False,False,False
+OBJECT,Cutaneous innervation body,NS_02_PNS,2,Ventral (cutaneous) ramus Th11 nerve.r,MESH,False,False,False,False,False
+OBJECT,Cutaneous innervation body,NS_02_PNS,2,Ventral (cutaneous) ramus Th11 nerve.l,MESH,False,False,False,False,False
+OBJECT,Cutaneous innervation body,NS_02_PNS,2,Ventral (cutaneous) ramus Th12 nerve.r,MESH,False,False,False,False,False
+OBJECT,Cutaneous innervation body,NS_02_PNS,2,Ventral (cutaneous) ramus Th12 nerve.l,MESH,False,False,False,False,False
+COLLECTION,NS_03_AUTONOMIC,NS_NERVOUS_SYSTEM,1,,,False,False,,,
+COLLECTION,NS_01_SYMPATHETIC,NS_03_AUTONOMIC,2,,,False,False,,,
+COLLECTION,NS_01_SYMPATHETIC_TRUNK,NS_01_SYMPATHETIC,3,,,False,False,,,
+OBJECT,NS_01_SYMPATHETIC_TRUNK,NS_01_SYMPATHETIC,3,Sympathetic trunk.r,MESH,False,False,False,False,False
+OBJECT,NS_01_SYMPATHETIC_TRUNK,NS_01_SYMPATHETIC,3,Sympathetic nerves.r.015,MESH,False,False,False,False,False
+OBJECT,NS_01_SYMPATHETIC_TRUNK,NS_01_SYMPATHETIC,3,Sympathetic trunk.l,MESH,False,False,False,False,False
+COLLECTION,NS_02_SYMPATHETIC_GANGLIA,NS_01_SYMPATHETIC,3,,,False,False,,,
+OBJECT,NS_02_SYMPATHETIC_GANGLIA,NS_01_SYMPATHETIC,3,Coeliac ganglia,MESH,False,False,False,False,False
+OBJECT,NS_02_SYMPATHETIC_GANGLIA,NS_01_SYMPATHETIC,3,Thyrohyoid membrane.g,EMPTY,False,False,False,False,False
+OBJECT,NS_02_SYMPATHETIC_GANGLIA,NS_01_SYMPATHETIC,3,Synovial joints of larynx.g,EMPTY,False,False,False,False,False
+OBJECT,NS_02_SYMPATHETIC_GANGLIA,NS_01_SYMPATHETIC,3,Laryngeal joints.g,EMPTY,False,False,False,False,False
+OBJECT,NS_02_SYMPATHETIC_GANGLIA,NS_01_SYMPATHETIC,3,Fibrous joints of larynx.g,EMPTY,False,False,False,False,False
+OBJECT,NS_02_SYMPATHETIC_GANGLIA,NS_01_SYMPATHETIC,3,Fibro-elastic membrane of larynx.g,EMPTY,False,False,False,False,False
+OBJECT,NS_02_SYMPATHETIC_GANGLIA,NS_01_SYMPATHETIC,3,Crico-arytenoid joint.g,EMPTY,False,False,False,False,False
+COLLECTION,NS_03_RAMICOMMUNICANTES,NS_01_SYMPATHETIC,3,,,False,False,,,
+COLLECTION,NS_04_SPLANCHNIC_NERVES,NS_01_SYMPATHETIC,3,,,False,False,,,
+COLLECTION,Sympathetic trunk thoracic,NS_01_SYMPATHETIC,3,,,False,False,,,
+OBJECT,Sympathetic trunk thoracic,NS_01_SYMPATHETIC,3,Sympathetic ganglia Thoracic region.r,MESH,False,False,False,False,False
+OBJECT,Sympathetic trunk thoracic,NS_01_SYMPATHETIC,3,Rami communicantes albi thoracic region.r,MESH,False,False,False,False,False
+OBJECT,Sympathetic trunk thoracic,NS_01_SYMPATHETIC,3,Rami communicantes griseithoracic retion.r,MESH,False,False,False,False,False
+OBJECT,Sympathetic trunk thoracic,NS_01_SYMPATHETIC,3,Sympathetic ganglia Thoracic region.l,MESH,False,False,False,False,False
+OBJECT,Sympathetic trunk thoracic,NS_01_SYMPATHETIC,3,Rami communicantes albi thoracic region.l,MESH,False,False,False,False,False
+OBJECT,Sympathetic trunk thoracic,NS_01_SYMPATHETIC,3,Rami communicantes griseithoracic retion.l,MESH,False,False,False,False,False
+COLLECTION,Sympathetic trunk Cervical,NS_01_SYMPATHETIC,3,,,False,False,,,
+OBJECT,Sympathetic trunk Cervical,NS_01_SYMPATHETIC,3,Cervicothoracic Ganglion (Stellatum).r,MESH,False,False,False,False,False
+OBJECT,Sympathetic trunk Cervical,NS_01_SYMPATHETIC,3,Middle cervical sympathetic ganglion.r,MESH,False,False,False,False,False
+OBJECT,Sympathetic trunk Cervical,NS_01_SYMPATHETIC,3,Superior cervical sympathetic ganglion.r,MESH,False,False,False,False,False
+OBJECT,Sympathetic trunk Cervical,NS_01_SYMPATHETIC,3,Ansa Subclavia.r,MESH,False,False,False,False,False
+OBJECT,Sympathetic trunk Cervical,NS_01_SYMPATHETIC,3,Rami communicantes albi.r,MESH,False,False,False,False,False
+OBJECT,Sympathetic trunk Cervical,NS_01_SYMPATHETIC,3,Rami communicantes grisei.r,MESH,False,False,False,False,False
+OBJECT,Sympathetic trunk Cervical,NS_01_SYMPATHETIC,3,Cervicothoracic Ganglion (Stellatum).l,MESH,False,False,False,False,False
+OBJECT,Sympathetic trunk Cervical,NS_01_SYMPATHETIC,3,Middle cervical sympathetic ganglion.l,MESH,False,False,False,False,False
+OBJECT,Sympathetic trunk Cervical,NS_01_SYMPATHETIC,3,Superior cervical sympathetic ganglion.l,MESH,False,False,False,False,False
+OBJECT,Sympathetic trunk Cervical,NS_01_SYMPATHETIC,3,Rami communicantes albi.l,MESH,False,False,False,False,False
+OBJECT,Sympathetic trunk Cervical,NS_01_SYMPATHETIC,3,Rami communicantes grisei.l,MESH,False,False,False,False,False
+COLLECTION,Sympathetic trunk lumbar and scacral,NS_01_SYMPATHETIC,3,,,False,False,,,
+OBJECT,Sympathetic trunk lumbar and scacral,NS_01_SYMPATHETIC,3,Sympathetic gangion lumbar region.r,MESH,False,False,False,False,False
+OBJECT,Sympathetic trunk lumbar and scacral,NS_01_SYMPATHETIC,3,Rami communicantes albi lumbar region.r,MESH,False,False,False,False,False
+OBJECT,Sympathetic trunk lumbar and scacral,NS_01_SYMPATHETIC,3,Rami communicantes lumbar region.r,MESH,False,False,False,False,False
+OBJECT,Sympathetic trunk lumbar and scacral,NS_01_SYMPATHETIC,3,Sympathetic gangion lumbar region.l,MESH,False,False,False,False,False
+OBJECT,Sympathetic trunk lumbar and scacral,NS_01_SYMPATHETIC,3,Rami communicantes albi lumbar region.l,MESH,False,False,False,False,False
+OBJECT,Sympathetic trunk lumbar and scacral,NS_01_SYMPATHETIC,3,Rami communicantes lumbar region.l,MESH,False,False,False,False,False
+COLLECTION,Sympathetic trunk Sacral,NS_01_SYMPATHETIC,3,,,False,False,,,
+OBJECT,Sympathetic trunk Sacral,NS_01_SYMPATHETIC,3,Sympathetic ganglia sacral region.r,MESH,False,False,False,False,False
+OBJECT,Sympathetic trunk Sacral,NS_01_SYMPATHETIC,3,Ganglion Impar,MESH,False,False,False,False,False
+OBJECT,Sympathetic trunk Sacral,NS_01_SYMPATHETIC,3,Rami communicantes albi sacral region.r,MESH,False,False,False,False,False
+OBJECT,Sympathetic trunk Sacral,NS_01_SYMPATHETIC,3,Rami communicantes grisei sacral region.r,MESH,False,False,False,False,False
+OBJECT,Sympathetic trunk Sacral,NS_01_SYMPATHETIC,3,Sympathetic ganglia sacral region.l,MESH,False,False,False,False,False
+OBJECT,Sympathetic trunk Sacral,NS_01_SYMPATHETIC,3,Rami communicantes albi sacral region.l,MESH,False,False,False,False,False
+OBJECT,Sympathetic trunk Sacral,NS_01_SYMPATHETIC,3,Rami communicantes grisei sacral region.l,MESH,False,False,False,False,False
+COLLECTION,NS_02_PARASYMPATHETIC,NS_03_AUTONOMIC,2,,,False,False,,,
+COLLECTION,NS_01_CRANIAL_PARASYMPATHETIC,NS_02_PARASYMPATHETIC,3,,,False,False,,,
+COLLECTION,NS_02_PELVIC_SPLANCHNIC,NS_02_PARASYMPATHETIC,3,,,False,False,,,
+COLLECTION,NS_03_PARASYMPATHETIC_GANGLIA,NS_02_PARASYMPATHETIC,3,,,False,False,,,
+COLLECTION,NS_03_ENTERIC_AND_VISCERAL,NS_03_AUTONOMIC,2,,,False,False,,,
+COLLECTION,NS_01_ESOPHAGEAL_PLEXUS,NS_03_ENTERIC_AND_VISCERAL,3,,,False,False,,,
+COLLECTION,NS_02_GASTRIC_PLEXUS,NS_03_ENTERIC_AND_VISCERAL,3,,,False,False,,,
+OBJECT,NS_02_GASTRIC_PLEXUS,NS_03_ENTERIC_AND_VISCERAL,3,Duodenum_Enteric_Plexus_Fine,MESH,False,False,False,False,False
+OBJECT,NS_02_GASTRIC_PLEXUS,NS_03_ENTERIC_AND_VISCERAL,3,Oesophagus_Enteric_Plexus_Fine,MESH,False,False,False,False,False
+COLLECTION,NS_03_SMALL_INTESTINE_PLEXUS,NS_03_ENTERIC_AND_VISCERAL,3,,,False,False,,,
+COLLECTION,NS_04_COLONIC_PLEXUS,NS_03_ENTERIC_AND_VISCERAL,3,,,False,False,,,
+COLLECTION,NS_05_RECTAL_PLEXUS,NS_03_ENTERIC_AND_VISCERAL,3,,,False,False,,,
+COLLECTION,NS_06_MYENTERIC_PLEXUS,NS_03_ENTERIC_AND_VISCERAL,3,,,False,False,,,
+COLLECTION,NS_07_SUBMUCOSAL_PLEXUS,NS_03_ENTERIC_AND_VISCERAL,3,,,False,False,,,
+COLLECTION,NS_08_OTHER_VISCERAL_PLEXUSES,NS_03_ENTERIC_AND_VISCERAL,3,,,False,False,,,
+COLLECTION,Splanchnic nerves and plexuses,NS_03_ENTERIC_AND_VISCERAL,3,,,False,False,,,
+OBJECT,Splanchnic nerves and plexuses,NS_03_ENTERIC_AND_VISCERAL,3,Superior hypogastric plexus,MESH,False,False,False,False,False
+OBJECT,Splanchnic nerves and plexuses,NS_03_ENTERIC_AND_VISCERAL,3,Urinary bladder Nerve Plexus,MESH,False,False,False,False,False
+OBJECT,Splanchnic nerves and plexuses,NS_03_ENTERIC_AND_VISCERAL,3,Superior mesenteric ganglia,MESH,False,False,False,False,False
+OBJECT,Splanchnic nerves and plexuses,NS_03_ENTERIC_AND_VISCERAL,3,Superior mesenteric artery Nerve Plexus,MESH,False,False,False,False,False
+OBJECT,Splanchnic nerves and plexuses,NS_03_ENTERIC_AND_VISCERAL,3,Superior anorectal arter Nerve Plexus,MESH,False,False,False,False,False
+OBJECT,Splanchnic nerves and plexuses,NS_03_ENTERIC_AND_VISCERAL,3,Splenic artery Nerve Plexus,MESH,False,False,False,False,False
+OBJECT,Splanchnic nerves and plexuses,NS_03_ENTERIC_AND_VISCERAL,3,Sigmoid arteries Nerve Plexus,MESH,False,False,False,False,False
+OBJECT,Splanchnic nerves and plexuses,NS_03_ENTERIC_AND_VISCERAL,3,Inferior hypogastric nerves and plexus,MESH,False,False,False,False,False
+OBJECT,Splanchnic nerves and plexuses,NS_03_ENTERIC_AND_VISCERAL,3,Right renal arteryNerve Plexus,MESH,False,False,False,False,False
+OBJECT,Splanchnic nerves and plexuses,NS_03_ENTERIC_AND_VISCERAL,3,Right colic artery nerve Plexus,MESH,False,False,False,False,False
+OBJECT,Splanchnic nerves and plexuses,NS_03_ENTERIC_AND_VISCERAL,3,Prostate Nerve Plexus,MESH,False,False,False,False,False
+OBJECT,Splanchnic nerves and plexuses,NS_03_ENTERIC_AND_VISCERAL,3,Proper hepatic artery Nerve Plexus,MESH,False,False,False,False,False
+OBJECT,Splanchnic nerves and plexuses,NS_03_ENTERIC_AND_VISCERAL,3,Posterior branch of renal artery NervePlexus.r ,MESH,False,False,False,False,False
+OBJECT,Splanchnic nerves and plexuses,NS_03_ENTERIC_AND_VISCERAL,3,Posterior branch of renal arter yNervePlexus.l,MESH,False,False,False,False,False
+OBJECT,Splanchnic nerves and plexuses,NS_03_ENTERIC_AND_VISCERAL,3,Middle colic artery Nerve Plexus,MESH,False,False,False,False,False
+OBJECT,Splanchnic nerves and plexuses,NS_03_ENTERIC_AND_VISCERAL,3,Marginal artery Nerve Plexus,MESH,False,False,False,False,False
+OBJECT,Splanchnic nerves and plexuses,NS_03_ENTERIC_AND_VISCERAL,3,Left renal artery_Enteric_Plexus_Fine,MESH,False,False,False,False,False
+OBJECT,Splanchnic nerves and plexuses,NS_03_ENTERIC_AND_VISCERAL,3,Left gastric artery Plexus ,MESH,False,False,False,False,False
+OBJECT,Splanchnic nerves and plexuses,NS_03_ENTERIC_AND_VISCERAL,3,Inferior suprarenal artery.r_Enteric_Plexus_Fine,MESH,False,False,False,False,False
+OBJECT,Splanchnic nerves and plexuses,NS_03_ENTERIC_AND_VISCERAL,3,Inferior suprarenal artery.l_Enteric_Plexus_Fine,MESH,False,False,False,False,False
+OBJECT,Splanchnic nerves and plexuses,NS_03_ENTERIC_AND_VISCERAL,3,Inferior mesenteric ganglion,MESH,False,False,False,False,False
+OBJECT,Splanchnic nerves and plexuses,NS_03_ENTERIC_AND_VISCERAL,3,Inferior mesenteric artery_Enteric_Plexus_Fine,MESH,False,False,False,False,False
+OBJECT,Splanchnic nerves and plexuses,NS_03_ENTERIC_AND_VISCERAL,3,Ileocolic artery_Enteric_Plexus_Fine,MESH,False,False,False,False,False
+OBJECT,Splanchnic nerves and plexuses,NS_03_ENTERIC_AND_VISCERAL,3,Ileal branch of ileocolic artery_Enteric_Plexus_Fine,MESH,False,False,False,False,False
+OBJECT,Splanchnic nerves and plexuses,NS_03_ENTERIC_AND_VISCERAL,3,Descending branch of left colic artery_Enteric_Plexus_Fine,MESH,False,False,False,False,False
+OBJECT,Splanchnic nerves and plexuses,NS_03_ENTERIC_AND_VISCERAL,3,Common iliac artery.r_Enteric_Plexus_Fine,MESH,False,False,False,False,False
+OBJECT,Splanchnic nerves and plexuses,NS_03_ENTERIC_AND_VISCERAL,3,Common iliac artery.l_Enteric_Plexus_Fine,MESH,False,False,False,False,False
+OBJECT,Splanchnic nerves and plexuses,NS_03_ENTERIC_AND_VISCERAL,3,Common hepatic artery_Enteric_Plexus_Fine,MESH,False,False,False,False,False
+OBJECT,Splanchnic nerves and plexuses,NS_03_ENTERIC_AND_VISCERAL,3,Colic branch of ileocolic artery_Enteric_Plexus_Fine,MESH,False,False,False,False,False
+OBJECT,Splanchnic nerves and plexuses,NS_03_ENTERIC_AND_VISCERAL,3,Coeliac trunk_Enteric_Plexus_Fine,MESH,False,False,False,False,False
+OBJECT,Splanchnic nerves and plexuses,NS_03_ENTERIC_AND_VISCERAL,3,Anterior inferior pancreaticoduodenal artery_Enteric_Plexus_Fine,MESH,False,False,False,False,False
+OBJECT,Splanchnic nerves and plexuses,NS_03_ENTERIC_AND_VISCERAL,3,Anterior branch of renal artery.r_Enteric_Plexus_Fine,MESH,False,False,False,False,False
+OBJECT,Splanchnic nerves and plexuses,NS_03_ENTERIC_AND_VISCERAL,3,Anterior branch of renal artery.l_Enteric_Plexus_Fine,MESH,False,False,False,False,False
+OBJECT,Splanchnic nerves and plexuses,NS_03_ENTERIC_AND_VISCERAL,3,Abdominal aorta_Enteric_Plexus_Fine,MESH,False,False,False,False,False
+OBJECT,Splanchnic nerves and plexuses,NS_03_ENTERIC_AND_VISCERAL,3,Transverse colon.001_Enteric_Plexus_Fine,MESH,False,False,False,False,False
+OBJECT,Splanchnic nerves and plexuses,NS_03_ENTERIC_AND_VISCERAL,3,Sigmoid colon.Nerve Plexus,MESH,False,False,False,False,False
+OBJECT,Splanchnic nerves and plexuses,NS_03_ENTERIC_AND_VISCERAL,3,Oesophagus Nerve Plexus,MESH,False,False,False,False,False
+OBJECT,Splanchnic nerves and plexuses,NS_03_ENTERIC_AND_VISCERAL,3,Duodenum_Enteric_Plexus_Fine.001,MESH,False,False,False,False,False
+OBJECT,Splanchnic nerves and plexuses,NS_03_ENTERIC_AND_VISCERAL,3,Descending colon.001_Enteric_Plexus_Fine,MESH,False,False,False,False,False
+OBJECT,Splanchnic nerves and plexuses,NS_03_ENTERIC_AND_VISCERAL,3,Ascending colon.001_Enteric_Plexus_Fine,MESH,False,False,False,False,False
+OBJECT,Splanchnic nerves and plexuses,NS_03_ENTERIC_AND_VISCERAL,3,Greater splanchnic nerves.l,MESH,False,False,False,False,False
+OBJECT,Splanchnic nerves and plexuses,NS_03_ENTERIC_AND_VISCERAL,3,Greater splanchnic nerves.r,MESH,False,False,False,False,False
+OBJECT,Splanchnic nerves and plexuses,NS_03_ENTERIC_AND_VISCERAL,3,Lesser splanchinc nerves.r,MESH,False,False,False,False,False
+OBJECT,Splanchnic nerves and plexuses,NS_03_ENTERIC_AND_VISCERAL,3,Lesser splanchinc nerves.l,MESH,False,False,False,False,False
+OBJECT,Splanchnic nerves and plexuses,NS_03_ENTERIC_AND_VISCERAL,3,Least splanchnic nerve.r,MESH,False,False,False,False,False
+OBJECT,Splanchnic nerves and plexuses,NS_03_ENTERIC_AND_VISCERAL,3,Least splanchnic nerve.l,MESH,False,False,False,False,False
+OBJECT,Splanchnic nerves and plexuses,NS_03_ENTERIC_AND_VISCERAL,3,Lumbar splanchnic nerves.r,MESH,False,False,False,False,False
+OBJECT,Splanchnic nerves and plexuses,NS_03_ENTERIC_AND_VISCERAL,3,Lumbar splanchnic nerves.l,MESH,False,False,False,False,False
+OBJECT,Splanchnic nerves and plexuses,NS_03_ENTERIC_AND_VISCERAL,3,Internal iliac artery.r_Enteric_Plexus_Fine,MESH,False,False,False,False,False
+OBJECT,Splanchnic nerves and plexuses,NS_03_ENTERIC_AND_VISCERAL,3,Internal iliac artery.l_Enteric_Plexus_Fine,MESH,False,False,False,False,False
+OBJECT,Splanchnic nerves and plexuses,NS_03_ENTERIC_AND_VISCERAL,3,Carotid artery Sympathetic plexus.r,MESH,False,False,False,False,False
+OBJECT,Splanchnic nerves and plexuses,NS_03_ENTERIC_AND_VISCERAL,3,External iliac artery.r_Enteric_Plexus_Fine,MESH,False,False,False,False,False
+OBJECT,Splanchnic nerves and plexuses,NS_03_ENTERIC_AND_VISCERAL,3,External iliac artery.l_Enteric_Plexus_Fine,MESH,False,False,False,False,False
+OBJECT,Splanchnic nerves and plexuses,NS_03_ENTERIC_AND_VISCERAL,3,Superior lobar artery of right lung Nerve Plexus,MESH,False,False,False,False,False
+OBJECT,Splanchnic nerves and plexuses,NS_03_ENTERIC_AND_VISCERAL,3,Right pulmonary artery nerve Plexus,MESH,False,False,False,False,False
+OBJECT,Splanchnic nerves and plexuses,NS_03_ENTERIC_AND_VISCERAL,3,Left pulmonary artery_ Plexus,MESH,False,False,False,False,False
+OBJECT,Splanchnic nerves and plexuses,NS_03_ENTERIC_AND_VISCERAL,3,Cardiac plexus nerves,MESH,False,False,False,False,False
+OBJECT,Splanchnic nerves and plexuses,NS_03_ENTERIC_AND_VISCERAL,3,Jejunum_Enteric_Plexus_Fine,MESH,False,False,False,False,False
+OBJECT,Splanchnic nerves and plexuses,NS_03_ENTERIC_AND_VISCERAL,3,Internal carotid artery sympathetic plexus.l,MESH,False,False,False,False,False
+OBJECT,Splanchnic nerves and plexuses,NS_03_ENTERIC_AND_VISCERAL,3,Stomach_Enteric_Plexus_Fine,MESH,False,False,False,False,False
+COLLECTION,NS_04_SENSORY_SYSTEMS,NS_NERVOUS_SYSTEM,1,,,False,False,,,
+COLLECTION,NS_01_VISUAL_PATHWAY,NS_04_SENSORY_SYSTEMS,2,,,False,False,,,
+OBJECT,NS_01_VISUAL_PATHWAY,NS_04_SENSORY_SYSTEMS,2,Optic chiasm.l,MESH,False,False,False,False,False
+OBJECT,NS_01_VISUAL_PATHWAY,NS_04_SENSORY_SYSTEMS,2,Optic tract.l,MESH,False,False,False,False,False
+OBJECT,NS_01_VISUAL_PATHWAY,NS_04_SENSORY_SYSTEMS,2,Optic chiasm.r,MESH,False,False,False,False,False
+OBJECT,NS_01_VISUAL_PATHWAY,NS_04_SENSORY_SYSTEMS,2,Optic tract.r,MESH,False,False,False,False,False
+COLLECTION,NS_02_AUDITORY_AND_VESTIBULAR,NS_04_SENSORY_SYSTEMS,2,,,False,False,,,
+OBJECT,NS_02_AUDITORY_AND_VESTIBULAR,NS_04_SENSORY_SYSTEMS,2,Cochlea.l,MESH,False,False,False,False,False
+OBJECT,NS_02_AUDITORY_AND_VESTIBULAR,NS_04_SENSORY_SYSTEMS,2,Cochlea.r,MESH,False,False,False,False,False
+OBJECT,NS_02_AUDITORY_AND_VESTIBULAR,NS_04_SENSORY_SYSTEMS,2,Tympanic membrane.l,MESH,False,False,False,False,False
+OBJECT,NS_02_AUDITORY_AND_VESTIBULAR,NS_04_SENSORY_SYSTEMS,2,Tympanic membrane.r,MESH,False,False,False,False,False
+OBJECT,NS_02_AUDITORY_AND_VESTIBULAR,NS_04_SENSORY_SYSTEMS,2,Auditory tube.r,MESH,False,False,False,False,False
+OBJECT,NS_02_AUDITORY_AND_VESTIBULAR,NS_04_SENSORY_SYSTEMS,2,Vestibule.l,MESH,False,False,False,False,False
+OBJECT,NS_02_AUDITORY_AND_VESTIBULAR,NS_04_SENSORY_SYSTEMS,2,Vestibule.r,MESH,False,False,False,False,False
+OBJECT,NS_02_AUDITORY_AND_VESTIBULAR,NS_04_SENSORY_SYSTEMS,2,Tympanic plexus.r,MESH,False,False,False,False,False
+OBJECT,NS_02_AUDITORY_AND_VESTIBULAR,NS_04_SENSORY_SYSTEMS,2,Tympanic nerve (Jacobson).r,MESH,False,False,False,False,False
+OBJECT,NS_02_AUDITORY_AND_VESTIBULAR,NS_04_SENSORY_SYSTEMS,2,Tympanic plexus.l,MESH,False,False,False,False,False
+OBJECT,NS_02_AUDITORY_AND_VESTIBULAR,NS_04_SENSORY_SYSTEMS,2,Tympanic nerve (Jacobson).l,MESH,False,False,False,False,False
+OBJECT,NS_02_AUDITORY_AND_VESTIBULAR,NS_04_SENSORY_SYSTEMS,2,Auditory tube.l,MESH,False,False,False,False,False
+OBJECT,NS_02_AUDITORY_AND_VESTIBULAR,NS_04_SENSORY_SYSTEMS,2,Tensor typmani muscle.r,MESH,False,False,False,False,False
+OBJECT,NS_02_AUDITORY_AND_VESTIBULAR,NS_04_SENSORY_SYSTEMS,2,Tensor typmani muscle.l,MESH,False,False,False,False,False
+COLLECTION,NS_03_OLFACTORY_PATHWAY,NS_04_SENSORY_SYSTEMS,2,,,False,False,,,
+COLLECTION,Eye,NS_04_SENSORY_SYSTEMS,2,,,False,False,,,
+OBJECT,Eye,NS_04_SENSORY_SYSTEMS,2,Ampulla of lacrimal canaliculus.l,MESH,False,False,False,False,False
+OBJECT,Eye,NS_04_SENSORY_SYSTEMS,2,Ampulla of lacrimal canaliculus.r,MESH,False,False,False,False,False
+OBJECT,Eye,NS_04_SENSORY_SYSTEMS,2,Cornea.l,MESH,False,False,False,False,False
+OBJECT,Eye,NS_04_SENSORY_SYSTEMS,2,Cornea.r,MESH,False,False,False,False,False
+OBJECT,Eye,NS_04_SENSORY_SYSTEMS,2,Lacrimal canaliculus.l,MESH,False,False,False,False,False
+OBJECT,Eye,NS_04_SENSORY_SYSTEMS,2,Lacrimal canaliculus.r,MESH,False,False,False,False,False
+OBJECT,Eye,NS_04_SENSORY_SYSTEMS,2,Lacrimal gland.r,MESH,False,False,False,False,False
+OBJECT,Eye,NS_04_SENSORY_SYSTEMS,2,Lacrimal sac.l,MESH,False,False,False,False,False
+OBJECT,Eye,NS_04_SENSORY_SYSTEMS,2,Lacrimal sac.r,MESH,False,False,False,False,False
+OBJECT,Eye,NS_04_SENSORY_SYSTEMS,2,Nasolacrimal duct.l,MESH,False,False,False,False,False
+OBJECT,Eye,NS_04_SENSORY_SYSTEMS,2,Nasolacrimal duct.r,MESH,False,False,False,False,False
+OBJECT,Eye,NS_04_SENSORY_SYSTEMS,2,Sclera.l,MESH,False,False,False,False,False
+OBJECT,Eye,NS_04_SENSORY_SYSTEMS,2,Sclera.r,MESH,False,False,False,False,False
+OBJECT,Eye,NS_04_SENSORY_SYSTEMS,2,Posterior segment of eyeball.l,MESH,False,False,False,False,False
+OBJECT,Eye,NS_04_SENSORY_SYSTEMS,2,Posterior segment of eyeball.r,MESH,False,False,False,False,False
+OBJECT,Eye,NS_04_SENSORY_SYSTEMS,2,Anterior chamber of eyeball.l,MESH,False,False,False,False,False
+OBJECT,Eye,NS_04_SENSORY_SYSTEMS,2,Anterior chamber of eyeball.r,MESH,False,False,False,False,False
+OBJECT,Eye,NS_04_SENSORY_SYSTEMS,2,Anterior segment of eyeball.l,MESH,False,False,False,False,False
+OBJECT,Eye,NS_04_SENSORY_SYSTEMS,2,Anterior segment of eyeball.r,MESH,False,False,False,False,False
+OBJECT,Eye,NS_04_SENSORY_SYSTEMS,2,Iris.l,MESH,False,False,False,False,False
+OBJECT,Eye,NS_04_SENSORY_SYSTEMS,2,Retina.l,MESH,False,False,False,False,False
+OBJECT,Eye,NS_04_SENSORY_SYSTEMS,2,Retina.r,MESH,False,False,False,False,False
+OBJECT,Eye,NS_04_SENSORY_SYSTEMS,2,Vitreous body.l,MESH,False,False,False,False,False
+OBJECT,Eye,NS_04_SENSORY_SYSTEMS,2,Vitreous body.r,MESH,False,False,False,False,False
+OBJECT,Eye,NS_04_SENSORY_SYSTEMS,2,Zonular fibers-curve.r,MESH,False,False,False,False,False
+OBJECT,Eye,NS_04_SENSORY_SYSTEMS,2,Zonular fibres.l,MESH,False,False,False,False,False
+OBJECT,Eye,NS_04_SENSORY_SYSTEMS,2,Zonular fibres.r,MESH,False,False,False,False,False
+OBJECT,Eye,NS_04_SENSORY_SYSTEMS,2,Iris.r,MESH,False,False,False,False,False
+OBJECT,Eye,NS_04_SENSORY_SYSTEMS,2,Lacrimal gland.l,MESH,False,False,False,False,False
+OBJECT,Eye,NS_04_SENSORY_SYSTEMS,2,Lens.l,MESH,False,False,False,False,False
+OBJECT,Eye,NS_04_SENSORY_SYSTEMS,2,Lens.r,MESH,False,False,False,False,False
+OBJECT,Eye,NS_04_SENSORY_SYSTEMS,2,Suspensory ligament of eyeball.l,MESH,False,False,False,False,False
+OBJECT,Eye,NS_04_SENSORY_SYSTEMS,2,Ciliary body-curve.r,MESH,False,False,False,False,False
+OBJECT,Eye,NS_04_SENSORY_SYSTEMS,2,Internal axis of eyeball.r,MESH,False,False,False,False,False
