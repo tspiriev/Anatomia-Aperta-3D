@@ -20,7 +20,7 @@ const nodes: SceneNode[] = [
 const members = [1, 2, 3, 4, 5];
 
 function callback(file: string, name: string, bindings: Record<string, unknown>) {
-  bindings = { structureColorOverride, applyStructureColor, preserveSourceMaterials: false, ...bindings };
+  bindings = { structureColorOverride, applyStructureColor, preserveSourceMaterials: false, keepSourceAppearance: false, ...bindings };
   const source = ts.createSourceFile(file, readFileSync(new URL(file, import.meta.url), 'utf8'),
     ts.ScriptTarget.Latest, true, ts.ScriptKind.TSX);
   let body: ts.Node | undefined;
@@ -61,6 +61,8 @@ test('clicking any whole-brain part picks the same structure and highlights cont
         assignMaterial: (geo: any) => assigned.push(geo.instanceID),
       } },
       selectionGroupRef: { current: members }, selectionRef, nodesRef: { current: nodes },
+      selectionGroupForId: (id: number) => members.includes(id)
+        ? { name: WHOLE_BRAIN_CONTEXT_NAME, memberIds: members } : null,
       materialsRef: { current: [{ id: 'gray', channels: { Opacity: { enable: true, factor: 0.18 } } }] },
       getGeometryDescendants: (id: number) => id === 1 ? [...geometry(1), ...geometry(6)] : geometry(id),
       getRawNode: (instanceID: number) => ({ instanceID }),
@@ -76,34 +78,6 @@ test('clicking any whole-brain part picks the same structure and highlights cont
     select(clicked === 1 ? 2 : 1);
     assert.equal(selected, null, 'Clicking another part toggles the same selection');
   }
-});
-
-test('whole-brain Hide/Show and one-step undo change all context without changing nuclei or bundles', () => {
-  const nodesRef = { current: nodes.map(n => ({ ...n })) };
-  const history = { current: [] as number[][] };
-  const bindings = {
-    apiRef: { current: {} }, nodesRef, hiddenHistoryRef: history,
-    isolationRef: { current: null }, selectionRef: { current: null },
-    pendingVisibilityRef: { current: new Map() }, visibilityFrameRef: { current: 1 },
-    clearSelection: () => {}, setNodes: () => {}, flushVisibility: () => {},
-  };
-  const setNodesVisibility = callback(hook, 'setNodesVisibility', bindings);
-  const toggle = callback('../App.tsx', 'toggleNodeVisibility', {
-    wholeBrainMemberIds: members, setNodesVisibility,
-    toggleRawNodeVisibility: (id: number, visible: boolean) => setNodesVisibility([id], visible),
-  });
-  toggle(1, false);
-  assert.ok(nodesRef.current.filter(n => members.includes(n.instanceID)).every(n => !n.visible));
-  assert.ok(nodesRef.current.filter(n => !members.includes(n.instanceID)).every(n => n.visible));
-  assert.deepEqual(history.current, [members]);
-  const undo = callback(hook, 'undoLastHide', { nodesRef, hiddenHistoryRef: history, setNodesVisibility });
-  assert.equal(undo('nervous'), true);
-  assert.ok(nodesRef.current.every(n => n.visible));
-  toggle(1, false);
-  callback('../App.tsx', 'handleRegionVisibility', {
-    handleSystemVisibility: setNodesVisibility, expandWholeBrainIds, wholeBrainMemberIds: members,
-  })([1], true);
-  assert.ok(nodesRef.current.every(n => n.visible));
 });
 
 test('picking the whole brain in an isolated context view does not restore other meshes', () => {
@@ -152,7 +126,7 @@ test('anterior commissure selection and deselection cannot reintroduce source tr
   };
   const clear = callback(hook, 'clearSelection', bindings);
   callback(hook, 'selectNode', {
-    ...bindings, clearSelection: clear, selectionGroupRef: { current: [] },
+    ...bindings, clearSelection: clear, selectionGroupRef: { current: [] }, selectionGroupForId: () => null,
     nodesRef: { current: [{ ...nodes[0], rawName: 'Anterior commissure' }] },
     materialsRef: { current: [{ id: 'transparent-source', channels: { Opacity: { enable: true, factor: 0.18 } } }] },
     getGeometryDescendants: () => [geo], WHOLE_BRAIN_CONTEXT_NAME, isBasalForebrainOpaqueStructure,

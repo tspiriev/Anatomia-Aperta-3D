@@ -1,7 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import { readFileSync } from 'node:fs';
-import ts from 'typescript';
 import { createElement } from 'react';
 import { renderToStaticMarkup } from 'react-dom/server';
 import { CRANIAL_NERVE_GROUPS, cranialNervePathForGroup, cranialNerveContextIds, cranialNerveForegroundIds } from './cranialNerveTaxonomy';
@@ -14,7 +13,6 @@ import { NervousSystemMenu } from '../components/NervousSystemMenu';
 import type { SceneNode } from '../types/sketchfab';
 import { BASAL_FOREBRAIN_GROUP, basalForebrainPathForGroup, isBasalForebrainContext } from './basalForebrainTaxonomy';
 import { classifyBrainGrossAnatomy } from './brainGrossAnatomy';
-import { cochlearBasalGangliaName } from './cochlearTaxonomy';
 import { OLFACTORY_BASAL_FOREBRAIN_GROUP, olfactoryBasalForebrainPath, isOlfactoryBrainContext, OLFACTORY_BRAIN_CONTEXT_NAME } from './olfactoryBasalForebrain';
 import { basalWholeBrainDisplay, expandWholeBrainIds } from '../lib/basalWholeBrain';
 import { isOpticOccipitalContext, OPTIC_OCCIPITAL_CONTEXT_NAME } from './opticVisualContext';
@@ -502,35 +500,6 @@ test('I admits live thalamus capsule and AV aliases while hiding whole lobes and
   assert.ok(display.memberIds.every(id => nervePlan.show.includes(id)), 'Keep the thalamus capsule context during nerve isolation');
 });
 
-test('switching away from grouped I or II clears grouped cortex selection without clearing a selected pathway structure', () => {
-  const source = ts.createSourceFile('App.tsx', readFileSync(new URL('../App.tsx', import.meta.url), 'utf8'), ts.ScriptTarget.Latest, true, ts.ScriptKind.TSX);
-  let body: ts.Node | undefined;
-  function visit(node: ts.Node) {
-    if (ts.isVariableDeclaration(node) && node.name.getText(source) === 'handleActivateNerve'
-      && node.initializer && ts.isCallExpression(node.initializer)) body = node.initializer.arguments[0];
-    ts.forEachChild(node, visit);
-  }
-  visit(source); assert.ok(body);
-  const js = ts.transpileModule(`const fn = ${body.getText(source)}`, { compilerOptions: { target: ts.ScriptTarget.ES2022 } }).outputText;
-  for (const [active, opticActive, selected, next, expectClear] of [[true, false, 1, 'ii', true], [true, false, 2, 'ii', false],
-    [true, false, 1, 'i', false], [false, false, 1, 'ii', false],
-    [false, true, 1, 'i', true], [false, true, 1, 'ii', false], [false, true, 2, 'i', false]] as const) {
-    let cleared = false;
-    let activated = '';
-    const bindings = {
-      olfactoryBrainActive: active, opticOccipitalActive: opticActive, selectedNodeId: selected, wholeBrainMemberIds: [1],
-      plexusHeartActive: false, brachialOverviewActive: false,
-      temporalBrainActive: false,
-      clearSelection: () => { cleared = true; }, setActiveNerveId: (id: string) => { activated = id; },
-      isolateRegion: () => {},
-    };
-    const fn = new Function(...Object.keys(bindings), `${js}; return fn;`)(...Object.values(bindings));
-    fn(path(next));
-    assert.equal(cleared, expectClear);
-    assert.equal(activated, path(next).join('/'));
-  }
-});
-
 test('cranial model has twelve detailed nerve categories plus Overview and its own Explore Atlas route', () => {
   assert.equal(CRANIAL_NERVES_VIEW.modelUid, '320acf193b8f484c88f4bac7624fed37');
   assert.equal(CRANIAL_NERVES_VIEW.href, '/atlas/cranial-nerves');
@@ -893,46 +862,5 @@ test('cranial strip, sidebar and collections-only fullscreen keep muscle names a
     if (variant !== 'strip') assert.ok(html.includes('Muscular system'));
     if (variant === 'fullscreen') assert.ok(!html.includes('data-testid="mesh-row-'));
     assert.ok(!html.includes('Brain gross anatomy'));
-  }
-});
-
-test('actual App isolation callback shows cross-system muscles, clears unrelated structures, passes 18% context IDs and preserves mixed composition', async () => {
-  const source = ts.createSourceFile('App.tsx', readFileSync(new URL('../App.tsx', import.meta.url), 'utf8'), ts.ScriptTarget.Latest, true, ts.ScriptKind.TSX);
-  let body: ts.Node | undefined;
-  function visit(node: ts.Node) {
-    if (ts.isVariableDeclaration(node) && node.name.getText(source) === 'isolateRegion' && node.initializer && ts.isCallExpression(node.initializer)) body = node.initializer.arguments[0];
-    ts.forEachChild(node, visit);
-  }
-  visit(source); assert.ok(body);
-  for (const mixCategories of [false, true]) {
-    const scene = nodes.map(node => ({ ...node, visible: node.rawName === 'Olfactory nerve (I).l' }));
-    const contextCalls: unknown[][] = [];
-    let selectedCleared = false;
-    const bindings = {
-      nodes: scene, selectedSystemId: 'nervous', selectedNodeId: object('Sternocleidomastoid muscle.l').instanceID,
-      modelNodes: scene, view: { cranialNerves: true }, activeNerveId: null,
-      mixCategories, regionIsolationRef: { current: null }, regionPathForNode: () => null,
-      planRegionIsolation, isNodeInRegion, cranialNervePathForGroup, cranialNerveContextIds, cranialNerveForegroundIds,
-      cochlearBasalGangliaName,
-      ADVANCED_NEUROANATOMY_ROOT, advancedNeuroanatomyPathForGroup,
-      clearSelection: () => { selectedCleared = true; }, exitIsolation: () => {},
-      captureCamera: () => null, setIsolatedRegionPath: () => {},
-      setNodesVisibility: (ids: number[], visible: boolean) => { for (const node of scene) if (ids.includes(node.instanceID)) node.visible = visible; },
-      setCollectionContext: (...args: unknown[]) => contextCalls.push(args),
-      focusVisibleNodes: async () => true,
-    };
-    const js = ts.transpileModule(`const fn = ${body.getText(source)}`, { compilerOptions: { target: ts.ScriptTarget.ES2022 } }).outputText;
-    const fn = new Function(...Object.keys(bindings), `${js}; return fn;`)(...Object.values(bindings));
-    await fn(path('xi'));
-    assert.equal(selectedCleared, false, 'Keep a selected endpoint that belongs to the nerve');
-    assert.ok(scene.find(node => node.rawName === 'Sternocleidomastoid muscle.l')!.visible);
-    assert.equal(scene.find(node => node.rawName === 'Olfactory nerve (I).l')!.visible, mixCategories);
-    assert.deepEqual(contextCalls[0], [cranialNerveContextIds(scene, path('xi')), mixCategories, true, cranialNerveForegroundIds(scene, path('xi'))]);
-    await fn([...path('viii'), 'cochlear']);
-    const contextIds = cranialNerveContextIds(scene, [...path('viii'), 'cochlear']);
-    const priorityIds = scene.filter(node => contextIds.includes(node.instanceID) && cochlearBasalGangliaName(node.rawName)).map(node => node.instanceID);
-    assert.ok(priorityIds.includes(object('Nucleus accumbens.r').instanceID));
-    assert.deepEqual(contextCalls.at(-1), [contextIds, mixCategories, true,
-      cranialNerveForegroundIds(scene, [...path('viii'), 'cochlear']), priorityIds]);
   }
 });

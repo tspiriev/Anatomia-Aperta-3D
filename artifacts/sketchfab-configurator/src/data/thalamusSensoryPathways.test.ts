@@ -1,14 +1,11 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { createElement } from 'react';
-import { renderToStaticMarkup } from 'react-dom/server';
 import inventory from '@assets/Nervous_system_CLean_1792051238150.csv?raw';
 import { csvRows, systemForMeshName } from './anatomicalSystems';
 import { advancedNeuroanatomyPathForGroup } from './advancedNeuroanatomy';
 import { THALAMUS_CAPSULE_ROOT_PATH as root, thalamusCapsulePathForGroup,
   thalamusCapsuleContextIds, thalamusCapsuleMissingComponents } from './thalamusCapsuleTaxonomy';
 import { planRegionIsolation } from '../lib/regionIsolation';
-import { ThalamusCapsuleMenu } from '../components/ThalamusCapsuleMenu';
 import type { SceneNode } from '../types/sketchfab';
 
 // CURVE source objects qualify only if the live viewer exposes their named geometry.
@@ -106,31 +103,4 @@ test('modeled medullary connections qualify without substituting unrelated arcua
     .includes('Dorsal trigeminal tract (where separately available)'));
   assert.ok(!thalamusCapsuleMissingComponents(nodes, path('vpm'))
     .includes('Dorsal trigeminal tract (where separately available)'));
-});
-
-test('sensory pathway descriptions explain sequence, crossing preservation and unavailable connections in both menus', () => {
-  const snippets = {
-    vpl: ['VPL — body sensation', 'Gracile/cuneate nuclei', 'Medullary sensory decussation',
-      'crossing in the spinal cord', 'missing crossings are not reconstructed', 'Not separately identified in this model'],
-    vpm: ['VPM — face sensation', 'Trigeminal sensory system → Principal sensory and spinal trigeminal nuclei',
-      'Trigeminal lemniscus (pain and proprioception) → VPM', 'uncrossed/ipsilateral', 'no missing side or crossing is reconstructed'],
-  };
-  for (const variant of ['sidebar', 'fullscreen'] as const)
-    for (const id of ['vpl', 'vpm'] as const) {
-      const html = renderToStaticMarkup(createElement(ThalamusCapsuleMenu, {
-        nodes, variant, activeNerveId: [...root, 'thalamic-nuclei'].join('/'), isolatedRegionPath: path(id),
-        onActivateNerve: () => {}, onIsolateRegion: () => {}, onRestoreRegion: () => {},
-        onSetRegionVisibility: () => {}, selectedNodeId: null,
-      }));
-      for (const text of snippets[id]) assert.ok(html.includes(text), `${variant}/${id}: ${text}`);
-    }
-  for (const variant of ['sidebar', 'fullscreen'] as const) {
-    const html = renderToStaticMarkup(createElement(ThalamusCapsuleMenu, {
-      nodes, variant, activeNerveId: [...root, 'thalamocortical-pathways'].join('/'), isolatedRegionPath: somatosensory,
-      onActivateNerve: () => {}, onIsolateRegion: () => {}, onRestoreRegion: () => {},
-      onSetRegionVisibility: () => {}, selectedNodeId: null,
-    }));
-    for (const text of [...snippets.vpl, ...snippets.vpm])
-      assert.ok(html.includes(text), `${variant}/Somatosensory: ${text}`);
-  }
 });

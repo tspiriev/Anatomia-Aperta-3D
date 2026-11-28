@@ -1,29 +1,10 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import { readFileSync } from 'node:fs';
-import { registerHooks } from 'node:module';
 import { createElement } from 'react';
 import { renderToStaticMarkup } from 'react-dom/server';
+import { HomeNavigationIllustrations } from './HomeNavigationIllustrations';
 
-// Keep these illustrative UI checks offline: Vite normally supplies styles
-// and asset URLs; the shared viewer test loader already handles image files.
-registerHooks({
-  resolve(specifier, context, next) {
-    if (specifier.startsWith('@/assets/')) {
-      return {
-        url: new URL(`../../assets/${specifier.slice('@/assets/'.length)}`, import.meta.url).href,
-        shortCircuit: true,
-      };
-    }
-    return next(specifier, context);
-  },
-  load(url, context, next) {
-    if (url.endsWith('.css')) return { format: 'module', source: 'export {};', shortCircuit: true };
-    return next(url, context);
-  },
-});
-
-const { HomeNavigationIllustrations } = await import('./HomeNavigationIllustrations');
 const render = () => renderToStaticMarkup(createElement(HomeNavigationIllustrations));
 
 test('homepage explains all three navigation methods without an embedded video', () => {

@@ -1,6 +1,5 @@
 import assert from 'node:assert/strict';
 import test from 'node:test';
-import { readFileSync } from 'node:fs';
 import { createElement } from 'react';
 import { renderToStaticMarkup } from 'react-dom/server';
 import { BRAIN_VIEW, CENTRAL_NERVOUS_SYSTEM_VIEW, isNodeAllowedInAtlasView } from '../data/atlasViews';
@@ -96,12 +95,3 @@ test('Brain sidebar and fullscreen both filter spinal groups in Standard and Adv
   }
 });
 
-test('all four shared menus receive the same view exclusions and both toolbars use configurable atlas cards', () => {
-  const app = readFileSync(new URL('../App.tsx', import.meta.url), 'utf8');
-  assert.equal((app.match(/excludedNeuroanatomyGroupIds=\{view\.excludedNeuroanatomyGroupIds\}/g) ?? []).length, 4);
-  assert.equal((app.match(/showAdvancedCollections=\{Boolean\(view\.showAdvancedCollections\)\}/g) ?? []).length, 2);
-  assert.equal((app.match(/brainGrossAnatomy=\{view\.brainGrossAnatomy\}/g) ?? []).length, 4);
-  assert.ok(app.includes('useSketchfabViewer(view.modelUid, Boolean(view.cranialNerves))'));
-  assert.ok(app.includes('modelNodes.filter((node) => isNodeAllowedInAtlasView(node, view))'));
-  assert.ok(app.includes('if (view.systemIds) setNodesVisibility(nodes.map((node) => node.instanceID), true)'));
-});

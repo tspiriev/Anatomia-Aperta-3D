@@ -10,9 +10,12 @@ and educational value.
 
 Anatomia Aperta 3D would not have been possible without the work of the anatomists, researchers, 3D artists, and
 developers who created these resources and made them available to the scientific and educational community.
-* Links to BodyParts3D/Anatomography: https://lifesciencedb.jp/bp3d/
-* Link to Z-Anatomy (official webpage and Github
-repository): https://www.z-anatomy.com/, https://sketchfab.com/Z-Anatomy, https://github.com/Z-Anatomy
+
+* [BodyParts3D/Anatomography](https://lifesciencedb.jp/bp3d/)
+* Z-Anatomy:
+    * [Official webpage](https://www.z-anatomy.com/)
+    * [Github repository](https://github.com/Z-Anatomy)
+    * [Sketchfab](https://sketchfab.com/Z-Anatomy)
 
 ## Purpose of the Project
 
@@ -51,11 +54,11 @@ be found in a separate file, [`MODIFICATIONS.md`](MODIFICATIONS.md).
 Important: Anatomia Aperta 3D is derived in substantial part from BodyParts3D/Anatomography and Z-Anatomy. The original
 creators and projects must be appropriately acknowledged.
 
-| Part of the repository | License |
-| --- | --- |
-| Source code of the web viewer (`artifacts/`), build scripts and configuration | [MIT](LICENSE-CODE) |
-| Anatomical models and model data (`attached_assets/`) | [CC BY-SA 4.0](LICENSE.md) |
-| Third-party source material (BodyParts3D/Anatomography, Z-Anatomy) | Original licenses, see [`ATTRIBUTION.md`](ATTRIBUTION.md) |
+| Part of the repository                                                        | License                                                   |
+|-------------------------------------------------------------------------------|-----------------------------------------------------------|
+| Source code of the web viewer (`artifacts/`), build scripts and configuration | [MIT](LICENSE-CODE)                                       |
+| Anatomical models and model data (`attached_assets/`)                         | [CC BY-SA 4.0](LICENSE.md)                                |
+| Third-party source material (BodyParts3D/Anatomography, Z-Anatomy)            | Original licenses, see [`ATTRIBUTION.md`](ATTRIBUTION.md) |
 
 The distributed anatomical models are provided under the same applicable licensing terms as the
 BodyParts3D/Anatomography source material.
@@ -76,25 +79,31 @@ Prerequisites: Node.js 24 or newer and [pnpm](https://pnpm.io) 12 or newer (npm 
 
 ```sh
 pnpm install
-pnpm --filter @anatomia-aperta/viewer dev     # dev server on http://127.0.0.1:5173
-pnpm typecheck                                # type-check all packages
-pnpm test                                     # unit tests (node:test)
-pnpm build                                    # production build in artifacts/sketchfab-configurator/dist/public
+pnpm --filter @anatomia-aperta/viewer dev        # dev server on http://127.0.0.1:5173
+pnpm typecheck                                   # type-check all packages
+pnpm test                                        # unit tests (node:test)
+pnpm build                                       # production build in artifacts/sketchfab-configurator/dist/public
 pnpm --filter @anatomia-aperta/viewer test:seo   # check the pre-rendered pages (run after build)
 ```
 
 Optional environment variables:
 
-| Variable | Default | Purpose |
-| --- | --- | --- |
-| `PORT` | `5173` | Port for the dev and preview servers |
-| `BASE_PATH` | `/` | Public base path the app is served from |
+| Variable    | Default | Purpose                                 |
+|-------------|---------|-----------------------------------------|
+| `PORT`      | `5173`  | Port for the dev and preview servers    |
+| `BASE_PATH` | `/`     | Public base path the app is served from |
 
 See [`CONTRIBUTING.md`](CONTRIBUTING.md) for how to contribute code or report anatomical errors.
 
-## About the Author
+## About the Authors
 
 Toma Spiriev, MD, PhD, FEBNS is a neurosurgeon with a particular interest in surgical anatomy, 3D anatomical
 visualization, photogrammetry, VR. Apart from Anatomia Aperta 3D, please visit our other open-access project,
 [3D Atlas of Neurological Surgery](https://3datlasofneurologicalsurgery.org), an interactive 3D atlas based on
 photorealistic anatomical models derived from anatomical dissections.
+
+Ivan Angelov, PhD is a physicist turned software developer, who is striving to apply his experience in the
+software industry to a good cause. His contribution to Anatomia Aperta 3D was to polish its Replit codebase, so it can
+be open-sourced and developed further independent of the original platform. Ivan is also the person behind
+the [stereoscopic section](https://3datlasofneurologicalsurgery.org/3d-stereo-anatomy/)
+of [3D Atlas of Neurological Surgery](https://3datlasofneurologicalsurgery.org).

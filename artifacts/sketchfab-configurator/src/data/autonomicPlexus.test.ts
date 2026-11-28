@@ -5,6 +5,7 @@ import { createElement } from 'react';
 import { renderToStaticMarkup } from 'react-dom/server';
 import { AUTONOMIC_GROUPS, AUTONOMIC_ROOT_PATH, AUTONOMIC_SOURCE_OBJECTS,
   autonomicPathForGroup, autonomicContextIds, autonomicForegroundIds } from './autonomicTaxonomy';
+import { vagusContextSystem } from './vagusTargets';
 import { PLEXUS_HEART_CONTEXT_NAME, isPlexusHeartNode, plexusContextSystem } from './autonomicPlexusContext';
 import { systemForMeshName } from './anatomicalSystems';
 import { classifyCardiovascularObject } from './cardiovascularTaxonomy';
@@ -197,8 +198,12 @@ test('aortic trunks and reviewed abdominal vessels appear in their plexus subgro
         assert.ok(isNodeInRegion(node, scope, () => null), rawName);
         assert.deepEqual(autonomicContextIds([node], scope), [node.instanceID], rawName);
         assert.deepEqual(autonomicForegroundIds([node], scope), [], rawName);
-        for (const category of ['sympathetic', 'parasympathetic', 'head-neck', 'enteric']) {
-          assert.equal(autonomicPathForGroup(node, [...AUTONOMIC_ROOT_PATH, category]), null, rawName);
+        // Sympathetic vessel membership is covered by autonomicSympatheticVessels.test.ts.
+        for (const category of ['parasympathetic', 'head-neck', 'enteric']) {
+          // Reviewed thoracic great vessels are also vagus context; abdominal vessels are not.
+          const expected = category === 'parasympathetic' && vagusContextSystem(rawName) === 'vascular'
+            ? [...AUTONOMIC_ROOT_PATH, 'parasympathetic', 'vagus', 'thoracic-vessels'] : null;
+          assert.deepEqual(autonomicPathForGroup(node, [...AUTONOMIC_ROOT_PATH, category]), expected, rawName);
         }
       }
     }
@@ -237,6 +242,10 @@ test('plexus context keeps source ownership and export aliases without confusing
   for (const name of ['Right coronary artery', 'Right ventricle', 'Aortic arch']) {
     assert.equal(object(name).systemId, 'vascular', name);
     for (const category of ['sympathetic', 'parasympathetic', 'head-neck', 'enteric']) {
+      if (category === 'parasympathetic' && vagusContextSystem(name) === 'vascular') {
+        assert.deepEqual(autonomicPathForGroup(object(name), [...AUTONOMIC_ROOT_PATH, category]), [...AUTONOMIC_ROOT_PATH, 'parasympathetic', 'vagus', 'thoracic-vessels'], name);
+        continue;
+      }
       if (name === 'Aortic arch' && category === 'head-neck') {
         assert.ok(autonomicPathForGroup(object(name), [...AUTONOMIC_ROOT_PATH, category]));
         continue;

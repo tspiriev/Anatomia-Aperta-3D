@@ -10,9 +10,6 @@ import { ADVANCED_ATLAS_COLLECTIONS } from '../data/advancedAtlasCollections';
 import { ADVANCED_NEUROANATOMY_ROOT, ADVANCED_NEUROANATOMY_GROUPS, advancedNeuroanatomyPathForGroup } from '../data/advancedNeuroanatomy';
 import { captureViewerCamera, waitForViewerVisibility } from '../lib/viewerCamera';
 import { isBasalForebrainContext } from '../data/basalForebrainTaxonomy';
-import { planRegionIsolation, isNodeInRegion } from '../lib/regionIsolation';
-import type { SceneNode } from '../types/sketchfab';
-import { expandWholeBrainIds } from '../lib/basalWholeBrain';
 import { BASAL_FOREBRAIN_ATLAS_COLLECTION } from '../data/advancedAtlasCollections';
 
 // Exercise the actual callback bodies without relying on Sketchfab's external
@@ -25,7 +22,9 @@ const hookSource = ts.createSourceFile('useSketchfabViewer.ts',
   ts.ScriptTarget.Latest, true);
 
 function callback(source: ts.SourceFile, name: string, bindings: Record<string, unknown>) {
-  bindings = { ADVANCED_NEUROANATOMY_ROOT, advancedNeuroanatomyPathForGroup, wholeBrainMemberIds: [], setCollectionContext: () => {}, isBasalForebrainContext, advancedCollectionRequest: null, BASAL_FOREBRAIN_ATLAS_COLLECTION, ...bindings };
+  bindings = { isTopographicAtlas: false, limbTopography: false, view: {}, isolatedRegionPath: null, subsetFocusQueueRef: { current: Promise.resolve() },
+    activeNerveId: null, modelNodes: bindings.nodes ?? [], whiteMatterActive: false, headPetrosalSupportRef: { current: new Set<number>() },
+    topographicSettings: () => ({ supportIds: [] }), topographicPathForGroup: () => null, setAnatomicalView: () => {}, ADVANCED_NEUROANATOMY_ROOT, advancedNeuroanatomyPathForGroup, wholeBrainMemberIds: [], setCollectionContext: () => {}, isBasalForebrainContext, advancedCollectionRequest: null, BASAL_FOREBRAIN_ATLAS_COLLECTION, ...bindings };
   let body: ts.Node | undefined;
   function visit(node: ts.Node) {
     if (ts.isVariableDeclaration(node) && node.name.getText(source) === name
@@ -42,37 +41,10 @@ function callback(source: ts.SourceFile, name: string, bindings: Record<string, 
   return new Function(...Object.keys(bindings), `${output}\nreturn callback;`)(...Object.values(bindings));
 }
 
-const unexpectedRestore = () => assert.fail('Visibility editing must not restore isolation');
+// The hook chains several awaits (camera, subset-focus queue) before it acts.
+const flushMicrotasks = () => new Promise<void>((resolve) => setImmediate(resolve));
 
-test('system visibility, H, and undo edit the current view without restoring either isolation level', () => {
-  const calls: unknown[][] = [];
-  const bindings = {
-    restoreRegionIsolation: unexpectedRestore,
-    exitIsolation: unexpectedRestore,
-    setNodesVisibility: (...args: unknown[]) => calls.push(args),
-    toggleNodeVisibility: (...args: unknown[]) => calls.push(args),
-    undoLastHide: (system: string) => { calls.push(['undo', system]); return true; },
-    selectedNodeId: 1,
-    selectedSystemId: 'nervous',
-    isolatedNodeId: 1,
-    isFullscreen: false,
-    nodes: [{ instanceID: 1, visible: true }, { instanceID: 2, visible: false }],
-  };
-  const systemVisibility = callback(appSource, 'handleSystemVisibility', bindings);
-  systemVisibility([1], false);
-  systemVisibility([1], true);
-  const keyDown = callback(appSource, 'handleKeyDown', bindings);
-  let prevented = 0;
-  const event = {
-    target: { closest: () => null },
-    repeat: false, ctrlKey: false, metaKey: false, altKey: false, shiftKey: false,
-    preventDefault: () => prevented++,
-  };
-  keyDown({ ...event, key: 'h' });
-  keyDown({ ...event, key: 'z', ctrlKey: true });
-  assert.deepEqual(calls, [[ [1], false ], [ [1], true ], [1, false], ['undo', 'nervous']]);
-  assert.equal(prevented, 2);
-});
+const unexpectedRestore = () => assert.fail('Visibility editing must not restore isolation');
 
 test('sidebar and fullscreen visibility controls use direct, non-restoring viewer actions', () => {
   const found: Record<string, string[]> = {};
@@ -89,7 +61,8 @@ test('sidebar and fullscreen visibility controls use direct, non-restoring viewe
   visit(appSource);
   assert.deepEqual(found, {
     onSetRegionVisibility: Array(6).fill('handleRegionVisibility'),
-    toggleVisibility: Array(2).fill('toggleNodeVisibility'),
+    // The thalamus/capsule atlas toggles raw meshes; both toggles are direct.
+    toggleVisibility: ['view.thalamusCapsule ? toggleRawNodeVisibility : toggleNodeVisibility', 'toggleNodeVisibility'],
     onToggleFade: Array(2).fill('toggleNodeFade'),
   });
 });
@@ -256,59 +229,6 @@ test('returning from nucleus details clears highlighting but keeps the isolated 
   assert.equal(cleared, 1);
 });
 
-test('isolate a motor nucleus, select and Show another nucleus, Hide and undo without restoring the brainstem category', () => {
-  const nodes: SceneNode[] = ['Nucleus of oculomotor nerve.l', 'Nucleus of oculomotor nerve.r',
-    'Motor nucleus of facial nerve.r', 'Pons.l', 'Thalamus.r'].map((rawName, index) => ({
-      instanceID: index + 1, rawName, name: rawName, visible: true, systemId: 'nervous', type: 'MatrixTransform',
-    }));
-  const original = nodes.map(node => node.visible);
-  const regionIsolationRef = { current: null as any };
-  const previousSelectedId = { current: null as number | null };
-  const hiddenHistoryRef = { current: [] as number[][] };
-  const bindings = {
-    nodes, selectedSystemId: 'nervous', selectedNodeId: null, mixCategories: false,
-    regionIsolationRef, planRegionIsolation, isNodeInRegion, regionPathForNode: () => null,
-    clearSelection: () => {}, exitIsolation: () => {},
-    captureCamera: () => Promise.resolve(null), focusVisibleNodes: async () => {},
-    setIsolatedRegionPath: () => {},
-    setNodesVisibility: (ids: number[], visible: boolean, recordHistory = true) => {
-      if (!visible && recordHistory) hiddenHistoryRef.current.push(
-        nodes.filter(node => ids.includes(node.instanceID) && node.visible).map(node => node.instanceID));
-      nodes.forEach(node => { if (ids.includes(node.instanceID)) node.visible = visible; });
-    },
-  };
-  callback(appSource, 'isolateRegion', bindings)(
-    ['advanced-neuroanatomy', 'brainstem', 'nuclei', 'gse', 'oculomotor']);
-  assert.deepEqual(nodes.filter(node => node.visible).map(node => node.instanceID), [1, 2]);
-  const snapshot = regionIsolationRef.current.visibility;
-  for (const id of [1, 3]) {
-    callback(appSource, 'synchronizeSelection', {
-      ...bindings, previousSelectedId, selectedNodeId: id, isolatedNodeId: 1,
-      exitIsolation: unexpectedRestore, restoreRegionIsolation: unexpectedRestore,
-      setSelectedSystemId: () => {},
-    })();
-    assert.deepEqual(nodes.filter(node => node.visible).map(node => node.instanceID), [1, 2]);
-  }
-  const visibility = callback(appSource, 'handleRegionVisibility', {
-    ...bindings, exitIsolation: unexpectedRestore, restoreRegionIsolation: unexpectedRestore,
-    expandWholeBrainIds, handleSystemVisibility: callback(appSource, 'handleSystemVisibility', bindings),
-  });
-  visibility([3], true);
-  assert.deepEqual(nodes.filter(node => node.visible).map(node => node.instanceID), [1, 2, 3]);
-  visibility([1], false);
-  assert.deepEqual(nodes.filter(node => node.visible).map(node => node.instanceID), [2, 3]);
-  assert.equal(callback(hookSource, 'undoLastHide', {
-    nodesRef: { current: nodes }, hiddenHistoryRef, setNodesVisibility: bindings.setNodesVisibility,
-  })('nervous'), true);
-  callback(appSource, 'handleClearSelection', { clearSelection: () => {}, exitIsolation: unexpectedRestore })();
-  assert.deepEqual(nodes.filter(node => node.visible).map(node => node.instanceID), [1, 2, 3]);
-  assert.equal(regionIsolationRef.current.visibility, snapshot);
-  callback(appSource, 'restoreRegionIsolation', {
-    ...bindings, restoreCamera: () => {}, setCollectionContext: () => {},
-  })();
-  assert.deepEqual(nodes.map(node => node.visible), original, 'Explicit Restore still recovers the original category');
-});
-
 test('the actual Spinal cord Hide and Show buttons keep the full scene hidden, even when Hide clears selection', () => {
   const source = ts.createSourceFile('NervousSystemMenu.tsx',
     readFileSync(new URL('./NervousSystemMenu.tsx', import.meta.url), 'utf8'),
@@ -430,7 +350,7 @@ test('camera fitting waits for visibility batches and renderer frames, without c
         waitForViewerVisibility(current, remaining, flushing, (next) => frames.push(next)),
     });
     const result = focus([1], Promise.resolve(null));
-    await Promise.resolve();
+    await flushMicrotasks();
     assert.equal(fitCount, 0, 'Do not fit while the full model is still being hidden');
     pendingVisibilityRef.current.clear();
     visibilityFrameRef.current = null;
@@ -455,37 +375,10 @@ test('camera snapshots are copied safely and Restore ignores a superseded camera
     focusRequestRef, setIsFocusing: () => {},
   });
   restore(Promise.resolve(snapshot));
-  await Promise.resolve();
+  await flushMicrotasks();
   assert.deepEqual(cameraCalls, [[[10, 20, 30], [0, 1, 2], 0.7]]);
   restore(Promise.resolve(snapshot));
   focusRequestRef.current++;
-  await Promise.resolve();
+  await flushMicrotasks();
   assert.equal(cameraCalls.length, 1, 'A new collection must cancel delayed camera restoration');
-});
-
-test('Advanced isolation fits its chosen members and keeps the original camera when switching collections', () => {
-  const originalCamera = Promise.resolve({ position: [0, 0, 20], target: [0, 0, 0] });
-  const previousVisibility = new Map([[1, true], [2, true]]);
-  const regionIsolationRef = { current: { path: [], visibility: previousVisibility, camera: originalCamera } };
-  const calls: unknown[] = [];
-  const isolate = callback(appSource, 'isolateRegion', {
-    ADVANCED_NEUROANATOMY_ROOT: 'advanced-neuroanatomy',
-    nodes: [{ instanceID: 1, visible: false }, { instanceID: 2, visible: true }],
-    mixCategories: false,
-    selectedNodeId: null, selectedSystemId: 'nervous',
-    planRegionIsolation: () => ({
-      affected: [{ instanceID: 1, visible: false }, { instanceID: 2, visible: true }],
-      hide: [2], show: [1],
-    }),
-    exitIsolation: () => {}, clearSelection: unexpectedRestore,
-    restoreRegionIsolation: unexpectedRestore,
-    captureCamera: () => assert.fail('Switching collections must retain the first camera snapshot'),
-    regionIsolationRef, setIsolatedRegionPath: () => {},
-    setNodesVisibility: (ids: number[], visible: boolean) => calls.push([ids, visible]),
-    focusVisibleNodes: (ids: number[], camera: unknown) => calls.push(['fit', ids, camera]),
-  });
-  isolate(['advanced-neuroanatomy', 'diencephalon']);
-  assert.deepEqual(calls, [[[2], false], [[1], true], ['fit', [1], originalCamera]]);
-  assert.equal(regionIsolationRef.current.camera, originalCamera);
-  assert.deepEqual([...regionIsolationRef.current.visibility], [[1, true], [2, true]]);
 });

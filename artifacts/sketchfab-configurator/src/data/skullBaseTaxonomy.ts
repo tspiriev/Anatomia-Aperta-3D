@@ -290,8 +290,6 @@ function nuclearEntry(group: NervousGroup, allowed = cranialNuclearLeaves): Entr
     const suffix = child.id.split('/').slice(3).join('/');
     return [...allowed].some(leaf => leaf === suffix || leaf.startsWith(`${suffix}/`));
   }).map(child => nuclearEntry(child, allowed));
-  if (id === 'gsa' && allowed.has('gsa/principal-trigeminal'))
-    children?.push({ id: 'principal-trigeminal', label: 'Principal sensory trigeminal nucleus' });
   return { id, label: id === 'nuclei' ? 'Cranial nerve nuclei' : group.label,
     ...(children ? { children } : {}) };
 }

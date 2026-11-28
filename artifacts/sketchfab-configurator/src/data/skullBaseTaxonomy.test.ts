@@ -343,7 +343,7 @@ test('anterior fossa exposes trigeminal, oculomotor, trochlear and abducens nucl
   assert.deepEqual(group.children?.map(g => g.id.split('/').at(-1)), ['gse', 'gve', 'gsa']);
   assert.deepEqual(group.children?.flatMap(g => g.children?.map(c => c.id.split('/').slice(-2).join('/')) ?? []),
     ['gse/oculomotor', 'gse/trochlear', 'gse/abducens', 'gve/edinger-westphal', 'gsa/mesencephalic-trigeminal',
-      'gsa/spinal-trigeminal', 'gsa/principal-trigeminal']);
+      'gsa/principal-trigeminal', 'gsa/spinal-trigeminal']);
   const examples = [
     ['Nucleus of oculomotor nerve', 'gse', 'oculomotor'],
     ['Nucleus of trochlear nerve', 'gse', 'trochlear'],

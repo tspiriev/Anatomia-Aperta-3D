@@ -14,7 +14,7 @@ import { formatAnatomicalName } from '../lib/anatomicalDisplayName';
 
 const vPath = earPath.slice(0, 3);
 const sourceNames = new Set([
-  'First_combinedblend_1790673921246.csv', 'Nervous_system_CLean_1791612986964.csv',
+  'First_combinedblend_1790668070052.csv', 'Nervous_system_CLean_1791612986964.csv',
   '0_Final_Muscles_fused__1791947151699.csv', 'Skeletal_system_and_muscle_attachments_1792221386788.csv',
 ].flatMap(file => [...csvRows(readFileSync(new URL(`../../../../attached_assets/${file}`, import.meta.url), 'utf8'))]
   .filter(row => row[0] === 'OBJECT').map(row => row[4])));

@@ -13,7 +13,7 @@ const collections = new Set([
   'NS_02_SPINAL_CORD', 'NS_02_GRAY_MATTER', 'NS_03_GENERAL_WHITE_MATTER',
   'NS_04_ASCENDING_SENSORY_TRACTS', 'NS_05_DESCENDING_MOTOR_TRACTS', 'NS_06_OTHER_TRACTS',
 ]);
-const sourceNames = readFileSync(new URL('../../../../attached_assets/Nervous_system_CLean_1791545005178.csv', import.meta.url), 'utf8')
+const sourceNames = readFileSync(new URL('../../../../attached_assets/Nervous_system_CLean_1792051238150.csv', import.meta.url), 'utf8')
   .split(/\r?\n/).map((line) => line.split(','))
   .filter((row) => row[0] === 'OBJECT' && collections.has(row[1])).map((row) => row[4]);
 const root = ['advanced-neuroanatomy', 'spinal-cord'];

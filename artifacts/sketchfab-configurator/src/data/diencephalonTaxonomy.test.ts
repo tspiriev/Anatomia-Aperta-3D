@@ -9,7 +9,7 @@ import type { NervousGroup } from './nervousTaxonomy';
 
 // These selected source rows contain no quoted fields or embedded commas.
 const sourceCollections = new Set(['Thalamus', 'NS_04_DIENCEPHALON', 'NS_03_BASAL_GANGLIA']);
-const sourceNames = readFileSync(new URL('../../../../attached_assets/Nervous_system_CLean_1791545005178.csv', import.meta.url), 'utf8')
+const sourceNames = readFileSync(new URL('../../../../attached_assets/Nervous_system_CLean_1792051238150.csv', import.meta.url), 'utf8')
   .split(/\r?\n/).map((line) => line.split(','))
   .filter((row) => row[0] === 'OBJECT' && sourceCollections.has(row[1]))
   .map((row) => row[4]);

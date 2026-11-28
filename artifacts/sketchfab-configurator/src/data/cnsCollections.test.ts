@@ -116,16 +116,17 @@ test('diencephalon, brainstem, and spinal roots contain exactly their reviewed s
   const expected = new Map<string, Set<string>>([
     ['diencephalon', new Set(objects.filter((o) => ['NS_04_DIENCEPHALON', 'NS_03_BASAL_GANGLIA'].includes(o.collection) || within(o.collection, 'Thalamus')).map((o) => o.name))],
     ['spinal-cord', new Set(objects.filter((o) => ['NS_02_SPINAL_CORD', 'NS_02_GRAY_MATTER', 'NS_03_GENERAL_WHITE_MATTER', 'NS_04_ASCENDING_SENSORY_TRACTS', 'NS_05_DESCENDING_MOTOR_TRACTS', 'NS_06_OTHER_TRACTS'].includes(o.collection)).map((o) => o.name))],
+    // /ne?ucleus/: the source spells the principal trigeminal nucleus 'neucleus'.
     ['brainstem', new Set(objects.filter((o) =>
       within(o.collection, 'Brainstem fibers') ||
       (o.collection === 'NS_03_BRAINSTEM_NUCLEI' && !o.name.startsWith('Vestibular nerve fibers to nuclei')) ||
-      (o.collection.startsWith('NS_CN') && /nucleus/i.test(o.name)) ||
+      (o.collection.startsWith('NS_CN') && /ne?ucleus/i.test(o.name)) ||
       (o.collection === 'NS_02_BRAINSTEM_GROSS_ANATOMY' && /^(?:Midbrain|Pons|Medulla oblongata)\.[lr]$/.test(o.name)) ||
       (o.collection === 'NS_02_BRAINSTEM_GROSS_ANATOMY' && /colliculus|Superior olivary complex|N\. of the lateral lemniscus|Interstitial nucleus of Cajal|Nucleus of Darkschewitsch/.test(o.name)) ||
       /^(?:Periaqueductal gray matter|Ventral tegmental area\.[lr]|Substantia nigra pars (?:compacta|reticularis)\.+[lr])$/.test(o.name)
     ).map((o) => o.name))],
   ]);
-  for (const [group, count] of [['diencephalon', 96], ['brainstem', 114], ['spinal-cord', 29]] as const) {
+  for (const [group, count] of [['diencephalon', 96], ['brainstem', 116], ['spinal-cord', 29]] as const) {
     const path = ['advanced-neuroanatomy', group];
     const plan = planRegionIsolation(nodes, 'nervous', path, (node) => advancedNeuroanatomyPathForGroup(node, path))!;
     assert.equal(expected.get(group)!.size, count);

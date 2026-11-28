@@ -15,7 +15,7 @@ import type { NervousGroup } from './nervousTaxonomy';
 import type { SceneNode } from '../types/sketchfab';
 
 // Selected rows in this source contain no embedded commas or quoted fields.
-const rows = readFileSync(new URL('../../../../attached_assets/Nervous_system_CLean_1791545005178.csv', import.meta.url), 'utf8')
+const rows = readFileSync(new URL('../../../../attached_assets/Nervous_system_CLean_1792051238150.csv', import.meta.url), 'utf8')
   .split(/\r?\n/).map((line) => line.split(',')).filter((row) => row[0] === 'OBJECT');
 const fiberCollections = new Map([
   ['Brainstem fibers', []],
