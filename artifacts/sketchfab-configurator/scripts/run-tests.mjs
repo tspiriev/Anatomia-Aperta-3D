@@ -36,8 +36,10 @@ const matched = findTests(path.join(root, 'src'))
 const missingFixtures = new Map();
 for (const file of matched) {
   const source = readFileSync(file, 'utf8');
-  const missing = [...source.matchAll(/(?:@assets|attached_assets)\/([\w.-]+)/g)]
-    .map((match) => match[1])
+  // Matches `@assets/x.csv`, `attached_assets/x.csv` and bare quoted names such
+  // as 'x.csv' that a test joins onto an attached_assets/ path itself.
+  const missing = [...source.matchAll(/(?:(?:@assets|attached_assets)\/([\w.-]+\.\w+)|['"`]([\w.-]+\.csv)['"`?])/g)]
+    .map((match) => match[1] ?? match[2])
     .filter((name) => !existsSync(path.join(assetsDir, name)));
   if (missing.length) missingFixtures.set(file, [...new Set(missing)]);
 }
@@ -86,7 +88,9 @@ if (files.length) await build({
     sourcemap: 'inline',
     rollupOptions: {
       input,
-      output: { entryFileNames: '[name].mjs', chunkFileNames: 'chunks/[name]-[hash].mjs' },
+      output: { entryFileNames: '[name].mjs', chunkFileNames: 'chunks/[name]-[hash].mjs',
+        // Keep source asset names so tests can assert on them.
+        assetFileNames: 'assets/[name][extname]' },
     },
   },
 });

@@ -105,5 +105,5 @@ photorealistic anatomical models derived from anatomical dissections.
 Ivan Angelov, PhD is a physicist turned software developer, who is striving to apply his experience in the
 software industry to a good cause. His contribution to Anatomia Aperta 3D was to polish its Replit codebase, so it can
 be open-sourced and developed further independent of the original platform. Ivan is also the person behind
-the [stereoscopic section](https://3datlasofneurologicalsurgery.org/3d-stereo-anatomy/) of
-the [3D Atlas of Neurological Surgery](https://3datlasofneurologicalsurgery.org).
+the [stereoscopic section](https://3datlasofneurologicalsurgery.org/3d-stereo-anatomy/)
+of [3D Atlas of Neurological Surgery](https://3datlasofneurologicalsurgery.org).

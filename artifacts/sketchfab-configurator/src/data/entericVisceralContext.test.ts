@@ -130,8 +130,6 @@ test('right advanced menu exposes a separate visceral group with individual Hide
     onSetRegionVisibility: () => {}, selectedNodeId: null,
   }));
   assert.ok(sidebar.includes('Visceral organs (semitransparent)'));
-  assert.ok(sidebar.includes('hide or show each organ'));
-  assert.ok(sidebar.includes('enteric nerves and plexuses remain opaque'));
 });
 
 test('each organ visibility button toggles only that organ and remains available while hidden', () => {

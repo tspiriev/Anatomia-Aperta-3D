@@ -131,12 +131,14 @@ test('the actual viewer click callback resolves geometry to its selectable struc
     console: { log: () => {} },
   };
   const click = new Function(...Object.keys(bindings), `return ${code}`)(...Object.values(bindings));
-  click({ instanceID: 11, position3D: [1, 2, 3] });
-  click({ instanceID: 12, position3D: [4, 5, 6] });
-  click({ instanceID: 99, position3D: [7, 8, 9] });
-  click({});
+  // Every click, including background and unselectable picks, returns keyboard focus.
+  for (const info of [{ instanceID: 11, position3D: [1, 2, 3] }, { instanceID: 12, position3D: [4, 5, 6] },
+    { instanceID: 99, position3D: [7, 8, 9] }, {}]) {
+    const before = keyboardFocus;
+    click(info);
+    assert.ok(keyboardFocus > before, JSON.stringify(info));
+  }
   assert.deepEqual(selected, [1]);
   assert.equal(clears, 1);
   assert.deepEqual(picks, [[1, 2, 3], [4, 5, 6]]);
-  assert.equal(keyboardFocus, 3);
 });

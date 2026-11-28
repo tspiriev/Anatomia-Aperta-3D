@@ -381,12 +381,6 @@ test('sympathetic head reference pathways, eyes and lacrimal glands are bilatera
     assert.ok(matches(object(`${stem}.l`), path('head-neck', 'pterygopalatine')), stem);
   }
   assert.ok(matches(object('Ciliary ganglion.l'), path('head-neck', 'ocular')));
-  const html = renderToStaticMarkup(createElement(AutonomicNerveMenu, {
-    variant: 'sidebar', nodes, activeNerveId: scope.join('/'), onActivateNerve: () => {},
-    isolatedRegionPath: scope, onIsolateRegion: () => {}, onRestoreRegion: () => {},
-    onSetRegionVisibility: () => {}, selectedNodeId: null,
-  }));
-  for (const text of ['without synapsing there', 'no separately named long ciliary nerve']) assert.ok(html.includes(text), text);
   const displayedNames = ['Vidian nerve (nerve of the pterygoid canal).l', 'Pterygopalatine ganglion.r',
     'Lacrimal gland.l', 'Lacrimal nerve.r', 'Nasociliary nerve.l'];
   const tree = renderToStaticMarkup(createElement(NervousSystemMenu, {

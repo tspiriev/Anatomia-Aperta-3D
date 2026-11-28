@@ -8,7 +8,7 @@ import { HEAD_NECK_TOPOGRAPHY_MODEL_UID, HEAD_NECK_TOPOGRAPHY_SOURCE_ENTRIES } f
 import { BRAINSTEM_CEREBELLUM_VIEW } from '../data/atlasViews';
 import { BRAINSTEM_CEREBELLUM_ROOT, brainstemCerebellumContextIds } from '../data/brainstemCerebellumAtlas';
 import type { SketchfabMaterial } from '../types/sketchfab';
-import { BRAINSTEM_TRANSPARENCY, ACCUMBENS_LIGHT_BLUE, refractionContextOpacity, brainMenuOpacity, cranialNerveOpacity, autonomicNerveOpacity, lumbosacralPlexusOpacity, longTractOpacity, temporalAssociationOpacity } from './materialTransparency';
+import { BRAINSTEM_TRANSPARENCY, ACCUMBENS_LIGHT_BLUE, refractionContextOpacity, brainMenuOpacity, brainstemCerebellumOpacity, cranialNerveOpacity, autonomicNerveOpacity, lumbosacralPlexusOpacity, longTractOpacity, temporalAssociationOpacity } from './materialTransparency';
 import { BRAIN_VIEW, CENTRAL_NERVOUS_SYSTEM_VIEW, THALAMUS_CAPSULE_VIEW, CRANIAL_NERVES_VIEW, TEMPORAL_ASSOCIATION_VIEW, AUTONOMIC_NERVOUS_SYSTEM_VIEW, LUMBOSACRAL_PLEXUS_VIEW, LONG_TRACTS_VIEW, SPINAL_CORD_VIEW, SPINAL_REFERENCE_VIEWS } from '../data/atlasViews';
 import { TEMPORAL_ASSOCIATION_GROUPS } from '../data/temporalAssociationTaxonomy';
 import { cranialNerveContextIds, cranialNerveForegroundIds } from '../data/cranialNerveTaxonomy';
@@ -362,7 +362,7 @@ test('autonomic refraction applies only to designated context, protects shared n
   assert.deepEqual(f.errors, []);
 });
 
-test('brainstem and cerebellum context uses Brain refraction without fading shared nuclei or tract materials', async () => {
+test('brainstem and cerebellum context uses its dedicated refraction preset without fading shared nuclei or tract materials', async () => {
   const f = fixture();
   const original = JSON.parse(JSON.stringify(f.original));
   const scene: SceneNode[] = ['Midbrain.l', 'Declive', 'Red nucleus.r', 'Dentate_nucleus.r']
@@ -373,7 +373,7 @@ test('brainstem and cerebellum context uses Brain refraction without fading shar
   const manager = createCollectionContextOpacity({
     api: () => f.api, geometry: id => [geometry[id - 1]],
     material: id => f.materials.get(id), register: mat => { f.materials.set(mat.id, mat); },
-    contextOpacity: material => brainMenuOpacity(BRAINSTEM_CEREBELLUM_VIEW.modelUid, material),
+    contextOpacity: material => brainstemCerebellumOpacity(BRAINSTEM_CEREBELLUM_VIEW.modelUid, material),
     onError: message => f.errors.push(message),
   });
   const context = brainstemCerebellumContextIds(scene, BRAINSTEM_CEREBELLUM_ROOT);
@@ -382,7 +382,7 @@ test('brainstem and cerebellum context uses Brain refraction without fading shar
   for (const geo of geometry.slice(0, 2)) {
     assert.notEqual(geo.materialID, 'shared');
     assert.deepEqual(f.materials.get(geo.materialID!)!.channels.Opacity,
-      brainMenuOpacity(BRAINSTEM_CEREBELLUM_VIEW.modelUid, original));
+      brainstemCerebellumOpacity(BRAINSTEM_CEREBELLUM_VIEW.modelUid, original));
   }
   for (const geo of geometry.slice(2)) assert.equal(geo.materialID, 'shared');
   assert.deepEqual(f.original, original);
@@ -1292,7 +1292,7 @@ test('Cords uses private purple cord materials, transparent roots/bones and opaq
   assert.equal(f.original.channels.AlbedoPBR, undefined);
   assert.deepEqual(f.errors, []);
 });
-test('Terminal nerves restores cord colors and fades cords and hand bones, leaving main nerves and ligaments opaque', async () => {
+test('Terminal nerves restores cord colors and fades cords and hand bones, leaving main nerves opaque and ligaments untouched', async () => {
   const f = fixture();
   const scene: SceneNode[] = ['Lateral cord of brachial plexus.l', 'Median nerve.l', 'Scaphoid bone.l',
     'Scapholunate interosseous ligament.l'].map((rawName, i) => ({
@@ -1308,10 +1308,11 @@ test('Terminal nerves restores cord colors and fades cords and hand bones, leavi
   assert.equal(f.materials.get(f.cortex.materialID!)!.channels.AlbedoPBR, undefined);
   assert.equal(f.materials.get(f.nucleus.materialID!)!.channels.Opacity.factor, 0.18);
   assert.equal(f.materials.get(f.nucleus.materialID!)!.channels.AlbedoPBR, undefined);
-  for (const geo of [f.brainstem, f.septal]) {
-    assert.equal(f.materials.get(geo.materialID!)!.channels.Opacity.factor, 1);
-    assert.equal(f.materials.get(geo.materialID!)!.channels.AlbedoPBR, undefined);
-  }
+  assert.equal(f.materials.get(f.brainstem.materialID!)!.channels.Opacity.factor, 1);
+  assert.equal(f.materials.get(f.brainstem.materialID!)!.channels.AlbedoPBR, undefined);
+  // Hand ligaments are not terminal-nerve members (brachialPathForGroup), so the
+  // ligament keeps its untouched source material.
+  assert.equal(f.septal.materialID, 'shared');
   await f.manager.setNodes([]);
   for (const geo of [f.cortex, f.brainstem, f.nucleus, f.septal]) assert.equal(geo.materialID, 'shared');
   assert.deepEqual(f.errors, []);
@@ -1971,9 +1972,10 @@ test('cross-system cranial foreground remains opaque on later updates, merges be
   assert.ok([f.nucleus, f.septal, f.cortex, f.brainstem].every(geo => geo.materialID === 'shared'));
 });
 
-test('I supratentorial shell is semitransparent while both amygdalae remain opaque on shared materials', async () => {
+// I's context is thalamus-only; supratentorial lobes are excluded (olfactoryBasalForebrainPath).
+test('I thalamic context is semitransparent while both amygdalae remain opaque on shared materials', async () => {
   const f = fixture();
-  const scene: SceneNode[] = ['Precentral gyrus.l', 'Thalamus.l', 'Amygdaloid body.l', 'Amygdaloid body.r']
+  const scene: SceneNode[] = ['Thalamus capsule (semitransparent)', 'Thalamus.l', 'Amygdaloid body.l', 'Amygdaloid body.r']
     .map((rawName, i) => ({ instanceID: i + 1, rawName, name: rawName, type: 'MatrixTransform', visible: true, systemId: 'nervous' }));
   const path = ['advanced-neuroanatomy', 'cranial-nerves', 'i'];
   await f.manager.setNodes(cranialNerveContextIds(scene, path), false, true, cranialNerveForegroundIds(scene, path));

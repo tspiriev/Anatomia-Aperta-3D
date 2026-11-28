@@ -3,7 +3,8 @@ import assert from 'node:assert/strict';
 import { readFileSync } from 'node:fs';
 import { createElement } from 'react';
 import { renderToStaticMarkup } from 'react-dom/server';
-import { CRANIAL_NERVE_GROUPS, cranialNervePathForGroup, cranialNerveContextIds, cranialNerveForegroundIds } from './cranialNerveTaxonomy';
+import { CRANIAL_NERVE_GROUPS, cranialNervePathForGroup, cranialNerveContextIds, cranialNerveForegroundIds, isCranialOrganName } from './cranialNerveTaxonomy';
+import { trigeminalEarRole } from './trigeminalEar';
 import { systemForMeshName } from './anatomicalSystems';
 import { CRANIAL_NERVES_VIEW, isNodeAllowedInAtlasView } from './atlasViews';
 import { vagalMuscleNames, vagusContextSystem } from './vagusTargets';
@@ -109,7 +110,11 @@ test('X keeps cardiac/aortic communicating plexuses opaque and does not import u
     assert.ok(plan.hide.includes(object(name).instanceID), name);
   }
   for (const node of nodes.filter(node => ['vascular', 'organs'].includes(node.systemId!))) {
-    assert.equal(isNodeAllowedInAtlasView(node, CRANIAL_NERVES_VIEW), vagusContextSystem(node.rawName) === node.systemId, node.rawName);
+    // The cranial view also shows non-vagal targets: the tongue (VII taste) and V ear organs.
+    const otherCranialOrgan = node.systemId === 'organs'
+      && (isCranialOrganName(node.rawName) || trigeminalEarRole(node.rawName) !== null);
+    assert.equal(isNodeAllowedInAtlasView(node, CRANIAL_NERVES_VIEW),
+      vagusContextSystem(node.rawName) === node.systemId || otherCranialOrgan, node.rawName);
   }
 });
 

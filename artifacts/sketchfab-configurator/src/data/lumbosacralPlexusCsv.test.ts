@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import nervousCsv from '@assets/0_Nervous_system_CLean_1792048160226.csv?raw';
+import nervousCsv from '@assets/Nervous_system_CLean_1792051238150.csv?raw';
 import muscularCsv from '@assets/0_Final_Muscles_fused__1791947151699.csv?raw';
 import { csvRows, systemForMeshName } from './anatomicalSystems';
 import { LUMBAR_NERVES, SACRAL_NERVES, LOWER_LIMB_NERVES, LUMBOSACRAL_ROOT_PATH,

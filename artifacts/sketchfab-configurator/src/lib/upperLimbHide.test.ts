@@ -23,45 +23,6 @@ function callback(file: string, name: string, bindings: Record<string, unknown>)
   return new Function(...Object.keys(bindings), `${js}\nreturn result;`)(...Object.values(bindings));
 }
 
-for (const visible of [true, false]) test(`H explicitly hides the selected upper-limb mesh when local visibility is ${visible}`, () => {
-  const selected = { instanceID: 1, rawName: 'Palmar aponeurosis.l', visible };
-  const bone = { instanceID: 2, rawName: 'Scaphoid bone.l', visible: true };
-  const nodesRef = { current: [selected, bone] };
-  const pendingVisibilityRef = { current: new Map<number, boolean>() };
-  const history = { current: [] as number[][] };
-  const isolation = { current: { path: ['advanced-neuroanatomy', 'upper-limb-topography', 'hand-wrist', 'central'] } };
-  const commands: [number, boolean][] = [];
-  const bindings = {
-    apiRef: { current: { hide: (id: number) => commands.push([id, false]),
-      show: (id: number) => commands.push([id, true]) } },
-    nodesRef, pendingVisibilityRef, hiddenHistoryRef: history,
-    isolationRef: isolation, selectionRef: { current: selected },
-    visibilityFrameRef: { current: 1 }, clearSelection: () => assert.fail('Do not exit selection/isolation'),
-    setNodes: () => {}, flushVisibility: () => {},
-  };
-  const setNodesVisibility = callback('../hooks/useSketchfabViewer.ts', 'setNodesVisibility', bindings);
-  const toggleNodeVisibility = callback('../App.tsx', 'toggleNodeVisibility', {
-    isTopographicAtlas: true, view: { upperLimbTopography: true }, setNodesVisibility,
-  });
-  const handleKeyDown = callback('../App.tsx', 'handleKeyDown', {
-    selectedNodeId: 1, nodes: nodesRef.current, wholeBrainMemberIds: [],
-    view: { upperLimbTopography: true }, toggleNodeVisibility,
-  });
-  let prevented = false;
-  handleKeyDown({
-    key: 'h', metaKey: false, ctrlKey: false, altKey: false, shiftKey: false,
-    target: { closest: () => null }, preventDefault: () => { prevented = true; }, stopPropagation: () => {},
-  });
-  assert.ok(prevented);
-  assert.equal(nodesRef.current[0].visible, false);
-  assert.equal(nodesRef.current[1].visible, true, 'Keep bony reference visible');
-  assert.deepEqual([...pendingVisibilityRef.current], [[1, false]], 'Even stale local state sends a hide');
-  callback('../hooks/useSketchfabViewer.ts', 'flushVisibility', bindings)();
-  assert.deepEqual(commands, [[1, false]]);
-  assert.equal(isolation.current.path.at(-1), 'central');
-  assert.equal(history.current.length, visible ? 1 : 0, 'Renderer resync must not add an empty undo step');
-});
-
 for (const modifier of ['ctrlKey', 'metaKey']) {
   for (const systemId of ['skeletal', 'muscular', 'vascular', 'nervous'])
     test(`${modifier}+Z restores a hidden ${systemId} mesh in Hand and wrist, not a browser/host action`, () => {

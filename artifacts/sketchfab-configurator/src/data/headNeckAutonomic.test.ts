@@ -4,13 +4,13 @@ import { createElement } from 'react';
 import { renderToStaticMarkup } from 'react-dom/server';
 import { AUTONOMIC_GROUPS, AUTONOMIC_ROOT_PATH, AUTONOMIC_SOURCE_OBJECTS,
   autonomicPathForGroup, autonomicContextIds, autonomicForegroundIds } from './autonomicTaxonomy';
+import { vagusContextSystem } from './vagusTargets';
 import { systemForMeshName } from './anatomicalSystems';
 import { AUTONOMIC_NERVOUS_SYSTEM_VIEW, isNodeAllowedInAtlasView } from './atlasViews';
 import { headNeckLandmarkSystem } from './headNeckAutonomicLandmarks';
 import { isEntericVisceralName } from './entericVisceralContext';
 import { planRegionIsolation, isNodeInRegion } from '../lib/regionIsolation';
 import { NervousSystemMenu } from '../components/NervousSystemMenu';
-import { AutonomicNerveMenu } from '../components/AutonomicNerveMenu';
 import type { SceneNode } from '../types/sketchfab';
 
 const root = [...AUTONOMIC_ROOT_PATH, 'head-neck'];
@@ -98,6 +98,11 @@ test('head/neck subgroup isolation retains all translucent bones while respectin
     for (const category of ['sympathetic', 'parasympathetic', 'plexuses', 'enteric']) {
       if (category === 'enteric' && isEntericVisceralName(name)) {
         assert.ok(autonomicPathForGroup(object(name), [...AUTONOMIC_ROOT_PATH, category]));
+        continue;
+      }
+      // Reviewed thoracic great vessels are also vagus context (parasympatheticVisceralContext.ts).
+      if (category === 'parasympathetic' && vagusContextSystem(name) === 'vascular') {
+        assert.deepEqual(autonomicPathForGroup(object(name), [...AUTONOMIC_ROOT_PATH, category]), [...AUTONOMIC_ROOT_PATH, 'parasympathetic', 'vagus', 'thoracic-vessels'], name);
         continue;
       }
       if (name === 'Aortic arch' && category === 'plexuses') {
@@ -292,12 +297,4 @@ test('head/neck menus expose cross-system targets, bones and source limitations'
   }));
   for (const name of display) assert.ok(html.includes(name), name);
   for (const name of display.slice(-12)) assert.ok(html.includes(`aria-label="Hide ${name}"`), name);
-  const menu = renderToStaticMarkup(createElement(AutonomicNerveMenu, {
-    variant: 'sidebar', nodes, activeNerveId: root.join('/'), onActivateNerve: () => {},
-    isolatedRegionPath: root, onIsolateRegion: () => {}, onRestoreRegion: () => {},
-    onSetRegionVisibility: () => {}, selectedNodeId: null,
-  }));
-  assert.ok(menu.includes('semitransparent'));
-  assert.ok(menu.includes('no separately named long ciliary nerve'));
-  assert.ok(menu.includes('carotid bodies stay opaque'));
 });

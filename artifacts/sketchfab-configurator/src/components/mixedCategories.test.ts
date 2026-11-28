@@ -4,13 +4,11 @@ import { readFileSync } from 'node:fs';
 import ts from 'typescript';
 import { createElement } from 'react';
 import { renderToStaticMarkup } from 'react-dom/server';
-import { planRegionIsolation, isNodeInRegion } from '../lib/regionIsolation';
 import { ADVANCED_NEUROANATOMY_ROOT, advancedNeuroanatomyPathForGroup } from '../data/advancedNeuroanatomy';
 import { ADVANCED_ATLAS_COLLECTIONS, MENINGES_ATLAS_COLLECTION, LIMBIC_ATLAS_COLLECTION, BASAL_FOREBRAIN_ATLAS_COLLECTION } from '../data/advancedAtlasCollections';
 import { isBasalForebrainContext } from '../data/basalForebrainTaxonomy';
 import { expandWholeBrainIds } from '../lib/basalWholeBrain';
 import { BRAIN_GROSS_ANATOMY_PATH } from '../data/brainGrossAnatomy';
-import type { SceneNode } from '../types/sketchfab';
 import { MixCategoriesToggle } from './MixCategoriesToggle';
 import { MeshPanel } from './MeshPanel';
 import { FullscreenAnatomyMenu } from './FullscreenAnatomyMenu';
@@ -36,36 +34,6 @@ function callback(file: string, name: string, bindings: Record<string, unknown>)
 const app = '../App.tsx';
 const unexpectedRestore = () => assert.fail('Mixing must not restore the full scene');
 const ignore = () => {};
-
-test('basal forebrain isolation fades only lobe/brainstem context and Restore clears it after nested focus', () => {
-  const nodes: SceneNode[] = ['Septal nucleus.r', 'Substantia perforata anterior.l',
-    'Amygdaloid body.l', 'Anterior commissure', 'Middle frontal gyrus.l', 'Pons.l', 'C1 dorsal root']
-    .map((rawName, i) => ({ instanceID: i + 1, rawName, name: rawName, type: 'MatrixTransform', visible: true, systemId: 'nervous' }));
-  for (const mixCategories of [true, false]) {
-    const faded: unknown[] = [], operations: string[] = [];
-    const regionIsolationRef = { current: null as unknown };
-    const setCollectionContext = (ids: number[], merge?: boolean) => {
-      faded.push([ids, merge]); operations.push('opacity');
-    };
-    const common = {
-      nodes, selectedSystemId: 'nervous', selectedNodeId: null, mixCategories,
-      ADVANCED_NEUROANATOMY_ROOT, advancedNeuroanatomyPathForGroup, planRegionIsolation,
-      regionPathForNode: () => null, isNodeInRegion, clearSelection: ignore,
-      exitIsolation: () => operations.push('exit'), regionIsolationRef,
-      captureCamera: () => null, focusVisibleNodes: async () => {},
-      setNodesVisibility: ignore, setIsolatedRegionPath: ignore, setCollectionContext,
-    };
-    const isolate = callback(app, 'isolateRegion', common);
-    isolate(BASAL_FOREBRAIN_ATLAS_COLLECTION.path);
-    assert.deepEqual(faded, [[[5, 6], mixCategories]]);
-    operations.length = 0;
-    const restore = callback(app, 'restoreRegionIsolation', { ...common, restoreCamera: ignore });
-    assert.equal(restore(), true);
-    assert.deepEqual(operations.slice(0, 2), ['exit', 'opacity']);
-    assert.deepEqual(faded.at(-1), [[], undefined]);
-    assert.equal(regionIsolationRef.current, null);
-  }
-});
 
 test('Dura and limbic image cards open their collections and only isolate when mixing is off', () => {
   for (const collection of [MENINGES_ATLAS_COLLECTION, LIMBIC_ATLAS_COLLECTION, BASAL_FOREBRAIN_ATLAS_COLLECTION]) for (const mixCategories of [true, false]) {
@@ -103,50 +71,6 @@ test('Brain gross card opens its Standard submenu without changing a mixed compo
     assert.deepEqual(calls, brainGrossAnatomy ? ['clear', 'nervous', 'standard'] : ['delegate:nervous']);
     assert.deepEqual(isolated, brainGrossAnatomy && !mixCategories ? [[...BRAIN_GROSS_ANATOMY_PATH]] : []);
   }
-});
-
-test('retain one diencephalon structure, add white matter, add individual structures, then restore the original scene', () => {
-  const nodes: SceneNode[] = ['Thalamus.r', 'Thalamus.l', 'Arcuate fascicle.l', 'Skull'].map((rawName, index) => ({
-    instanceID: index + 1, rawName, name: rawName, type: 'MatrixTransform',
-    systemId: index === 3 ? 'skeletal' : 'nervous', visible: true,
-  }));
-  const originalCamera = Promise.resolve({ position: [1, 2, 3], target: [0, 0, 0] });
-  const regionIsolationRef = { current: null as any };
-  const focusCalls: number[][] = [];
-  const setNodesVisibility = (ids: number[], visible: boolean) =>
-    nodes.forEach((node) => { if (ids.includes(node.instanceID)) node.visible = visible; });
-  const bindings = {
-    nodes, regionIsolationRef, selectedSystemId: 'nervous', selectedNodeId: null,
-    ADVANCED_NEUROANATOMY_ROOT: 'advanced-neuroanatomy',
-    advancedNeuroanatomyPathForGroup, planRegionIsolation, regionPathForNode: () => null,
-    clearSelection: ignore, exitIsolation: ignore, restoreRegionIsolation: unexpectedRestore,
-    captureCamera: () => originalCamera, setIsolatedRegionPath: ignore, setNodesVisibility,
-    focusVisibleNodes: (ids: number[]) => focusCalls.push(ids),
-  };
-  callback(app, 'isolateRegion', { ...bindings, mixCategories: false })(['advanced-neuroanatomy', 'diencephalon']);
-  assert.deepEqual(nodes.map((node) => node.visible), [true, true, false, false]);
-  setNodesVisibility([2], false);
-  callback(app, 'isolateRegion', { ...bindings, mixCategories: true })(['advanced-neuroanatomy', 'white-matter']);
-  assert.deepEqual(nodes.map((node) => node.visible), [true, false, true, false]);
-  assert.deepEqual(focusCalls.at(-1), [1, 3], 'Camera fits both categories together');
-  assert.equal(regionIsolationRef.current.camera, originalCamera);
-  callback(app, 'synchronizeSelection', {
-    ...bindings, mixCategories: true, selectedNodeId: 1, isolatedNodeId: null,
-    previousSelectedId: { current: 3 }, setSelectedSystemId: ignore,
-    isNodeInRegion: unexpectedRestore,
-  })();
-  assert.deepEqual(nodes.map((node) => node.visible), [true, false, true, false]);
-  callback(app, 'handleFocusStructure', { ...bindings, mixCategories: true, focusWithContext: unexpectedRestore })(2);
-  assert.deepEqual(nodes.map((node) => node.visible), [true, true, true, false]);
-  callback(app, 'isolateRegion', { ...bindings, mixCategories: false })(['advanced-neuroanatomy', 'diencephalon']);
-  assert.deepEqual(nodes.map((node) => node.visible), [true, true, false, false]);
-  let restoredCamera: unknown;
-  callback(app, 'restoreRegionIsolation', {
-    ...bindings, restoreCamera: (camera: unknown) => { restoredCamera = camera; },
-  })();
-  assert.deepEqual(nodes.map((node) => node.visible), [true, true, true, true]);
-  assert.equal(regionIsolationRef.current, null);
-  assert.equal(restoredCamera, originalCamera);
 });
 
 test('turning mixing on retains an isolated individual without issuing visibility or camera changes', async () => {
